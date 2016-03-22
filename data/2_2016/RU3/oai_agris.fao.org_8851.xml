@@ -1,0 +1,23 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016308851">
+    <dc:title xml:lang=" ">Интеграция предпринимателей как основа становления и развития рыночного механизма инфраструктурной сферы АПК</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Кокин А.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E14</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">В статье обобщаются основные негативные последствия рыночных преобразований отечественного сельскохозяйственного производства и с целью повторения ошибок при развитии механизмов предпринимательства в инфраструктурной подсистеме АПК предлагается выбрать в качестве основного направления развития интегрирование предпринимательских структур, которое должно реализовываться на каждом уровне инфраструктурной системы.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.1-2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

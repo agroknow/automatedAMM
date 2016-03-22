@@ -1,0 +1,112 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104836">
+    <dc:title xml:lang="es">DIMORFISMO SEXUAL DO PATO DOMÉSTICO (CAIRINA MOSCHATA) UTILIZANDO ANÁLISE MULTIVARIADA</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>SEXUAL DIMORPHISM DOMESTIC DUCK (CAIRINA MOSCHATA) USING MULTIVARIATE ANALYSIS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Jesus   Eva</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bittencourt Thereza</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Carneiro Paulo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gois Franz</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pereira  Aysllan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Filho Ronaldo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Silva Olímpia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal da Bahia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal da Bahia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual do Sudoeste da Bahia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual de Santa Cruz. Campus Soane Nazaré de Andrade</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual do Sudoeste da Bahia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual do Sudoeste da Bahia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Federal de Educação, Ciência e Tecnologia Baiano</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Biometry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Genetic resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_927</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3218</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The domestic duck (Cairina moschata) is bred especially by small producers in free-range breeding with lowest or none zootechnical control and low population numbers. For families surviving family poultry, efficient use of this resource is a strategy of sustainability and food security. Thus the objective of this study was to identify the presence of sexual dimorphism in the domestic duck using biometric characteristics in multivariate analysis and identify which body traits have largest contribution to the variation between males and females. Were used biometric data of 95 birds, 20 males and 75 females. The traits mensured were: head width (HW), head length (HL),  beak width (BW), beak length (BL), neck length (NL), thoracic perimeter (TP), thigh circunference (TC),  body length (BL), leg length (LL),  wingspan (Env), wing length (WL), foot length (FL), and body weight (BW). The canonical variables were used for gender discrimination and posterior representation in the scatterplot. The relative importance of the characteristics to variation obtained by the method of Singh (Sj). The average dissimilarity observed between males and females was 72.43. Body weight was the traits of greatest contribution Sj = 31.59% for the variation between the sexes. The first canonical variable was sufficient to explain 100% of accumulated. Multivariate analysis by canonical variables was effective in the study of sexual dimorphism of the domestic duck reducing the original variables into a single variable that explained the variation between males and females, observing the sexual dimorphism in the species.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">O pato doméstico (Cairina moschata) é uma espécie pouco difundida comercialmente no Brasil, entretanto, em alguns estados do Norte do país o seu consumo é culturalmente reconhecido. Contudo, esta ave encontra-se ameaçada de extinção. O pato é criado, especialmente, por pequenos produtores em criações caseiras com mínimo ou nenhum controle zootécnico e, número populacional extremamente reduzido. Para as famílias que sobrevivem da avicultura familiar o uso eficiente deste recurso representa uma estratégia de sustentabilidade e segurança alimentar. Objetivou-se com esse estudo identificar o domorfismo sexual do pato doméstico utilizando características biométricas sob análise multivariada e identificar quais caracteres corporais têm maior contribuição para a variação entre machos e fêmeas. Foram utilizados dados biométricos de 95 aves, sendo 20 machos e 75 fêmeas, oriundos do plantel de patos do setor de avicultura da Universidade Estadual do Sudoeste da Bahia (UESB).  As características medidas foram: largura do crânio (LCR)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">comprimento do crânio (CCR)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">comprimento do bico (CBC)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">comprimento do pescoço (CPC)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">perímetro do peito (PPT)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">perímetro da coxa (PCX)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">comprimento do corpo (CCP)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">comprimento da perna (CPN)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">envergadura (ENG)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">comprimento da asa (CAS)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">comprimento do pé (CPE) e peso vivo (PESO). As variáveis canônicas foram utilizadas para a discriminação entre os sexos e posterior representação em gráfico de dispersão. A importância relativa das características para a variação foi obtida pelo método de Singh (S.j). A dissimilaridade média observada entre machos e fêmeas foi de 72, 43. O peso vivo foi a característica de maior contribuição S.j = 31,59% para a variação entre os sexos. A primeira variável canônica foi suficiente para explicar 100% da variação acumulada. A análise multivariada por meio de variáveis canônicas foi eficaz no estudo do dimorfismo sexual do pato doméstico reduzindo as variáveis originais em apenas uma variável que explicou toda a variação entre machos e fêmeas, constatando o dimorfismo sexual na espécie.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo031_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

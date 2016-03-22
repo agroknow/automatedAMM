@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100481">
+    <dc:title xml:lang="en">Effect of Thiourea on Yield and Quality of Potato (Solanum tuberosum L.)</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mani Fardaous</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bettaieb T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zheni K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Doudech N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hannachi Cherif</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Thiourea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7733</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A field experiment was carried out to study the effect of five concentrations (0, 250, 500, 750 and 1000 mM) of thiourea application on mother tubers on yield and quality attributes of harvested potato, variety Spunta in the region of Chott-Mariem in Tunisia. Treated tubers (Ш = 50 mm) were planted in field after breaking dormancy at a spacing of 80 cm x 30 cm according to completely randomized design (CRD) in three replications. Quality attributes of potato tubers especially fresh matter and dry matter of plant, total reducing sugars in leaves, tuber yield, number and diameter of tubers per plant and number of sprouts per tuber was measured. Soluble proteins and starch content in potato tubers were also quantified.
+ In general we noted that application of thiourea showed significant influence on yield and on quality of tubers comparing to control. Maximum tuber yield per plant, maximum number of tubers per plant and maximum starch content was recorded with 250 mM of thiourea. Moreover, highest dry matter of potato plant was found also at this concentration. While increasing dose of thiourea thereafter it showed slight significant improvement and do not affect significantly the diameter of tubers comparing to control.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N1/JSPB_2013_1_87-95.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

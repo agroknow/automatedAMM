@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104470">
+    <dc:title xml:lang="es">DIVERSIDAD GENÉTICA DE LA CABRA SANTANDEREANA MEDIANTE MARCADORES MICROSATELITE</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>GENETIC DIVERSITY OF SANTANDER GOAT USING MICROSATELLITE MARKERS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Jiménez Angela Patricia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bedoya Julia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Serrano Cesar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Arcila Victor</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Perez Viviana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Serrano Lady</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ascanio Cesar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sanchez Laura</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Malpica Mario</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Cooperativa de Colombia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The Santander goat is a zoogenetic resource characteristic of the Santander Department in Colombia.  It has been established through the Chicamocha canon and developed a wide adaptability to its rough terrain and desert environment.  Its genetic diversity was evaluated using 13 different microsatellites, from 77 blood samples. DNA was extracted using Corpogen 2000 kit®</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">the microsatellites were amplified using PCR (Polymerase Chain Reaction) and electrophoresis of vertical chamber for typification. Using software (Genetix®) the observed heterozygosity (Ho) and expected heterozygosity (He), the number of alleles for each locus, the allelic frequency, the Hardy-Weinberg equilibrium and the Fis statistics were calculated.  The polymorphic indices (PIC) were calculated using the microsatellite excel Toolkit. The thirteen microsatellites employed were polymorphic, a total of 55 alleles were detected, with a median of 4.23 alleles. The (He) range interval values was 0.50 (minimal marker BM1824) – 0.79 (Maximal marker BM1818).  The medium Ho was 60%, the 84, 6% of the markers were useful, with polymorphism information content (PIC) superior to 0.5. This finding strongly suggests a highly genetic variability of the Santander goat. However, nine of the thirteen markers were on not Hardy-weinberg equilibrium and the endogamy index (Fis) of 0.095 suggests a possible trend of increase in consanguinity.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">La cabra criolla Santandereana, es un recurso propio del Departamento de Santander,  que se estableció a lo largo del Cañón del Chicamocha desarrollando una gran adaptabilidad al medio desértico y agreste de este lugar. Esta investigación  tuvo como objetivo determinar  la diversidad genética de la Cabra Santandereana mediante la genotipificación de 13 marcadores microsatélite, previamente reportados por la FAO y la ISAG en estudios de variabilidad genética en cabras criollas. Se recolectaron 77 muestras de sangre caprina, los ADNs fueron extraídos mediante el kit DNA 2000 de Corpogen® y cuantificados por fluorometria (Qubit Fluorometer Invitrogen®). Los microsatélites se amplificaron mediante PCR simple, para la genotipificación se sometieron los amplificados a electroforesis en cámara vertical en geles de poliacrilamida denaturante. Mediante el programa  Genetix®  se calculó la heterocigosidad observada (Ho) y esperada (He), el número de alelos para cada locus y las frecuencias alélicas</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">con la herramienta Toolkit microssatélite de excel® se calcularon los índices polimórficos (PIC). Los 13 microsatélites empleados resultaron polimórficos, se detectó un total de  55  alelos en la población muestreada.  El número medio de alelos encontrado en la cabra Santandereana fue de 4,23. La He vario entre un mínimo de 0.50 para el marcador BM1824 y un máximo de 0.79  para el BM1818. La heterocigocidad media observada fue de 60%, el 84,6%   de los marcadores utilizados resultaron muy informativos de variabilidad genética con valores de PIC superiores a 0.5. Estos hallazgos sugieren  una alta variabilidad genética de la Cabra Santandereana. Sin embargo, nueve de los trece marcadores  estaban en desequilibrio de Hardy-weinberg y el índice de endogamia (Fis) de 0.095 sugieren una posible tendencia al incremento de consaguinidad.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo001_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

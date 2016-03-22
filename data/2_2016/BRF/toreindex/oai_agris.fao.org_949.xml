@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F00949">
+    <dc:title xml:lang="en">Milk production and composition of crossbred cows supplemented with different levels of concentratein irrigated grazing Tanzania grass pasture</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Produção e composição de leite de vacas mestiças suplementadas com diferentes níveis de concentrado mantidas em pastagem de capim Tanzânia irrigada</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SIGNORETTI, R. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RESENDE, D. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PESSIM, B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOUZA, F. H. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOUZA, L. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">condition scoring</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Irrigation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">supplements</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24440</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3954</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33996</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Levels of supplementation for grazing dairy cows have been studied with the objective to determine the best relationship between amount of supplements and milk production. In this study twenty-four Gir x Holstein crossbred cows were evaluated in irrigated and fertilized Panicum maximum Jacq. cv. Tanzânia pasture, in a rotational grazing system with seven UA/ha. Cows were distributed in randomized blocks, according to the days of lactation, milk production and parity of lactation, with twelve replicates. The experiment occurred from March to October 2010, the experimental treatments were 2.5 and 5.0 kg/animal/day of concentrate supply. All animals also received 20 kg/animal/day of corn silage during season. At the end of each grazing cycle (24 days) animals were weighed and had their body condition evaluated. Milk production (MP), milk yield corrected for 3.5% of fat, protein (CP), fat (F), lactose (L), total solids (TS), nonfat dry extract, milk urea nitrogen (MUN) and somatic cell count were determined. MP in kg/day and milk adjusted to 3.5% of fat, F, CP, L, TS levels and solids, in kg and MUN (mg/dL) differed between the treatments and were higher for cows fed 5.0 kg in comparison to those received 2.5 kg of concentrate/animal/day. Production and composition of milk was greater when supplemented cows on fertilized and irrigated pasture received 5.0 kg of concentrate/day.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A suplementação de vacas leiteiras em pastagens tem sido estudada com a finalidade de estabelecer a melhor relação entre a quantidade de suplemento e a produção e composição do leite. No presente estudo, foram utilizadas 24 vacas mestiças Gir x Holandês, mantidas em pastagem dePanicum maximum Jacq. cv. Tanzânia fertilizada, irrigada e manejada em sistema de pastejo intermitente, com sete UA/ha. As vacas foram distribuídas em delineamento de blocos ao acaso, de acordo com os dias em lactação, produção de leite e paridade de lactação, com doze repetições. O experimento ocorreu no período de março a outubro de 2010, os tratamentos experimentais consistiram no fornecimento de concentrado na quantidade de 2,5 e 5,0 kg/animal/dia. Na época da seca todos os animais receberam ainda 20 kg/animal/dia de silagem de milho. Ao final de cada ciclo de pastejo (24 dias) os animais foram pesados e avaliados quanto à condição corporal. Foram determinadas a produção de leite, a produção de leite corrigida para 3,5 % de gordura, os teores de proteína (PB), gordura (G), lactose (L), sólidos totais (ST), extrato seco desengordurado (ESD), nitrogênio uréico do leite (NUL) e a contagem de células somáticas. As produções de leite (PL), em kg/dia e corrigida para 3,5% de G, os teores de G, PB, L, ST e ESD, expressos em kg e, o NUL (mg/dL) diferiram entre os tratamentos e foram maiores para as vacas suplementadas com 5,0 kg em comparação com aquelas que receberam 2,5 kg de concentrado/animal/dia. A produção e a composição de leite foram maiores quando as vacas suplementadas em pasto fertilizado e irrigado receberam 5,0 kg de concentrado/dia.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1371730181.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

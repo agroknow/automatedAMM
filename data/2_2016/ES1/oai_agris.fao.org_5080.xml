@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016105080">
+    <dc:title xml:lang="es">IDENTIFICACIÓN Y CARACTERIZACIÓN FUNCIONAL DE MARCADORES MOLECULARES POTENCIALES EN EL GEN TLR5 PORCINO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>IDENTIFICATION AND FUNCTIONAL CHARACTERIZATION OF PUTATIVE MOLECULAR MARKERS IN THE PORCINE TLR5 GENE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Domínguez Miguel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Landi Vincenzo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Martinez Amparo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Morera Luis</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Garrido Juan José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">GEN</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Toll-like receptor 5 (TLR5) play a key role in the immune response acting as an innate sensor of pathogens, mainly in tissues maintaining close contact with microorganisms. Recently it has suggested that the occurrence of genetic polymorphisms in innate receptors may impair the immune function, consequently increasing or decreasing the individual susceptibility to infectious diseases. In this study, the promoter and coding sequences of the porcine TLR5 gene were scanned with the aim of identifying mutations with potential effects on gene expression and pathogen recognition ability. Sixteen polymorphisms (9 promoter</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">7 coding sequence), including two Indel variations in the promoter sequence, were identified in the porcine TLR5 gene. The luciferase reporter gene assay indicated that one Indel, consisting in a 23-bp insertion at the - 581 to - 559 nucleotide position of the promoter TLR5, creates an additional STAT binding site, and it is associated with an increase of the promoter activity. In addition, one non-synonymous SNP 1272C/T causing a Pro402Leu change at the LRR7 domain of the porcine TLR5 resulted in a significant decrease in the receptor recognition ability. Taken together, our results suggests that genetic variation in the porcine TLR5 gene could alter the expression and pathogen recognition ability of TLR5, and may be used as molecular markers to define pathogen susceptibility or resistance patterns in pigs.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">El receptor TLR5 desempeña un papel clave en la respuesta inmune, actuando como un sensor de patógenos, principalmente en aquellos tejidos que mantienen un estrecho contacto con los microorganismos. Recientemente, se ha sugerido que la presencia de variaciones genéticas en los receptores innatos puede alterar la respuesta inmune, incrementando o disminuyendo la susceptibilidad individual frente a enfermedades infecciosas. En este estudio, las secuencias promotora y codificante del gen TLR5 porcino fueron analizadas con el objetivo de identificar mutaciones con efectos potenciales sobre la expresión génica y la capacidad de reconocimiento de patógenos. Se identificaron 16 polimorfismos (9 en el promotor</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7 en la secuencia codificante), incluyendo dos variaciones de tipo Indel, en el gen TLR5 porcino. Los ensayos funcionales con el gen reportero luciferasa indicaron que un Indel (inserción de 23 pb en la posición -581 a -559, del promotor TLR5), crea un nuevo sitio de unión al factor transcripcional STAT, asociado con un incremento de la actividad promotora. Además, la presencia de un SNP no sinónimo (SNP 1272C/T = Pro402L), ubicado en el dominio LRR7 de TLR5, resultó en una disminución significativa de la capacidad de reconocimiento del receptor. En conjunto, nuestros resultados sugieren que la variación genética en el gen TLR5 porcino podría alterar la expresión génica y la capacidad de reconocimiento de patógenos de TLR5, y pueden en un futuro ser usados como marcadores moleculares para definir los patrones de resistencia o susceptibilidad a los patógenos en cerdos.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo124_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

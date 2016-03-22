@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100432">
+    <dc:title xml:lang="en">Combined Effects of Zinc and High Irradiance Stresses on Photoinhibition of Photosynthesis in Bean</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Prabhu Inbaraj Michael</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Krishnaswamy Muthuchelian</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chlorophylls</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1577</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Seedlings of bean plants (Phaseolus vulgaris L. Sel 9) were grown for 2 weeks with half strength Hoagland solution containing 0 ppm (deficient), 5 ppm (sufficient) and 50 ppm (excess) ZnSO4*7H2O. Changes in photosynthetic pigments, soluble proteins, soluble starch, photosystem (PSII) activities and thylakoid membrane proteins were investigated.  The degree of photoinhibition was determined by the ratio of variable to maximum chlorophyll (Chl) fluorescence (Fv/Fm). Photosynthetic pigments, soluble proteins and soluble starch decreased significantly in Zn-deficient and Zn-excess leaves. Though the maximum quantum yield of primary photochemistry (Fv/Fm), maximum variable fluorescence (Fv) were significantly decreased to a greater extent in Zn-excess leaves the restoration was excellent. The exogenous electron donors, diphenylcarbazide (DPC) and NH2OH restored the loss of PSII activity in Zn-deficient and Zn-excess leaves. A slight degradation 33, 28-25, 23 and 17 kDa polypeptides were observed in the Zn-deficient and Zn-excess leaves. Upon recovery from HI stress, the Zn-excess leaves restored the 47, 33, and 28-25 kDa polypeptides.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N4/JSPB_2012_4_262-275.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

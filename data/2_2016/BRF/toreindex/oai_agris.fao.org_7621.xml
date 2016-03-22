@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F07621">
+    <dc:title xml:lang="en">Genetic parameters for gestation length and pre- and postweaning growth traits in Nellore cattle</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Parâmetros genéticos para período de gestação e características de crescimento pré e pós desmame em bovinos Nelore</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MOREIRA,  H. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CANOVA,  E. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MUNARI,  D. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BEZERRA, L. A. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LÔBO, R. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PAZ, C. C. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beef cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Genetic correlation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproduction</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29796</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6507</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to estimate heritabilities and genetic and phenotypic correlations for gestation length as calf trait (GLcalf) and preweaning [birth weight (BW) and weights at 120 (W120) and 210 (W210) days] and postweaning performance traits [weights at 365 (W365) and 450 (W450) days] in Nellore cattle participating in the Nellore Brazil Program coordinated by the National Association of Breeders and Researchers (Associação Nacional de Criadores e Pesquisadores - ANCP). The parameters were estimated by the restricted maximum likelihood method under an animal model using the WOMBAT software. The genetic correlation between GLcalf and BW was 0.15, indicating a favorable association between the two traits which, however, was of small magnitude. GLcalf showed low positive genetic correlations (0.06 to 0.10) with the other weights, indicating that selection to reduce gestation length would not result in significant losses in weights at older ages. Furthermore, it is possible to infer that selection for higher W365 will not expressively increase gestation length.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo deste estudo foi estimar as herdabilidades e as correlações genéticas e fenotípicas para o período de gestação como característica do bezerro (PGbez) e características de desempenho pré desmame: peso ao nascimento (PN), peso ao 120 dias (P120) e peso ao 210 dias (P210), e características de desempenho pós-desmame: peso aos 365 dias e peso aos 450 dias (P450) em animais da raça Nelore participantes do Programa Nelore Brasil coordenado pela Associação Nacional de Criadores e Pesquisadores (ANCP). Os parâmetros foram estimados utilizando o método de máxima verossimilhança restrita por modelo animal, usando o software WOMBAT. A correlação genética entre PGbez e PN foi 0,15, indicando associação favorável entre as duas características, porém de pequena magnitude. O PGbez apresentou correlações genéticas positivas e de baixa magnitude (0,06 a 0,10) com os demais pesos, indicando que a seleção para a diminuição do período de gestação não acarretaria em perdas significativas nos pesos em idades mais avançadas. Além disso, é possível inferir que a seleção para maior P365 não aumentará expressivamente o período de gestação.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1435671369.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

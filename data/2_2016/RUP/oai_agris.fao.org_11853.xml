@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P11853">
+    <dc:title xml:lang="ru">ОТРАЖЕНИЕ ЗЕМЛЕДЕЛЬЧЕСКОГО ТРУДА В РУССКИХ ПОСЛОВИЦАХ И ПОГОВОРКАХ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>REFLECTION OF AGRICULTURAL LABOUR IN THE RUSSIAN PROVERBS AND SAYINGS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ratushnaya  E.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">C10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">education</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2488</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: proverb, saying, arable farming, agriculture</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье исследованы особенности отражения земледельческого труда в русских пословицах и поговорках: паремии фиксируют все основные этапы сельскохозяйственного производства культурных растений. Выделены и описаны лексические группы слов-компонентов, которые обозначают сельскохозяйственные  культуры, орудия труда, дикорастущие растения, животных. В результате проведенного исследования установлено, что в паремиях воплотились точные и меткие народные наблюдения над взаимосвязью между явлениями природы, жизнью растений и животных</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">представлен «народный календарь»,  с помощью которого земледельцы определяли оптимальные сроки начала и окончания сельскохозяйственных работ.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">The paper studies some aspects of agricultural labour reflection in the Russian proverbs and sayings. All main stages of agricultural production of domestic plants are recorded in proverbs. Lexical groups of words-components denoting cultivated plants, work equipment, wild plants, and animals are distinguished and described in the paper. It is concluded in the study that people’s true and precise observation of the natural phenomena, plant life and animal life interconnection is realized in proverbs. The paper presents “folk calendar” with the help of which farmers used to determine reasonable time to start and finish farming operations.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_1660bd039ef74b5e8074835a507147b0.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№2, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100347">
+    <dc:title xml:lang="en">The influence of high Cd2+ concentrations on lipid peroxidation and antioxidant system function of wheat (Triticum aestivum) and rye (Secale cereale) etiolated shoots</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kolesnichenko V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kolesnichenko A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lipid peroxidation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Winter wheat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rye</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34043</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8412</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14010</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The influence of high Cd2+ concentrations on lipid peroxidation and antioxidant system function of winter wheat (Triticum aestivum) and rye (Secale cereale) etiolated shoots. It is shown that etiolated shoots of winter rye with different length dare progressively inhibited by high Cd2+, but wheat seedlings are not inhibited by such way. The rate of lipid peroxidation in the presence of Cd2+ in wheat shoots was lower than in rye shoots. Catalase activity in the presence of Cd2+ in rye shoots was lower than in wheat shoots but peroxidase activity was higher in wheat shoots.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N4/JSPB_2012_4_05-15.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

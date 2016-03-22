@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08749">
+    <dc:title xml:lang="ru">СОСТОЯНИЕ И ПЕРСПЕКТИВЫ РАЗВИТИЯ ПТИЦЕВОДСТВА В КОСТРОМСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STATUS AND PROSPECTS OF POULTRY IN THE KOSTROMA REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>СОЛДАТОВА А.П.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>СОЛДАТОВА Л.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Костромская государственная сельскохозяйственная академия</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E21</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">domesticated birds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Products</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2359</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6211</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрена эффективность производства яиц в ЗАО «Галичское» по птицеводству и предложены мероприятия по повышению эффективности производства конкретных видов продукции</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article discusses the effectiveness of egg production in JSC "Galich" Poultry and propose measures to improve the production efficiency of specific products</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/01/12-2-19a.pdf#page=87</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.12 (19)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

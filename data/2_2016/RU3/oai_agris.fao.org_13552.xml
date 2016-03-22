@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016313552">
+    <dc:title xml:lang="ru">Создание устойчивых к стрессовым факторам, болезням и вредителям высокопродуктивных гибридных форм картофеля в условиях Северного Кавказа</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Абазов, А.Х.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Абидов Х.К.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Бугов Р.Р.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F61</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Selection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">population</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genotypes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Потенциальную продуктивность новых сортов сельскохозяйственных культур, в том числе картофеля, в большинстве случаев удаётся реализовать наполовину, что обусловлено ли-митирующими факторами среды и не в последнюю очередь, вызывающими засуху. Самым эффектив-ным способом повышения засухоустойчивости может стать целенаправленная селекция на этот признак. По мнению А.А. Жученко (1984) при благоприятных погодных условиях, высокой агротехнике, современные сорта картофеля, потенциально способны формировать урожайность более 100 т/га, однако в массовом производстве она в 5-10 раз ниже. До сих пор непревзойдённым жаро- и засухоустой-чивым остается сорт Волжанин, выведенный более полувека назад на Ульяновской опытной станции Всероссийского НИИ картофельного хозяйства им. А.Г. Лорха, однако, он не устойчив к раку, а в на-стоящее время такие сорта запрещено вносить в Государственный реестр селекционных достиже-ний РФ. В статье приводятся результаты научно-исследовательской работы Кабардино-Балкарского научно-исследовательского института сельского хозяйства по созданию устойчивых к стрессовым факторам среды, болезням и вредителям высокопродуктивных гибридов картофеля в условиях Север-ного-Кавказа. Вклад селекции в повышение урожайности важнейших сельскохозяйственных культур за последние десятилетия оценивается в 30-70%, и имеются все основания утверждать, что роль этого фактора, будет постоянно возрастать. Это связано, в первую очередь с продуманным управлением генетической изменчивостью культивируемых видов, характеризующихся качественно новыми тре-бованиями, не только к самим сортам и гибридам, но и ко всему процессу их создания, сортоиспыта-ния, семеноводства и практического использования (А.А. Жученко, 1994 г.).</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

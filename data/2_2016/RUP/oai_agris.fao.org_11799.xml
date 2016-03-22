@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P11799">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ ЛИСТОВЫХ ПОДКОРМОК НА ПРОДУКТИВНОСТЬ СОРТОВ ОЗИМОЙ МЯГКОЙ ПШЕНИЦЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE EFFECT OF FOLIAR APPLICATION ON THE PRODUCTIVITY OF WINTER WHEAT  CULTIVARS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Avdeenko  А.Р.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Avdeenko  I.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant propagation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5977</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: winter wheat, fertilizer, foliar application, nutrivant, aminokat, floron</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведены результаты исследований по изучению влияния удобрений и стимуляторов роста нутривант плюс зерновой, аминокат и флорон в качестве листовых подкормок на рост и развитие растений озимой пшеницы сортов Одесская 200 и Писанка. Рассмотрены вопросы продуктивности растений озимой пшеницы сортов Одесская 200 и Писанка в зависимости от обработки удобрениями и стимуляторами роста. Установлено, что обработка посевов аминокатом в фазы кущение и формирование колоса способствует лучшему минеральному питанию растений, увеличению площади листовой поверхности и в целом продуктивности обоих сортов.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The paper contains the results of studies on the effect of fertilizers and growth stimulators «nutrivant plus cereals», «aminokat» and «floron» as foliar application on plant growth and development of winter wheat varieties 200 Odessa and Pysanka. Questions in plant productivity of winter wheat varieties 200 Odessa and Pysanka depending on processing of fertilizers and growth stimulators are considered. It’s determined that processing of crops by «aminokat» when tillering and formation phase promotes a better mineral nutrition of plants, the increase in leaf surface and overall productivity of both varieties.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_1660bd039ef74b5e8074835a507147b0.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.№2, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,59 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08406">
+    <dc:title xml:lang="ru">РАЗРАБОТКА ПОТРЕБИТЕЛЬСКИХ КРИТЕРИЕВ ДЛЯ ОЦЕНКИ КАЧЕСТВА МАРКИРОВКИ ПИЩЕВОЙ ПРОДУКЦИИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>DEVELOPMENT OF CONSUMER QUALITY ASSESSMENT CRITERIA FOR MARKING OF FOOD PRODUCTION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ТИХОНОВА О.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>РЕЗНИЧЕНКО И.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Кемеровский технологический институт пищевой промышленности</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">J10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Consumers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">labelling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28315</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330899</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В настоящей статье рассмотрена возможность оценки качества маркировки пищевой продукции путем разработки потребительских критериев для ее оценки на основе систематизации и классификации специфичных требований, к ней предъявляемых как нормативными документами, так и потребителями. Проведение оценки потребительских свойств маркировки по предложенным оценочным критериям позволит наиболее полно реализовать все ее функции, определить качественность, удовлетворить любые информационные потребности потребителей.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this article the possibility of assessing the quality of labeling of food products through the development of consumer criteria for evaluation based on the systematization and classification of specific requirements, it imposed as regulations, and consumers in general. The assessment of consumer properties markings on the proposed evaluation criteria will more fully realize all of its functions, to define a high quality, meet all the information needs of consumers.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/8-3-15.pdf#page=73</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.8 (15)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

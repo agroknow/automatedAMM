@@ -1,0 +1,47 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09199">
+    <dc:title xml:lang="ru">ЗАВИСИМОСТЬ РАСПРОСТРАНЕНИЯ ПРУДОВ В СТЕПНОЙ И ЛЕСОСТЕПНОЙ ЗОНАХ БАШКИРСКОГО ПРЕДУРАЛЬЯ ОТ ГИДРОГЕОЛОГИЧЕСКИХ УСЛОВИЙ И КАРСТА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE DEPENDENCE OF THE SPREAD OF THE PONDS IN THE STEPPE AND FOREST-STEPPE ZONES OF THE BASHKIR CIS-URALS FROM HYDROGEOLOGICAL AND KARST</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ВИЛЬДАНОВ И.Р.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Башкирский государственный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">B10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ponds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hydrogeology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6105</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В данной статье рассмотрено распространение искусственных водных объектов на территории Башкирского Предуралья в зависимости от гидрогеологические условий и карста.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This article reviewed the spread of artificial water sources on the territory of the Bashkir Cis-Urals, depending on hydrogeological conditions and karst.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/5-2-24.pdf#page=76</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.5 (24)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

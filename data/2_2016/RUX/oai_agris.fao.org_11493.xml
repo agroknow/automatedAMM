@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X11493">
+    <dc:title xml:lang="en">Effect of presowing seed treatment and seeding rate on yield formation  and incidence of barley by root rot</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние предпосевной обработки семян и нормы высева на формирование урожая и пораженность растений ячменя корневыми гнилями</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Karimova L.Z.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Safin R.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Talanov I.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Kazan state agrarian university</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hordeum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seed treatment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3660</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6940</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>5 tables;12 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The most important element of increasing the yield of spring barley is the formation of optimal productive stalks, the main way of its regulation is the selection of seeds with high sowing properties, the choice of the optimal seeding rate and pre-sowing treatment of seeds. Seed is one of the main sources of the accumulation of pathogens, whose agents are Helminthosporium (Bipolaris sorokiniana) and Fusarium (Fusarium oxysporum, F. avenaceum, F. culmorum) root rot, early blight (Alternaria tenuis), mold deteriorate (Penicillium spp., Mucor spp.) and other infections of crops. Many researchers found out that the density of productive stalks and, as a consequence, productivity is largely determined by the seeding rate and the value of the field germination of seeds. However, the greatest danger to the scheduled productivity of barley is the infection by root rot, which provides seed treatment with effective chemical disinfectants together with various growth regulators, exhibiting anti-stress properties, with high biological activity. Research has shown that seed treatment with chemical disinfectants KINTO Duo both in pure form and in mixtures with drug Albite stimulates root growth and reduces the development of Helminthosporium, reduces the defeat of the plants by root rot, provides formation of higher yields, increases the quality of barley grain.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Важнейшим элементом повышения урожайности ярового ячменя является формирование оптимального продуктивного стеблестоя, основным приемом ее регулирования является отбор семян с высокими посевными свойствами, выбор оптимальных норм высева и предпосевная обработка семян. Семенной материал является одним из основных источников накопления патогенов, возбудителями которых являются гельминтоспориозная (Bipolaris sorokiniana) и фузариозная (Fusarium oxysporum, F. avenaceum, F. culmorum) корневые гнили, альтернариоз (Alternaria tenuis), плесневения (Penicillium spp., Mucor spp.) и другие инфекции зерновых культур. Исследованиями многих исследователей установлено, что густота продуктивного стеблестоя и, как следствие, урожайность во многом определяется нормой высева и величиной полевой всхожести семенного материала. Oднако, наибольшую опасность для формирования запланированной продуктивности ячменя представляет инфицирование корневыми гнилями, что предусматривает протравливания семенного материала эффективными химическими протравителями совместно с различными регуляторами роста, проявляющими антистрессовые свойства, обладающие высокой биологической активностью. Исследованиями установлено, что обработка семян химическим протравителем Кинто Дуо как в чистом виде, так и в смеси с препаратом Альбит стимулирует рост корней и снижает развитие гельминтоспориоза,снижает поражение растений корневыми гнилями, обеспечивает формирование более высокой урожайности, повышает показатели качества зерна ячменя</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(29)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

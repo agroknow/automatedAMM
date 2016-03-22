@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016D11297">
+    <dc:title xml:lang="ru">Гистофизиологическое исследование половых желез асцидии пурпурной Halocynthia aurantium Pallas</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Gistophyziologiсаl study of the Ascidian purple sexual glands Halocynthia aurantium Pallas</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Матросова Инга</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Евдокимов Владимир</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Дальневосточный государственный технический рыбохозяйственный университет (Владивосток)</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Тихоокеанский научно-исследовательский рыбохозяйственный центр</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ova</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5454</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Исследовались половые железы асцидии пурпурной Halocynthia aurantium Pallas, выловленной в мае, июне и октябре 2010 - 2011 гг. из б. Соколовская и б. Средняя зал. П. Великого (Японское море). В половых железах асцидии несколько раз происходит последовательное созревание либо ооцитов, приводящее к их вымету, либо спермиев. Полученные данные по гистологической организации и клеточному составу половых желез у исследованных гидробионтов дополняют сведения об их репродуктивной биологии.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Gonads of Halocynthia purple aurantium Pallas, caught in May, June and October 2010 - 2011 from Sokolovskaya Bay and Average Bay оf P. Grand (sea of Japan) were investigated. In the ascidian sexual glands several times were going steady maturation of the oocyte, or resulting in their spawning, or sperm. The data obtained for histological organization and cell composition of the sexual glands in the investigated hydrobionts supplement their reproductive biology.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal-s.org/index.php/vmno/article/view/6877</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>В мире научных открытий</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2072-0831</ags:citationIdentifier>
+      <ags:citationNumber>v./n.8.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

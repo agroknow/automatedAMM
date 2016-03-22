@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01526">
+    <dc:title xml:lang="en">Potential of sugar-alcohol sugarcane for ruminant nutrition along culture cycle</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Potencial de cana-de-açúcar sucroalcooleira para alimentação de ruminantes ao longo do ciclo da cultura</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>GIACOMINI, A. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BATISTA, K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ANDRADE, J. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LIMA,  M. L. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GERDES,  L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MATTOS, W. T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OTSUK,  I. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COLOZZA, M. T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERRARI JÚNIOR,  E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biomass</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Harvesters</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nutritive value</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rubidium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ruminants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3499</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5278</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24409</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6695</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The sugar-alcohol industry is focused on productivity, quality (especially sugar content) and longevity of sugarcane crop, traits that may be promising for use on ruminant feed. In this context, we performed an experiment aiming to evaluate the potential of the industrial sugarcane (Saccharum officinarum L.) variety RB 855536 for use in ruminant nutrition throughout the period of commercial production of the crop, applying management techniques commonly used in crops for industrial use. The experiment was conducted at Instituto de Zootecnia, Nova Odessa, SP. Treatments corresponded to four crops seasons of sugarcane, in the years of 2007, 2009, 2010 and 2011 in a complete randomized block design with three replications. Green and dry biomass production did not differ between crop seasons, with values ranging from 97-160 kg of green matter/ha, and 40-66 kg of DM/ha. The number of tillers per meter did not differ between crops, with values ranging from 11-15 tiller/linear meter. Nevertheless the weight per tiller was higher in the 2007 crop (1.6 kg/tiller) related to the other crops evaluated. The non-fiber carbohydrates (NFC) content varied in the opposite way to the neutral detergent fiber (NDF). Sugarcane variety BR 855536 showed high biomass production, associated with high levels of NFC and low levels of NDF, good relationship NDF/Pol, expecially in the first two crop seasons (2007 and 2009). The sugarcane variety RB 855536 can be used for ruminant feeding along culture cycle (5 years).</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A indústria sucroalcooleira tem como foco a produtividade, qualidade (principalmente teor de açúcares) e longevidade do canavial, características que podem ser promissoras para uso na alimentação de ruminantes. Nesse contexto, realizou-se experimento com o objetivo de avaliar o potencial da cana-de-açúcar (Saccharum officinarum L.) variedade RB 855536 de uso industrial para uso na alimentação de ruminantes durante todo o período de produção comercial da cultura, aplicando-se as técnicas de manejo comumente utilizadas em canaviais para uso industrial. O experimento foi realizado no Instituto de Zootecnia, em Nova Odessa-SP. Os tratamentos corresponderam a quatro safras da cana-de-açúcar, referentes aos anos de 2007, 2009, 2010 e 2011, em delineamento de blocos completos casualizados com três repetições. A produção de biomassa verde e seca não diferiu entre as safras avaliadas, com valores variando de 97 a 160 kg de matéria V/ha, e 40 a 66 kg de MS/ha. O número de perfilhos por metro linear também não diferiu entre as safras, com valores de 11 a 15 perfilhos/m linear. Apesar disso, o peso por perfilho foi superior na safra de 2007 (1,6 kg/perfilho) relativamente às outras safras avaliadas. O teor de carboidrato não fibroso (CNF) variou de forma oposta ao do teor de fibra em detergente neutro (FDN). A variedade de cana-de-açúcar BR 855536 apresentou alta produção de biomassa, associada aos altos teores de CNF e baixos teores de FDN, com boa relação FDN/teor de polarização do caldo, principalmente nas duas primeiras safras (cana-planta e segunda soca). A variedade de cana-de-açúcar RB 855536 pode ser utilizada para alimentação de ruminantes ao longo do ciclo de exploração da cultura (5 anos).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1396555977.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

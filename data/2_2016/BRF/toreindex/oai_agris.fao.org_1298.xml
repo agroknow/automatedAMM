@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01298">
+    <dc:title xml:lang="en">Basal blood parameters of horses subjected to aerobic activity fed with lipidic concentrated</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Parâmetros sanguíneos basais de cavalos submetidos à atividade aeróbica consumindo concentrados lipídicos</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS,  V.P</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COSTA, C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FASTINO,  M. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SÁ,  J. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MEIRELLES,  P. R. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cholesterol</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Glucose</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lactates</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1325839932348</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1584</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3287</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4139</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The feeding diets were evaluated containing low and high levels of soybean oil for horses athletes subjected to two protocols of aerobic training on the response of basal blood biochemical parameters. Four horses were used in latin square design with treatments in a 2 x 2 factorial arrangement. Treatments consisted levels of 5 and 15% oil concentrates and two aerobic training, 40' and 60' minutes. Plasmatic parameters were monitored, triglyceride (TG), total cholesterol (TC), glucose (GLU) and lactate (LAC), during basal metabolism. The TG, TC, GLU and LAC from horses at rest were not affected (P&gt; 0.05) neither of diet and physical activity, 0.21, 3.79, 4.18, 0.93 mmol L-1, respectively. It can be concluded that offer concentrate with high content of soybean oil to athletic horses in aerobic activities can be performed without altering the blood biochemical profile of basal metabolism.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Avaliou-se o fornecimento de concentrados com a inclusão de baixo e alto teor de óleo de soja a cavalos atletas, submetidos a dois protocolos de exercícios aeróbicos, sobre a resposta basal de parâmetros bioquímicos do sangue. Foram utilizados quatro cavalos, em delineamento experimental quadrado latino, com tratamentos em esquema fatorial 2 x 2. Os tratamentos foram compostos por teores de 5 e 15% de óleo nos concentrados e dois treinos aeróbicos com duração de 40’ e 60’ minutos. Monitorou-se os parâmetros bioquímicos basais, triglicerídeos (TG), colesterol total (CT), glicose (GLI) e lactato (LAC). Os TG, CT, GLI e LAC dos cavalos, não sofreram efeito (P&gt;0,05) da alimentação, bem como da atividade física, 0,21, 3,79, 4,18, 0,93 mmol L-1, respectivamente. Concluiu-se que o fornecimento de dieta contendo até 15% de óleo de soja pode ser oferecido a cavalos atletas, submetidos à atividade aeróbica, sem alterar o perfil bioquímico sanguíneo do metabolismo basal.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1365774824.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.69/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

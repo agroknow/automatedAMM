@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016211252">
+    <dc:title xml:lang="en">Harvest time in the seed quality of soybean genotypes</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Época de colheita na qualidade de sementes de genótipos de soja</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Xavier Thiago da Silva</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Daronch Douglas José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Peluzio Joênes Muci</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Afférri Flávio Sérgio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Carvalho Edmar Vinícius de</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Santos Weder Ferreira dos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Cheminova, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Federal do Tocantins, Camous Avançado de Pedro Afonso, Pedro Afonso, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Campus Universitário de Gurupi, Gurupi, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de São Carlos, Centro de Ciências da Natureza, Buri, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Campus Universitário de Gurupi, Gurupi, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Campus Universitário de Gurupi, Gurupi, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">deterioration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Germination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10350</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">With the objective to evaluate the seeds quality of soybean genotypes at different harvest times, it was conducted a field experiment at the experimental farm at Universidade Federal do Tocantins in Gurupi – TO, in the season 2010/2011. The experimental design was completely randomized blocks with fifty treatments and three repetitions. The treatments were arranged in a factorial design and they were represented by ten cultivars (BRS ValiosaRR, M8527RR, P98Y51, TMG103RR, P98Y70, M8867RR, M8925RR, TMG115RR, M9056RR and M9144RR) and five harvest times (R8, R8+7, R8+14, R8+21 and R8+28 days). They were realized the following tests: standard germination and
+germination in sand, with four repetitions of 50 seed for each treatment, that were obtained from the field experiment, and the experimental design was completely randomized. With the delay in the harvest was verified the progressive reduction of germination in all cultivars, from seven days after the R8 stage. The cultivar M9056RR has shown the higher quality seeds.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Com o intuito de avaliar a qualidade de sementes de genótipos de soja em diferentes épocas de colheita, foi conduzido ensaio de campo na Estação Experimental da Universidade Federal do Tocantins em Gurupi – TO, na safra 2010/2011. O delineamento experimental utilizado foi de
+blocos inteiramente casualizados, com cinquenta tratamentos e três repetições. Os tratamentos foram dispostos em um esquema fatorial representado por dez cultivares (BRS ValiosaRR, M8527RR, P98Y51, TMG103RR, P98Y70, M8867RR, M8925RR, TMG115RR, M9056RR e M9144RR)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">e cinco épocas de colheita (R8, R8+7, R8+14, R8+21 e R8+28 dias). Os testes realizados foram o padrão de germinação
+e germinação em areia, com quatro repetições de 50 sementes de cada tratamento, obtidas do ensaio de campo, em delineamento inteiramente causalizado. Com o retardamento da colheita, ficou constatada a redução progressiva da germinação em todas os cultivares, a partir de sete dias após o estádio R8. A cultivar M9056RR apresentou a melhor qualidade das sementes.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

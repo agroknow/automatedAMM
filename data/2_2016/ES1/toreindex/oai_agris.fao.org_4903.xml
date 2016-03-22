@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104903">
+    <dc:title xml:lang="es">ESTUDIO ZOOMÉTRICO DEL OVINO DE PELO CRIOLLO COLOMBIANO DE LA ZONA NORTE DEL DEPARTAMENTO DEL HUILA (COLOMBIA)</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ZOOMETRIC STUDY OF THE COLOMBIAN CREOLE HAIR SHEEP IN THE NORTH OF THE DEPARTMENT OF HUILA (COLOMBIA)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Angel-Botero Santiago</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ramírez-Capera Andrés</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Corporación Universitaria del Huila - CORHUILA</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Corporación Universitaria del Huila - CORHUILA</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Morphology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3222</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Characteristics for the selection of animals have not been established in sheep production in the Department of Huila (Colombia), this generates the tendency to acquire foreign animals, which are not adapted to the area and therefore cannot express their productive potential. The purpose of the study was to make a zoometric characterization of Colombian creole hair sheep (camura), for that, 398 adult females of Colombian creole hair sheep from farms in the north of department of Huila were evaluated. Five morphological measurements were determined, from which 2 zoometric indices were calculated: body, proportionality. The results indicate the morphological measures for adult females, which were: thoracic perimeter (82.7 ± 5.6 cm), abdominal perimeter (96.1 ± 8.4 cm), body length (66.6 cm ± 5.4), height at withers (66.3 ± 4.8 cm) and length of the spine (138.4 ± 11.1 cm). From the descriptive statistical analysis it was observed a range of variation between 6.8% and 8.7%, which reflects a high degree of homogeneity. Regarding zoometric indexes, the creole sheep were characterized as brevilineal (body index = 70 ± 5.8), elipometric volume, and a medium index of proportionality (100 ± 7.5). The results of these ratings confirm that this breed is suitable for meat production. This is to raise awareness of the benefits of this race to be exploited to the maximum</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">pretending to contribute to the generation of genetic selection strategies of the Colombian creole hair sheep, allowing the decrease of the pressure of foreign breeds.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">En la producción ovina del departamento del Huila (Colombia), no se han establecido características para la selección de animales, generando la tendencia a adquirir animales foráneos, que no están adaptados a la zona y por lo tanto, no puedan expresar su potencial productivo. El propósito del proyecto fue realizar la un estudio sobre las características zoométricas del ovino de pelo criollo colombiano, en el departamento del Huila que contribuya a una caracterización racial. Para ello se evaluaron 398 hembras adultas de ovinos de pelo criollo colombiano (camuras), provenientes de fincas del norte del departamento del Huila. Se determinó 5 medidas morfológicas a partir de las cuales se calcularon 2 índices zoométricos: corporal, proporcionalidad. Los resultados indican las medidas morfológicas para las hembras adultas las cuales fueron: perímetro torácico (82,7 cm ± 5,6), perímetro abdominal (96,1 cm ± 8,4), largo del cuerpo (66,6 cm ± 5,4), alzada (66,3 cm ± 4,8) y largo espiral (138,4 cm ± 11,1). Del análisis estadístico descriptivo se observó un rango de variación entre 6,8% y 8,7% reflejando un alto grado de homogeneidad. Respecto a los índices zoométricos las camuras se caracterizaron por ser brevilíneas (índice corporal= 70 ± 5,8), de volumen elipométrico, y con un índice de proporcionalidad media (100 ± 7,5). Los resultados de estas clasificaciones, ratifican la aptitud cárnica de los animales. Con esto se pretende dar a conocer las bondades de la raza para aprovecharlas al máximo</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">pretendiendo contribuir a la generación de estrategias de selección genética de los ovinos de pelo criollos colombianos, permitiendo la disminución de la presión de razas foráneas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo058_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

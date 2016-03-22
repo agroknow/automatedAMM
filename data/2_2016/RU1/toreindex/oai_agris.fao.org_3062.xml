@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016103062">
+    <dc:title xml:lang="en">Influence of NaCl on Biochemical Parameters of Two Cultivars of Stevia rebaudiana Regenerated in vitro</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Rathore Sharuti</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Singh Narender</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Singh S.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">leaves</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Proline</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">phenols</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sugars</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4243</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13300</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7507</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Soil salinity occupies a prominent place among the soil problems that threaten the sustainability of agriculture over a vast area in the world. It affects plant morpho-physiology and ultimately leads to reduction in productivity. It is essential to test important medicinal plants for their salinity tolerance as research efforts aim to explore economic benefits under saline conditions. Keeping in view the importance of Stevia and salinity, present study had been designed to investigate the effect of salinity on biochemical parameters in two Stevia genotypes. Two node microcuttings were subjected to MS media supplemented with different NaCl concentrations (0, 25, 50, 75, 100, 125 mM). Chlorophyll amount was observed to be decreased as compared to sugars, proline and phenols with increased salt concentrations.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N2/JSPB_2014_2_287-296.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

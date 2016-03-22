@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016008086">
+    <dc:title xml:lang="en">Effects of temperature and immersion time on rehydration of osmotically treated pork meat</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pezo, L. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Šuput, D. Z.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lević, L. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cvetković, B. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kovačević, O. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Food Preservation Engineering, Faculty of Technology, University of Novi Sad, Bulevar Cara Lazara 1, 21000 Novi Sad, Serbia. E-mail: suput.danijela@gmail.com, tel.: +381 21 485 3698, fax:+381 21 6350 262</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rehydration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pork</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Neural networks</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24129</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6120</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37467</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this work was to investigate the changes in osmotically treated pork meat during rehydration process, using artificial neural network approach, compared to second order polynomial model (obtained using response surface methodology). Meat samples were osmotically treated in two different solutions: (1) sugar beet molasses and (2) saccharose-NaCl solution, at temperature of (23 ± 2) °C for 5 h. After being osmotically treated, meat samples were rehydrated at three constant temperatures (20 °C, 40 °C and 60 °C) during four different immersion durations (15 min, 30 min, 45 min and 60 min), and afterwards examined for mass and volume gain (dV), and for rehydration percentage (R). The maximum R was observed for 20 °C and 60 min (24.1% and 26.2% for solution 1 and 2, respectively), while the maximum dV was observed at 40 °C and 30 min (16.1% and 22.6% for solution 1 and 2, respectively). Second order polynomials used for prediction of R and dV showed good accuracy compared to experimental results (coefficient of determination, r2, ranged between 99.171–93.665), while the best of five artificial neural network models gained r2 in the range of 0.992– 0.995 for R, and in the range of 0.976–0.988 for dV, for samples treated in solution 1 and 2.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

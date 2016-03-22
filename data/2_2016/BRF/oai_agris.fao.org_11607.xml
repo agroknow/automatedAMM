@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F11607">
+    <dc:title xml:lang="en">Carcass morphology and quality of goat from the region of “Alto Camaquã” slaughtered at different ages</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Morfologia e qualidade da carcaça de cabritos naturalizados do “Alto Camaquã” abatidos em diferentes idades</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MARTINS, L. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OSÓRIO, J.C.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OSÓRIO, M.T.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BORBA, M. F. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERREIRA, O. G. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, R. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LEMES, J. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FARIAS, P. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">loins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">quality labels</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tissue</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">slaughter value</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4421</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26864</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49880</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331025</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35851</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the carcass morphology and quality of goats slaughtered at 8-9 and 11-12 months of age, which were reared extensively in the region of “Alto Camaquã”, Rio Grande do Sul, Brazil. The carcasses of 37 male castrated goats, including 14 animals slaughtered at 8-9 months of age and 23 at 11-12 months, were evaluated. The following five cuts were obtained from the right half-carcass: foreleg, hind leg, fluctuating ribs plus loin and flank, fixed ribs and chest. These cuts were then dissected for determination of the composition of muscle, bone, subcutaneous fat, intermuscular fat, and other tissues. There was a significant difference in hot carcass yield, commercial cut yield, cooling losses, carcass and leg length, and leg and chest depth between slaughter ages. An interaction between slaughter age and carcass cut was observed for muscle/fat ratio, muscle percentage, total fat, intermuscular and subcutaneous fat, and weight and percentage of other tissues. There was an effect of slaughter age, regardless of cut, on the variables bone, muscle, total cut weight, muscle/bone ratio and bone percentage. Commercial cut yield and hot carcass weight increase with age. However, the tissue composition of animals slaughtered at a younger age is characterized by a better muscle/fat ratio in the different cuts.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo deste estudo foi avaliar a morfologia e a qualidade da carcaça de caprinos abatidos aos 8-9 meses e 11-12 meses de idade, criados de forma extensiva, procedentes do “Alto Camaquã”, RS, Brasil. Foram avaliadas carcaças de 37 caprinos machos castrados, sendo 14 abatidos com 8-9 meses de idade e 23 com 11-12 meses de idade. Na meia carcaça direita foram obtidos cinco cortes: paleta, perna, costelas flutuantes mais lombo com vazio, costelas fixas e peito, que foram posteriormente dissecados para determinação da composição tecidual do músculo, osso, gordura subcutânea, gordura intermuscular e outros tecidos. Houve diferença significativa entre idade de abate no rendimento de carcaça quente, rendimento comercial, perdas por resfriamento, comprimento da carcaça e perna e profundidade da perna e peito. Houve interação da idade de abate e corte da carcaça para a relação músculo:gordura, porcentagens de músculo, gordura total, gordura intermuscular e gordura subcutânea, e peso e porcentagem de outros tecidos. Para as variáveis osso, músculo, peso total dos cortes, relação músculo:osso e percentual do osso verificou-se efeito da idade de abate, independentemente do corte. Com o avanço da idade aumenta o rendimento comercial e de carcaça quente. Entretanto, a composição tecidual de animais abatidos com idade inferior apresenta melhor relação músculo:gordura nos diferentes cortes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v72n3p193</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

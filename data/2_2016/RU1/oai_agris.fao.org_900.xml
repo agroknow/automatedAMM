@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100900">
+    <dc:title xml:lang="en">Comparison of Nonshivering Thermogenesis Induced by Norepinephrine Stress in Tree Shrews</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zhu Wan-long</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zhang Di</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zheng Jia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zhang Lin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Liu Jin-hu</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cheng Jin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Wang Zheng-kun</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Norepinephrine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">thermogenesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5216</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35611</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Nonshivering thermogenesis (NST)is an important thermogenic mechanism for small mammals. Quantitative  measurement  of  NST  is  usually  stimulated  by  injection  of  norepinephrine.  The injection dosage of norepinephrine (NE) is critical for eliciting the maximum NST. Three empirical equations of NE dosages were often referenced in previous studies: (1) NE (mg / kg)= 2.53W-0.4</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">(2) NE(mg/kg) = 3.3W-0.458 and (3) NE(mg/kg)= 6.6W-0.458. In the present study , we used tree shrews (Tupaia belangeri) as experiment subjects to test the effects of the three dosages of NE on NST. Results showed that all the three dosages of NE could induce the maximum NST for T. belangeri. No significant differences were found in NST among groups and the NST was respectively 2.63±0.12 (formula 1), 2.66±0. 11 (formula 2) and 2.78±0.15 (formula 3). However, when injected with NE dosage from formula 3, the increase of body temperatures was significantly higher than the other two NE dosages (increased 1.5±0. 1 oC (formula 3), 0.8±0. 2 oC (formula 2), and 0.6±0. 1 oC (formula 1),  respectively).  In  order  to  prevent  the  death  because  of  hyperthermia,  formula  1  or  2  is recommended to be used.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N4/JSPB_2013_4_180-186.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,74 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202833">
+    <dc:title xml:lang="en">Water uptake curve in physic nut seeds</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Curva de absorção de água em sementes de pinhão-manso</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Caetano Pimenta Alex</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Christina Zuffellato-Ribas Katia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Galvêas Laviola Bruno</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Panobianco Maristela</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus São Vicente, Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso, Santo Antônio do Leverger, MT, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Paraná, Curitiba, PR, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Empresa Brasileira de Pesquisa Agropecuária, Embrapa Agroenergia, Brasília, DF, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Paraná, Curitiba, PR, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Jatropha curcas</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Euphorbiaceae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16254</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2720</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Physic nut (Jatropha curcas L.) is a useful species in oil production for energy purposes, however its agricultural crop counts on little scientific knowledge. This work aimed to determine the water uptake curve in physic nut seeds, with the purpose to help future researches depending on this
+information. Two batches of seeds were used, represented by two sub-samples (intact seeds and dead seeds) of each batch. The water uptake curve was determined weighing samples at specified intervals of time. A fully randomized experimental delineation was applied, with two treatments and four repetitions of 10 seeds each. Data were submitted to Bartlett, Anova and Turkey tests</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">regression equations were adjusted for the uptake curves. It was concluded that Jatropha curcas seeds follow the three-phases water uptake pattern , being phase I between 0 and 15h, phase II between 15h and 60h and phase three starting after 60h.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O pinhão-manso (Jatropha curcas L.) é uma espécie destinada à produção de óleo para fins energéticos, porém cientificamente pouco conhecida quanto a sua implantação como cultura agrícola. Objetivou-se neste trabalho determinar a curva de absorção de água em sementes de pinhão-manso, visando subsidiar futuras pesquisas dependentes dessa informação. Utilizaramse dois lotes de sementes, representados por duas subamostras (sementes intactas e sementes mortas) de cada lote. A curva de absorção de água foi determinada por pesagens em intervalos sistematizados, até a protrusão da raiz primária. Utilizou-se delineamento experimental inteiramente casualizado, com dois tratamentos e quatro repetições de 10 sementes/parcela. Os dados foram
+submetidos aos testes de Bartlett, Anova e Tukey</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">para as curvas de absorção foram ajustadas equações de regressão. Concluiu-se que as sementes de Jatropha curcas seguem o padrão trifásico de absorção de água, sendo a fase I compreendida entre 0 e 15h, a fase II entre 15 e 60h
+e a fase III iniciada após 60h.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/480/256</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

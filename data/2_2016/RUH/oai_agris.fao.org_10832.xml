@@ -1,0 +1,68 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10832">
+    <dc:title xml:lang="ru">ОПЫТ СОЗДАНИЯ ФЛЮИДОУПОРНЫХ ИЗОЛЯЦИОННЫХ ЭКРАНОВ И ПОКРЫШЕК ПРИ ЛИКВИДАЦИИ СКВАЖИН АСТРАХАНСКОГО ГКМ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE EXPERIENCE OF CREATING FLUID-RESISTIVE INSULATION BARRIERS AND CAP ROCKS AT THE WELL ABANDONMENT ON THE ASTRAKHAN GAS CONDENSATE FIELD</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Лобачев Г.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Беляев С.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Родионовская Т.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ЗАО «Октопус»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wells</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">insulation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Research</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8354</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3900</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6513</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Во внесенных изменениях в «Правила безопасности нефтяной и газовой промышленности» утвержденных
+приказом Федеральной службы по экологическому, технологическому и атомному надзору от 12 марта 2013 г.
+№ 101, одним из основных требований к ликвидации скважин является создание флюидоупорных покрышек и
+экранов [1].
+В последние 10 лет на АГКМ проводится ликвидация скважин с применением вырезки части колонн и установке
+покрышек. В статье кратко отражен опыт проведения данных работ.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the changes of "Oil and gas industry safety rules and regulations" approved by the order of the Federal service for
+ecological, technological and nuclear supervision on March 12, 2013 No. 101 one of the main requirements for well
+abandonment is the creation fluid-resistive cap rock and screens.
+Well abandonment with the cutting the part of the columns and creating cap rock is use on the Astrakhan gas condensate
+field in the last 10 years. The article briefly describes the experience of carrying out these works.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/09/8-3-39.pdf#page=45</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3 (39)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

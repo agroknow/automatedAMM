@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016103058">
+    <dc:title xml:lang="en">Phytostabilization Potential of Yard long bean in Removing Cadmium from Soil</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Deivanai S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Thulasyammal R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biomass</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cadmium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1178</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1315386482786</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The effect of cadmium (Cd) on growth, physiology, distribution and tolerance was examined in root, shoot and leaves of yard-long bean (Vigna unguiculata subsp. sesquipedalis L.). The seeds were grown in pot culture under laboratory conditions for 60 days in Ferriera and Davis nutrient solution with three different concentrations (0.5, 1.0 and 2.0 mM) of cadmium. Cd toxicity was evident from chlorosis in young leaves and increased concentrations of Cd brought significant negative effects on plant growth, photosynthetic rate and protein biosynthesis. Translocation of Cd was found to be more in roots than the above ground parts and the accumulation was in the order of root &gt; shoot &gt; leaf. Low root to shoot translocation of Cd makes the crop ideal for phytostabilization. Relatively high metal tolerance index obtained in the study indicated that the crop has greater tolerance to increase Cd exposure, though accumulation of Cd had altered thickness of root and root biomass. Owing to the crop’s adaptability to high temperature, drought conditions and ability to retain Cd in roots makes it a promising candidate for phytostabilization of soil contaminated by Cd.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N2/JSPB_2014_2_275-286.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

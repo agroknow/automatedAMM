@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01388">
+    <dc:title xml:lang="en">Production costs of bovine females of Holstein breed in the pre and post weaning phases in a milk production system at Southern Minas Gerais</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Custos de produção de fêmeas bovinas da raça holandesa nas fases de cria e recria em um sistema de produção de leite no sul de Minas Gerais</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LOPES,  M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NETO,  A. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS,  G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DEMEU,  F. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LOPES,  L. M. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOREIRA,  S. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2010-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dairy cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">animal</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">breeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">management</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_444</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49902</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16086</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It was aimed to calculate the production cost of Holstein bovine females breed in the weaning and post-weaning phases and to identify the components that exert greatest influence on the final operation costs. The data were collected on a dairy farm situated at Boa Esperança- MG. To calculate the total operational cost (TOC), all the effective operational expenses, as well as the depreciation facilities and equipament. The animals reached 360 kg aged with 593 days, at 19.5 months of life. The component items of the effective operational cost which exercised most influence on the costs of the operation were in decreasing order, feeding (46.63%), that is, 31.89% with concentrates and 14.73% with roughage, purchase of animals in the weaning phase (22.81%)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">labor (16.53%)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">hire of machines for rationing (13.55%) and health (0.49%). The depreciation represented 15% of the TOC. The TOC was US$ 1,005.12, which corresponded to 3,400.67 kg of milk, representing a daily cost of US$ 2.00 or 6.76 kg of milk.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Objetivou-se calcular o custo de produção de fêmeas bovinas da raça holandesa nas fases de cria e recria e identificar os componentes que exercem maior influência sobre os custos finais da atividade. Os dados foram coletados em uma fazenda produtora de leite, localizada no município de Boa Esperança – MG. Para calcular o custo operacional total (COT) considerou-se todas as despesas operacionais efetivas, bem como a depreciação das instalações e equipamentos. Os animais atingiram 360 kg com 593 dias, ou seja, aos 19,5 meses de vida. Os itens componentes do custo operacional efetivo que exerceram maior influência sobre os custos da atividade foram, em ordem decrescente, alimentação (46,62%) sendo 31,89% com concentrado e 14,73% com volumoso</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">aquisição de animais na fase de cria (22,81%)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">mão-de-obra (16,53%)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">aluguel de máquinas para arraçoamento (13,55%) e sanidade (0,49%). A depreciação, representou 15% do COT. O custo operacional total foi de R$2.040,40, o que equivaleu a 3.400,67 kg de leite, representando um custo diário de R$4,06, ou 6,76 kg de leite.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1287401869.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.67/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

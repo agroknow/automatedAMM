@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02365">
+    <dc:title xml:lang="en">Structural characteristics of a Brachiaria decumbens Stapf cv. Basilisk pasture under nitrogen doses</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Características estruturais de uma pastagem de Brachiaria decumbens Stapf cv. Basilisk sob doses de nitrogênio</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>VITOR,  C. M. T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COSTA, P. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VILELA, S.D.J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LEONEL, F. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERNANDES, C.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALMEIDA, G.O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Leaf area index</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tillering</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">leaf area</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Herbage crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35196</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7773</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16110</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28009</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Several studies have shown marked response of nitrogen increasing fertilization doses of tropical pastures. Tillering, leaf:stem ratio, leaf area index and accumulated forage of Brachiaria decumbens Stapf cv. Basilisk, under nitrogen increasing doses condition (0, 100, 200 and 400 kg/ha) using urea in three applications, were evaluated. The experiment design was a completely randomized with three replications. Nitrogen fertilization increased the number of tillers, leaf area index and herbage accumulation rate of signal grass and should therefore be used as a management option.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Vários estudos têm demonstrado resposta acentuada das forrageiras tropicais a doses de adubação nitrogenada. Dessa maneira objetivou-se avaliar o perfilhamento, a relação lâmina:colmo, o índice de área foliar e o acúmulo de forragem da Brachiaria decumbens Stapf cv. Basilisk em função de doses de nitrogênio (0, 100, 200 e 400 kg/ha) utilizando uréia parcelada em três aplicações. O delineamento experimental utilizado foi o inteiramente casualizado com três repetições. A adubação nitrogenada aumentou o número de perfilhos vivos e mortos, o índice de área foliar e a taxa de acúmulo de forragem do capim-braquiária, devendo assim ser utilizada como opção de manejo.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1403618184.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

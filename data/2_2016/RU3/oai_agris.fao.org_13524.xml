@@ -1,0 +1,48 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016313524">
+    <dc:title xml:lang="ru">Влияние предстартера и адсорбента на хозяйственно-биологические качества цыплят-бройлеров</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Абдулхаликов, Р.З.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">broiler chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heavy metals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">adsorbent</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">safety</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25300</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6732</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">При применении современных интенсивных технологий производства птичьего мяса важное значение имеет обеспечение его соответствия современным санитарно-гигиеническим тре-бованиям. Однако наличие ряда крупных предприятий цветной металлургии в республиках Северного Кавказа приводит очень часто к избыточному содержанию солей тяжелых металлов в окружающей среде, в том числе в образцах почвы и кормовых культур. С учетом этого, в настоящей статье при-ведены материалы эксперимента на цыплятах-бройлерах, которым в первую неделю жизни скармли-вали престартерный корм «Оптимум», разработанный фирмой «Провими». Наряду с этим, в рационы птицы опытных групп вводили препарат адсорбент токси-сорб.В ходе исследований получены данные, которые показывают эффективность совместного скармливания престартера «Оптимум» в грану-лированном виде и препарата токси-сорб цыплятам-бройлерам. При этом они способствовали повы-шению показателей сохранности поголовья, скорости роста и конверсии корма цыплят-бройлеров. Наряду с этим, у птицы опытной группы наблюдалось улучшение убойных показателей, химического состава и биологической полноценности мяса при одновременном снижении концентрации тяжелых металлов в мясной продукции.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

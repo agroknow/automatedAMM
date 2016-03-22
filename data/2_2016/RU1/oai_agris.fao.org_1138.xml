@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101138">
+    <dc:title xml:lang="en">Influence of Growth Regulators on Secondary Metabolites of Medicinally Important Oil Yielding Plant Simarouba glauca DC. under Water Stress Conditions</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Awate P.D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gaikwad D.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Flavonoids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Polyphenols</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2964</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">One year old seedlings of Simarouba glauca were subjected to water stress for 4, 8, 12 and 16 days. The foliar sprays of 50 ppm salicylic acid (SA) and 10 ppm Putriscine, Gamma amino butyric acid (GABA) and Abscisic acid (ABA) were applied before and after water stress. It was observed that polyphenols, tannins, alkaloid and flavonoid contents were increased with increasing water stress treatments. Foliar applications of growth regulators ameliorate water stress and exhibits induction of secondary metabolites like coumarins, sterols, xanthoproteins, cardiac glycosides and saponins. It was also noticed that foliar application of SA, GABA, ABA considerably increases all these secondary metabolites which will help to improve the medicinal potential of Simarouba glauca under water stressed condition.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_222-229.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

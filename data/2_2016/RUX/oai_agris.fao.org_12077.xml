@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12077">
+    <dc:title xml:lang="en">Development of a system of molecular genetic detection of bacteria types of Listeria monocytogenes and Listeria ivanovii</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Разработка системы молекулярно-генетической детекции бактерий видов Listeria monocytogenes и Listeria ivanovii</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vasilyev D.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mastilenko A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kovaleva E.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">BACTERIOPHAGES</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">veterinary sciences</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Listeria monocytogenes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_769</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330833</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26553</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2 tables, 10 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Today listeriosis is a serious problem not only as a classical nosological
+unit, but primarily as a food-borne infection. The main means of indication
+and identification of Listeria in Russia are bacteriological methods that
+require significant labor and time costs. One of the ways of overcoming
+these difficulties is to develop and use systems based on the methods
+for the identification of the genome of the pathogen with the use of
+polymerase chain reaction (PCR). We set ourselves the goal of developing a system of molecular genetic detection of bacteria species L.monocytogenes, L.ivanovii based on multiplex PCR in real time mode. After selection and design of relevant oligonucleotides and fluorescent probes, we have conducted studies that have proven that the use as a target of the gene fragment prfA allows identification of L.monocytogenes, L.ivanovii and differentiation of species L.innocua, L.grayi, L.murrayi. The proposed primers and fluorescent probes with dyes R6G and Fam for L.monocytogenes and L.ivanovii are specific to bacteria of these species. Multiplex PCR format in «real time» allows simultaneous amplification and detection of L.monocytogenes and L.ivanovii in one test tube when using dual channel thermal cyclers (Fam and Hex).</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">На сегодняшний день листериоз представляет собой значительную проблему не только как классическая нозологическая единица, но в первую очередь как пищевая инфекция. Основными средствами индикации и идентификации листерий в России являются бактериологические методы, требующие значительных трудовых и временных затрат. Одним из путей преодоления указанных трудностей является разработка и использование систем на основе методов выявления генома возбудителя с использованием полимеразной цепной реакции (ПЦР). Нами была поставлена цель разработка системы молекулярно-генетической детекции бактерий видов Lmonocytogenes, L.ivanovii на основе мультиплексной ПЦР в режиме «реального времени». После подбора и дизайна соответствующих олигонуклеотидов и флуоресцентных зондов нами были проведены исследования, доказавшие, что использование в качестве мишени фрагмента гена prfA позволяет проводить идентификации L.monocytogenes, L.ivanovii и дифференциацию от видов L.innocua, L.grayi, L.murrayi. Предложенные праймеры и флуоресцентные зонды с красителями R6G и Fam для Lmonocytogenes и L.ivanovii специфичны для бактерий данных видов. Мультиплексный формат ПЦР в режиме «реального времени» позволяет проводить одновременную амплификацию и детекцию Lmonocytogenes и L.ivanoviiв одной пробирке при использовании двухканальных термоциклеров (Fam и Hex).</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(25)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

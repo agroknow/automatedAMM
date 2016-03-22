@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F07773">
+    <dc:title xml:lang="en">Use of ground sugarcane in diets for free-range broiler chickens</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Uso da cana de açúcar triturada na alimentação de frangos de corte tipo caipira</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ESPÓSITO, M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FASSANI, E. J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CLEMENTE, A. H. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MAKIYAMA, L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RETES, P. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CASTRO, S. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feed composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dressing percentage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Digestibility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">NUTRIENT UPTAKE</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10770</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32430</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2266</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5273</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">An experiment was conducted using 276 free-range broiler chickens of the Gauchão lineage to evaluate the effect of dietary supplementation with ground sugarcane (GSC) on performance, energy value of the diets, and carcass yield. The animals were assigned to three treatments and four repetitions of 23 animals each in a completely randomized design. The treatments consisted of the on-top inclusion or not of GSC in a balanced diet (BD) (100% BD</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">85% BD + 15% GSC, and 70% BD + 30% GSC). The experimental diets were offered from 29 to 85 days of age and feed intake, feed conversion and carcass yield of the chickens were evaluated at the end of the experimental period. A metabolism assay was conducted at 52 days of age to determine apparent metabolizable energy, apparent metabolizable energy corrected for retained nitrogen, and apparent metabolizability coefficients of dry matter (MCDM), crude protein (MCCP), neutral detergent fiber (MCNDF) and ether extract (MCEE). Dietary supplementation with GSC increased feed intake and worsened weight gain with increasing level of inclusion. MCDM, MCNDF and MCEE were higher for chickens receiving 85% BD + 15% GSC when compared to animals fed the control diet (100% BD), except for MCCP which was not influence by supplementation with GSC. Carcass yield, cut yield or organ weight did not differ between diets with and without GSC inclusion, while the weights of pancreas and gizzard were higher in chickens receiving 70% BD + 30% GSC compared to those receiving only BD. The on-top inclusion of GSC in the diet of free-range broiler chickens as a feed alternative is justified up to a level of 15% since it does not affect feed conversion of the animals and improves the utilization of dietary nutrients.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Um experimento foi realizado com 276 frangos do tipo caipira da linhagem Gauchão, para avaliar a suplementação de cana de açúcar triturada (CAT) na dieta sobre o desempenho, valor energético das rações e rendimento de carcaça. As aves foram distribuídas em um delineamento inteiramente casualizado com três tratamentos e quatro repetições de 23 aves cada. Os tratamentos foram constituídos da inclusão ou não de CAT de forma on top em uma ração balanceada (RB), (100% RB</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">85% RB + 15% CAT e 70% RB + 30% CAT). As rações experimentais foram fornecidas dos 29 aos 85 dias de idade e ao final do período experimental procedeu-se a avaliação do consumo de ração, conversão alimentar e rendimento de carcaça dos frangos. Aos 52 dias de idade foi realizado ensaio de metabolismo, para determinação da energia metabolizável aparente (EMA), energia metabolizável aparente corrigida pelo nitrogênio retido (EMAn) e coeficientes de metabolizabilidade aparente da matéria seca (CMMS), proteína bruta (CMPB), fibra em detergente neutro (CMFDN) e do extrato etéreo (CMEE). A suplementação de CAT na dieta proporcionou aumento no consumo de ração e piora no ganho de peso de acordo com o aumento no nível de inclusão. Os CMMS, CMFDN e CMEE foram superiores para os frangos que receberam o tratamento com 85% RB + 15% CAT, quando comparadas aos frangos alimentados com o tratamento controle (100% RB), com exceção do CMPB que não foi influenciado pela suplementação de CAT. O rendimento de carcaça, cortes e peso de órgãos não diferiram com a inclusão da CAT, porém o peso do pâncreas e da moela foram maiores nos frangos que receberam a dieta com 70% RB + 30% CAT em relação aos que receberam apenas RB. A inclusão da cana de açúcar triturada on top na dieta de frangos tipo caipira, como alimento alternativo, justifica-se até o nível de 15%, pois não afeta o conversão alimentar das aves e melhora o aproveitamento dos nutrientes da ração.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1435341486.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

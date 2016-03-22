@@ -1,0 +1,68 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09971">
+    <dc:title xml:lang="ru">ГЛАВНЫЙ РЕЗЕРВ ПОВЫШЕНИЯ ЭФФЕКТИВНОСТИ ПРОИЗВОДСТВА ЗЕРНОВЫХ КУЛЬТУР В СЕВЕРНОЙ РАВНИННОЙ ПОДЗОНЕ ДАГЕСТАНА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>MAIN RESERVE OF INCREASE OF PRODUCTION EFFICIENCY OF GRAIN CROPS IN A NORTHERN FLAT SUBBAND OF DAGESTAN</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>САЛИХОВ Р.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>АЛИЕВА П.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Дагестанский научно-исследовательский институт сельского хозяйства им. Ф.Г.Кисриева</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Дагестанский аграрный университет им. М.М. Джамбулатова</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">buffer stocks</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Grain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1137</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3346</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">На примере зерносеющих хозяйств северной равнинной подзоны Дагестана показано, что республика может полностью обеспечить себя зерном собственного производства, используя для этого только экстенсивный путь, то есть за счёт расширения зернового поля, которое не требует больших капиталовложений, для этого есть необходимые земельные и трудовые ресурсы.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">On the example of the farms sowing grain of a northern flat subband of Dagestan it is shown that the republic can provide completely itself with grain of own production, using for this purpose only an extensive way, that is due to expansion of a grain field which doesn't demand big capital investments, for this purpose is necessary land and a manpower.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/01/12-2-31.pdf#page=7</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.12 (31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

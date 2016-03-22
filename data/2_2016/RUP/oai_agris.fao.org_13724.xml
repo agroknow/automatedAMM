@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13724">
+    <dc:title xml:lang="ru">ТЕНДЕНЦИИ ИЗМЕНЕНИЯ УДЕЛЬНОГО ВЕСА ГОРОХА И НУТА В ФОРМИРОВАНИИ СТРУКТУРЫ ПОСЕВНЫХ ПЛОЩАДЕЙ СЕЛЬСКОХОЗЯЙСТВЕННЫХ КУЛЬТУР В РЕГИОНЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>TRENDS OF SPECIFIC GRAVITY CHANGE OF PEA AND CHICKPEA IN SHAPING THE STRUCTURE OF SOWN AREAS OF AGRICULTURAL CROPS IN THE REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ionov  D.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: peas and chickpeas, the structure of sown areas, Rostov region</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассматривается поэтапное совершенствование ранее рекомендованных научно-обоснованных структур посевных площадей сельскохозяйственных культур Донского региона. Анализ фактической и научно-обоснованной структуры посевных площадей показал достаточность производства в регионе в 2014 году озимого ячменя, кукурузы на зерно, овощей и кормовых корнеплодов и недостаточность озимой и яровой пшеницы, крупяных, бобовых (гороха и нута) и технических культур.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article examines the gradual improvement of previously recommended research-based structures of sown areas of crops in Don Region. An analysis of the factual and science-based cropping patterns showed the sufficiency of production in the region of the winter barley, corn, vegetables and fodder roots and lack of winter and spring wheat, cereals, legumes (peas and chickpeas) and industrial crops in 2014.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_b3aaaad50ea1436192841e289aa4dd94.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

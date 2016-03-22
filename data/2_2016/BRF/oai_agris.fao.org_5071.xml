@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F05071">
+    <dc:title xml:lang="en">Beta-adrenergic agonists as additive in beef cattle</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Agonistas beta-adrenérgicos como aditivo para bovinos de corte</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>VEDOVATTO, M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ÍTAVO, C.C.B.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BELTRAME, J.A.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRUMATTI, R.C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FRANCO, G.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bullocks</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">condition scoring</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weight gain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed conversion efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1147</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24440</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8350</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16125</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Revisão de Literatura</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The agonists receptor beta-adrenergic (β-AA) are present in virtually all types of mammalian cells and are stimulated by catecholamines (epinephrine and norepinephrine) produced by the organism itself. The β-AA agonists are synthetic substances with similar structure to these amines. When provided in the diet they alter the body composition of animals, affecting the distribution of nutrients toward to protein deposition, and decreasing lipogenesis. Although the mechanisms of action are not fully understood, these may cause morphological and physiological changes such as increased blood flow decrease in plasma insulin, decreased lipogenesis, and muscle hypertrophy mainly in type II fibers. We also observed changes in motility and secretions grastointestinal tract, beyond the direct influence on the rumen bacteria, altering the digestibility of the diet. The β-AA agonists released in some countries for use in beef cattle are ractopamine hydrochloride and zilpaterol hydrochloride. According to literature data, the inclusion of these additives in the diet of feedlot cattle has been associated with an increase infeed efficiency with the increase in daily weight gain and with equal or lower feed intake. Carcass characteristics improvement was verified in carcass weight, and increased loin eye area, but with the possibility to decrease the subcutaneous fat thickness and marbling. Reviews in sensory panel of meat from animals consuming β-AA agonists showed decreased tenderness and juiciness. Thus β-AA improve performance and carcass characteristics, but more studies are needed to confirm whether they have negative influence on the organoleptic characteristics of the meat.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Os receptores de agonistas beta-adrenérgicos (β-AA) estão presentes em praticamente todos os tipos de células de mamíferos e são estimulados pelas catecolaminas (adrenalina e noradrenalina) produzidas pelo próprio organismo. Os agonistas β-AA são substâncias sintéticas com estrutura similar a estas aminas. Quando fornecidos na ração alteram a composição corporal dos animais, afetando a repartição dos nutrientes em favor da deposição proteica e diminuindo a lipogênese. Apesar dos mecanismos de ação não serem completamente entendidos, estes podem causar alterações morfofisiológicas, tais como o aumento do fluxo sanguíneo, a diminuição do nível plasmático de insulina, a diminuição da lipogênese e a hipertrofia muscular principalmente nas fibras do tipo II. Observam-se também alterações na motilidade do trato gastrointestinal e secreções, além da influência direta sobre as bactérias do rúmen, podendo alterar a digestibilidade da dieta. Os agonistas β-AA liberados em alguns países para utilização em bovinos de corte são o Cloridrato de Ractopamina e o Cloridrato de Zilpaterol. De acordo com dados de literatura, a inclusão destes aditivos na dieta de bovinos confinados tem sido relacionada com aumento na eficiência alimentar e ganho de peso diário, e igual ou menor consumo de ração. Nas características de carcaça tem sido observado aumento no peso das carcaças, e aumento da área de olho de lombo, porém com possibilidade de diminuição da espessura de gordura subcutânea e de marmoreio. Avaliações em painel sensorial da carne de animais consumindo agonistas β-AA mostraram diminuição na maciez, com igual ou menor suculência. Os agonistas β-AA melhoram o desempenho e as características de carcaça, porém mais estudos são necessários para comprovar se possuem influência negativa nas características organolépticas da carne.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1420655227.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

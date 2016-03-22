@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C08761">
+    <dc:title xml:lang="ru">Экологическая спелость древостоев ольхи серой в Беларуси</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Ecological ripeness of forest stands of the alder sulfur in Belarus</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Baginsky V.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Katkov N.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lapitskaya O.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Age</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_186</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8421</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В настоящее время установление возрастов рубки должно производиться с учетом экономических и экологических факторов. Это сочетание приводит к новому понятию - эколого-экономической спелости. В статье даются его обоснование и методика определения. Для нахождения эколого-экономической спелости необходимо установить ее экономическую и интегрированную экологическую составляющие. Определение экономической спелости достаточно отражено в литературе. Понятие об обобщенной экологической спелости введено нами. Эта спелость требуется для определения возрастов рубки при организации экологизированного лесопользования. Она установлена как тот возраст, когда происходит максимальное депонирование диоксида углерода совокупностью насаждений определенной хозсекции для объекта лесоустройства (лесхоза). Экологическая спелость леса - это состояние насаждений, определяемое их возрастом, в котором достигается максимальная экологическая эффективность постоянного лесопользования. Этот показатель аккумулирует процесс воспроизводства запасов насаждения, обусловливая постоянство лесопользования на конкретной территории (не менее лесхоза) в аспекте «время - пространство». Ранее нами определены экологические спелости для главных пород в лесах Беларуси, но это необходимо сделать для всех лесообразующих пород. Приведены величины экологической спелости в сероольховых древостоях Беларуси. Она установлена по максимуму депонирования диоксида углерода на территории объекта лесоустройства. В древостоях ольхи серой, произрастающей в Беларуси, экологическая спелость равна 38-39 годам в условиях I класса бонитета (сероольшаники снытевый, кисличный, злаковый и папоротниковый), 41-42 годам во II классе бонитета (сероольшаники таволговый, черничный, частично орляковый) и 47-50 годам в III классе бонитета (сероольшаники частично орляковый, долгомошный, осоковый). Экологическая спелость леса сероольшаников практически совпадает с установленными возрастами рубки, что говорит о том, что вырубая древостои в V классе возраста, мы добиваемся от них максимальной экологической и экономической отдачи.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Currently, the establishment of cutting age should be based on economic and environmental factors. This combination leads to a new concept - ecological and economic maturity. The article provides its rationale and method of determination. To determine the environmental and economic maturity necessary to establish an integrated economic and environmental ripe ripeness. Determining economic ripeness sufficiently reflected in the literature. The concept of a generalized environmental ripeness introduced us. This maturity is required to determine the ages of the organization ecologized felling forest. It is set as the age when there is a maximum deposit of carbon dioxide a certain set of stands for the object management section of forest management (forestry). Environmental ripeness forest - a state of plantings, determined their age, in which the maximum continuous forest ecological efficiency. This indicator accumulates the reproduction of stocks plantations, causing the constancy of forest management in a specific territory (at least SFE) in terms of “time - space”. We have previously established environmental maturity for the main species in the forests of Belarus, but it must be done for all tree species. Given the magnitude of environmental ripeness gray alder stands of Belarus. It is set to the maximum storage of carbon dioxide at the site of forest management. The gray alder stands growing in Belarus, it is equal to 38-39 years in terms of site class I (seroolshaniki of oak, Kislichnaya, cereal and fern), 41-42 years of quality class II (seroolshaniki tavolgovy, blueberry, fern partly) and 47-50 years in quality class III (seroolshaniki partially fern, polytric, sedge). Environmental ripeness of gray alder stands practically coincides with established cutting age, which suggests that cutting down stands in age class V, we achieve the maximum environmental and economic benefits of these stands.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal.spb-niilh.ru/pdf/2-2015/spbniilh-proceedings-2-2015-3-full.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Труды Санкт-Петербургского научно-исследовательского института лесного хозяйства</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2079-6080</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

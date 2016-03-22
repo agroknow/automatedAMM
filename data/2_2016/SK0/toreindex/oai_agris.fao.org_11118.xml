@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016011118">
+    <dc:title xml:lang="sk">Foliárna aplikácia nitrolenolu zvyšuje toleranciu rastlín čakanky k suchu</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Exogenous application of nitrophenol enhanced chicory drought tolerance</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kovár Marek</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Černý Ivan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Slamka Pavol</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertilization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Foliar application</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chicory</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">arid climate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2863</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3008</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9786</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_611</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">In the pot vegetation experiments conducted in semi-controlled environmental conditions, we studied the effect of foliar application of p-nitrophenol on the water parameters of chicory (Cichorium intybus var. sativa). Plants treated with p-nitrophenol and grown in conditions of well watersupply of soil significantly increased the dry weight of the root system (WR). On the other hand, the dry weight of the above-grown parts (WAG), the size of the leaf area (A) 
+and specific leaf area (SLA) were significantly unaffected. Finally, the foliar application of p-nitrophenol in well hydrated plants unaffected the relative water content (RWC) of leaf and the stomatal conductance (gs). However, p-nitrophenol in a well hydrated plants significantly reduced the osmotic potential(psís), induces a increase of the capacity for osmotic adjustment (OA). This result was confirmed by the increased accumulation of proline. The chicory plants treated of p-nitrophenol and exposed to progressive soil dehydration significantly resulted in a slower decline in RWC, gs as well as increase capacity for OA and proline concentration. We concluded that foliar application of biostimulative substance p-nitrophenol increased the ability of chicory plants to tolerate soil dehydration, which gives less reduction of growth and dry matter production plants.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Agrochémia</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1335-2415</ags:citationIdentifier>
+      <ags:citationNumber>v.19/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

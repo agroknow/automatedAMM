@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016103079">
+    <dc:title xml:lang="en">Study of the tolerance of ten accessions of carrot (Daucus carota L.) to salinity</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kahouli Basma</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Borgi Zied</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hannachi Cherif</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">осмотический стресс</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dry matter</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35750</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331318</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present work has focused on the assessment of the tolerance of ten accessions of carrot (L1, L2, L3, F4, E5, R7, R8, L10, G11 and S12) to salt stress, grown in the region of Sidi Bouzid. The tests were carried out under plastic greenhouse (during 5 months). The results obtained show that the salt stress reduced the parameters of growth and production. However, a difference in the response to salt stress was recorded between the accessions studied. A reduction in yield of up to 70 % with the concentration 3 g / l of NaCl, for different accessions studied is recorded. However, the accession L1 who has given the longer roots and dry matter yield and the largest root shows the most tolerant accessions unlike L10, G11 and S12 which are the most sensitive.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N3/JSPB_2014_3_18-27.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

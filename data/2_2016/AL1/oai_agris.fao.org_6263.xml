@@ -1,0 +1,33 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016106263">
+    <dc:title xml:lang="en">Problems of Poverty Level in Albania</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>JAUPI ALBAN</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Economic, Policy and Rural Development, Agricultural University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">poverty</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6151</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Hunger and starvation are the main challenge  of the humanity and the  main enemy of the progress, pace and human stability. This is why all the partners of United Nation  are conscious about an urgent engagement as in political program and in the compilation of a concrete plan to grow-up effectively the war against this  negative phenomenon, that is present  in the time we are living.
+Based on the FAO and Feeding Word Program figures, Albania ranks among the states who do not suffer from hunger. However is the lowest  income state in Europe.
+The transit process highlighted the negative potential effects on the inequality standard of living. Most part of the inequality standard of living  in the transition economy touch the decrease of the guarantee employment, and inexpert employee. Although from our point of view, the disparity increase is being a social problem every day bigger for the region ECA society, and this is germane with the social cohesion and the mean government.
+There is little difference as far as the expenditure food structure  among zone is concerned, this talks about a unique structure  of the food tradition in Albania. Differences among zones  exists on the  income level for capital  and on the exception of the social levels among  zones.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://drive.google.com/file/d/0B_i7_HlsPT6HaUxaajRxVkp4emc/view?usp=sharing</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

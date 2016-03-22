@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13479">
+    <dc:title xml:lang="en">EFFICIENCY OF MILK PRODUCTION (ON THE EXAMPLE OF ULUANOVSK REGION)</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЭФФЕКТИВНОСТЬ ПРОИЗВОДСТВА МОЛОКА (НА ПРИМЕРЕ УЛЬЯНОВСКОЙ ОБЛАСТИ)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ivanova N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dairy industry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dairy cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">state intervention</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">profitability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2111</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4829</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2 tables, 11 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Milk production is one of the key sectors of the economy of Ulyanovsk region. With the decline in the number of cows and increase the productivity of animals in the region, there is a slight upward trend in milk production. However, the existing scale of production cannot provide the population with milk in full, under these conditions, the region is dependent on imports of products from other regions of  the  country. The main direction of solving this problem is the increasing production scale and increasing the profitability of the industry. The article deals with the analysis of the influence of some factors on the profitability of milk production by using correlation and regression analysis. The obtained data show that the main influence on the profitability of milk production is done by a selling price, the total cost of production and direct labour costs. Thus, under the existing conditions in most of the studied organizations there is wastage of factors of production, because they the actual profitability below predicted. Using the method of extrapolation the role of sales prices, total cost and profitability of milk produc¬tion in the future are forecasted by the authors. According to predictive values in the present level of development of production in 2016, the productivity of cows will be 42,31 C, the total cost of 1 kg milk- 1,49 thousand rubles, while the price will grow to 1.76 thousand rubles. The profitability of milk produc¬tion will amount, according to our estimates, 21,21 %, 1.05 p. p. higher than the values of 2013</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Производство молока является одной из системообразующих отраслей экономики Уль¬яновской области. На фоне снижения поголовья коров и роста продуктивности животных в области наблюдается незначительная динамика увеличения производства молока. Однако, существующие объемы производства продукции не могут обеспечить население молоком в Полном объеме, в этих условиях область зависима от импорта продукции из других регио¬нов страны. Основным направлением решения данной проблемы является наращивание объёмов производства, при этом увеличивая доходность отрасли. В статье с помощью корреляцион¬но-регрессионного анализа проанализировано влияние некоторых факторов на рентабель¬ность производства молока. Полученные в ходе исследования данные свидетельствуют, что основное влияние на рентабельность производства молока оказывают цена реализации, полная себестоимость производства и прямые затраты труда. При этом в существующих условиях в большинстве исследуемых организаций нерационально расходуются факторы производства, поскольку в них фактическая рентабельность производства ниже предсказанной. С помощью метода экстраполяции нами спрогнозированы значения цены реализации, полной себестоимости и рентабельности производства молока на перспективу. Согласно прогнозным значениям при существующем уровне развития производства в 2016 г. продук¬тивность коров составит 42,31 ц, полная себестоимость 1 ц молока - 1,49 тыс. руб., при этом цена реализации вырастет до 1,76 тыс. руб. Рентабельность производства молока со¬ставит, по нашей оценке, 21,21 %, это на 1,05 п. п. выше значений 2013 г.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Niva Povolzhya</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1998-6092</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(36)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

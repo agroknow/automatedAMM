@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02934">
+    <dc:title xml:lang="en">Carcass composition of lambs finished with diets containing in natura or disabled soybean grain and two concentrate levels</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Composição da carcaça de cordeiros terminados com dietas contendo grão de soja in natura ou desativado e dois níveis de concentrado</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ALVES, L.G.C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OSÓRIO, J.C.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERNANDES, A.R.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VARGAS JÚNIOR, F.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OSÓRIO, M.T.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SENO, L.O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NUBIATO, K.E.Z.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RICARDO, H.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mutton</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">condition scoring</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">adipose tissue</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5015</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1329302061039</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24440</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_129</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6461</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective was to evaluate the composition of carcass cuts and tissue of lambs shoulder and leg finished in feedlot receiving diets containing whole or disabled soybean grain with two concentrate levels (50% and 80% of DM). There were used 20 crossbreed entire male lambs, 120 days of age and initial body weight of 22.6 ± 2.06 kg. A completely randomized design was used, allocated in a factorial arrangement 2x2 (levels concentrate and processing of soybean grain). The slaughter criterion was body condition between 3 and 3.5. The weight of sirloin cut was superior with 80% of concentrate. In the shoulder tissue composition, the level of 50% concentrate increased the ratio of subcutaneous fat. In natura soybean provided higher values for weight and ratio of subcutaneous and total fat. For the leg tissue composition, the grain of disabled soybean showed higher muscle yield and muscle:bone ratio. Diets with 80% of concentrate, regardless of processing soybean grain, improved commercial yield and the diets containing disabled soybean more edible portion.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se avaliar a composição dos cortes da carcaça e tecidual da paleta e pernil de cordeiros terminados em confinamento, recebendo dietas contendo grão de soja in natura ou desativado com dois níveis de concentrado (50% e 80% da MS). Foram utilizados 20 cordeiros, machos não castrados, sem raça definida, com 120 dias de idade e peso corporal inicial de 22,6 ± 2,06 kg. O delineamento foi inteiramente ao acaso em esquema fatorial 2x2 (níveis de concentrado e processamento do grão de soja). O critério de abate foi determinado pela condição corporal entre 3 e 3,5. O peso do corte lombo foi superior para o nível de 80% de concentrado. Na composição tecidual da paleta, o nível de 50% de concentrado aumentou o rendimento de gordura subcutânea. O grão de soja in natura proporcionou maiores valores para peso e rendimento de gordura subcutânea e total. Para a composição tecidual do pernil, o grão de soja desativado proporcionou maior rendimento de músculo e para a relação músculo:osso. As dietas com 80% de concentrado, independentemente do processamento do grão de soja, proporcionaram melhor rendimento de cortes cárneos, e as dietas contendo grão de soja desativado maior porção comestível.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1412019784.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

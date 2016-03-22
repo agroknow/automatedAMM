@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012529">
+    <dc:title xml:lang="en">Genome-wide selection signatures in Pinzgau cattle</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Radovan Kasarda</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Moravčíková Nina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Trakovická Anna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mészáros Gábor</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kadlečík  Ondrej</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genomes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3224</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to identify the evidence of recent selection based on estimation of the integrated Haplotype Score (iHS), population differentiation index (FST) and characterize affected regions near QTL associated with traits under strong selection in Pinzgau cattle. In total 21 Austrian and 19 Slovak purebreed bulls genotyped with Illumina bovineHD and  bovineSNP50 BeadChip were used to identify genomic regions under selection. Only autosomal loci with call rate higher than 90%, minor allele frequency higher than 0.01 and Hardy-Weinberg equlibrium limit of 0.001 were included in the subsequent analyses of selection sweeps presence. The final dataset was consisted from 30538 SNPs with 81.86 kb average adjacent SNPs spacing. The iHS score were averaged into non-overlapping 500 kb segments across the genome. The FST values were also plotted against genome position based on sliding windows approach and averaged over 8 consecutive SNPs. Based on integrated Haplotype Score evaluation only 7 regions with iHS score higher than 1.7 was found. The average iHS score observed for each adjacent syntenic regions indicated slight effect of recent selection in analysed group of Pinzgau bulls. The level of genetic differentiation between Austrian and Slovak bulls estimated based on FST index was low. Only 24% of FST values calculated for each SNP was greather than 0.01. By using sliding windows approach was found that 5% of analysed windows had higher value than 0.01. Our results indicated use of similar selection scheme in breeding programs of Slovak and Austrian Pinzgau bulls. The evidence for genome-wide association between signatures of selection and regions affecting complex traits such as milk production was insignificant, because the loci in segments identified as affected by selection were very distant from each other. Identification of genomic regions that may be under pressure of selection for phenotypic traits to better understanding of the relationship between genotype and phenotype is one of the challenges for livestock genetics</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/478/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

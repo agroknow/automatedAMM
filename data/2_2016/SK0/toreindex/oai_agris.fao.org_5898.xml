@@ -1,0 +1,42 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016005898">
+    <dc:title xml:lang="en">METHODS OF METHANE MEASUREMENT IN RUMINANTS</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BROUČEK J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L51</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">methane</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">emission</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4784</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331377</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4788</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This review is devoted to methodology, which can help direct and indirect measurement of methane emissions. This paper will be useful for expanding the knowledge base of researchers, farm planners, and policymakers as they work to develop and maintain sustainable environment conditions for farming systems in Slovakia. The following methods like respiration chamber,SF6 technique, alternative methods, micrometeorological methods, proxy methods, in vitro gas production technique, and models for predicting methane production are described.Above mentioned methods are compared and their advantages and disadvantages are enlisted.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.cvzv.sk/index.php/sk/rocnik-47-2014/cislo1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Slovak Journal of Animal Science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1337-9984</ags:citationIdentifier>
+      <ags:citationNumber>v.47/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

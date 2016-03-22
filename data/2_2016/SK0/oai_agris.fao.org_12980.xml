@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012980">
+    <dc:title xml:lang="en">Comparison of theoretical and experimental values of natural frequencies of circular saw blade</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Porovnanie teoretických a experimentálnych hodnôt vlastných frekvencií pílového kotúča</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Droba Adam</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Paulíny Dušan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Svoreň Ján</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email:   svoren@tuzvo.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">woodworking equipment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sawmilling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">saws</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37154</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6832</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Current trends in area of woodworking industry with circular saws is increasing of the cutting speed in order to improve the quality of surface roughness, increase the accuracy of cutting with consideration to achieve a direct cut, ensuring geometric accuracy of the workpiece and reduces the waste of material in the form of sawdust. The sawing with high cutting speed resulting in the saw blade vibration, which can lead to instability of saw disc. The reduction of oscillation amplitude is required to remove undesired effects of circular saw blade oscillation. In this paper are summarized results of measurements of natural frequencies and computed values on circular saw blade with diameter of 350 mm and number of teeth 36. The computations were done by software Creo/Elements Simulation 1.0 and measurements were done on measuring apparatures showed below. Results of both methods have been compared.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/FEVT/fakulta_fevt/akta_fevt-1-2013-droba-pauliny-svoren.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta facultatis technicae Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-4472</ags:citationIdentifier>
+      <ags:citationNumber>v.18/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

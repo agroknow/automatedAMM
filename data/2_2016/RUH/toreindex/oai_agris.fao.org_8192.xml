@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08192">
+    <dc:title xml:lang="ru">ЗЕМЕЛЬНЫЕ И ВОДНЫЕ РЕСУРСЫ – СОЗДАНИЕ НЕКОТОРЫХ УСЛОВИЙ ДЛЯ ЭФФЕКТИВНОГО ИСПОЛЬЗОВАНИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>LAND AND WATER RESOURCES - CREATING SOME CONDITIONS FOR EFFECTIVE USE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>УБАЙДУЛЛАЕВ М.Б.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ошский Государственный Университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F06</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">water</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Irrigation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1328092363998</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8309</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3954</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Земля и вода как основной источник жизнедеятельности человека все еще остаются основными природными ресурсам. В современном мире существует острый вопрос по отношению к этим ресурсам, но эти вопросы связаны не с использованием этих ресурсов (хотя это тоже очень актуальный вопрос), а созданием условий для их использования. В данной статье рассматриваются современные вопросы создания и улучшения условий использования земельных и водных ресурсов.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Land and water as the main source of human life are still the main natural resources. In today's world there is an acute problem in relation to these resources, but these issues are not related to the use of these resources (although this is also a very topical issue), and the creation of conditions for their use. This article reviews current issues of creating and improving the use of land and water resources.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/6-13-2.pdf#page=10</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.6 (13)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

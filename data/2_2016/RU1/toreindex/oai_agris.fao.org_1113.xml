@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101113">
+    <dc:title xml:lang="en">Phytoremediation of Lead and Cadmium Contaminated Soils using Sunflower Plant</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sewalem Nasser</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Elfeky Soad</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>El- Shintinawy Fatma</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Helianthus annuus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heavy metals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cadmium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lead</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3539</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1178</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4235</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Phytremediation has emerged as a practical approach to clean up metal-polluted soils. In this study the role of sunflower (Helianthus annuus L.) plants as a potential phytoremediator to soils contaminated with cadmium (Cd) and lead (Pb) was investigated. Our results showed that the effect of Cd was stronger on the growth of the roots, while the effect of Pb was stronger on the shoots of sunflower seedlings. At the physiological level, Cd treatment was found to induce low levels of lipid peroxidation and membrane leakage with less affected photosynthesis in the leaves of the treated sunflower seedlings compared to the effects of Pb. The results presented here showed that a high amount of the total absorbed Cd (88.84%) was accumulated in roots, while a high amount of the total absorbed Pb (71.39) was tranlocated to shoots of sunflower seedlings. Similar trends of Cd and Pb allocation between roots and shoots at the yield stage were recorded. We suggest here that sunflower plants may remediate Cd contaminated soils through phytostabilization, while may remediate Pb contaminated soils through phytoextraction. Finaly, the trace amounts of Cd and Pb that were accumulated in seeds recommends sunflower plants to be used safely and economically for cleaning up soils contaminated with Cd and/or Pb.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_122-134.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

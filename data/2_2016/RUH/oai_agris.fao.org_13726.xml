@@ -1,0 +1,98 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H13726">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ ЛИСТОВЫХ И КОРНЕВЫХ ПОДКОРМОК НА ПРОДУКТИВНОСТЬ КУКУРУЗЫ НА ЗЕРНО</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INFLUENCE OF LEAF AND ROOT ADDITIONAL FERTILIZING ON THE PRODUCTIVITY OF MAIZE FOR GRAIN</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Авдеенко А.П.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Авдеенко  И.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ФГБОУ ВПО «Донской Государственный аграрный университет»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">maize</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Urea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ammonium nitrate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">leaf area</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">foliar fertilization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12332</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8090</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_352</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16110</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27438</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18454/IRJ.2015.42.196</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приводятся результаты исследований по влиянию листовых подкормок мочевиной и корневых подкормок
+аммиачной селитрой на продуктивность гибрида кукурузы на зерно. Показано влияние минерального удобрения и
+типа подкормки на рост и развитие растений кукурузы, площадь листовой поверхности. Листовая подкормка N15
+способствует повышению урожайности зерна кукурузы до 7,62 ц/га, что на 0,59 т/га выше варианта без удобрений.
+Корневая подкормка аммиачной селитрой повышает урожайность кукурузы с 7,03 до 7,10-7,29 ц/га. В условиях
+неравномерного увлажнения вегетационного периода кукурузы, когда 65 % осадков выпадает в период «посев-
+всходы», наибольшая существенная прибавка урожайности получена при некорневой обработке посевов мочевиной в
+дозе N15 кг/га в фазу 6-7 листьев кукурузы.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Results of research on the effect of foliar application of urea and root additional fertilizing ammonium nitrate on the
+productivity of hybrid corn. Shows the effect of mineral fertilization and feeding type on growth and development of plants of
+corn leaf surface area. Foliar nutrition contributes to enhancing the productivity of grain N15 corn to 7.62 centner/HA, that at
+0.59 t/ha higher version without fertilizers. Rhizome additional fertilizing ammonium nitrate increases the yield of corn with
+7.03 7.10 to -7.29 t/ha. In the face of an uneven wetting of growing period of maize, where 65% of the rain falls during the
+sowing-shoots significant yield gain received foliar crops processed with urea in dose N15 kg/ha in phase 6-7 leaves of corn.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/12/11-6-42.pdf#page=44</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.11-6(42)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

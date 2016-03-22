@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016006725">
+    <dc:title xml:lang="en">Somatic embryogenesis: method for vegetative reproduction of conifers</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Salaj Terézia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fráterová Lenka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cárach Martin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Salaj Ján</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Academy of Sciences,  Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F63</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cryopreservation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">in vitro</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Micropropagation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">embryonic development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24155</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37563</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24136</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2545</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">For Pinus nigra Arn. somatic embryogenesis has been initiated from immature zygotic embryos enclosed in megagametophytes. The initiated embryogenic tissues contain bipolar structures – somatic embryos consisted of meristematic embryonal part and long vacuolised suspensor cells. The embryogenic tissues/cultures are usually maintained on solid or liquid nutrient media. For long-term storage, recently the method of cryopreservation has been used to replace the time consuming regular transfers to nutrient media. The initiated cell lines represent individual genotypes and the structure of somatic embryos as well as their maturation is cell line dependent. The maturation of early somatic embryos occurs on media containing abscisic acid and osmotica. The process of somatic embryogenesis is completed by plantlet (somatic seedlings) regeneration.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.40/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

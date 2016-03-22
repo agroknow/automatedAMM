@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12956">
+    <dc:title xml:lang="en">AGROECOLOGICAL ASSESSMENT OF SOIL FERTILITY OF ARABLE SOILS OF PIEDMONT PLAINS OF ALTAI</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>АГРОЭКОЛОГИЧЕСКАЯ ОЦЕНКА ПЛОДОРОДИЯ ПАХОТНЫХ ПОЧВ ПРЕДГОРНЫХ РАВНИН АЛТАЯ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Кudryavtsev A.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Altai state agrarian university</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F07</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil fertility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agroecology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">development indicators</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chernozems</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7170</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_92381</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29170</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1533</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2 tables, 13 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Agroecological assessment of soil fertility of arable soils of Chernozem zone of piedmont plains of Altai was conducted on the basis of the developed method with the allocation of levels of agroecological condition. The objects of study were arable soils of Chernozem zone of piedmont plains of Altai and their unique property - fertility. Piedmont plains of Altai are characterized by peculiar natural conditions that allow to generate in a given territory the typical chernozem, but the use of these soils in the arable land is limited because of the peculiar topography. The conducted research has allowed to develop a scale of dynamism, which evaluates the intensity of degradation processes. It is established that the main process of degradation is the plane wash, but not all of the arable soils and not equally are affected by it, and that was the basis for the development of the indicators of such properties of the soil as humus horizon, humus content, the reaction medium, the content of physical clay and silt fractions in the humus horizon, the amount of water-stable aggregates.  The indicators characterize both relative and absolute spacing changes of these parameters of fertility. The totality of the conducted research has allowed to develop the levels of agro-ecological conditions, such as "Normal", "Risk", "Crisis" and "Disaster", which differ in the intensity of the occurring degradation processes and therefore must have their recommendations for use. The basic measure, which assesses the fertility of the secreted levels of agroecological condition is indeed possible yield. On arable soil of level of agroecological condition "Normal" the yield of spring wheat may be 2,5 t/ha and more, while on "Risk", "Crisis", respectively, 2,0 and 1,6 t/ha.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проведена агроэкологическая оценка плодородия пахотных почв зоны  чернозёмов предгорных равнин Алтая на основе разработанной методики с выделением уровней агроэкологического состояния. Объектами исследования послужили пахотные почвы зоны чернозёмов предгорных равнин Алтая и их уникальное свойство - плодородие. Предгорные равнины Алтая характеризуются своеобразными природными условиями, которые позволяют сформировать на данной территории чернозёмы типичные, однако использование этих почв в пашне ограничено из-за своеобразного рельефа. Проведенные исследования позволили разработать шкалу динамичности, которая оценивает интенсивность развития деградационных процессов. Установлено, что основным процессом деградации является плоскостной смыв, но не все пахотные почвы и не в равной степени подвержены этому явлению, что и послужило основой для разработки индикаторов таких свойств почв, как мощность гумусового горизонта, содержание гумуса, реакция среды, содержание физической глины и илистой фракции в гумусовом горизонте, количество водопрочных агрегатов.  Индикаторы характеризуют как относительные, так и абсолютные  интервалы изменений рассматриваемых параметров плодородия. Совокупность проведенных исследований позволила разработать уровни агроэкологического состояния, такие как «Норма», «Риск», «Кризис» и «Бедствие», которые отличаются интенсивностью происходящих деградационных процессов и соответственно должны иметь свои рекомендации по использованию. Основополагающим показателем, оценивающим плодородие выделяемых уровней агроэкологического состояния, является действительно возможная урожайность. На пахотных почвах уровня агроэкологического состояния «Норма» урожайность яровой пшеницы может составлять 2,5 т/га и более, в то время как на «Риске», «Кризисе» соответственно 2,0 и 1,6 т/га .</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/3-15-Kudryavtsev.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

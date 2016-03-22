@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X11500">
+    <dc:title xml:lang="en">improvement of fertilizers utilization efficiency in beta vulgaris l. cultivation</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>повышение эффективности выращивания свеклы столовой (BETA vulgaris l.) за счет использования удобрений</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gaplaev M.Sh.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nadezhkin S.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Chechen State University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant growth stimulants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27096</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2 tables;11ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The use of green manure and mulching of seedlings with local organic materials and zeolite-containing clays help to improve nutrient and agrophysical properties of leached Chernozem. This contributes to the intensification of the physiological and biochemical processes in beetroot, and increase the yield by 14,934,9%, the mass of roots by 11,8-16,3 g and output of standard products by 3,1-7,2 %. There was an improvement of biochemical and sanitary measurements of the quality of root crops.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Использование зеленого удобрения и мульчирование всходов местными органическими материалами и цеолитсодержащими глинами способствуют улучшению пищевого режима и агрофизических свойств чернозема выщелоченного. Это способствует интенсификации физиолого-биохимических процессов, происходящих в растениях свеклы столовой, и обеспечивает повышение урожайности на 14,9-34,9% массы корнеплодов на 11,8-16,3 г и выхода стандартной продукции на 3,1-7,2%. При этом выявлено улучшение биохимических и санитарно-гигиенических показателей качества корнеплодов.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(29)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

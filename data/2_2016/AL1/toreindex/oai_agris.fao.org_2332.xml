@@ -1,0 +1,45 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102332">
+    <dc:title xml:lang="en">Fishing activity of small pelagic in Albania: 1948-1990</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>KRISTO ROLAND 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HARIZAJ FATOS 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MACI ADRIAN 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>AURSAND I.G. 2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GRIMSMO L. 2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KOLITARI JERINA 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Faculty of Agriculture and Environment, Agricultural University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2SINTEF Fisheries and Aquaculture, Brattørkaia 17B, N-7465 Trondheim, Norway</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The small pelagic species are important commercial fishes of the Adriatic Sea. In Albania, the fishing activity of Sardines had a key importance still in 1990, as it represented about 70% of total catch. The main fishing method used was purse seine using light attraction that represented about 80% of total catches of sardines and the rest was mid-water pelagic trawl nets towed by two vessels. Albanian catches of sardines reached a maximum value, in 1982-1985 with value from 5,000 to 6,500 tons and maximum at 1984 with 6,596 tons. In 1990, the Sardine fleet consisted of 60 fishing vessels, from which 28 in Vlora, 12 in Durres, 12 in Shengjin and 8 in Saranda. 
+The number of fishing vessels for bottom trawl fishing was as average 21 and 23 for 1985 and 1989 respectively, with a maximum of 28 fishing vessels. The average of fishing days was about 142 days/year. The production for 1985 was 1899.6 tons and for 1989 was 2324.2 tons. 
+The number of fishing vessels for mid water pelagic pair trawls was as average 17 and 8 for 1985 and 1989 respectively, with a maximum of 27 and 16 fishing vessels. The production for 1985 was 2230.2 tons and for 1989 was 744.6 tons.
+The number of fishing vessels with purse seines with light attraction was as average 34 and 37 for 1985 and 1989 respectively, with a maximum of 38 and 45 fishing vessels. The average of fishing days was about 137 days/year. The production for 1985 and 1989 was 3319.2 and 2919.8 tons respectively.
+The number of coastal fishing vessels was as average 13 and 15 for 1985 and 1989 respectively, with a maximum of 14 and 19 fishing vessels. The average of fishing days was about 109 days/year. The production for 1985 and 1989 was 166.7 and 188.9 tons respectively.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

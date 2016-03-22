@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016103022">
+    <dc:title xml:lang="en">Role of Mycorrhizal Symbiosis in Growth and Salt Avoidance of Pistachio Plants</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Shamshiri M.H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pourizadi F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Karimi H.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Glomus mosseae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pistacia vera</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">осмотический стресс</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35500</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5930</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35750</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In a greenhouse experiment, plant growth and rates of uptake and root to shoot transport of chloride and sodium were investigated in seedlings of pistachio (Pistacia vera cv. Badami-Riz-Zarand) inoculated with Glomus mosseae and exposed for 21 and 42 days with four salinity levels (0.5, 3.0, 6.0 and 9.0 dSm-1). Mycorrhizal (+M) plants maintained greater root and shoot biomass at all salinity levels compared to non-mycorrhizal (-M) plants. In -M plants, salt intensity had no significant effect on shoot dry weight (SDW) and leaf dry weight (LDW) on each of harvesting dates but root dry weight (RDW) showed a significant decrease at the highest salinity level 42 days after the start of salt treatment (DAT) in comparison with control (EC of 0.5 dSm-1). In +M plants, SDW was increased with an increase in salt intensity especially in the first harvesting date. The same increase was observed in RDW of +M plants while LDW was not affected by salt stress levels. Rates of uptake and root to shoot transport of Cl- and Na+ were markedly lower in +M than in -M plants leading to decrease in accumulation of them. In conclusion, the study indicates that pistachio tolerance to salt stress is improved by mycorrhizal colonization, although the salinity levels used in this work could not induce biomass reduction in -M pistachio plants, higher levels of salinity should be investigated in order to optimize the effect of this symbiosis.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N2/JSPB_2014_2_155-167.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

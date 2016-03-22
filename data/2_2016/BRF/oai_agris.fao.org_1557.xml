@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01557">
+    <dc:title xml:lang="en">Use of exogenous enzymes for poultry: A critical view</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Uso de enzimas exógenas na avicultura: Uma visão crítica</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>CARDOSO,  D. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LARA, L. J. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MIRANDA,  D. J. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POMPEU, M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MACHADO,  A. L. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MATIAS,  C. F. Q.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2010-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">evaluation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Broiler chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2736</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The search for alternatives that enable the reduction of production costs, especially in the poultry industry goes against the performance of products such as exogenous enzymes. However, efficient use of such products depends on meaningfull and concrete results on its potential benefits. Thus, much research has been conducted in attempt to elucidate the enzymes potential on improving the digestibility of ingredients and consequently on the performance of birds. Until then, the results presented, especially about the group of enzymes understood by carbohydrases and proteases are still very contradictory. Several methods and surface analysis adopted by researchers led to a series of inaccurate and biased conclusions. It is necessary to adopt specific assessments that glimpse the pratical potential and enzymes objective concerned to raw materials used in Brazil, aiming to achieve clear and timely results.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A busca por alternativas que possibilitem a redução dos custos produtivos, em especial na avicultura, vai ao encontro à atuação de produtos como as enzimas exógenas. No entanto, a utilização eficiente de tais produtos depende de resultados expressivos e concretos sobre seus possíveis benefícios. Desta forma, inúmeras pesquisas têm sido conduzidas na tentativa de elucidar melhor o poder das enzimas sobre a melhoria da digestibilidade de ingredientes e consequentemente, sobre o desempenho das aves. Até então, os resultados apresentados, principalmente sobre o grupo de enzimas compreendidas pelas carboidrases e proteases ainda são bastante contraditórios. Diversas metodologias e análises superficiais adotadas pelos pesquisadores levam a uma série de conclusões imprecisas e tendenciosas. Faz-se necessário a adoção de avaliações específicas que vislumbre o potencial prático e objetivo de complexos enzimáticos, sobre tudo que levem em consideração as matérias-primas usadas no Brasil, com vistas à obtenção de resultados claros e pontuais.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1302293547.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.67/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C03836">
+    <dc:title xml:lang="ru">Комплексная оценка опасности лесных пожаров в зонах радиоактивного загрязнения лесов</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Comprehensive assessment of forest fire hazards in radioactive contaminated forest areas</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Razdaivodin A.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Romashkin D.Y.</ags:creatorPersonal>
+    </dc:creator>
+    <ags:creatorConference>International scientific conference Innovation and technologies in forestry</ags:creatorConference>
+    <dc:creator>
+      <ags:creatorCorporate>Russian Research Institute for Silviculture and Mechanization of Forestry</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forest rehabilitation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forest fires</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fires</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14003</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3062</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36729</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3045</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2915</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">особенностей лесных пожаров в зонах радиоактивного загрязнения. Рассмотрены юридические аспекты отнесения пожаров к радиоактивным лесным пожарам и определения чрезвычайной лесопожарной ситуации в зонах радиоактивного загрязнения. Приведены технологии, используемые для комплексной оценки опасности лесных пожаров в зонах радиоактивного загрязнения и предложены пути реабилитации лесов в зонах отселения и отчуждения.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Profile of radioactive status in the Russian Federation forests and forest fire specifics in radioactive contaminated areas. Legal aspects of fire reference to a radioactive forest fire and definition of a forest fire emergency in radioactive contaminated zones are covered. Technologies applied in comprehensive forest fire hazard assessment in radioactive contaminated areas are highlighted and proposals on forest rehabilitation in compulsory evacuation and exclusion zones.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.spb-niilh.ru/pdf/innovations/innovations_2011_1.pdf</dc:identifier>
+    <dc:type>Conference Paper</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+  </ags:resource>
+</ags:resources>

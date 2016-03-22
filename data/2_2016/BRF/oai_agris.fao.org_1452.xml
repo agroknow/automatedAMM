@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01452">
+    <dc:title xml:lang="en">Economic results of a milk production system in the area at Varginha - south of Minas Gerais State</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Resultados econômicos de um sistema de produção de leite na região de Varginha - sul de Minas Gerais</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LOPES M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GOMIDE, D. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FRANCO NETO, A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS,  G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dairy cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">profitability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We studied the profitability of a milk production system, located in the area at Varginha, in the south of Minas Gerais, identifying the components that exercised higher influence on the effective operational cost, as well as the representation of each on lelated to the total income. The data were collected from January to December of 2008. For data entry, as well as the profitability analysis, the Cu$to Bovino Leite® software was used considering the total and operational cost methodologies. In the analysis, for presenting negative gross and liquid margins, and negative results it was concluded that the milk production system analyzed is entering into debt and decapitalized due to the revenues earned were not even enough to pay the effective operating expenses.　 The component items of the effective operational cost that exercised higher influence on the the milk income and effective operational cost were: feeding, labor, taxes and fees, sanitation, milking, miscellaneous expenses, reproduction and energy.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Estudou-se a rentabilidade de um sistema de produção de leite, situado na região de Varginha, no sul de Minas Gerais, identificando os componentes que exerceram maior influência no custo operacional efetivo, bem como a representatividade de cada um deles em relação à receita total. Os dados foram coletados de janeiro a dezembro de 2008. Para o cadastramento desses, bem como na análise de rentabilidade foi utilizado o software Cu$to Bovino Leite®, que contemplou as metodologias do custo total e custo operacional. Na análise, por apresentar margem bruta, margem líquida e resultado negativos, conclui-se que o sistema de produção de leite analisado está se descapitalizando e se endividando, pois as receitas auferidas não foram suficientes para pagar sequer as despesas operacionais efetivas. Os itens componentes do custo operacional efetivo que exerceram maior influência sobre a receita do leite e sobre o custo operacional efetivo foram: alimentação, mão-de-obra, impostos e taxas, sanidade, ordenha, despesas diversas, reprodução e energia.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1332785523.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.68/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,175 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01568">
+    <dc:title xml:lang="en">Testicular measurements in Campolina stallions</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Biometria testicular de garanhões da raça Campolina</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BORGES,  G. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MELO,  M. I. V</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MAMBRINI,  J. V. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SNOECK,  P. P. N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2010-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Equipment parts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Scrotum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Width</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Age</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">live weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25717</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6885</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8387</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_186</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to evaluate Campolina stallions’ testicular measurements in relation to their age and body weight. The right and left testecal mesurements used a pair of compasses to determine length (RL, LL), width (RW, LW), height (RH, LH), and total scrotal width (STW). Twenty five stallions were evaluated and classified into three age groups: Group I (&lt; 60 months), Group II (&gt;60 e &lt; 120 months), and Group III (&gt; 120 months). The biometric testicular parameters for Group I were: 10.0 ± 1.5 cm (RL)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">10.1 ± 1.2 cm (LL)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">5.8 ± 0.5 cm (RW)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6.2 ± 0.6 cm (LW)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6.6 ± 0.8 cm (RH)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7.0 ± 0.8 cm (LH)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10.6 ± 1.0 cm (STW). The testicular measurements for GII were: 10.9 ± 1.1 cm (RL)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10.4 ± 0.8 cm (LL)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6.5 ± 0.5 cm (RW)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6.8 ± 0.6 cm (LW)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7.5 ± 1.0 cm (RH)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7.8 ± 0.5 cm (LH)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">12.0 ± 1.0 cm (STW). For GIII the same measurements were: 9.8 ± 0.8 cm (RL)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10.3 ± 0.5 cm (LL)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7.0 ± 0.8 cm (RW)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7.4 ± 0.8 cm (LW)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7.1 ± 0.7 cm (RH)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7.6 ± 1.1 cm (LH)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">11.9 ± 0.8 cm (STW). The length, width and height of the left and right testis did not differ significantly from stallions measured. The average width of the testis was the only measurement that differ between stallions from group I and stallions from group II and III (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O objetivo deste trabalho foi avaliar a biometria testicular de garanhões Campolina, correlacionando-a com a idade e peso corporal do animal. Foram realizadas medidas lineares dos testículos direito e esquerdo de comprimento (CD, CE), largura (LD, LE), altura (HD, HE), e a largura escrotal total (LET). Vinte e cinco garanhões foram avaliados e divididos em três grupos etários: Grupo I (&lt; 60 meses), Grupo II (&gt;60 e &lt; 120 meses) e Grupo III (&gt; 120 meses). Os parâmetros de biometria testicular no GI foram: 10,0 ± 1,5 cm (CD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10,1 ± 1,2 cm (CE)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">5,8 ± 0,5 cm (LD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6,2 ± 0,6 cm (LE)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6,6 ± 0,8 cm (HD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7,0 ± 0,8 cm (HE)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10,6 ± 1,0 cm (LET). As medidas do GII foram: 10,9 ± 1,1 cm (CD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10,4 ± 0,8 cm (CE)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6,5 ± 0,5 cm (LD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6,8 ± 0,6 cm (LE)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7,5 ± 1,0 cm (HD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7,8 ± 0,5 cm (HE)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">12,0 ± 1,0 cm (LET). No GIII foram: 9,8 ± 0,8 cm (CD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10,3 ± 0,5 cm (CE)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7,0 ± 0,8 cm (LD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7,4 ± 0,8 cm (LE)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7,1 ± 0,7 cm (HD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7,6 ± 1,1 cm (HE)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">11,9 ± 0,8 cm (LET). Não houve diferença entre as medidas lineares de comprimento, largura e altura, entre os testículos direito e esquerdo dos animais estudados. Das medidas testiculares lineares somente a largura testicular média no grupo I diferiu dos grupos etários II e III (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1302293828.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.67/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202524">
+    <dc:title xml:lang="en">Sample size for estimating the average and median character of white lupine (Lupinus albus L.)</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Dimensionamento amostral para a estimação da média e da mediana de caracteres de tremoço branco (Lupinus albus L.)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Burin Cláudia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cargnelutti Filho Alberto</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Toebe Marcos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Alves Bruna Mendonça</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fick André Luis</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus Camobi, Universidade Federal de Santa Maria,Santa Maria, RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus Camobi, Universidade Federal de Santa Maria,Santa Maria, RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus Camobi, Universidade Federal de Santa Maria,Santa Maria, RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus Camobi, Universidade Federal de Santa Maria,Santa Maria, RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus Camobi, Universidade Federal de Santa Maria,Santa Maria, RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lupinus albus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">experimental design</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4464</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29466</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this work was to determine the sample size (number of plants) required to estimate the average and median character of white lupine (Lupinus albus L.), with different levels of precision. An experiment of white lupine was conducted in area 50 × 50 m. At 157 days after seeding, were collected, randomly, 400 plants. In each plant were measured morphological (plant height and stem diameter) and productive characters (number of pods, green mass of pods, green mass of the aerial part without pods, green mass of the aerial part, dry mass of pods, dry mass of the aerial part without pods, dry mass of the aerial part). For each character, it was calculated measures of central tendency, variability, skewness, kurtosis and determined the sample size by resampling with replacement of 10,000 samples. To estimate the average productive and morphological characters of white lupine, with amplitude of confidence interval of 95%, equal 25% of average estimate, 81 plants is required. To estimate the median, with this same precision, 129 plants are sufficient.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo deste trabalho foi determinar o tamanho de amostra (número de plantas) necessário para a estimação da média e da mediana de caracteres de tremoço branco (Lupinus albus L.), com diferentes níveis de precisão. Foi conduzido um experimento de tremoço branco em uma área de 50 × 50 m. Aos 157 dias após a semeadura, foram coletadas, aleatoriamente, 400 plantas. Em cada planta foram mensurados os caracteres morfológicos (altura de planta e diâmetro do colmo) e os produtivos (número de vagens, massa verde de vagens, massa verde da parte aérea
+sem vagens, massa verde da parte aérea, massa seca de vagens, massa seca da parte aérea sem vagens e massa seca da parte aérea). Para cada caractere, foram calculadas medidas de tendência central, de variabilidade, de assimetria e de curtose e determinado o tamanho de amostra por meio de reamostragem, com reposição, de 10.000 amostras. Para a estimação da média de caracteres produtivos e morfológicos de tremoço branco, com amplitude do intervalo de
+confiança de 95% igual a 25% da estimativa da média são necessárias 81 plantas. Para estimação da mediana, com essa mesma precisão, 129 plantas são suficientes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/317/246</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

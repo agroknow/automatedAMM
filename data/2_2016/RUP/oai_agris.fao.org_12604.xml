@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P12604">
+    <dc:title xml:lang="ru">ОЦЕНКА ФАКТОРОВ РЕНТАБЕЛЬНОСТИ ПРОИЗВОДСТВА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EVALUATION OF THE FACTORS OF PRODUCTION PROFITABILITY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kosenko  T.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E16</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">production economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26808</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: efficiency of agricultural production, optimal intensity, the factors of profitability, profit</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье дан анализ основных составляющих результатов производственной деятельности предприятия. Рассмотрены основные факторы производства, факторы роста прибыли и рентабельности. Приведена зависимость результатов производства от структуры продукции, цены и себестоимости.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article provides an analysis of the main components of the operating results of the company. The basic factors of production, factors of profit growth and profitability are considered in the article. The dependence of production results from the structure of production, prices and costs is given here.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_60fd80d1243849019f1ac86891d5fdb7.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.№3, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

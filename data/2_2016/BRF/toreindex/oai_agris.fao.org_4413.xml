@@ -1,0 +1,100 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F04413">
+    <dc:title xml:lang="en">Production, chemical composition and stocking rate of forage systems compounds for coastcross-1 intercropped with ryegrass and clovers</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Produção</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>composição química e taxa de lotação de sistemas forrageiros constituídos por coastcross-1 sobressemeada com azevém e trevos</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DIEHL, M.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVO, C.J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>AGNOLIN, C.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MEINERZ, G.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FOLETTO, V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BEM, C.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>AGUIRRE, P.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ARAÚJO, T.L.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MACHADO,  P.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOMBACH, G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">proteins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Surfactants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cow milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Trifolium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6259</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7529</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16080</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7910</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this research was to evaluate the forage production, crude protein and neutral detergent fiber level, stocking rate of three forage systems compounds for Coastcross-1 (Cynodon dactylon L. Pers.) + ryegrass (Lolium multiflorum Lam., cv. Comum)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Coastcross-1 + ryegrass + red clover (Trifolium pratense L., cv. Estanzuela 116) and Coastcross-1 + ryegrass + white clover (Trifolium repens L., cv. Yi). The experiment was carried out from April 2007 to April 2008, for 11 grazing cycles, six in winter season and five in summer season. Holstein cows receiving 0.9% of body weight/day feed supplement concentrate were used. The herbage mass of pre and post-grazing, botanical and morphological composition crude protein and neutral detergent fiber level were evaluated. A randomized complete design was used with three treatments (forage systems) two replications (paddocks) and independent evaluations (grazing cycles). Superior value (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O objetivo dessa pesquisa foi avaliar a produção de forragem, os teores de proteína bruta e fibra em detergente neutro, e taxa de lotação de três sistemas forrageiros constituídos por Coastcross-1 (Cynodon dactylon L. Pers.) + azevém (Lolium multiflorum Lam., cv. Comum)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Coastcross-1 + azevém + trevo vermelho (Trifolium pratense L., cv. Estanzuela 116) e Coastcross-1 + azevém + trevo branco (Trifolium repens L., cv. Yi). O experimento foi conduzido entre 26 de abril de 2007 e 22 de abril de 2008, sendo conduzidos 11 pastejos, seis no período hibernal e cinco no estival. Para avaliação foram utilizadas vacas em lactação da raça Holandesa que receberam suplementação alimentar com concentrado à razão de 0,9% do peso corporal/dia. Avaliou-se a massa de forragem de pré e pós-pastejo, as composições botânica e morfológica e os teores de proteína bruta e fibra em detergente neutro. O delineamento experimental foi inteiramente casualizado com três tratamentos (sistemas forrageiros), duas repetições (piquetes) e avaliações independentes (ciclos de pastejos). No período hibernal foram observados resultados superiores (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1418137619.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

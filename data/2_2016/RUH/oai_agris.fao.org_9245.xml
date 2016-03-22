@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09245">
+    <dc:title xml:lang="ru">ПСИХОЛОГО-ПЕДАГОГИЧЕСКИЙ ПОТЕНЦИАЛ ВЗАИМОДЕЙСТВИЯ ЛИЧНОСТИ С ПРИРОДОЙ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PSYCHO-PEDAGOGICAL POTENTIAL INTERACTION OF THE PERSON WITH NATURE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ХАРЧЕНКО А.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>МИТЕЛЛ С.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Донской государственный технический университет, институт сферы обслуживания и предпринимательства (филиал) ДГТУ в г.Шахты</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">C10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">education</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">psychology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2488</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26997</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью данного исследования является изучение взаимодействия личности с миром природы. По мнению авторов, данное взаимодействие обладает большим психолого-педагогическим потенциалом и может осуществлять многие функции, такие как: психолого-физиологическую, психотерапевтическую, реабилитационную, саморегуляции и другие. Задачей исследования являлось обозначить практические возможности взаимодействия человека с животным для психотерапевтических целей. Данное исследование обозначает направление в практической психологии и психокоррекции.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The purpose of this study is to investigate the interaction of the individual with the natural world. According to the authors, this interaction has great psychological- pedagogical potential and can perform many functions, such as psycho- physiological, psychotherapy, rehabilitation, self-regulation and others. Objective of the study was to identify the feasibility of human interaction with the animals for psychotherapeutic purposes. This study indicates the direction in practical psychology and therapy.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/5-3-24.pdf#page=42</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.5 (24)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

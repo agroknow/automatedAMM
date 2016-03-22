@@ -1,0 +1,100 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016301786">
+    <dc:title xml:lang="pt">Desempenho do sistema de tratamento de água residuária de laticínios e os efeitos de sua disposição em Argissolo</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Performance of treatment system for dairy wastewater and the effects of their disposal in Argisol</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lima Valéria Ingrith Almeida</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Alves Sandra Maria Campos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Oliveira Jacineumo Falcão de</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Batista Rafael Oliveira</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pinheiro Janeto Gurgel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Di Souza Luiz</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Water reuse</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1326966391738</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36345</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">No presente trabalho objetivou-se analisar o desempenho de uma estação de tratamento de água
+residuária de laticínios (ARL) e os efeitos do uso da ARL nas características químicas de Argissolo em Mossoró-RN.
+A ARL foi tratada em sistema constituído de gradeamento e lagoa aerada com tempo de detenção hidráulico de 11
+dias. No período de março a junho de 2013 caracterizou-se a Demanda Bioquímica de Oxigênio (DBO), Demanda
+Química de Oxigênio (DQO), os sólidos totais (ST), os sólidos suspensos (SS), os sólidos dissolvidos (SD), K+,
+pH, Na+, Ca2+, Mg2+, a salinidade e a dureza da ARL no sistema de tratamento. Paralelamente, determinaram-se
+os valores de K+, Na+, Ca2+, Mg2+ e pH em cinco camadas do Argissolo (0 a 0,10</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">0,10 a 0,20</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,20 a 0,30</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,30 a
+0,40</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">e 0,40 a 0,50 m) com e sem aplicação de ARL, na taxa de aplicação de 35 L m-2 dia-1, durante um período
+de cinco anos. Os resultados indicaram que o sistema de tratamento da ARL apresentou eficiência de remoção
+superior a 50% somente para as características DBO, DQO, ST, SS e Mg2+</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">a aplicação da ARL proporcionou
+aumento nos valores de K+, Ca2+ e pH nas cinco profundidades do Argissolo</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">e os maiores teores de K+ e Na+
+ocorreram na camada superficial do Argissolo (0 a 0,10 m) fertirrigado com ARL.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">This study aimed to analyse the performance of a treatment plant of wastewater of dairy industry
+(ARL), as well as the effects of its use on chemical characteristics of Argisol in Mossoró, RN, Brazil. The ARL was
+treated first in a grating system and later in an aerated lagoon (hydraulic detention time of 11 days). During the
+period from March to June 2013, the Biochemical Oxygen Demand (DBO), Chemical Oxygen Demand (DQO),
+total solids (ST), suspended solids (SS), dissolved solids (SD), K+, pH, Na+, Ca2+, Mg2+, salinity and hardness of
+the ARL of treated water were characterized. In parallel, the values of K+, Na+, Ca2+, Mg2+ and pH in five depths
+of Argisol (0 to 0.10, 0.10 to 0.20, 0.20 to 0.30, 0.30 to 0 40</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">and 0.40 to 0.50 m) with and without application
+of ARL, the application rate of 35 L m-2 day-1 for a period of five years were determined. The results indicated that
+the treatment system of ARL presented removal efficiency higher than 50% only for the DBO, DQO, ST, SS and
+Mg2+</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">the application of ARL resulted in increase of K+, Ca2+ and pH in five layers of Argisol and the highest levels
+of K+ and Na+ occurred in the surface layer of Argisol (0 to 0.10 m) fertigated with ARL.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.ufrb.edu.br/wrim/images/wrim-2-2-2013/v02n02a04.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Water Resources and Irrigation Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2316-6886</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

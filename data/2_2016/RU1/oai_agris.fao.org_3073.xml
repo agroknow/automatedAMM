@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016103073">
+    <dc:title xml:lang="en">The Role of Various Stressors in the Trigger Mechanism of Raynaud&amp;#039;s Disease (Hemorheological and Vascular Reactions)</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mantskava M.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Momtselidze N.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pargalava N.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">erythrocytes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2659</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The emergence and spread of stress reactions are provided by the blood circulation system. In its turn, the adequacy of blood circulation depends on the hemorheological and vascular mechanisms. The changeability of their properties appears to be the basis of the increasing of stress stages. From the viewpoint of biophysical reactions, any change and movement occur with the expenditure and accumulation of energy. Higher level of adaptation energy waste and secondary level take place, when a small stressor entails a small expenditure. There is a maximum possible rate of adaptive energy consumption and at this maximum the organism cannot cope with any additional stimulus. At the same time adaptive and stress diseases develop. Let’s consider the duration and manifestation of Raynaud's disease from the perspective of adaptation diseases and diseases of the third grade, which appears to be the cause of the double stress effect - cold and emotional- physical and psychic. Total of 97 patients with Raynaud's disease were examined. For a new vision of the problem it was necessary to find out how the streessors of various nature impact the hemoreheological status and vascular resistance. For this purpose all the patients were examined for a resistance index of resistive arteries of the hand and the indices of erythrocyte aggregation and deformability. The patients were divided into four subgroups. The first subgroup – the patients after chilblain, the second subgroup – the patients with psychic strerssor, the third subgroup – the patients with prolonged chronic stress, and the fourth subgroup – the patients without the differentiation of the stressors. According to the obtained results, it is obvious that at cold and emotional stress (I and II subgroups) the hemorheological and vascular parameters are changed. However, this change (hemorheological and vascular) is more pronounced at chronic emotional stress (III subgroup) as compared both to the control and other subgroups. As compared with other subgroups the hemorheological and vascular factors in the IV subgroup differ less from the control. Summarizing the data, it is well seen that the change in hemorheological and vascular properties, so characteristic of Raynaud's disease varies within the limits of the pathological changes in these parameters and depends on the nature and character of the stressor. For an adequate treatment and a final answer the question on Raynaud's disease etiology, as well as on the role of various srtressors in the triggering mechanism and in manifestations of the disease it is necessary to continue a joint clinical-experimental research together with the specialists studying stress.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N2/JSPB_2014_2_328-335.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

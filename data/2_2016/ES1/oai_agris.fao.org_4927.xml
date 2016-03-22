@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104927">
+    <dc:title xml:lang="es">APROVECHAMIENTO TRADICIONAL Y CRÍA EN CAUTIVERIO DE CHACHALACAS, PAVA Y FAISÁN (CRACIDAE) EN EL SUR DE MÉXICO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>TRADITIONAL USE AND BREEDING OF CHACHALACAS</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>GUAN</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>AND GREAT CURASSOW (Cracidae) IN SOUTHERN MEXICO</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vázquez-Dávila Marco Antonio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Camacho Escobar Marco</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>López-Luis Dalma</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vásquez-Cruz Rosalinda</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Jiménez-Díaz Elmar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Tecnológico del Valle de Oaxaca</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad del Mar</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Tecnológico del Valle de Oaxaca</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Tecnológico del Valle de Oaxaca</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Tecnológico del Valle de Oaxaca</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Agrobiodiversity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">domestication</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37977</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2360</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of our study was to document the traditional use and captive breeding of Cracids in the backyards of six ethnic groups of southern Mexico: Chol and Lacandon of Chiapas and Chinantecs, Chontal, Huaves and Zapotecs of Oaxaca. Four Cracids species are raised in indigenous backyards: two Chachalacas (Ortalis vetula and O. poliocephala), Guan (Penelope purpurascens) and Great Curassow (Crax rubra). Men are responsible for locating eggs or chicks in the forests and take them home. They also build the pens where the birds are raised, while women and children are responsible for the feeding and care. The ethno zootechnical study of this cultural trait (which no references for the study area were found) provided an opportunity to investigate in situ the initial domestication of a group of birds, which provides insights into the indigenous poultry.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">El objetivo del trabajo fue documentar el aprovechamiento tradicional y cría en cautiverio de los crácidos en los traspatios de seis grupos étnicos del sur de México: choles y lacandones de Chiapas y chinantecos, chontales, huaves y zapotecos de Oaxaca. Cuatro especies de crácidos son criadas en cautiverio en los traspatios indígenas: dos chachalacas (Ortalis vetula y O. poliocephala), pava (Penelope purpurascens) y faisán (Crax rubra). Los varones se encargan de localizar huevos o polluelos en los bosques y los trasladan a sus casas. También construyen los corrales en donde se crían a las aves, mientras que las mujeres y los niños se ocupan de la alimentación y cuidados. El estudio etnozootécnico de este rasgo cultural (del cual no se encontraron referencias bibliográficas para la zona) ofreció la oportunidad de indagar in situ la domesticación inicial de un grupo de aves, lo que aporta elementos para comprender la avicultura.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo081_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

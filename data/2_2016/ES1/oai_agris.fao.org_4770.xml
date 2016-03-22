@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104770">
+    <dc:title xml:lang="es">EL PUEBLO ECUATORIANO Y SU RELACIÓN CON EL CUY</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ECUADORIAN PEOPLE AND THEIR RELATIONSHIP WITH THE GUINEA PIG</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Avilés Diana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Landi Vincenzo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Delgado Juan Vicente</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Martinez Amparo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pet animals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5742</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The Guinea pig (Cavia porcellus) is an animal that was domesticated by the first inhabitants of the Andes in South America to be consumed as food. We now know that guinea pig is high in protein, and low in fat, and is going a strong foothold in both domestic and international food markets an exotic dish. In addition, there are many uses for guinea pigs, including cultural and spiritual traditions, as a work animal, as a show animal where guinea pigs are judged in different categories which gives the animals high-profile exposure. Finally and most widely used internationally is the use of the guinea pig as a pet for which there are a plethora of breeds to choose from. This essay paper show the importance of guinea pig in Ecuador and other Andean countries with whom we share similar cultural beliefs coming from pre-Inca times. The main objective is exposing the different utilities of guinea pig from various fields of use, and its link to the Ecuadorian culture.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">El cuy (Cavia porcellus) es un animal que fue domesticado por los primeros pobladores de la región Andina en Sudamérica para ser consumido como alimento. Actualmente, sabemos que su carne tiene alto valor protéico y bajo en grasa, que está tomando mucha fuerza en el mercado gastronómico nacional e internacional, como plato exótico. Entre otros usos, los cuyes, presentan valor cultural-espiritual, como animal de trabajo, como animal de exhibición donde los cuyes son juzgados en diferentes categorías lo cual incentiva a tener mejores animales para exposición. Finalmente y más difundido a nivel internacional, es el uso del cuy como animal de compañía sobre el que existen preferencias relacionadas al tipo de pelo. Con este trabajo se pretende conocer la importancia que tiene el cuy en el Ecuador y en otros países andinos con los cuales compartimos tradiciones culturales que viene desde tiempos pre-incaicos. El objetivo principal es exponer las diferentes utilidades del cuy, desde diversos ámbitos de uso y su vínculo con la cultura ecuatoriana.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo009_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

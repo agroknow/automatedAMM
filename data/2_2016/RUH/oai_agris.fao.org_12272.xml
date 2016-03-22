@@ -1,0 +1,86 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H12272">
+    <dc:title xml:lang="ru">ЭКОЛОГИЧЕСКОЕ ОБОСНОВАНИЕ ТЕХНОЛОГИИ ПРОМЫВКИ ЗАСОЛЕННЫХ ПОЧВ НА ОСНОВЕ МОДЕЛИРОВАНИЯ ПРИРОДНЫХ ПРОЦЕССОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ENVIRONMENTAL IMPACT STATEMENT OF THE TECHNIQUE ON LEACHING OF SALINE LANDS ON THE BASE OF THE NATURAL PROCESSES SIMULATION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Мустафаев Ж.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Кирейчева Л.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Козыкеева А.Т.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Абдешев К.Б.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Казахский Национальный Аграрный Университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Всероссийский научно-исследовательский институт гидротехники и мелиорации им. А.Н. Костякова</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Таразский государственный университет им. М.Х. Дулати</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F06</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">leaching</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">filtration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pickling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7156</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15591</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2900c6c7cda5</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5865</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI 10.18454/IRJ.2015.41.106</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Дано экологическое обоснование поэтапной технологии промывки засоленных земель с необходимой временной
+цикличностью, основанное на соответствии интенсивности подачи вода и впитывающей способности почв, что
+позволяет сопрягать природные процессы с антропогенными, не вызывая деградации природного объекта.
+Предложена модель рассоления почвы и экологически приемлемая технология промывки засоленных почв.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Environmental impact statement of the stage-by-stage technique on leaching of saline landsincluding the required time
+cycling on the base of matching between moisture absorption capacity of soil and water supply intensity is given. This
+technique provides conjoining of natural and anthropogenic processes without causing the degradation of the natural
+object.Model of soil desalinization and environmentally acceptable technique onleaching of saline soils are proposed.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/10-3-41.pdf#page=56</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.10-3(41)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

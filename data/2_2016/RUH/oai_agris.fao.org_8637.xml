@@ -1,0 +1,44 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08637">
+    <dc:title xml:lang="ru">ПРИНЦИП ВСЕЕДИНСТВА И РАЗВИТИЕ СИСТЕМНЫХ ПРЕДСТАВЛЕНИЙ О ЗЕМЛЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PRINCIPLES OF UNITY AND SYSTEMIC VIEWS DEVELOPMENT ABOUT THE EARTH</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>МАЦА К.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Полтавский университет экономики и торговли</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">B10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">C10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nature reserves</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16141</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рассматривается один из принципов организации окружающего мира – принцип Всеединства. Дан анализ эволюции научных взглядов на системное единство мира земного и мира Вселенского. Оценена роль и влияние концепции географической (ландшафтной) оболочки и концепции биосферы на формирование системных представлений о Земле. Предложена концепция системной организации Земли – концепция земной планетарной системы.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">One of the principles of the surrounding world organization – the principle of unity is consided. The analysis of the scientific views evolution on the systematic unity of the world both terrestrial and universal is given. The role and the influence of the concept of the geographical shell and the concept of biosphere on the formation of the systemic views on the Earth are estimated. The new concept of the systematic earth organization – the concept of the terrestrial planetary system is proposed.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/12/11-2-18.pdf#page=109</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.11 (18)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

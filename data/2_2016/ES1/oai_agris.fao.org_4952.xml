@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104952">
+    <dc:title xml:lang="es">ANÁLISIS POBLACIONAL DE SNP DEL GEN FUT-1 EN CERDOS LOCALES (PAMPA ROCHA) Y COMERCIALES UTILIZANDO TÉCNICAS DE SECUENCIACIÓN</dc:title>
+    <dc:title xml:lang=" ">
+      <dcterms:alternative>ANALYSIS OF SNPS OF THE FUT1 GENE IN PAMPA ROCHA AND COMMERCIAL PIG BREEDS USING SEQUENCING TECNIQUES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Llambí Silvia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Montenegro María</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Castro Gustavo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Barlocco Nelson</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vadell Antonio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gagliardi Rosa</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Arruga María</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Veterinaria, Universidad de la República</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Veterinaria, Universidad de la República</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Veterinaria, Universidad de la República</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Agronomía, Universidad de la República</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Agronomía, Universidad de la República</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Veterinaria, Universidad de la República</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Veterinaria, UNIZAR</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In pigs there type polymorphisms SNPs in genes associated with major features of health, production and reproduction with economic impact on the swine industry. One of the most studied is the FUT-1 (α1, 2fucosyltransferasa) gene. This gene was identified by PCR-RFLP and PCR-sequencing two SNPs biallelic polymorphisms (M307A/G y M229C/T). In this study by PCR-sequencing primary population description for these two polymorphisms were performed on a sample of 85 pigs of different breeds (26 local breed Pampa Rocha (PR group), 25 commercial hybrid pigs (group HC) and 34 pigs pure commercial breeds (RC group) Large White, Landrace, Duroc and Pietrain). The total population for the two SNPs is in HW equilibrium (p&gt; 0.05) where allele frequencies: M307A=0.365, M307G=0.623, M229C= 0.705 y M229T = 0.294. The inbreeding coefficient for both loci was Fis = -0.164. The He average was 0.445 and Ho of 0.517. In conclusion our study we found high frequencies for M229C allele in the three groups. The PR group had a slightly negative value of Fis (-0365) and Ho higher than the other two groups evidencing an excess of heterozygotes while the HC group showed slightly positive Fis (0.05) showing a defect in heterozygotes.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">En cerdos la presencia de polimorfismos SNPs no sinónimos en un gen mayor como el FUT-1 se ha  asociado con alteraciones de la fertilidad y aspectos sanitarios (resistencia a infecciones por E.coli en lechones). En este gen se han identificado dos SNPs bialélicos (M307A/G y M229C/T) en región codificante con una distancia menor a 100 pb. En el presente trabajo mediante la técnica de PCR y secuenciación de un fragmento de 421pb se realizó el análisis de un total de 85 animales: 26 animales de la raza local Pampa Rocha (grupo PR), 25 animales híbridos comerciales (grupo HC) y 34 animales de las razas comerciales Large White, Landrace, Pietrain, Duroc (grupo RC). Como resultados se identificaron ambos polimorfismos bialélicos en las tres poblaciones con las siguientes frecuencias alélicas, Heterocigosidad  promedio Ho y He, coeficiente de endogamia Fis:  a) grupo PR (M307A/G, A=0.46, G=0.54, M229C/T, C=0.73, T=0.27, Ho= 0.61, He=0.45, Fis=-0.365)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">b) grupo HC (M307A/G, A=0.42, G=0.58, M229C/T, C=0.70, T=0.30, Ho= 0.44, He=0.45, Fis=0.05)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">c) grupo RC (M307A/G, A=0.28, G=0.72, M229C/T, C=0.69, T=0.0.31, Ho= 0.5, He=0.41, Fis=-0.191). El grupo local PR  presentó un valor de Fis negativo y Ho más alta con respecto a los otros grupos evidenciándose un exceso de heterocigotas con adecuada variabilidad genética para estos polimorfismos. En el grupo HC se obtuvo un valor de Fis positivo evidenciando la presencia de un proceso de endogámico. Se discuten los resultados con lo reportado por otros investigadores a nivel mundial sobre estudios de estos SNPs en razas comerciales y razas locales chinas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo096_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

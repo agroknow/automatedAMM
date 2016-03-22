@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016010863">
+    <dc:title xml:lang="sk">Vplyv vybraných faktorov na úrodu kukurice siatej na zrno</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>The influence of selected factors on the yield of maize grain</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hanáčková Eva</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Žembery Jozef</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Zea mays</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Yields</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertilization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8504</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8488</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2863</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The aim of the work was to assess the effect of different soil tillage in the interection with fertilization and the use of post-harvest residues on yield of maize, variety NK Lucius. The field experiment was established in years 2012-2013 on Experimental Base of the Slovak University of Agriculture in Dolná Malanta. There were evaluated two soil tillage methods (B1 - conventional tillage, B2 - minimal tillage) and three treatments of fertilization (O - unfertilized control, MF - balance fertilization by mineral fertilizers based on soil analysis and planned maize yield (7 t.ha), PHR - balance fertilization by mineral fertilizers + incorporation of post-harvest residues). Grain yield of maize was significantly influenced by year, method of soil cultivation and fertilization. In year 2012 lower average yield of maize grain by 0.83 t.ha was achieved in comparison to year 2013. Dressing of maize by N in period of intense growth was ineffective, for the sum of precipitation in this year was low achieved only 4.2% of long term norma l. Grain yield of maize (8.20 t.ha), efficiency (41.8 %) and energetic effectiveness (E = 6.14) of nitrogen from mineral fertilization were the highest at conventional soil tillage in treatment rationally fertilized with mineral fertilizers. However, profit (813.24 €. ha) and return (117.8%) were lower in comparison to control treatment. There was found out strong linear relationship between yield of phytomass and nutrients uptake (r = 0.979XXX). One ton of grain and relevant amount of straw of variety NK Lucius took up 19.2 kg of N, 2.7 kg of p, 11.5kg of K, 4.4 kg of Ca and 2.5 kg of Mg from soil. Low uptake of nutrients was influenced by low yield of straw.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Agrochémia</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1335-2415</ags:citationIdentifier>
+      <ags:citationNumber>v.19 (55)/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

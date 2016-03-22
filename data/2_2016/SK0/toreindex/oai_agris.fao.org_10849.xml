@@ -1,0 +1,59 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016010849">
+    <dc:title xml:lang="sk">Produkcia biomasy vŕby košikárskej na energetické účely na Slovensku a vo Švédsku</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Biomass production of basket willow for energy purposes in Slovakia and Sweden</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Habán Miroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Otepka Pavol</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Boroš Ján</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Slovenská poľnohospodárska univerzita</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P05</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Energy resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Salix</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biomass</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biofuels</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28006</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6754</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27465</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Fast-growing tree species are significantly cultivated for energy purposes in production stands on agricultural land, which also include the basket willow or common osier (Salix viminlis L.). According to many examples of willow growing in Sweden the first research findings were successfully put into practice of cultivation also in Slovakia. This scientific monograph synthesizes research findings published in the world and Slovak literature. This is enriched by original results of research conducted in the years 1996 to 2012 and we compare them with results particularly taken from Sweden, where the phenomenon of basket willow growing on agricultural land as energy plant started and it is now spread practically all around the world. The importance of biomass as a renewable energy source, regionalization of fast growing woody plants cultivation in Slovakia, systematic classification and botanical characteristics of Salix genus, scientific and research aspects of basket willow production in Slovakia, as well as possibilities of its further use for energy purposes are given in the monograph. Detailed attention is paid also to the willow breeding, diversity of varieties and willow growing in Sweden. Main production characteristics (biomass yield, number of willow plants per area, average height of rods ... ) are analysed according to the results of long-term research in the cultivation of basket willow in warm agro-climatic macro-region of Slovakia. In terms of further development of science, there are given in the scientific monograph, the most important information of production characteristics of basket willow grown in agro-ecological conditions of Slovakia and Sweden, respectively in other European countries, where issues related to practicai use of willow species as energy plants was conducted by several research teams. Despite the advantages of fast-growing willow trees, especially specie s of Salix viminalis, Salix viminalis x schwerinii and Salix dasyclados the total cultivation area on agricultural land in Slovakia does not extend. This is related to the incompleteness of several problems, which are not properly solved yet, such as regionalization and selection of varieties or clones, optimal cultivation technologies, biological control against harmful agents, harvesting technologies, marketing of chips, and the possibility of biomass burning. Finally, there are still pending legislative conditions for the practical use of willows for energy as well as the possibility of supporting the cultivation of such technical crops on arable land in Slovakia. Use of energy plantation of fast growing trees, will be fully valuable 
+part of our sustainable future, if we make significant changes in several sectors of the national economy. From the state point of view, the support of environmental awareness of citizens, and support of entities producing fast growing trees through subsidies are needed very much.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="ags:ISBN">978-80-552-1006-3</dc:identifier>
+    <dc:type>Book</dc:type>
+  </ags:resource>
+</ags:resources>

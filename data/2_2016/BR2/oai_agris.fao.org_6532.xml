@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206532">
+    <dc:title xml:lang="en">Spatial distribution of resistance to penetration of soil and water content of soil in an area of the agroforestry Humaitá, AM region</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Distribuição espacial da resistência do solo à penetração e teor de água do solo em uma área de agrofloresta na região de Humaitá</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>AM</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Campos Milton César Costa</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Soares Marcelo Dayron Rodrigues</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aquino Renato Eleoterio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Santos Luiz Antonio Coutrin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mantovanelli Bruno Campos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Amazonas, Humaita, AM, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Amazonas, Humaita, AM, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Amazonas, Humaita, AM, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Amazonas, Humaita, AM, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Amazonas, Humaita, AM, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">acrisols</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil management</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_101</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Agroforestry systems are an alternative agricultural production that minimizes the effect of human intervention on the environment. Moreover, the intensive culture and the use of machines and equipment promote soil compaction. Thus the aim of this study was to evaluate the spatial variability
+of soil resistance to penetration (RP) and the water content in the soil at different depths in an area of agroforestry. The experiment was conducted in a Ultisol. The sample collection points were established through a mesh of 70 x 70 m, being sampled at the crossing points of the grid with regular
+spacing of 10 by 10 m. The resistance to penetration (RP) and soil water content were evaluated at depths of 0.0 to 0.15, 0.15 to 0.30 and from 0.30 to 0.45 m. The data were analyzed by descriptive statistics and geostatistics. The resistance to penetration (RP) and the water content in the soil have
+spatial dependence at all depths studied. The degree of spatial dependence was classified as moderate for all depths studied. The water content in soil and (RP) had values of greater range than the spacing of the mesh, ranging from 17.00 to 70.00 m.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Os sistemas agroflorestais constituem uma alternativa de produção agropecuária que minimiza o efeito da intervenção humana sobre o ambiente. Por outro lado, o cultivo intensivo e a utilização de máquinas e equipamentos pesados promovem a compactação do solo. Assim o objetivo deste trabalho foi avaliar a variabilidade espacial da resistência do solo à penetração (RP) e do conteúdo de água no solo em diferentes profundidades em uma área de agrofloresta. O experimento
+foi instalado em um Argissolo Vermelho Distrófico. Os pontos de coleta das amostras foram estabelecidos por meio de uma malha de 70 x 70 m, amostrando-se nos pontos de cruzamento da malha, com espaçamentos regulares de 10 em 10 m. A resistência do solo à penetração (RP) e o conteúdo de água no solo foram avaliados nas profundidades de 0,0–0,15, 0,15–0,30 e 0,30–0,45 m. Os dados foram submetidos a análises estatísticas descritivas e geoestatística. A resistência do solo a penetração (RP) e o conteúdo de água no solo apresentaram dependência espacial em todas
+as profundidades estudadas. O grau de dependência espacial foi classificado como moderado para todas as profundidades estudadas. O conteúdo de água no solo e a (RP) apresentaram valores de alcances maiores que o espaçamento da malha, variando entre 17 a 70 m.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/307/293</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

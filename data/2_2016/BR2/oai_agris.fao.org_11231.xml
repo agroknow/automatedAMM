@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016211231">
+    <dc:title xml:lang="en">Nutrition behavior of olive trees with the application of organomineral fertilizer</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Comportamento nutricional de oliveiras com a aplicação de fertilizante organomineral</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Carvalho Raoni Pereira de</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Moreira  Rodrigo Amato</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cruz  Maria do Céu Monteiro da</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Oliveira Adelson Francisco de</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fagundes Miriã Cristina Pereira</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal dos Vales do Jequitinhonha e Mucuri, Campus JK, Diamantina, MG Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal dos Vales do Jequitinhonha e Mucuri, Campus JK, Diamantina, MG Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal dos Vales do Jequitinhonha e Mucuri, Campus JK, Diamantina, MG Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Empresa de Pesquisa Agropecuária de Minas Gerais, Campus da UFLA, Lavras, MG Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal dos Vales do Jequitinhonha e Mucuri, Campus JK, Diamantina, MG Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertilization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2863</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16379</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The application of organomineral fertilizers has been used to reach the nutrient demand of plants, because this practice can reduce the need for chemical sources, favoring the improvement of soil structure and utilization of nutrients by plants. Thus, this study was done to evaluate the nutritional behavior of two olive varieties with reduction of chemical fertilization and application of organomineral fertilizer. The research was conducted in the city of Diamantina, Minas Gerais, Brazil. Three-years-old olive tree varieties ‘Barnea’ and ‘Grappolo 541’, cultivated at a spacing of 5 m between rows and 3 m between plants on Quartzarenic Neosol were evaluated. The 4 x 2 factorial design was used, being the factors four fertilization and two varieties. Fertilization consisted of 100%, 75%, 50%, 0% of mineral fertilization recommended for olive tree, distributed in a randomized block design with three blocks and three plants per plot. In all the olive trees were applied three liters of
+organomineral fertilizer. To assess the levels of nutrients, soil and leaf samples were taken before and at eight months after the treatments. The application of threes liters of organomineral fertilizer provided appropriate nutrient levels in the leaves of olive tree varieties ‘Barnea’ and ‘Grappolo 541’ with 100% of reduction of chemical fertilizer.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A aplicação de fertilizantes organominerais vem sendo utilizada para atender a demanda nutricional das plantas, pois essa prática pode reduzir a necessidade de fontes químicas, favorecendo a
+melhoria da estrutura do solo e a utilização de nutrientes pelas plantas. Nesse sentido, o trabalho foi realizado com o objetivo de avaliar o comportamento nutricional de duas variedades de oliveira com redução da adubação química e aplicação do fertilizante organomineral. A pesquisa foi conduzida no município de Diamantina, Minas Gerais, Brasil. Foram avaliadas duas variedades de oliveira, ‘Barnea’ e ‘Grappolo 541’, com três anos de idade, implantadas no espaçamento de 5 m entre linhas e 3 m entre plantas, em Neossolo Quartzarênico. Utilizou-se o esquema fatorial 4 x 2, sendo os fatores quatro adubações e duas variedades. As adubações constituíram-se de 100%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">75%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">50%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0% da adubação mineral recomendada para a oliveira, distribuídas em blocos casualizados, com três blocos e três plantas por parcela. Em todas as oliveiras foram aplicados três litros de fertilizante organomineral. Para avaliar os teores de nutrientes, as amostras foliares e de solo foram retiradas antes da adubação e aos oito meses após a aplicação dos tratamentos. A aplicação de três litros de fertilizante organomineral proporcionou teores adequados de nutrientes nas folhas das variedades de oliveira ‘Barnea’ e ‘Grappolo 541’ com a redução de 100% da adubação química.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.comunicatascientiae.com.br/comunicata/article/download/721/321</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

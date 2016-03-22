@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01664">
+    <dc:title xml:lang="en">Advantages and challenges of advanced biotech used in assisted equine reproduction</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Vantagens e desafios das biotécnicas avançadas utilizadas na reprodução equina assistida</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BERTOZZO, Beatriz R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SAMPAIO, Breno F. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BENDER,  Érika S. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PAGNONCELLI,  Ricardo R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA,  Eliane V. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ZÚCCARI,  Carmem E. S. N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cloning</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spermatozoa</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Embryology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Superovulation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Gametes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15952</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7287</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10587</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16048</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3185</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Revisão bibliográfica</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Some reports suggest the equine species as the first one to be subjected to the artificial insemination. Despite this fact, the development of assisted reproduction in this species has been slow when compared to other production species. The authorization of the use of embryo transfer by some breed associations stimulated the development and expansion of several reproductive techniques for use in horses. The present study aimed to address the advanced biotechnologies currently available for this species, such as superovulation, transfer of oocytes, gamete intrafallopian transfer, in vitro production of embryos and cloning, emphasizing their practical and clinical applications, as well as certain challenges that still need to be overcome in each biotech.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Relatos apontam que a espécie equina foi a primeira a ser submetida à inseminação artificial. Apesar deste fato, o desenvolvimento da reprodução assistida nos equinos foi lento em comparação às demais espécies voltadas diretamente para a produção animal. A liberação do uso da transferência de embriões pela maioria das associações de raças estimulou o desenvolvimento e a expansão de algumas técnicas de multiplicação animal para uso em equinos. A presente revisão teve por objetivo abordar as biotécnicas avançadas atualmente disponíveis para a espécie, como a superovulação, a transferência de ovócitos, a transferência intratubárica de gametas, a injeção intracitoplasmática de gametas, a produção in vitro de embriões e a clonagem, enfatizando suas aplicações prática e clínica, bem como determinados desafios que ainda precisam ser superados em cada biotécnica.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1396561590.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

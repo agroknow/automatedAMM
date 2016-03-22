@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01018">
+    <dc:title xml:lang="en">Body condition recovery, carcass electrical stimulation and meat aging as improvement factors of Loin traits in Santa Inês ewes culled by age</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Recuperação da condição corporal</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>estimulação elétrica da carcaça e maturação da carne como fatores de melhoria nas características do lombo de ovelhas santa inês descartadas por idade</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS,  L. E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA,  T. J. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FREITAS,  M. Q.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CUNHA,  E. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HAGUIWARA,  M. M. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cooking</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Organoleptic analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Slaughtering</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tenderness</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1851</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16006</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7107</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28590</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Effects of body condition (BC) recovery, carcass electrical stimulation (ES) and meat aging time (AT) were studied on the carcass and loin in Santa Ines ewes culled by age and slaughtered immediately after pup weaning or after BC recovery period. Carcass characteristics, shear force (SF), cooking loss (CL), meat color (L*, a*, b*) and sensory characteristics of Longissimus muscle were evaluated. It was concluded that BC recovery improved carcass characteristics and meat color brightness, however did not affect the tenderness. The ES and AT improved tenderness, reducing SF in 44 - 45% and in 51 - 59%, respectively, for 7 or 14 days of aging and 32 - 33% in non aged meat. ES affected the color parameters, clearing the meat. AT darkened and accentuated the brownish red color of meat and increased the cooking losses, from 15.2% (non aged) to 19.6% and 23.1%, respectively, for 7 and 14 days of AT. The sensory evaluation for tenderness corroborated the findings of the instrumental evaluation, which confirmed the effectiveness of ES in improving meat tenderness.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Estudou-se o efeito da recuperação da condição corporal (CC), da estimulação elétrica (EE) e da maturação (M) sobre as características da carcaça e da carne de ovelhas Santa Inês, de descarte por idade, abatidas após o desmame das crias ou após período de recuperação da CC. Avaliaram-se as características da carcaça</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">a força de cisalhamento (FC)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">a perda por cocção (PC) e os parâmetros de cor (L*, a* e b*) e efetuou-se a avaliação sensorial da maciez do músculo Longissimus. Concluiu-se que a recuperação da CC melhorou as características da carcaça e clareou a cor da carne, todavia não afetou sua maciez. A EE e a M melhoraram a maciez, reduzindo a FC em 44 a 45% na carne maturada por 7 dias e em 51 a 59% na maturada por 14 dias e entre 32 a 33% na não maturada. A EE clareou a carne, enquanto a M a escureceu, acentuando a coloração vermelha amarronzada e acentuou as perdas por cocção, de 15,2% (sem maturação) a 19,6% e 23,1%, respectivamente, para 7 e 14 dias de M. A avaliação sensorial para maciez corroborou os dados da avaliação instrumental, que indicaram a efetividade da EE na melhoria da maciez da carne.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1371730344.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

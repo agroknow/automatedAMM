@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016103085">
+    <dc:title xml:lang="en">Induction of Oxidative Stress by Hydrogen Peroxide Treatment in Rice Genotypes to Study the Osmolyte Accumulation Pattern and Antioxidant Capacity</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vijayalakshmi D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Srividhya S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Muthulakshmi S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Satishraj R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Catalase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Peroxidases</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Proline</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Oxidative stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rice</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1380</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13251</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37481</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6599</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the study was to compare the rice genotypes for oxidative stress tolerance. Induction of oxidative stress, by in vivo treatment with hydrogen peroxide (H2O2) in rice genotypes to study the osmolyte accumulation pattern and antioxidant capacity was investigated. Leaf strips of uniform size from rice genotypes FL 478, IR 29,Co 43 and FR13A were subjected to various concentrations of H2O2 (0, 0.05, 0.1, 0.15 and 0.2 mM). All the four rice genotypes exhibited varied responses to proline accumulation. FL 478 and Co 43 exhibited an increase in the accumulation of proline contents initially with low concentrations of H2O2, and thereafter showed a sharp decline in proline contents with higher concentrations. Degradation of protein contents in rice leaves was observed in all the varieties and the protein contents decreased with increase in concentration of hydrogen peroxide treatment. A gradual increase in the activities of catalase and peroxidase were recorded under H2O2 treatments. Significant upregulation of antioxidant enzyme systems and slow degradation of protein contents in the tolerant genotypes (FR 13A and FL 478) play important roles in stress protection.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N3/JSPB_2014_3_37-46.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

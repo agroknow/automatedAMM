@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F05076">
+    <dc:title xml:lang="en">Factors that affect productive and reproductive characteristics of sows</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Fatores que afetam as características produtivas e reprodutivas de fêmeas suínas</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ROSA, L.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COSTA FILHO, L.C.C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOUZA, M.I.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CORREA FILHO, R.A.C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Reproductive performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pork</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crossbreeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Genetic improvement</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6120</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1976</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11119</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Revisão bibliográfica</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This review collect information related to various factors that affect the productive and reproductive characteristics of sows, with the purpose of get information to assist and promote the maximization of reproductive performance of sows. The swine production is one of the most advanced areas of the livestock sector, especially by their high increase, efficiency and competitiveness and, in the last decades, the sows passed by an enormous increment in their capacity to produce piglets, accompanied by profound physiological changes, behavioral and consequently management production. Currently, the genetic selection of sows and the crossing prioritizes characteristics related to increase productivity, aiming use the best available races, in conjunction with genetic improvement by selection and crossbreeding systems, are the principal means to improve reproductive and productive efficiency of sows. With the advent of new technologies developed in modern swine production, the genetic improvement programs have advanced substantially in order to contribute to greater productive and reproductive efficiency of pigs, but also for industry profitability. However, continuous research in the area should be carried out in order to maximize the productivity of female and reduce the economic losses.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Esta revisão de literatura reúne informações referentes aos diversos fatores que afetam as características produtivas e reprodutivas de fêmeas suínas, com o propósito de obter informações que auxiliem e promovam a maximização do desempenho das matrizes. A suinocultura é uma das áreas mais avançadas do setor pecuário, destacando-se pelo elevado crescimento, resultante da eficácia e competitividade do setor. Nas últimas décadas, as matrizes passaram por um enorme incremento na sua capacidade de produzir leitões, acompanhado de profundas alterações fisiológicas, comportamentais e, consequentemente, de manejo de produção. Atualmente, a seleção genética de porcas e o cruzamento priorizam características ligadas ao aumento da produtividade, de forma que a utilização de raças adequadas aos sistemas, em conjunto com o melhoramento genético por meio de seleção e de sistemas de cruzamentos, são os principais meios para melhorar a eficiência produtiva e reprodutiva dos suínos. Com o advento de novas tecnologias desenvolvidas na suinocultura moderna, os programas de melhoramento genético avançaram substancialmente, de forma a contribuir para uma maior eficiência produtiva e reprodutiva dos suínos, como também para a lucratividade do setor. Porém, continuas pesquisas na área devem ser realizadas com o intuito de maximizar a produtividade da fêmea e diminuir as perdas econômicas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1420654769.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

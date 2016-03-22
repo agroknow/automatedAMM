@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A10434">
+    <dc:title xml:lang="en">CHEMICAL AND BIOLOGICAL ACTIVITY OF WOODY PLANTS WATER EXTRACTS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ХИМИЧЕСКАЯ И БИОЛОГИЧЕСКАЯ АКТИВНОСТЬ ВОДНЫХ ЭКСТРАКТОВ ЛЕСНЫХ РАСТЕНИЙ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DEMAKOV Yuriy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ISAEV Alexander</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TALANTSEV Vladimir</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MALUTA Olga</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>State nature reserve «Bolshaya Kokshaga»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5993</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A detailed analysis of some books and journals on assessment of the role of secretion (exometabolites) of plants in formation of species composition and maintenance of sustainability of forest ecosystems and farming ecosystems functioning was carried out. Assessment results of the con-tent in water extracts of 12 species of forest plants of active forms of some metals and a laboratory experience of their influence on chemical composition of alluvial-meadow light clay muck soil, as well as condition of test-organisms were offered. It was shown that there was more potassium, manganese, zink, cuprum, and active form of nickel in the aspen leaf extract, and there was more calcium and ferrum in the linden leaf extract. Lily of the valley leaf extracts contain the least concentration of calcium and ferrum, sphagnum stems – manganese. It was determined that extracts of pine, oak and bracken were of the best ability to binding of active forms of potassium, contributing to increase of the content of zink and cuprum ions (in comparison with the extracts of other plants) in the soil. Extracts of aspen, lily of the valley, Pleurozium schreberi, and sphagnum increase the content of active forms of potassium, ferrum, and manganese in the soil</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">at that, they decrease concentration of the ions of zink, cuprum, and nikel</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">extracts of spruce, juniper, cladonia, birch and linden are more active in binding of calcium, ferrum, and manganese, releasing the ions of potassium, cuprum and nikel. Water extracts of all the considered species show toxic effect on bacteria development (leaves extracts of aspen, oak and lily of the valley – on chlorella development</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">sphagnum, pine and Pleurozium schreberi – on daphnia). Extracts of all the species, sphagnum and aspen in particular, cause decrease of radish seeds viability</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">at the same time, they show a stimulating effect on the size of the sprouts of the plant. Extracts of lily of the valley, cladonia, linden, and oak show the strongest stimulating effect. It was concluded that exometabolites of plants were a strong ecological factor, influencing both the formation of species structure of phytocenoses as well as their con-dition, productivity, sustainability of functioning, and continuity of circulation of elements.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Проведѐн подробный анализ литературных источников по оценке роли прижизненных выделений (экзометаболитов) растений в формировании видовой структуры и поддержании устойчивости функционирования лесных экосистем и агроценозов. Приведены результаты оценки содержания в водных экстрактах 12 видов лесных растений подвижных форм ряда металлов и лабораторного опыта по воздействию их на почву и состояние тест-организмов. Сделан вывод о том, что экзометаболиты растений являются мощным экологическим фактором, оказывающим влияние не только на формирование видовой структуры фитоценозов, но и на их состояние, продуктивность, устойчивость функционирования и непрерывность круговорота веществ.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/78/55</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.26/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

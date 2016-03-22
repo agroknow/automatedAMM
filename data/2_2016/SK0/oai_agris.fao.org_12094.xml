@@ -1,0 +1,39 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012094">
+    <dc:title xml:lang="en">Oxidative stability of chicken meat after propolis extract application in their diets</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bobko Marek</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kročko Miroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Haščík Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q54</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the experiment, the effect of the addition of propolis extract in a feed mixture for chicken broilers Hubbard JV on oxidative stability of breast and thigh muscles during refrigerated storage was investigated. In the experiment were included 90 pieces of one day-old chicks, which were divided into 3 groups (control, E1 and E2). Chickens were fed by ad libitum system until the age of 42 days. These feed mixtures were made without antibiotics preparation and coccidiostats.  Propolis extract in an amount of 150 mg.kg-1 (E1) and 450 mg.kg-1 (E2) was added into feed mixtures for experimental groups. During whole period of refrigerated storage were higher values of MDA determined in control group compare to experimental groups. The higher average MDA value determined in breast muscels of broiler chicken hybrid combination Hubbard JV was in samples of control group (0.157 mg.kg-1) compared to experimental groups E1 (0.140 mg.kg-1) and E2 (0.130 mg.kg-1) after 6-month of refrigerated storage. Significantly higher values of MDA were determined in control group compare to second experimental group from fourth month to the end of storage. The significantly lower value of MDA was determinated in first experimental group compare to control only at 6 month of storage. Trend of thigh muscle oxidation stability of chicken hybrid combination Hubbard JV was during 6 months of refrigerated storage similar than in breast muscle. The higher average MDA value determined in thigh muscels was in samples of control group (0.170 mg.kg-1) compared to experimental groups E1 (0.150 mg.kg-1) and E2 (0.139 mg.kg-1) after 6-month of refrigerated storage. Significantly higher values of MDA were determined in control group compare to second experimental group from fourth month to the end of storage. Higher amount of MDA in thigh muscle compare to breast muscle is due to by higher amount of fat occurred in thigh muscle.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/427/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

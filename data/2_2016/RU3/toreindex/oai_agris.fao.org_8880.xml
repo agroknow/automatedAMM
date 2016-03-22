@@ -1,0 +1,53 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016308880">
+    <dc:title xml:lang=" ">Проблемы формирования и раскрытия информации по сегментам в финансовой отчетности организаций агропромышленного комплекса</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Пономарева Н.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E13</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">factors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">information</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">bookkeeping</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331093</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330966</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9360</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Специфика сельскохозяйственного производства и особенности управления организациями агропромышленного комплекса (АПК) в условиях реализации Государственной программы развития сельского хозяйства обусловливают необходимость совершенствования учета и отчетности по сегментам деятельности для целей финансовой устойчивости и инвестиционной привлекательно-сти организаций АПК. Цель исследования – разработка направлений совершенствования методики формирования и представления информации по сегментам в составе финансовой отчетности орга-низаций АПК в рамках конвергенции международных стандартов и положений по бухгалтерскому уче-ту. Исходя из данной цели в статье поставлены задачи: выделить критерии, основания и показатели идентификации отчетных сегментов деятельности организаций АПК</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">выявить факторы, влияющие на выбор и детализацию отчетных сегментов хозяйственной деятельности, включая показатели, раскрываемые по сегментам</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">определить этапы формирования информации по сегментам деятельности в финансовой отчетности организации АПК. Основными результатами исследования стала разработка элементов методики формирования и представления информации по сегментам в составе финансовой отчетности организаций АПК, включающие в себя алгоритм формирования информации по сегментам деятельности в финансовой отчетности организаций АПК</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">систему критериев идентификации отчетных сегментов деятельности</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">факторы, влияющие на выбор и детализацию отчетных сегментов хозяйственной деятельности, включая показатели, раскрываемые по сегментам.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.1-2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

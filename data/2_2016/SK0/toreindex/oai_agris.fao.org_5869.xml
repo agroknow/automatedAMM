@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016005869">
+    <dc:title xml:lang=" ">EFFECT OF GENOTYPE ON EGG QUALITY CHARACTERISTICS OF JAPANESE QUAIL (COTURNIX JAPONICA)</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hrnčár Cyril</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hanusová Emília</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hanus Anton</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bujko Jozef</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">quails</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">eggs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6399</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2502</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A research was carried out to determine effect of different genotypes of Japanese quail (Coturnix japonica) in genetic resource on external and internal egg quality parameters. The birds were housed as 1 male and 3 females per cage of 0.12 m2 area at Animal Production Research Centre Nitra and fed with a mixture of 9.0 MJ ME and 145.0 g of crude protein during the experiment. Feed and water were given ad libitum. Analysis of external and internal characteristics of Japanese quail eggs was performed in the laboratory of the Department of Poultry Science and Small Animal Husbandry at the Faculty of Agrobiology and Food Resources of the Slovak University of Agriculture in Nitra. This research was conducted to investigate the effects of genotype on egg weight, egg length, egg width, egg shape index, shell weight, percentage of shell, shell thickness, shell strength, albumen weight, percentage of albumen height, albumen width, albumen length, albumen index, Haugh unit, yolk weight, percentage of yolk, yolk height, yolk width, yolk index and yolk colour. We have found significantly higher values for meat type in terms of all egg parameters (P≤0.05). In case of shell parameters, we observed significant (P≤0.05) difference between genotypes only in shell weight in benefit of the meat type and significant (P≤0.05) higher value in shell strength for laying type. There were significant (P≤0.05) differences found between the genotypes in points of albumen height and albumen index for laying Japanese quail. The significant (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.cvzv.sk/index.php/sk/rocnik-47-2014/cislo1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Slovak Journal of Animal Science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1337-9984</ags:citationIdentifier>
+      <ags:citationNumber>v.47/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

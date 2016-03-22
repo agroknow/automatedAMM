@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F05934">
+    <dc:title xml:lang="en">Hierarchical and non-hierarchical clustering and artificial neural networks for thechracterization of groups of feedlot-finished male cattle</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Agrupamento hierárquico</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>não hierárquico e redes neurais artificiais na caracterização de grupos de bovinos machos terminados em confinamento</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>HENRIQUE W.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERRAUDO, A.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SAMPAIO, A.A.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PERECIN, D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA,  T.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TEDESCHI,  L. O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic variation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sexual behaviour</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weight gain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15975</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7015</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8350</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The individual experimental results of 1,393 feedlot-finished cattle of different genetic groups obtained at different research institutions were collected. Exploratory multivariate hierarchical analysis was applied, which permitted the division of cattle into seven groups containing animals with similar performance patterns. The following variables were studied: weight of the animal at feedlot entry and exit, concentrate percentage, time spent in the feedlot, dry matter intake, weight gain, and feed efficiency. The data were submitted to non-hierarchical k-means cluster analysis, which revealed that all traits should be considered. In addition to the variables used in the previous analysis, the following variables were included: dietary nutrient content, crude protein and total digestible nutrient intake, hot carcass weight and yield, fat coverage, and loin eye area. Using all of these data, structures of 3 to 14 groups were formed which were analyzed using Kohonen self-organizing maps. Specimens of the Nellore breed, either intact or castrated, were diluted among groups in hierarchical and non-hierarchical analysis, as well as in the analysis of artificial neural networks. Nellore animals therefore cannot be characterized as having a single behavior when finished in feedlots, since they participate in groups formed with animals of other Zebu breeds (Gyr, Guzerá) and with animals of European breeds (Hereford, Aberdeen Angus, Caracu) that exhibit different performance potentials.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">The individual experimental results of 1,393 feedlot-finished cattle of different genetic groups obtained at different research institutions were collected. Exploratory multivariate hierarchical analysis was applied, which permitted the division of cattle into seven groups containing animals with similar performance patterns. The following variables were studied: weight of the animal at feedlot entry and exit, concentrate percentage, time spent in the feedlot, dry matter intake, weight gain, and feed efficiency. The data were submitted to non-hierarchical k-means cluster analysis, which revealed that all traits should be considered. In addition to the variables used in the previous analysis, the following variables were included: dietary nutrient content, crude protein and total digestible nutrient intake, hot carcass weight and yield, fat coverage, and loin eye area. Using all of these data, structures of 3 to 14 groups were formed which were analyzed using Kohonen self-organizing maps. Specimens of the Nellore breed, either intact or castrated, were diluted among groups in hierarchical and non-hierarchical analysis, as well as in the analysis of artificial neural networks. Nellore animals therefore cannot be characterized as having a single behavior when finished in feedlots, since they participate in groups formed with animals of other Zebu breeds (Gyr, Guzerá) and with animals of European breeds (Hereford, Aberdeen Angus, Caracu) that exhibit different performance potentials.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1427136072.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,118 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09662">
+    <dc:title xml:lang="ru">МИНИМАЛИЗАЦИИ ОБРАБОТКИ ПОЧВЫ ПОД ЯЧМЕНЬ И НУТ В ВОРОНЕЖСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>MINIMIZING TILLAGE FOR BARLEY AND CHICKPEA IN VORONEZH REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Турусов В.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Гармашов В.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Шевченко В.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Дудченко С.Е.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Дронова Н.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Научно-исследовательский институт сельского хозяйства Центрально-Черноземной полосы имени В.В. Докучаева</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F07</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil treatment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Barley</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tillage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chickpeas</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_823</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7771</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9785</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Исследования проводились с целью разработки менее энергозатратных агротехнологий,основанных на минимализации
+обработки почвы. Представлены результаты исследований влияния способов обработки почвы на плодородие чернозема и
+продуктивность культур в интенсивном земледелии. Хозяйственно оправданный уровень минимализации обработки почвы в
+ресурсосберегающих агротехнологиях определяется как почвенно-климатическими характеристиками региона и биологическими
+особенностями культур севооборота, так и уровнем научно-технической обеспеченности хозяйств. В агроэкологических условиях
+Воронежской области в хозяйствах с высокой культурой земледелия наиболее эффективно применение минимализации обработки
+почвы - уменьшение глубины обработки с 20-22 см до 8-10 см и использование прямого посева при возделывании ячменя.
+Отрицательно на минимализацию обработки почвы реагируют бобовые культуры со стержневой корневой системой. Нут
+снижает продуктивность при минимализации обработки почвы даже при применении интенсивных технологий на 6,4-14,5%.
+Наибольшая урожайность нута получена при применении вспашки на глубину 20-22 см – 23,5 ц/га.
+На современном этапе развития земледелия в агроэкологических условиях Воронежской области, при среднем уровне
+материально-технической оснащенности сельхозпредприятий, в зернопропашных севооборотах с широким набором
+возделываемых культур, наиболее целесообразна комбинированная разноглубинная система обработки почвы, основанная на
+сочетании отвальных, безотвальных и поверхностных обработок с преимущественным использованием вспашки на 20-22 см под
+пропашные и зернобобовые, как наиболее требовательные к физическим условиям почвенного плодородия культуры.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The studies were conducted in order to develop less energy-intensive agricultural technologies based on minimizing tillage. The results
+of studies present the effect of tillage on chernozem fertility and crop productivity in intensive agriculture. Economically justified level
+126
+minimizing tillage in agro-technologies resource is defined as soil and climatic characteristics of the region and the biological
+characteristics of crop rotation, and the level of scientific and technical support farms. The most effectively minimize the use of tillage -
+decrease in the depth of treatment with 20-22 cm to 10,8 cm, and the use of direct seeding in the cultivation of barley in farms with high
+culture of farming in the agro-ecological conditions of the Voronezh region. Legumes with taproot system react negatively on the
+minimization of tillage. Chickpeas reduces productivity while minimizing tillage even when applying intensive technologies on 6,4-14,5%.
+The highest yield of chickpea obtained by applying plowing to a depth of 20-22 cm is 23,5 centers per hectare.
+At the present stage of development of agriculture in agro-ecological conditions of the Voronezh region, an average level of material
+and technical equipment of the farms in a grain row crop rotation with a wide range of crops most suitable combination mid-water treatment
+systems, based on a combination of dump, including subsurface and surface treatments using mainly plowing 20 -22 cm below the tilled and
+legumes, as the most demanding physical conditions of soil fertility culture.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/05/4-1-35.pdf#page=125</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.1 (35)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

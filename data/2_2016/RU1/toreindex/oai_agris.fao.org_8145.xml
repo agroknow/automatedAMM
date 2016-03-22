@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016108145">
+    <dc:title xml:lang="en">Genetic Analysis for Some of Morphological Traits in Bread Wheat under Drought Stress Condition Using Generations Mean Analysis</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Abedi Jamileh</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Baghizadeh Amin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mohammadi-Nejad Ghasem</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F63</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soft wheat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drought</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14386</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Perception of genes action controlling of quantitative traits is very important in genetic breeding methods the plant populations. to study and estimate the parameters of genetic and appointment the best genetically model for justification the genetic changing some of traits the bread wheat under drought stress condition, parents (P1 &amp; P2) and F3, F4, F5 generations together the four control cultivars (Kharchia, Gaspard, Moghan and Mahuti) were evaluated by generation mean analysis using a agoment design including six blocks. Generation mean analysis was performed for all traits with Mather and Jinks model using joint scaling test. Three parameter model [m d h] provided the best fit for all traits expect harvest index, main spike grain weight, number of grain per plant, Total spike weight of plant with significant at 5% and 1% levels . Though additive and dominance effect both had interfered in controlling often the traits but with attention to difference effects and variety component was determined that dominance is more impressive than additive effect for traits of number of tiller, main spike weight, grain yield and grain number of main spike. Therefore will benefit using of these traits in the collection and to improve these traits hybridization would be much efficient than the selection strategies. In this study additive Ч additive epistasis effect only observed for traits of Total spike weight of plant, number of grain per plant, main spike grain weight and harvest index and other traits hadn’t any epistasis effect that it was demonstration lack of existence the genes reciprocal effect in the inheritance studied traits. Therefore we can suggest that the selection strategies perform in terminal generations and additive Ч additive epistasis effect would be confirmed in selection under self-pollination condition.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2015/N2/JSPB_2015_2_40-48.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

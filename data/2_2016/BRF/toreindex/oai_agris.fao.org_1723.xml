@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01723">
+    <dc:title xml:lang="en">An brief overview of ruminant reproduction researches carried out by the Instituto de Zootecnia/APTA</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Descrição sucinta das pesquisas com reprodução de ruminantes realizadas pelo Instituto de Zootecnia/APTA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ALVAREZ, Rafael H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2009-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ruminants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproduction</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Embryo transfer</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Artificial insemination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6695</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6507</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15965</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_638</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Revisão de Literatura</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this article was to review the researches on ruminant reproduction carried out by the Instituto de Zootecnia between 1970 and 2008. A bibliographic search of articles was made and selected the most relevant concerning the physiology and technology of reproduction. It was evidenced that, more that produce basic information for the advancement of knowledge, the Instituto de Zootecnia has been able to improve reproductive methodologies related to artificial insemination and embryo transfer technologies in Brazil.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A presente revisão objetivou analisar os resultados das pesquisas desenvolvidas pelo Instituto de Zootecnia na área de reprodução dos ruminantes no período de 1970 a 2008. Para tanto, foi realizado um levantamento bibliográfico dos artigos publicados nessa área por pesquisadores do Instituto de Zootecnia e selecionados aqueles que contribuíram com destaque para o avanço do conhecimento da fisiologia reprodutiva e tecnologias da reprodução. Foi evidenciado que, mais que gerar informações na fronteira do conhecimento, o IZ tem contribuído significativamente para a validação de tecnologias reprodutivas, com destaque para as relacionadas com as áreas de inseminação artificial e transferência de embriões no Brasil.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1276705162.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.66/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

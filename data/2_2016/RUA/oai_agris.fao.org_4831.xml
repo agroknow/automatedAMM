@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A04831">
+    <dc:title xml:lang="en">A DEVICE FOR IMPROVEMENT OF SOWING QUALITIES OF SEEDS WITH THE HELP OF LONGWAVE UV IRRADIATION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>УСТАНОВКА ДЛЯ ПОВЫШЕНИЯ ПОСЕВНЫХ КАЧЕСТВ СЕМЯН ДЛИННОВОЛНОВЫМ УЛЬТРАФИОЛЕТОВЫМ ОБЛУЧЕНИЕМ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>KOREPANOV Dmitry</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ROMANOV Vasiliy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VASENEV Evgeny</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NIGMATULLIN Suleiman</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Seeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Germination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ultraviolet irradiation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6946</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28433</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Ultraviolet exposure (wavelength of 315…380 nm) on seeds is based on the ability to stimulate photochemical processes in an irradiated biological object, activating phenolic metabolism in the cells. Positive effect of this method on plants and seeds before sowing has long been known. Nowadays with the advent of new technologies it has a great practical perspective. At the same time, it is necessary to improve technical and environmental characteristics of the source of UVR devices for pretreatment of seeds (forest plantations are included). Use of ultraviolet energy saving lamps as a source of radiation is one of the possible solutions. The lamps have a number of significant technical advantages over traditional devices used for improvement of sowing qualities of seeds. In the developed installation with the help of an automatic device of seeds supply, the latter come inside the insulated body, where they are exposed to radiation by the UVR source. The dose rate is displayed at the dose rate counter. The dose is calculated in advance depending on the seed weight and is selected by means of height of suspension source. Suspension height is set with the motion of the UVR source in the drive shaft. Device performance is 1000 seeds for 5-15 minutes depending on the dose level and weight of seeds. The laboratory studies have shown the promise of using UV methods based on the proposed device aimed at stimulation of the growth processes in order to intensify cultivation of planting material.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Описана структура функционирования установки ультрафиолетового излучения с длиной волны 315–3400 нм, предназначенной для предпосевной подготовки семян. Рассмотрены её преимущества перед аналогичными устройствами. Дана оценка практического использования устройства.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/44/22</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.21/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

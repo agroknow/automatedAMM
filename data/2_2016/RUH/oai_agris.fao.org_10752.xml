@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10752">
+    <dc:title xml:lang="en">COMPETITIVENESS AND DEMAND FOR GRADUATES FROM MODERN RUSSIAN UNIVERSITITES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>КОНКУРЕНТОСПОСОБНОСТЬ И ВОСТРЕБОВАННОСТЬ ВЫПУСКНИКОВ СОВРЕМЕННЫХ РОССИЙСКИХ ВУЗОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ivashova V.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dub G.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khokhlova Е.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tunina N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Stavropol State Agrarian University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">employment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agricultural workers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2550</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8684</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The training of a competent professional capable to quickly adapt to the realities and requirements of the labor market
+becomes a key task of universities. The article gives a general description of the possible competitive advantages of the
+individual high school graduate, capacity and employment prospects for professional groups in the Russian labor market. It
+also shares the practical experience of the Stavropol State Agrarian University in the study of the requirements of employers
+on the example of a separate field of study.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Подготовка компетентного специалиста, способного в короткие сроки приспосабливаться к реалиям и
+требованиям рынка труда становится ключевой задачей вузов. В статье дана общая характеристика возможных
+конкурентных преимуществ личности выпускника вуза, емкость и перспективы трудоустройства различных
+профессиональных групп на российском рынке труда. А также практический опыт Ставропольского ГАУ в
+исследовании требований работодателей на примере отдельного направления подготовки</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/09/8-5-39.pdf#page=25</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.5 (39)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

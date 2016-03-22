@@ -1,0 +1,53 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10124">
+    <dc:title xml:lang="ru">СОРБЕНТЫ ДЛЯ ЛИКВИДАЦИИ НЕФТЯНЫХ РАЗЛИВОВ НА ОСНОВЕ ВЕРХОВЫХ СЛАБОРАЗЛОЖИВШИХСЯ ТОРФОВ ТОМСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>SORBENT FOR OIL SPILL RESPONSE BASED ON RAISED BOG WEAKLY DECOMPOSED PEAT OF TOMSK AREA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>АНТРОПОВА Н.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Национальный исследовательский Томский политехнический университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">T01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pipes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oil spills</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5925</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9001017</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5332</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Для ликвидации разливов нефти необходимо использовать торфяные сорбенты, произведённые из местного сырья. Ресурсы малоразложившихся верховых торфов Томской области, пригодных для приготовления сорбентов, составляют около 8,4 млрд. т.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Oil spill response is necessary should be used peat sorbents made from local raw materials. Resources of raised bog weakly decomposed peat of Tomsk area, suitable for the production of sorbents - about 8.4 billion tons.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/02/1-1-32.pdf#page=77</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.1 (32)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

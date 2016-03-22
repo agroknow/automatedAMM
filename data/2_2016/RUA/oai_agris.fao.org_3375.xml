@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A03375">
+    <dc:title xml:lang="en">DEVELOPMENT OF EXPRESS-SYSTEM OF BIOACTIVITY DETERMINATION OF TRITERPENOID GLYCOSIDES WITH THE HELP OF THE TEST ON GERMINATION OF POLLEN-GRAINS OF АN INDIAN WEED</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>РАЗРАБОТКА ЭКСПРЕСС-СИСТЕМЫ ОПРЕДЕЛЕНИЯ БИОЛОГИЧЕСКОЙ АКТИВНОСТИ ТРИТЕРПЕНОВЫХ ГЛИКОЗИДОВ С ИСПОЛЬЗОВАНИЕМ ТЕСТА ПО ПРОРАСТАНИЮ ПЫЛЬЦЕВЫХ ЗЁРЕН ТАБАКА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SUKHANOVA Еlena</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KOCHKIN Dmitry</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TITOVA  Maria</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SERGEEV Roman</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NOSOV Alexander</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Moscow State University named after М. V. Lomonosov</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Institute of Plant Physiology named after К.А. Timiryazev</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pollen germination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ginsenosides</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nicotiana tabacum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35046</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35134</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5177</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The test on germination of pollen-grains is widely used in beauty and medical industry to analyze toxic potential substances at the cellular level. However, no information about its use for study of biological activity of isolated secondary metabolites has been found yet. A study of possibility of use of this test-system for definition of stimulating activity of individual polysciasides and ginsenosides was carried out. Pollen of Nicotiana tabacum L was chosen for the research. Solutions of triterpenoid glycosides were added before incubation of pollen-grains. Percentage of germination of pollen-grains was determined in 40 and 50 minutes after incubation. A stimulating action aimed at pollen-grains germination is necessary for Rb1 ginsenoside, it was not revealed in its derivant. A strong inhibiting action is necessary for Rh2 ginsenoside of the protopanaktodiol`s group, while Rh1 ginsenoside from the protopanaksotriol`s group (it is similar to Rh2 ginsenoside) did not have a serious impact on germination of pollen-grains. The offered test-system showed differences in activity of ginsenosides, caused by presence of additional ОН-group (Rh1 in comparison with Rh2) and addition of remains of malonic acid (mal-Rb1 in comparison with Rb1). A method of express-assessment of stimulating biological activity of individual triterpenoid glycosides was elaborated. This method is supersensitive, it reveals dependence of biological activity of individual ginsenosides on peculiarities of their chemical structure.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/55/32</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.22/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

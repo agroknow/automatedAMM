@@ -1,0 +1,97 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C03953">
+    <dc:title xml:lang="en">Introduction and testing of poplar: proposal for an exchange and testing programme</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Интродукция и тестирование тополей: предложения по обмену и программы испытаний</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>von Wuehlisch G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ZHIGUNOV Anatoliy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Grigoriev A.</ags:creatorPersonal>
+    </dc:creator>
+    <ags:creatorConference>International scientific conference Innovation and technologies in forestry</ags:creatorConference>
+    <dc:creator>
+      <ags:creatorCorporate>Thuenen Institute for Forest Genetics</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Saint Petersburg State Forest Technical University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">North America</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">controlled pollination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Populus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Europe</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Species</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">FAO</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5219</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36529</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6116</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1318834863789</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2724</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7280</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2791</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Numerous poplar cultivars have been cross bred by controlled pollinations in North America and Europe Since about 90 years and more recently in Asian countries especially China. The success of poplar breeding is mainly due to the hybridisation of differing species, which naturally would not come into contact. Classical examples of successful hybridisations are crosses between the North American and the European black poplar known as Populus × Canadensis Moench. There are many more such examples which however, are not confined only to the Genus Populus. Prerequisite for this work is the exchange of germplasm among the breeders in different parts of the world. To support this as one activity in promoting poplar cultivation the International Poplar Commission was founded 1947 under the FAO. The result of poplar breeding is the intensive production of poplar wood in ten million ha plantations globally, especially in the temperate zone where tropical fast growing species like tropical pine species or Eucalyptus cannot be grown. A result of the breeding programmes is the existence of a multitude of poplar clones which have not been tested sufficiently in all regions where they might be suitable. Thorough testing is prerequisite for identification of suitable cultivars before their registration and approval for commercial marketing. A proposal is made to exchange both germplasm, e.g. seed, pollen, cuttings, etc. from natural stands as well as hybrid poplar clones and to use the material for cross breeding work respective suitability testing in the designated region of wood production.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.spb-niilh.ru/pdf/innovations/innovations_2013_1.pdf</dc:identifier>
+    <dc:type>Conference Paper</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+  </ags:resource>
+</ags:resources>

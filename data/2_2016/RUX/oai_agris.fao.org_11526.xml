@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X11526">
+    <dc:title xml:lang="en">DYNAMICS OF MINERAL COMPOSITION OF BLOOD OF COWS OF FIRST LACTATION WITH PRESCRIPTION OF VODNIT</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ДИНАМИКА МИНЕРАЛЬНОГО СОСТАВА КРОВИ КОРОВ ПЕРВОЙ ЛАКТАЦИИ С НАЗНАЧЕНИЕМ  ВОДНИТА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zamaltdinov R.Kh.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Grigoryev V.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Samara State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal health</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lactation number</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1939</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_431</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26869</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>5 tables;10 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The paper describes the results of studies on the use of mineral feed additives Vodnit of Vodinsky deposits in Krasnoyarsk district of Samara region in feeding cows first lactation. The experiment was conducted at physiologically healthy animals contained in the economic conditions, successful in infectious and parasitic diseases. Appropriate conditions and feeding of the animals are satisfactory. Rations and rates of feeding cows are used for getting 6000 liters of milk in 305 days of lactation. Mineral feed additive Vodnit was pre-annealed at a temperature of 1100 C for 40 minutes, it was fractionated to particle sizes of 0.5-1 mm. It is established that the introduction of Vodnit in the diet of animals from the experimental group at a dose of 3% by weight of concentrated feed improves overall physiological parameters of the body, increases blood potassium by 6,6%, total calcium — by 18,4%, inorganic phosphorus by 11,8%, sodium — by 6,0% comparing to those metrics of animals of the control group. Positive changes in physiological characteristics and mineral composition of the blood in animals of the experimental groups, seems to be connected with a temporary removal from the body of pathogenic factors coming from food, water and air through the sorption of mineral feed supplement Vodnit, that contributed to the full absorption of nutrients of feed by the animals from the experimental group, compared to the cows in the control group they had greater milk productivity - by 6,9%, the protein content of milk is higher by 8,5%, fat — by 4,7%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В работе описываются результаты исследований по использованию минеральной кормовой добавки Воднит Водинского месторождения Красноярского района Самарской области в кормлении коров первой лактации. Опыт проведен на физиологически здоровых животных, содержащихся в хозяйственных условиях, благополучных по инфекционным и инвазионным болезням. Зоогигиенические условия содержания и кормления животных удовлетворительные. Рационы и нормы кормления коров рассчитаны на получение 6000 литров молока за 305 дней лактации. Минеральную кормовую добавку Воднит предварительно обжигали при температуре 1100С в течение 40 минут, фракционировали до размеров частиц 0,5-1 мм. Установлено, что включение Воднита в рацион животных опытной группы в дозе 3% от массы концентрированного корма улучшает общие физиологические показатели организма, в крови повышается содержание калия на 6,6%, общего кальция - на 18,4%, неорганического фосфора - на 11,8%, натрия - на 6,0%, относительно таковых показателей животных контрольной группы. Положительные изменения физиологических показателей и минерального состава крови у животных опытных групп, по-видимому, связаны с временным удалением из организма патогенных факторов, поступающих с кормом, водой и воздухом, путем сорбции минеральной кормовой добавки Воднит. Что способствовало наиболее полному усвоению питательных веществ корма животными опытной группы, которые по сравнению с коровами контрольной группы имели большую молочную продуктивность - на 6,9%, содержание белка в молоке у них было выше на 8,5%, жира - на 4,7%.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(29)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

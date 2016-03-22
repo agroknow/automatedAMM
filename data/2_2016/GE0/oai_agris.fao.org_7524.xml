@@ -1,0 +1,68 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="GE2016007524">
+    <dc:title xml:lang="en">White-rot basidiomycetes lignocellulolytic enzymes activity in fermentation of plant raw materials</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kachlishvili E.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Jokharidze T.Z.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Berikashvili V.Sh.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Metreveli E.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Elisashvili V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Basidiomycota</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">lignocellulose</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fermentation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant biotechnology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mandarins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331216</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24868</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2855</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27590</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4568</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Production of lignocellulolytic enzymes by the white-rot basidiomycetes isolated from the forests of Georgia was investigated under submerged (SF) and solid-state fermentation (SSF) of lignocellulosic materials. Notable intergeneric and intrageneric differences were revealed with regard to the extent of hydrolases and oxidases activity. For example, in submerged fermentation of mandarin peels, the activity of endoglucanase varied from 0.3 to 3.6 U ml-1 while that of xylanase ranged from 0.6 to 18.0 U ml-1. The lignocellulosic substrate type had the greatest impact on enzyme secretion. Thus, the CMCase activity of L. betulina 159 varied from 0.9 to 6.5 U ml-1 while the Cerrena unicolor 305 laccase activity varied from 500 to 71820 U l-1  depending on growth substrate. In addition, the lignocellulose fermentation method considerably influenced the enzyme production by white-rot fungi.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.agrscience.ge</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Annals of agrarian science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1512-1887</ags:citationIdentifier>
+      <ags:citationNumber>v.12/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

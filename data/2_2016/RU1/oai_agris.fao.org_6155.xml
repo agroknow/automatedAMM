@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016106155">
+    <dc:title xml:lang="en">The Study of the Effects of Surface Dielectric Barrier Discharge Low Temperature Plasma Products on Spring and Winter Wheat Germination</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lazukin A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lyubushkina I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kirichenko K.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Grabelnych O.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Krivov S.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nikitin A.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wheats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Germination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8373</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The use of ion-plasma technologies for treatment of seeds of different crop plants is particularly important for regions that exist in environment of risk farming. This is due to the lack of supplies in the treatment, durability, reliability and performance of these technologies. However, the mixed results of studies obtained for different species and varieties of seeds, make it necessary to detail compare the effects of the low-temperature plasma products for different cultures. This paper presents the results of experimental studies of the effects of plasma products of surface dielectric barrier discharge on the germination of spring and winter wheat. It has been shown that irrespective of time and the exposure intensity laboratory germination of spring wheat seeds reduced of 74% in the control group to 52% of the treated seeds, while the germination of wheat seeds is not reduced even at a relatively long exposure (20 min). The modes of treatment (3 min, 2.1-2.4 kV) at which germination of winter wheat seeds increase from 81% in the control group to 87% of the treated seeds have been selected. Resistance of winter wheat seed germination to the product of the discharge plasma can be used to form the conditions for safe suppression of a variety of pathogenic organisms on the surface of seeds.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2015/N1/JSPB_2015_1_05-15.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

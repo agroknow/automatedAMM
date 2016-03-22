@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100734">
+    <dc:title xml:lang="en">Effect of Salt Stress on Grain Reserve Composition in Ten Durum Wheat Cultivars</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kahrizi Sonia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sedghi Mohammad</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Gluten</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Salinity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3294</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6751</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Saline soils are defined as those that contain sufficient soluble salts in the root zone to impair plant growth. Wheat is one of the three major cereals dominating world agriculture to date. Durum wheat is the hardest wheat and the concept of durum wheat quality is complex and confusing. Quality factors such as protein content, gluten strength and color have different priorities in various durum wheat markets. Changes in the grain quality of ten durum wheat cultivars under salt stress studied at the greenhouse condition. A factorial experiment was carried out based on completely randomized design with three replications. Treatments were salinity including 0, 60 and 120 mM and ten durum wheat cultivars (Boomer, PGS, 71135, 61130,605, C1351, KND, KDM, Haurani and G1252). Biochemical grain reserves such total protein and carbohydrate content, gluten, phosphorous and beta carotene were measured. Results showed that interaction of salt and cultivars was significant for all studied traits except of beta-carotene. At this experiment, gluten content changed very little with salinity levels. Cultivar 71135 at all salinity levels had the highest gluten content. With increasing of salt severity, the content of protein and carbohydrate decreased and content of phosphorous increased compared with control. In 60 mM salinity, cultivars 61130 and 71135, in 120 mM, 71135 and KDM and in control, 61130 and PGS respectively, had the highest and lowest content of protein. Cultivars 71135 and 61130 had the highest and PGS had the lowest phosphorous content in control. At 60 mM, cultivars 71135 and PGS respectively, had the highest and lowest phosphorous content. At 120mM, 71135 and Haurani respectively, had the highest and lowest phosphorous content. In three salt levels, cultivar 71135 was determined as the most tolerant cultivar according to content of grain reserve composition results.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N3/JSPB_2013_3_113-121.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

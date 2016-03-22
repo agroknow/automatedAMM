@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13634">
+    <dc:title xml:lang="en">ISOLATION AND STUDY OF BIOLOGICAL PROPERTIES OF BACTERIOPHAGES AEROMONAS SOBRIA</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ВЫДЕЛЕНИЕ И ИЗУЧЕНИЕ БИОЛОГИЧЕСКИХ СВОЙСТВ БАКТЕРИОФАГОВ AEROMONAS SOBRIA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gorshkov Ivan G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Viktorov Denis А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vasilyev D.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Aeromonas</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">BACTERIOPHAGES</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Biotechnology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Microbiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sustainability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chloroform</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_769</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16165</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4800</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33560</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29696</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>5 tables, 17 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Bacteriophages, active against bacteria of the genus Aeromonas, are of scientific and practical interest, especially as a tool for the identification of named bacteria (phage typing methods and reaction of increasing phage titer), as well as a means of decontamination. Bacteria of the genus Aeromonas play a significant role in infectious ichthyopathology. Aeromonosis of fish is a disease that occurs in fish farms and caused by bacteria: Aeromonas salmonicida, Aeromonas hydrophila, Aeromonas caveae, Aeromonas sobria. Since existing methods of diagnosis do not involve the typing of pathogens of aeromonosis to species, treatment of the disease is the use of broad-spectrum antibiotics, high-molecular compounds containing iodine, formalin. In the study, 16 water sources has been studied and 8 strains of bacteriophages active against A. sobria were allocated. The lytic activity of bacteriophages (using method Gracia) was studied, it was from 0,6(±0,1)х106 tо 2,0(±0,2)х1010 BOЕ/ml. Selected bacteriophages are stable in temperature up to 48 °C for 20 minutes and is completely inactivated at 54 °C, and they are sensitive to treatment with chloroform in a ratio of 1:10 duration over 5 minutes. The selected phages possess species specificity.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Бактериофаги, активные в отношении бактерий рода Aeromonas, вызывают научный и практический интерес, прежде всего, как средство выявления названных бактерий (методами фаготипирования и реакции нарастания титра фага), а также как средство деконтаминации. Бактерии рода Aeromonas играют существенную роль в инфекционной ихтиопатологии. Аэромонозы рыб – это заболевание, встречающееся в рыбоводческих хозяйствах и вызываемое бактериями: Aeromonas salmonicida, Aeromonas hydrophila,Aeromonas caveae, Aeromonas sobria. Поскольку существующие методы диагностики не предусматривают типирование возбудителей аэромонозов до вида, лечение заболевания заключается в применении антибиотиков широкого спектра, высокомолекулярных соединений, содержащих йод, формалин. В ходе исследования было изучено 16 водных источников и выделено 8 штаммов бактериофагов, активных в отношении A. sobria. Была изучена литическая активность бактериофагов (по методу Грациа), которая составила от 0,6(±0,1)х106 до 2,0(±0,2)х1010 БОЕ/мл. Выделенные бактериофаги устойчивы в воздействию температуры до 48 °С в течение 20 минут и полностью инактивируются при 54 °С, а так же неустойчивы к обработке хлороформом в соотношении 1:10 продолжительностью свыше 5 минут. Выделенные фаги обладают видовой специфичностью.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/3-15-Gorshkov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

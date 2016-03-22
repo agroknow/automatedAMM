@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H07589">
+    <dc:title xml:lang="ru">ХАРАКТЕРИСТИКА ПОЙМЕННЫХ ДУБРАВ ДОБРОВСКОГО ЗАКАЗНИКА ЛИПЕЦКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>CHARACTERISTIC OF FLOOD PLAIN OAK GROVES IN DOBROVSKY CLOSED WOOD OF THE LIPETSK REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Припольцева А.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3062</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье дана краткая характеристика пойменных дубрав, расположенных в верховье реки Воронеж на территории Добровского заказника Липецкой области. Описаны общая структура древостоя, тип лесорастительных условий, структура почвы. Проанализированы дубравы по разным возрастным категориям, классам бонитета, происхождению.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The short characteristic of flood plain oak groves is given in article. Flood plain oak groves located in a upper reaches of Voronezh in the Dobrovsky closed wood of the Lipetsk region. The general structure of a forest stand, type of forest vegetation conditions, soil structure are described. Oak groves on different age categories, class of bonitet, an origin are analyses.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/2-9.pdf#page=42</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2 (9)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

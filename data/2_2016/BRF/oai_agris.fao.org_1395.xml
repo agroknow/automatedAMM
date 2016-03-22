@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01395">
+    <dc:title xml:lang="en">Lactation curve in Alpine and crossbred Boer goats at a pasture system production with and without concentrate supplementation</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Curva de lactação de cabras da raça Alpina e de mestiças Boer</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>em sistema de produção em pasto</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>com suplementação concentrada</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>RODRIGUES, L. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GONÇALVES,  H. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CAÑIZARES,  G. I. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MARTINS,  M. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MARQUES,  R. O</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RIBEIRO,  M. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2010-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Goats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3324</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4829</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Fifty goats were used (30 Alpine and 20 ½ Boer + ½ Alpine), primiparous and multiparous, with average body weight of 52.7 ± 1.07 kg, evaluated averaging to 203.9 ± 8.04 lactation days. Were tested two pasture production systems: SP1 - with concentrate supplementation and SP2 - without concentrate supplementation. Animals were kept in pasture established with Panicum maximum cv. Tanzania. Milk control was performed every 14 days, by weighting milk. It was calculated some variables: time to reach peak, production at peak (PP), milk production on t time and persistence (PS). Genotype and pasture production system influenced the lactation curve. Concentrate supplementation of Alpine goats resulted in longer time to reach peak of lactation, higher PP and PS. Alpine goats, on pasture production system should be supplemented with concentrate.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Foram utilizadas 50 cabras (30 da raça Alpina e 20 ½ Boer + ½ Alpina), primíparas e multíparas, com peso corporal médio de 52,7 ± 1,07 kg, avaliadas em média até 203,9 ± 8,04 dias de lactação. Foram testados dois sistemas de produção em pasto: SP1 - com suplementação concentrada e SP2 - sem suplementação concentrada. Os animais foram mantidos em pastagem estabelecida com Panicum maximum cv. Tanzânia. O controle leiteiro foi realizado a cada 14 dias, por meio da pesagem do leite. Calculou-se as variáveis: tempo para atingir o pico, produção no pico (PP), produção de leite no tempo t e persistência (PS). O genótipo e o sistema de produção em pasto influenciaram a curva de lactação. A suplementação concentrada de cabras da raça Alpina resultou em maior tempo para atingir o pico de lactação, maiores PP e PS. No sistema de produção em pasto, cabras da raça Alpina devem ser suplementadas com ração concentrada.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1287672745.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.67/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

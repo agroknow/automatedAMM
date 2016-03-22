@@ -1,0 +1,42 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016313548">
+    <dc:title xml:lang="ru">Роль прикатывания почвы в борьбе с сорняками на посевах кукурузы</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Тарчоков Х.Ш.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F07</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">maize</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Herbicides</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12332</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8347</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3566</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Кукуруза, как теплолюбивое растение, в начальный период медленно прорастает и развивается, что является одной из основных причин того, что ее посевы в сильной степени страда-ют от сорняков. В течение первых 30-50 дней, начиная от фазы всходов, растения кукурузы особенно чувствительны к затенению сорняками, ухудшающими водно-пищевой и температурный режим в аг-роценозе культуры в целом. К тому же на создание единицы сухого вещества сорные растения затра-чивают, как правило, в 1,8-6,0 раз больше влаги и элементов питания, чем кукуруза. Наиболее вредо-носны на кукурузном поле как ранние, так и поздние яровые наиболее теплолюбивые сорняки. Особо следует выделить группу из таких видов сорняков, численность и вредоносность которых во всех ре-гионах России в последнее десятилетие неуклонно растут. Это – дымянка лекарственная (Fumaria officialis Z.), звездчатка средняя (Stellaria media Z.), марь белая (Chenopodium album Z), одуванчик лекар-ственный (Taracsacum officinale Wigg.), пастушья сумка (Capsella bursa-pastoris Z.), сурепка обыкновен-ная (Barbarea vulgaris R.Br.), щирица запрокинутая (Amarantus retroflexus Z.) и др. Следует отметить также, что в последние годы из-за общей тенденции потепления климата наблюдается заметное продвижение в более холодные северные регионы страны поздних теплолюбивых многолетников (гу-май) и повышение ими уровня засоренности посевов пропашных культур, в т.ч. и кукурузы. Как правило, наибольшую прибавку урожая зерна кукурузы обеспечивают агротехнические приемы, или их сочета-ние с химпрополкой, которые способствуют уничтожению (подавлению) именно этих видов сорняков. В статье представлены экспериментальные данные, свидетельствующие о влиянии послепосевного прикатывания почвы и гербицидов на засорённость посевов и урожай зерна кукурузы. Показана эф-фективность отдельных агроприемов и их сочетаний в борьбе против разных видов сорняков.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

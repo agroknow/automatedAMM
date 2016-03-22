@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016108139">
+    <dc:title xml:lang="en">Molecular Mechanisms of Processing Proteome Reorganization of Interphase Chromatin During Stress and Adaptation to Winter in Wheat</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ivanov R.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tereshchenko L.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vafina G.H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ivanova E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Winter</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Proteolysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chromatin</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vernalization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8410</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6261</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1593</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16059</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Research of fundamental molecular and genetic processes of plant interaction with the environment, is a progressive field of understanding the fundamental problems of stress supramolecular biochemistry of developmental biology.
+The purpose of the work was the analysis of localization shielded to protease processing proteins of suprastructures of interphase chromatin matrix in the conditions of adaptation during vegetative phase of wheat to stressful environment factors. It is shown that in the conditions of perennial adaptation to cold shock of wheat at the level of chromatin suprastructures tightly bound to the nuclear matrix there is a total shielding of arginine-X sites to protease-processing. Perhaps these are zones that affect to the architecture organization of the cell nucleus that can help to survive in complex environmental conditions.
+According to the priorities in the study of agricultural plants, put forward by EPIC (The Epigenomics of Plants International Consortium) in 2011 for the next decade, was included the point of necessity to understand the molecular basis of the interactions of genotype and environment that change the characteristics of plants in different conditions of the environment.
+These data will be useful for those who involved in the development of mathematical logic schemes of the theory and practice of biological specificity, and it could be included in the ontology of the stages plant growth and development.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2015/N2/JSPB_2015_2_05-15.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A04873">
+    <dc:title xml:lang="en">TRIPLOID ASPEN FOREST PLANTATIONS OF IN VITRO PLANTING MATERIAL</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЛЕСНЫЕ ПЛАНТАЦИИ ТРИПЛОИДНОЙ ОСИНЫ</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>СОЗДАННЫЕ ПОСАДОЧНЫМ МАТЕРИАЛОМ IN VITRO</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ZHIGUNOV Anatoliy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHABUNIN Dmitriy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BUTENKO Оlesya</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Saint-Petersburg State Forestry Technical University named after S.M. Kirov</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Saint-Petersburg Forest Research Institute</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cell culture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">In vitro culture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Populus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Clones</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plantation crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7178</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24135</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6116</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1678</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13443</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Introduction. Aspen (Populus tremulla) is one of the most widespread tree species in Russia. It is frost and drought resistant</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">it requires more light but it does not need fertile land as com-pared with other poplars. However, the main problem with aspen growing in natural habitat is heart rot caused by Phellinus tremulae. For this reason, only disease-resistant genotypes can provide high growth rate and high-quality wood. A. S. Yablokov and S. N. Bagaev found such genotypes in the forests of the Kostroma region. Triploid forms that are most resistant to heart rot are of particular interest. Unfortunately, aspen cuttings do not develop roots, but when seeded, aspen progeny loses the properties of fast growth and heart rot resistance. In this situation, in vitro technology is rather promising for aspen reproduction. The goal of the research is to study the growth course of triploid aspen in different forest growth conditions with different soil preparation. Methods. The best aspen clones from the Kostroma region were introduced into tissue culture in Saint-Petersburg Forest Research Institute. After microcutting, the propagules grew 5 times larger over 6 weeks, this time is enough to obtain plantlets. The research has shown that the tissue culture method can be used for reproduction of aspen genotypes that can be hardly obtained by standard methods. In early spring the plantlets were planted into peat substrate in a greenhouse for the transplants to adapt to ambient environment within 1–3 months. Experiment plantations were established with the triploid aspen planting material in the Leningrad region. The analysis has shown that the grow rate of the plantations depends on the category and type of forest growth conditions as well as the method of soil preparation. Research results. The planting material obtained with in vitro technology makes it possible to establish high-productive aspen plantations, the growth rate of which provides their high competitive ability with herbaceous cover. Therefore, aspen plantations can be established on fertile land with maximum benefit. Height increment of triploid aspen plantations increased considerably starting from the age of 6 years and at the age of 8, it was twice as high as that of coppice aspen forest. Proper soil preparation greatly increases the yield of triploid aspen plantations.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Приводятся сведения о технологии микроразмножения триплоидной осины, разработанной в ФБУ «СПбНИИЛХ». Рассматривается рост посадочного материала, полученного из регенерантов, выращенных в торфяном субстрате и адаптированных к изменившейся влажности окружающей среды в условиях летней теплицы в культуре. Показана зависимость скорости роста культур от способа обработки почвы. Развитие напочвенного покрова является ограничивающим фактором роста культур триплоидной осины до четырёхлетнего возраста.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/66/43</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.24/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13919">
+    <dc:title xml:lang="ru">СРАВНИТЕЛЬНЫЙ АНАЛИЗ МОРФОМЕТРИЧЕСКИХ И БИОХИМИЧЕСКИХ ПОКАЗАТЕЛЕЙ ПЕРЕПЕЛИНЫХ ЯИЦ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>COMPARATIVE ANALYSIS OF MORPHOMETRIC AND BIOCHEMICAL INDICATORS OF QUAIL EGGS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Avdoshina  O.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pigareva  S.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kletikova  L.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Yakimenko  N.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Martynov  A.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khozina  V.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal Husbandry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8532</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: quails, morphological and biochemical indicators of eggs</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрены зоологические особенности яиц, полученных от перепѐлок, содержащихся на птицефабрике и приусадебном хозяйстве. Проведенные биохимические исследования позволяют оценить качество продукции, полученной от перепѐлок-несушек.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Zoological features of the eggs received from the quails containing on poultry farm and homestead economy are considered in the article. The conducted biochemical researches allow estimating the quality of production received from quails-layers.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_bedd806123a94cdc9a668380d87d78ce.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="IN2016106113">
+    <dc:title xml:lang="en">Innovative measures for mitigating negative effects of climate change on hill agriculture in Nepal</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Malla GHANASHYAM</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">12/2-14</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Adaptation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">climatic change</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_117</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35367</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Agriculture plays an important role in
+food and nutritional security of Nepal. Climate
+change is negatively affecting agriculture especially
+in hill agriculture of the country. Reviews showed
+that increase in temperature in Nepal is higher (1.7oC
+in 30 years, i.e. 0.06oC /year) than the global average.
+In Nepal, both positive and negative impacts of
+climate change have been observed on agriculture.
+Frequency of negative impacts especially
+hydrological drought has been increased in Hill
+region. Thus, to mitigate negative impacts of climate
+change and its threats</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">eco-friendly agricultural
+adaptation measures like adaptation of stress tolerant
+genotypes, integrated crop and livestock farming,
+agro forestry, soil and nutrition conservational
+practices, atmospheric nitrogen fixing practice,
+proper management of biomass and livestock waste,
+improving livestock and fisheries breeding and
+sloppy land improvement etc. should be enhanced.
+Similarly, climate change adaptation plans, National
+Agriculture Program of Action (NAPA), Local
+Agriculture Program of Action (LAPA) and other
+effective policies should be in place for the
+improvement of food security in the country.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.indianjournals.com/ijor.aspx?target=ijor%3Ajha&amp;volume=5&amp;issue=2&amp;article=001</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Hill Agriculture</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0976-7606</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

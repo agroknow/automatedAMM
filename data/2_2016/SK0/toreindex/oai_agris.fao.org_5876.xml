@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016005876">
+    <dc:title xml:lang="en">MODEL COMPARISONS AND GENETIC PARAMETER ESTIMATES OF GROWTH TRAITS IN BALUCHI SHEEP</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>JALIL-SARGHALE A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KHOLGHI M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MORADI SHAHREBABAK M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MORADI SHAHREBABAK H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOHAMMADI H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ABDOLLAHI-ARPANAHI R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weight gain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sheep</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8350</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1327398576015</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Genetic and non-genetic parameters were estimated for growth traits and average daily weight gains of Iranian Baluchi lambs using univariate and multivariate models. Data on body weight collected for a period of 25 years (1984-2009) were used to model the growth trajectory and estimate genetic parameters. Studied traits were birth weight (BW), 3-month weight (3MW), 6-month weight (6MW), 9-month weight (9MW), yearling weight (YW), pre-weaning average daily gain (ADG1) and post-weaning average daily gain (ADG2). Genetic parameters were estimated using the restricted maximum likelihood (REML) procedure under univariate and multivariate animal models. Random effects were explored by fitting additive direct genetic effects, maternal additive genetic effects, maternal permanent environmental effects, the covariance between direct and maternal genetic effects and common litter effects in twelve different models for analysis of each trait. The heritability, estimated from the most appropriate model for BW, 3MW, 6MW, 9MW, YW, ADG1 and ADG2 trait, were 0.062 ± 0.02, 0.12 ± 0.02, 0.16 ± 0.03, 0.21 ± 0.03, 0.17 ± 0.03, 0.08 ± 0.02 and 0.1 ± 0.02, respectively. The maternal heritabilities of these traits were 0.09 ± 0.02, 0.04 ± 0.01, 0.045 ± 0.017, 0.015 ± 0.02, 0.02 ± 0.012, 0.03 ± 0.01 and 0.05 ± 0.02, respectively. The present study shows the importance of inclusion of maternal effects in designing appropriate breeding programs for genetic improvement in Baluchi lambs for growth traits.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.cvzv.sk/index.php/sk/rocnik-47-2014/cislo1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Slovak Journal of Animal Science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1337-9984</ags:citationIdentifier>
+      <ags:citationNumber>v.47/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

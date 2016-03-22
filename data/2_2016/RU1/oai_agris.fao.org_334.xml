@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100334">
+    <dc:title xml:lang="en">BACTERICIDE IMPACT OF POLYMER-STABILIZED MULTIFUNCTIONAL  NANO-COMPOSITES</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Graskova I.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zhivet’yev М.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Borovskii G.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sukhov B.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pathogens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Clavibacter michiganensis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5630</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33331</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Synthesis on the basis of natural matrices in order to acquire products with the desired properties is one of the promising trends of modern science. Using polysaccharides as a matrix allowed to generate derivatives with diverse structures and new properties. Growing interest towards antimicrobe effect of selenium-containing nano-composites is induced by the phenomenon of antibiotic-resistance of contemporary pathogenic microorganisms. Clavibacter genus bacteria are the most significant and widely spread among gram-positive bacteria. Bacteria cells are static pleimorphous rods, normally singular, sometimes coupled or joined in short chains, strict anaerobes in need of certain growth factors, non-sporogenous. Clavibacter michiganensis subsp. sepedonicus cause potato ring rot. At the tuber slice the damage is shaped as a ring</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">growing bacteria are accumulated in the conducting vessels causing their occlusion and therefore gradual withering of leaves and stem. This disease is distributed at all the continents including Australia. Harvest loss through ring rot damage may reach 10-45%. Our work was aimed at the study of complex interaction between microbe cultivar and seleniumbased nanocomposites. Bacterial strain Аs1405 was acquired from the All-Russia collection of microorganisms, IMBP RAS. This genus is not included in the classification of pathogenic microorganisms by pathogenic groups of Sanitary-Epidemiological Rules SP 1.3.2322-08. The present study was focused on characteristics of the acquired strain. Fluorescent and electronic-scanning microscope was used to acquire photographs of bacterial cells. Pathogen was identified by PCR-analysis, which confirmed the presence of DNA of desired size. The extracted DNA was sequenced with the sequenced sequence added to Gen Bank under the number HQ394204. Cellulolytic and phytotoxic activity of this strain was determined. Chemistry Institute named A.E. Favorsky provided water-soluble nano-composites containing selenium stabilized by various polymers. Nano-composites anti-microbe activity was studied on the investigated strain of potato ring rot. Nano-composites of elementary selenium (3.4% Se) and Se with arabinogalactan acquired from SeO2 (1.23% Se) were found to demonstrate anti-microbe effect increasing with the rise of selenium content. The work enumerates various conditions and time periods of cultivation and determination of the influence of the given water-soluble nanocomposites on bacterial cells survivability.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S33.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

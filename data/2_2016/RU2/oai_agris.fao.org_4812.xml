@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016204812">
+    <dc:title xml:lang="en">CONFLICTS, CONTESTATION AND MARGINALIZATION IN URBAN AGRICULTURE: EXPERIENCES FROM KUWADZANA EXTENSION, HARARE</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Taru J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Basure H.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Great Zimbabwe University, Masvingo, Zimbabwe</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Urban agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Farmers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Energy sources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Land</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fields</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Senses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">types of farming</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35707</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2805</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2570</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4172</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2894</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27922</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4788</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28974</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study applied Norman Long's interface analysis in capturing and understanding causes of conflicts and struggles among actors practicing urban agriculture (UA) in Kuwadzana Extension. The benefits accrued by actors engaging in UA have attracted many actors to join the activity. An increase in the number of actors involved in urban agriculture has intensified competition for land and water that are scarce. This has increased struggles and contestations among various actors involved in the practice of UA. Focus of this study was on off-plot agriculture because of its contentious nature as it is practiced outside institutional frameworks that govern and regulate farming activities, access to land and water, conflict resolution and actors' interaction. A number of actors (farmers, Kuwadzana residents, council, church members) with different lifeworlds, divergent objectives, conflicting perceptions and opposing belief systems interact at the interface. Actors possess different power bases, which are used to dispossess and marginalize other actors. Inheritance, borrowing, renting, social networks and patronage are some of the ways that mediate access to land for farmers. These ways of accessing land escalated conflicts due to continuous boundary encroachment by actors who take advantage of lack of formal institution governing the practice of UA. The study captured conflict resolution mechanisms such as mediation, litigation and conciliation that are employed to resolve disputes. The efficacy of these conflict resolution mechanisms were examined, often, these mechanisms were neither legally binding nor have institutional backing, hence, these mechanisms have a tendency to generate more disputes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.rjoas.com/issue-2013-06/article_03.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Russian Journal of Agricultural and Socio-Economic Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2226-1184</ags:citationIdentifier>
+      <ags:citationNumber>v.18/n.6</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

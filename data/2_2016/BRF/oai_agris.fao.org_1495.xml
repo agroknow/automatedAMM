@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01495">
+    <dc:title xml:lang="en">Economic indicators of semi-confinement dairy production systems with high daily production</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Indicadores econômicos da atividade leiteira em regime de semiconfinamento com alta produção diária</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LOPES,  M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS,  G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CARVALHO, F. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dairy cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production costs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">profitability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6202</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this research was to estimate some economic indicators of dairy farms with high daily production volume, under a semi-confinement system, located in the State of Minas Gerais. We also intended to identify the components that exercised higher influence on the effective operational cost. The data from milk three production systems were used, with crossbred cows (3/4 to 15/16 Holstein-Gir). The total and operational cost methodology were used for the production cost in the profitability analysis. Once it presented negative gross margin, one of the systems is being decapitalized and accumulating debt, because the revenues earned were not enough to pay, at least, the effective operating expenses. The other production systems presented positive gross and net margins and result, indicating economical viability and production conditions over the short, medium and long term, with consequent capitalization of the cattle farmer. The component items of the effective operational cost that exercised higher impact related to the effective operational cost were, in decreasing order: feeding, rearing and fattening, labor, miscellaneous expenses, sanitation, energy, milking, reproduction, machine rental, BST and taxes.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se com esta pesquisa estimar alguns indicadores econômicos de fazendas leiteiras com alto volume de produção diária, em regime de semiconfinamento, localizadas no estado de Minas Gerais. Pretendeu-se, ainda, identificar os componentes que exerceram maior influência sobre o custo operacional efetivo. Foram utilizados os dados de três sistemas de produção de leite, com matrizes mestiças (3/4 a 15/16 Holandês-gir). Utilizou-se a metodologia do custo total e custo operacional na análise de rentabilidade. Por apresentarem margem bruta, líquida e resultado negativos, um dos sistemas de produção não tem condições de sobreviver no curto prazo e está sendo subsidiado por outra atividade. Os demais sistemas de produção apresentaram margem bruta, líquida e resultado positivos, mostrando ter viabilidade econômica e condições de produzir no curto, médio e longo prazo. Os itens componentes do custo operacional efetivo que exerceram maiores "impactos" em relação ao custo foram, em ordem decrescente, a alimentação, mão-de-obra, despesas diversas, sanidade, energia, ordenha, reprodução, aluguel de máquinas, BST e impostos.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1340910193.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.68/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

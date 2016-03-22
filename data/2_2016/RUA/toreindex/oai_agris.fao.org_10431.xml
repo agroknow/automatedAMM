@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A10431">
+    <dc:title xml:lang="en">SIMULATION VENEER PRODUCTION PROCESS IN ROTARY MOTION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>МОДЕЛИРОВАНИЕ ПРОЦЕССА СМЕШАННОГО РЕЗАНИЯ ДРЕВЕСИНЫ НА ШПОН С ВРАЩАТЕЛЬНЫМ ДВИЖЕНИЕМ РЕЖУЩЕГО ОРГАНА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>GAINULLIN Rishat</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">veneers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Models</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Productivity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8184</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6210</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Need of woodworking enterprises, furniture plants, and plywood mill in veener grows day by day. Some new technologies to produce veneer are elaborated. The technologies allow to improve the quality of the product and its look, but the problem of energy intensity decrease, equipment productivity improvement, and reduction of production cost was drained. The problems of the equipment to produce veneer are considered in the paper. They are high steel intensity and enetgy intensity. An engineering solution is described. The solution makes it possible produce veneer by the combined wood cutting and solve the existing problems in the considered area of production. Combined wood cutting is a way of veneer slicing in rotary motion. The way minimizes noncutting, helps to improve the equipment productivity, and reduce steel intensity due to the absence of RINK system (a system of conveyer to move the wainscot around the machine). An information-logical model of the offered slicing machine was presented in the form of the complete circuit diagram as well as the formula of productivity, which is applicable to the practical use, was obtained.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Анализируется проблема изучения строгания древесины на шпон. Описано техническое решение для получения шпона смешанным строганием древесины. Получена информационно-логическая модель процесса работы шпонострогального станка, а также формула производительности, пригодная для практического использования.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/77/54</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.26/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

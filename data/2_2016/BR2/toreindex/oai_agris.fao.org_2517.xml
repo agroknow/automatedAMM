@@ -1,0 +1,80 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202517">
+    <dc:title xml:lang="en">Plot size to evaluate the mass of plants of velvet bean</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Tamanho de parcela para avaliar a massa de plantas de mucuna cinza</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Filho Alberto Cargnelutti</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Toebe Marcos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Alves Bruna Mendonça</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Burin Cláudia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Neu Ismael Mario Márcio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Facco Giovani</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus Camobi, Universidade Federal de Santa Maria, Santa Maria-RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus Camobi, Universidade Federal de Santa Maria, Santa Maria-RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus Camobi, Universidade Federal de Santa Maria, Santa Maria-RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus Camobi, Universidade Federal de Santa Maria, Santa Maria-RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus Camobi, Universidade Federal de Santa Maria, Santa Maria-RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Campus Camobi, Universidade Federal de Santa Maria, Santa Maria-RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7156</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this research was to determine the optimum plot size to evaluate the fresh mass of shoots, mass of crop residues of shoots and the total mass of shoots of velvet bean (Stizolobium cinereum), in scenarios formed by combinations of numbers of treatments, number of repetitions
+and levels of precision. It was carried out an uniformity assay with 256 basic experimental units of 1.00 m × 1.00 m. It was determined the soil heterogeneity index of Smith (1938) and the optimum plot size by the method of Hatheway (1961). At the same level of precision, the optimum plot size to evaluate mass of crop residues, fresh mass and the total mass of shoots decreases in this order. In experiments on randomized complete block design, with 5 to 15 treatments and 4 repetitions, plots of 8 UEB (8.00 m2) are sufficient to identify significant differences between treatments, at 5%
+probability, of 28%, 24% and 18% of the overall average, respectively, to mass of crop residues, fresh mass and the total mass of shoots.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo deste trabalho foi determinar o tamanho ótimo de parcela para avaliar a massa verde de parte aérea, a massa de restos culturais de parte aérea e a massa total de parte aérea de mucuna cinza (Stizolobium cinereum), em cenários formados por combinações de números de tratamentos, de números de repetições e de níveis de precisão. Foi realizado um ensaio de uniformidade com 256 unidades experimentais básicas (UEB) de 1,00 m × 1,00 m. Foi determinado o índice de heterogeneidade do solo de Smith (1938) e determinado o tamanho ótimo de parcela por meio do método de Hatheway (1961). Para mesma precisão, o tamanho ótimo de parcela para avaliar a massa de restos culturais de parte aérea, a massa verde de parte aérea e a massa total de parte aérea, decresce, nessa ordem. Em experimentos no delineamento blocos ao acaso, com 5 a 15 tratamentos e com 4 repetições, parcelas de 8 UEB (8,00 m2) são suficientes para identificar
+diferenças significativas entre tratamentos, a 5% de probabilidade, de 28%, 24% e 18% da média geral do experimento, respectivamente, para a massa de restos culturais de parte aérea, a massa verde de parte aérea e a massa total de parte aérea.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/328/245</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

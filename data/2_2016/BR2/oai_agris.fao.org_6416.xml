@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206416">
+    <dc:title xml:lang="en">Natural durability of the jequitibá wood in deterioration tests in open field and forest during the dry and rainy seasons</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Durabilidade natural da madeira de jequitibá em ensaios de deterioração em campo aberto e floresta durante as estações de seca e chuva</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ribeiro Mariely Aparecida</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Stangerlin Diego Martins</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Souza Adilson Pacheco de</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cardoso Gabriel Valim</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Calegari Leandro</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gatto Darci Alberto</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Mato Grosso – Sinop, MT, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Mato Grosso – Sinop, MT, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Mato Grosso – Sinop, MT, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Santa Maria, Frederico Westphalen, RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Campina Grande, Patos, PB, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Pelotas, Pelotas, RS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seasons</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8421</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6911</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study aimed to evaluate the natural durability of the jequitibá wood in deterioration tests in open field and forest during the dry and rainy seasons. For this, samples jequitibá wood with dimensions of 1 x 2.5 x 20 cm (thickness, width and length, respectively) were partially buried in soil. Periodically, samples jequitibá wood were weighed and evaluated by a standard note to determine the residual
+percentage of dry mass and deterioration index, respectively. Additionally, were determined the potential of fungal attack and soil characteristics (soil moisture, organic matter and pH). The jequitibá wood showed lower residual dry mass and decay index when subjected to the deterioration tests
+in open field during the rainy season and in the forest during the dry season. The forest environment showed soil characteristics more favorable to wood deterioration, except during the rainy season when water saturation occurred. The potential of fungal attack showed similar behavior residual dry
+mass and the decay index. Despite the subjectivity in assigning the decay index, there was a good correlation with the residual dry mass of samples jequitibá wood.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O presente trabalho teve como objetivo avaliar a durabilidade natural da madeira de jequitibá em ensaios de deterioração em campo aberto e floresta durante as estações de seca e chuva. Para tanto, amostras de jequitibá, com dimensões de 1 x 2,5 x 20 cm (espessura, largura e comprimento,
+respectivamente), foram soterradas parcialmente no solo. Periodicamente, as amostras de jequitibá foram pesadas e avaliadas por um critério de notas, para determinar o percentual de massa seca residual e o índice de deterioração, respectivamente. Adicionalmente, foram determinados o
+potencial de ataque fúngico e as características edáficas (umidade volumétrica, matéria orgânica e pH). A madeira de jequitibá apresentou menor massa seca residual e índice de deterioração quando submetidas aos ensaios de deterioração em campo aberto no período de chuva e em floresta no período de seca. O ambiente de floresta apresentou características edáficas mais propícias à deterioração da madeira de jequitibá, exceto no período de chuva em que ocorreu saturação de água. O potencial de ataque fúngico apresentou comportamento semelhante à massa seca residual e ao índice de deterioração. Apesar da subjetividade na atribuição do índice de deterioração, verificou-se boa correlação com a massa seca residual das amostras de jequitibá.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/262/279</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

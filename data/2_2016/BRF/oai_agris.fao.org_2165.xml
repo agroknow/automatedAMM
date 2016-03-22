@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02165">
+    <dc:title xml:lang="en">Fish and seafood qualitative analysis using anti-histamine polyclonal antibodies</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Produção de anticorpos policlonais contra histamina para análises qualitativas de peixes e frutos do mar</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DUARTE,  K. M. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GOMES,  L. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GIACOMELLI,  A. M. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA,  B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALEXANDRINO,  N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Histamine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ELISA</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1325849115948</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3629</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15968</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This paper had the objective to produce polyclonal antibodies against histamine, which is a biogenic amine produced by the histidin aminoacid decarboxilation. The qualitative analysis of histamine in commercialized fish and seafood is very important for human health, once the histamine presence is followed by cadaverine, spermidine and putrescine, all produced during the post-mortem process. Polyclonal antibodies were raised against histamine and used in PTA-ELISA tests ("plate trapped antigen – enzyme linked immunosorbent assay") to evaluate the presence of histamine in frozen fish ("pescada", cat fish, sardines, salmon, "manjuba", tilapia fillets) and for seafood ( shrimp and common squid) during storage process. The antibodies showed sensibility up to 1 ng of histamine per gram of samples. Histamine appears as picks during the 50 hours of analysis, for the fish and seafood samples, maintained on the top of crushed ice. Bacterial growth was also determined, being identified 14 species transforming aminoacids on the samples surface during the process of analysis. ELISA showed to be an efficient and sensible test for the hitamine presence.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Este trabalho teve por objetivo a produção de anticorpos policlonais contra histamina, que é uma amina biogênica produzida pela decarboxilação do aminoácido histidina. A análise qualitativa e quantitativa da histamina em peixes e frutos do mar comercializados torna-se importante devido ao fato desta ser tóxica ao organismo humano quando coexistente com as aminas biogênicas cadaverina e putrescina, também produzidas por decarboxilação de aminoácidos no processo pós-mortem. Os anticorpos policlonais produzidos foram utilizados em ensaios do tipo PTA-ELISA ("plate trapped antigen – enzyme linked immunosorbent assay") para avaliação da presença de histamina em peixes (pescada, tilápia, manjuba, sardinha, salmão e pintado) e em frutos do mar (lula e camarão) durante o processo de armazenamento. Os anticorpos mostraram sensibilidade na detecção de 1 ng de histamina por grama de amostra analisada. A histamina apresentou picos de liberação nos diferentes materiais analisados por 50 horas, mantidos sobre o gelo e foi também verificada a presença de 14 bactérias contaminando e degradando aminoácidos na superfície das amostras, ao longo do teste. O ELISA se mostrou bastante eficiente e sensível para determinação da presença de histamina nos alimentos.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1227185341.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

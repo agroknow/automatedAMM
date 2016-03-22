@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02193">
+    <dc:title xml:lang="en">Carcass characterístics of 1/2 Guzerá x 1/4 Simbrasil x 1/4 Nellore heifers, finished in feedlot and slaughtered at different weights</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Características da carcaça de novilhas 1/2 Guzerá x 1/4 Simbrasil x 1/4 Nelore</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>terminadas em confinamento e abatidas com diferentes pesos</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>CAMARGO,  A. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RODRIGUES,   V. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOUSA,  J. C. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MORENZ,  M. J. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA,  J. C. G</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CABRAL NETO,  O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RAMALHO, R. O. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RAMOS,  K. C. B. T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Trade</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crossbreeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">females</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7848</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1976</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15969</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The subject of this study was to evaluate the carcass characteristics of ½ Guzerá x ¼ Simbrasil x ¼ Nellore heifers, finished in feedlot and slaughtered ath different weights. The animals presented initial averages for age and weight of 25 months and 401.70kg, respectively. The feedlot occurred during 55 and 88 days to reach the desired slaughter weight of 460 and 500kg, but the real weights achieved were 465.17 and 503.50kg. The diet with roughage:concentrate ratio of 67:33 contained 12.5% of crude protein and 73.5% of total digestible nutrients. The roughage was constituted by millet grass and the concentrate by sorghum, cottonseed, limestone, salt and sugar cane residue. There was no significant difference (P&gt;0,05) to the variables measured with ultrasound, carcass physical composition, as well as hot, cold and side cut yield. The animals slaughtered with greater weights presented superiority and inferiority to special hindquarter and forequarter cuts yield, respectively (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se com este estudo avaliar as características de carcaça de novilhas ½ Guzerá x ¼ Simbrasil x ¼ Nelore, terminadas em confinamento e abatidas com diferentes pesos. A idade e o peso médios iniciais dos animais experimentais foram de 25 meses e 401,7kg, respectivamente. O confinamento ocorreu durante 55 e 88 dias para que fossem atingidos os respectivos pesos de abate desejados de 460 e 500kg. Entretanto, os pesos médios reais alcançados foram de 465,17 e 503,50kg, respectivamente. A dieta alimentar com relação volumoso:concentrado de 67:33 continha 12,5% de proteína bruta e 73,5% de nutrientes digestíveis totais. O volumoso foi constituído por silagem de milheto e o concentrado a base de sorgo, caroço de algodão, calcário calcítico, sal e melaço. Não houve diferença significativa (P&gt;0,05) para as variáveis medidas através de ultra-sonografia, composição física da carcaça, bem como para os rendimentos de carcaça quente e fria e do corte costilhar. Os animais abatidos com maiores pesos apresentaram superioridade e inferioridade para o rendimento do corte serrote e corte dianteiro, respectivamente (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1227531606.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

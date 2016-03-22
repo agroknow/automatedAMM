@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A11502">
+    <dc:title xml:lang="en">GROWTH REGULARITIES OF SECOND ORDER OFFSHOOTS OF SOME TYPES OF SILVER FIR GENUS IN MIDDLE ZAVOLZHYE</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LAZAREVA Svetlana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cold tolerance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Abies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">growth period</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9994</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15981</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Abies Mill.genus fir is rarely used in planting urban areas due to common knowledge about their low resistance to anthropogenic impact, high moisture demand and soil fertility. Russian landscape architects are more familiar with the ecology and biology of Siberian fir the unreliability of which they automatically transfer to other types of the genus. The work is aimed at research of regularities of growth and drought resistance for some types of fir in the conditions of the Botanical Garden Institute at Volga State University of Technology and their application in urban greenery. Nine types were included in the research (9 taxons and 12 samples) of fir tree genus A. alba Mill., A. alba Mill., A. balsamea (L.) Mill., A. concolor (Gordon) Lindl. ex Hildebr., A. concolor (Gordon) Lindl. ex Hildebr., A. fraseri (Pursh) Poir., A. holophylla Maxim., A. lasiocarpa (Hook.) Nutt., A. nephrolepis (Trautv. ex Maxim.) Maxim., A. sibirica subsp. semenovii (B. Fedtsch.) Farjon, A. veitchii Lindl., A. sibirica Mill., grown within adjusted soil and agronomic conditions of the Botanical Garden Institute arboretum of Volga State University of Technology. The nomenclature is verified due to the data base of vascular plants of Royal Botanic Gardens, Kew “The Plant List” and data base of gymnosperm plants “The Gymnosperm Database”. The conditions of moisture during active vegetation period were characterized by the value of G.T. Selyaninov hydrothermic index based on data provided by weather station of Botanical Institute Garden at Volga State University of Technology. Winter resistance was evaluated using 7 ball scale developed by the main Botanical Garden of the Russian Academy of Sciences using the normal value. All field data are processed by mathematical statistics methods. All fir trees under study within the last 25–43 years (including winter of 1978-1979 when the absolute minimum temperature was - 44,6 °C) survive without critical damages of offshoots and are graded as 1 point of winter resistance. The white fir trees feature the maximum average annual gain of offshoot of the second order under insufficient/sufficient moisture of the period of active vegetation during offshoot growth and under the conditions of moisture of the previous year period from the moment of the end of offshoot growth above the insufficient. The minimum average values of year offshoot length are characteristic for the years with insufficient moisture/weak drought during active vegetation in the previous year from the moment of the end of offshoot linear growth, severe drought during swelling and popping up of buds and insufficient moisture during the linear growth of offshoots. Needle fir from Momi species features maximum annual increment when the moisture level is average or sufficient during the growth period and it doesn’t depend on the moisture conditions during the vegetation period of the of the previous year. When the moisture was insufficient or excessive during the period of linear growth of offshoots its average increment was lowest. The representative species of Balsamea fir featured reduction in current second order offshoot increment under drought conditions of the previous year and the period of buds swelling and popping up. To produce maximum offshoot increment it requires the moisture conditions that are above insufficient or insufficient/close to average during offshoot linear growth. The following fir species can be recommended to be included in the main assortment list to be planted in the populated Povolzhie areas for beautification purposes (without taking into consideration decorative features and possibility for obtaining planting material): A. balsamea (L.) Mill., , A. fraseri (Pursh) Poir., , A. holophylla Maxim., , A. nephrolepis (Trautv. ex Maxim.) Maxim., , A. sibirica subsp. semenovii (B. Fedtsch.) Farjon, Additionally the following fir trees can be recommended: A. concolor (Gordon) Lindl. ex Hildebr., , A. veitchii Lindl., , A. lasiocarpa (Hook.) Nutt. Planting sites must be selected taking into consideration the species light requirements: i.e. the following firs should be planted in the shade : A. sibirica Mill., , A. holophylla Maxim</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">the following firs should be planted in half-shade: A. alba Mill., , A. balsamea (L.) Mill., , A. fraseri (Pursh) Poir, A. lasiocarpa (Hook.) Nutt., , A. nephrolepis (Trautv. ex Maxim.) Maxim., A. veitchii Lindl., the following fir trees should be planted in well-lit areas: A. concolor (Gordon) Lindl. ex Hildebr.,</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">A. sibirica subsp. semenovii (B. Fedtsch.) Farjon. To produce even increment and symmetrical crown shape in August-September under the conditions of dry summers the fir trees of the Abies, Grandis, Balsamea types and in April-June the fir trees of the Grandis, Momi, Balsamea types require artificial watering.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Рассмотрены некоторые закономерности роста побегов второго порядка 1998–2012 гг. формирования девяти видов рода Abies Mill. в связи с условиями увлажнения периода активной вегетации предшествующего года и периода роста побега. Приводятся краткие сведения о зимостойкости и степени теневыносливости экзотов и местного вида.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/90/76</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

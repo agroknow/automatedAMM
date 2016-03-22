@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P11859">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ ПРИМЕНЕНИЯ РОСТОВЫХ ВЕЩЕСТВ НА РАЗВИТИЕ  СЕЛЬСКОГО ХОЗЯЙСТВА АЗЕРБАЙДЖАНА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EFFECTS OF GROWTH SUBSTANCES USING ON THE DEVELOPMENT OF AZERBAIJAN AGRICULTURE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Abbasov  V.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mamedov D.Sh.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nabiev  F.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nabieva N.D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertilizer application</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10795</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: stimulators, plant hormones, wheat, chickpeas, corn, growth, stem, seeds</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Полученные предварительные данные подтверждают, что применение нефтяных стимуляторов дает возможностъ существенно увеличить продуктивность сельскохозяйственных культур. Синтезированные натриевые, калиевые, аммониевые соли и намеченные пути синтеза производных нефтяных кислот и получения стимуляторов позволят создать национальную базу стимуляторов. Применение этих соединений в сочетании с эффективными агротехническими мероприятиями поднимет развитие сельского хозяйства на должный уровень, все это послужит государственной продовольственной безопасности.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">These preliminary data confirm that the use of oil stimulants provides the opportunity to significantly increase the productivity of agricultural crops. Synthesized sodium, potassium, ammonium salts and the ways of synthesis of petroleum acid derivatives and stimulants receiving will provide an opportunity to create the national database of stimulants. The use of these compounds in combination with effective agro-technical measures will raise the agriculture development to the proper level. And it will serve as a National Food Security.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_1660bd039ef74b5e8074835a507147b0.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.№2, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10744">
+    <dc:title xml:lang="ru">РЕЗУЛЬТАТЫ ЛАБОРАТОРНО-ПОЛЕВЫХ ИССЛЕДОВАНИЙ ОПРЫСКИВАТЕЛЯ С ПНЕВМОГИДРАВЛИЧЕСКИМИ УСТРОЙСТВАМИ ДЛЯ ВЫСОКОПРОИЗВОДИТЕЛЬНЫХ ЭКОНОМИЧНЫХ И ЭКОЛОГИЧНЫХ ТЕХНОЛОГИЙ ПРИМЕНЕНИЯ ПЕСТИЦИДОВ В РАСТЕНИЕВОДСТВЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE RESULTS LABORATORY-FIELD STUDIES OF THE SPRAYER WITH PNEUMO-HYDRAULIC DEVICES FOR HIGHPERFORMANCE COSTEFFECTIVE AND ENVIRONMENTALLY FRIENDLY TECHNOLOGIES THE USE OF PESTICIDES IN CROP PRODUCTION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Коваль З.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Новокубанский филиал ФГБНУ «Росинформагротех» (КубНИИТиМ)</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sprayers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">tests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7333</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8347</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330976</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Результатами лабораторно-полевых исследований опытного образца опрыскивателя с воздушным рукавом и
+пневмогидравлическими устройствами установлена возможность снижения расхода рабочей жидкости при
+выполнении требований международного стандарта ISO (например, для гербицидов) по плотности покрытия
+обрабатываемой поверхности и лучшая равномерность распределения мелких и средних капель по ширине
+опрыскивания в сравнении с крупными размерами. Разрабатываемый способ опрыскивания имеет основание к его
+оценке на реальных культурах по уничтожению сорняков, вредителей и болезней</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">On the results of laboratory-field studies of a prototype sprayer with air distribution system and pneumo-hydraulic devices
+installed the possibility of reducing the consumption of working fluid at fulfilling the requirements of international standard
+ISO (e.g., herbicides) on distribution density of coating the treated surface and the best uniformity of distribution of small and
+medium drops on to the width of spraying in comparison with large size. Developing a method of spraying has reason to its
+evaluation on real cultures for the destruction of weeds, pests and diseases</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/09/8-4-39.pdf#page=28</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4 (39)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

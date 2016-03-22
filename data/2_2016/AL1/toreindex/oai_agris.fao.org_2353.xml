@@ -1,0 +1,44 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102353">
+    <dc:title xml:lang="en">Assessing the Heavy Metal Transfer and Translocation by Sida Acuta and Pennisetum Purpureum for Phytoremediation Purposes</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>O. OGUNKUNLE CLEMENT 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>O. FATOBA PAUL 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>O. OYEDEJI AYODELE 2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>O. AWOTOYE OLUSEGUN 3</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Department of Plant Biology, University of Ilorin, Ilorin, Nigeria.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2Bioremediation and Research Unit, Department of Environmental and Analytical Sciences, University of Wolverhampton, United Kingdom</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>3Institute of Ecology and Environmental Studies, Obafemi Awolowo University, Ile-Ife, Nigeria.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">phytoremediation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36976</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Field sampling of two prevalent weeds (Sida acuta and Pennisetum purpureum) growing on cement-polluted soil was carried out seasonally to assess the root and leaf contents of Pb, Cu, Cr, Cd and Zn. Concentrations of heavy metal in corresponding soils (total and bioavailable) were also determined and data generated were used to calculate the respective transfer factors (TFs) and translocation indices (Tis) of metals in the weed species. The results of the TFs and Tis were used to evaluate the potential ability of these weed species to accumulate heavy metals in their tissues and suitability or phytoremediation. Findings indicated that S. acuta and P. purpureum are suitable for phytostabilization of Cr, Cd and Zn in cement-polluted soil while Cr and Cd can be phytoextracted by these two weed species from cement-polluted soil.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

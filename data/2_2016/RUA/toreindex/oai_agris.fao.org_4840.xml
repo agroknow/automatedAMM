@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A04840">
+    <dc:title xml:lang="en">ON FOREST CULTIVATION IN DRY SOIL LANDS: THEORETICAL APPROACH</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>О ВЫРАЩИВАНИИ ЛЕСА НА СУХИХ ПОЧВАХ: ТЕОРЕТИЧЕСКИЕ ПОДХОДЫ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ROGOZIN Mikhail</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GOLIKOV Anatoliy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RAZIN Gennadiy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Perm State National Research University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Forest Protection Centre in Novgorod Oblast</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crop modelling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9000024</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Forest restoration at the dry soils is one of the crucial problems for modern forestry. The goal of the research is to develop a logical model stand growth in dry sandy soil with the purpose to predict stand growth (up to mature age) based on the analysis of the model of plantations growth (plantations have specific initial density and soil moisture conditions). Methods. A comparative analysis of data, obtained by the authors, was used in the research. The authors obtained data in the gradients of soil moistening and in the gradients of initial density of the cenosis of artificial origin. The following characteristics were analyzed: the reverse reaction to competitiveness by way of frequency and productivity change of the right and left types (according to А.V.Khokhrin) of pine and fir</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">heritable adaptation of these species either to dry or moist soils</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">differences in genotypic structure (population of different density)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">heritable “memory” of new generation to competitive conditions, which parent trees were growing in</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">stands growth depending on initial density strongly within the definite growth models. Results. The analysis showed that all these factors lead to the critical period occurrence in stands development. Later it will be almost impossible to change development od stands. Thus, it is vital to control density of plantations and natural young stands well before trees have maximum density, closure stands, canopy closure and increment. The earlier this work is done, the more productive the stand will be and the longer the period of intensive growth will be.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Проанализированы работы, раскрывающие тенденции естественного отбора у древесных растений в культурах в разных условиях с разной густотой. Изменения в генетической структуре, в наследуемости и в динамике различных признаков использованы в попытке выстроить логическую модель развития деревьев и древостоев в условиях, близких к экстремальным. Анализ работ показал, что в развитии древостоев возникает критический период, после которого почти невозможно изменить ход их развития, поэтому крайне важно начинать регулировать густоту культур и естественных молодняков задолго до наступления максимумов полноты, сомкнутости полога, сомкнутости крон и прироста</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">чем раньше эта работа будет осуществлена, тем продуктивнее окажется древостой и тем дольше будет период его интенсивного роста.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/57/34</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.23/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

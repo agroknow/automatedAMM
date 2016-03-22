@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02263">
+    <dc:title xml:lang="en">Nitrogen fertilizers sources effect in mulberry cultivars to silkworm (Bombyx mori) cocoon production</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito de fontes de nitrogênio em cultivares de amoreira para produção de casulos do bicho-da-seda(Bombyx mori)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>RODRIGUES,  B. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POLYCARPO,  G. V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HEINRICHS,  R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RIGOBELO,  E. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TAKAHASHI,  L. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RUIZ,  U. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NICODEMO,  D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mulberries</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ammonium nitrate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Silkworms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ammonium sulphate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Urea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25487</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_352</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7064</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_354</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8090</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The cocoon production is improved when the larvae are fed with leaves which have excellent nutritional quality. The fertilization allows the replacement of nutrients on the mulberry crop, providing the necessary minerals for the ideal mulberry performance. The aim of this study was to evaluate whether urea, ammonium nitrate or ammonium sulfate improve leaf nutritional quality to reach better quality cocoon. Mulberry plants from cultivars IZ 56 / 4</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">IZ 64</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">SM FM and FM 86 were fertilized with urea, ammonium sulfate and ammonium nitrate, 30</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">60 and 90 days before the silkworm production. Another plants were not fertilized and were part of the control group. The larvae were fed with leaves of the same treatment from the third to the fifth instar. We obtained the weight of filled and empty cocoon, silk gross weight and silk net weight based on the 30 heaviest cocoons of each larvae group. The filled and empty cocoons were heavier when mulberries from FM SM cultivar were fertilized with ammonium sulfate and ammonium nitrate, respectively. The urea provided better results in IZ 56/4 and FM SM, the ammonium sulfate was the best for FM SM and the ammonium nitrate for IZ 56/4 and FM SM. The absence of nitrogen fertilization provides worst results in IZ 56/4 and FM SM cultivars. The silk gross weight and the silk net weight were greater when ammonium nitrate was used. For the cultivar 56/4 we suggest ammonium sulfate. In IZ 64 and FM SM cultivars should be applied ammonium nitrate. For the cultivar FM 86 this work indicates ammonium sulfate and ammonium nitrate.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">A produção de casulos é favorecida quando as lagartas são alimentadas com folhas de excelente qualidade nutricional. A adubação possibilita a reposição de nutrientes no amoreiral, atendendo a demanda pelos minerais necessários ao desempenho da amoreira. O objetivo deste trabalho foi avaliar se uréia, nitrato de amônio e sulfato de amônio implicam em aumento da qualidade nutricional da folha que resulte na obtenção de casulos de melhor qualidade. Plantas de amoreira, das cultivares IZ 56/4, IZ 64, FM SM e FM 86, foram adubadas com uréia, sulfato de amônio e nitrato de amônio, 30, 60 e 90 dias antes da criação do bicho-da-seda. Outras plantas não foram adubadas e fizeram parte do grupo testemunha. Lagartas foram alimentadas com folhas do mesmo tratamento do terceiro até o quinto instar. O peso do casulo e da casca sérica foram determinados, sendo calculado o teor de seda bruta (TSB) e líquida (TSL). Os casulos e cascas séricas apresentaram maior peso quando as amoreiras da cultivar FM SM foram adubadas com sulfato de amônio e nitrato de amônio, respectivamente. A uréia proporcionou melhores resultados em IZ 56/4 e FM SM, o sulfato de amônio em FM SM e o nitrato de amônio em IZ 56/4 e FM SM. A ausência de adubação nitrogenada prejudicou mais as cultivares IZ 56/4 e FM SM. O TSB e TSL foram maiores quando se utilizou nitrato de amônio. Pode-se concluir que os adubos favoreceram diferentemente as cultivares.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1242239588.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

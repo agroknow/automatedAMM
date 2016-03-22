@@ -1,0 +1,69 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012396">
+    <dc:title xml:lang="en">Evaluation of microbiological quality of selected cheeses during storage</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kunová Simona</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kačániová Miroslava</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Čuboň Juraj</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Haščík Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lopašovský Ľubomír</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dairy industry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">storage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Microbiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2111</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7427</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4800</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this article was to evaluate and compare the microbiological quality of selected types of cheeses immediately after opening and after 5 days storage in the refrigerator. Total viable counts (TVC), coliform bacteria (CB) and microscopic filamentous fungi (MFF) were determined by microbiological analysis. We analyzed 8 samples of cheese of Slovak origin. Plate dilution method was used for microbiological analysis. The Codex Alimentarius of Slovak republic (2006) just indicates number of coliforms bacteria (102) and microscopic fungi (5 × 102). The TVC values after opening of cheeses ranged from 1.68 × 103 CFU.g-1 (3.22 log CFU.g-1) in the sample no. 1 to 1.71 × 105 KTJ.g-1 (5.23 log CFU.g-1) in the sample no. 4 after storage in the refrigerator. All samples were negative for the presence of coliform bacteria after opening. The values of CB were 1.18 × 102 CFU.g-1 (2.07 log CFU.g-1) in sample no. 7 and 1.90 × 102 CFU.g-1 (2.27 log CFU.g-1) in the sample no. 8 after storage in refrigerator. These values are not in accordance with Codex Alimentarius of Slovak Republic (2006). Other samples were negative for presence of CB after storage at 4 °C. The values of MFF in samplesranged from 1.81 × 101 CFU.g-1 (1.25 log CFU.g-1) in the sample no. 1 after opening to 1.68 × 102 CFU.g-1 (2.22 log CFU.g-1) in sample no. 7 after storage of samples. All analysed samples were in accordance with Codex Alimentarius of Slovak republic (2006).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/463/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

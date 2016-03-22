@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100463">
+    <dc:title xml:lang="en">Stress related variations in serum vitamin E and C levels of Murrah buffaloes</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Joshi A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kataria N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kataria A.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pandey N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Asopa S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sankhala L.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pachaury R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khan S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vitamins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">animals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Oxidative stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8274</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_444</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37481</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The study was designed to determine stress related variations in endogenous vitamin E and C levels of Murrah buffaloes. For this purpose, four hundred and fifty healthy adult female Murrah buffaloes between 4 and 12 years of age were sampled to harvest the sera during adverse ambiences viz. moderate, extreme hot and cold ambiences. Animals were broadly divided into non-pregnant milch, pregnant milch, pregnant dry, primipara and multipara. The mean values (µmol L-1) of serum vitamin E and C were 4.31±0.03 and 23.34±0.33, respectively during moderate ambience. The mean values of both the vitamin E and C depressed significantly (p≤0.05) during hot and cold ambiences as compared to moderate ambience. It was observed that decline in each value during hot ambience was greater than that of respective cold ambience. A significant (p≤0.05) variation was observed in the mean values of vitamin E and C in each ambience in the animals of all physiological states. The mean values of both the vitamins of non pregnant milch animals were highest (p≤0.05) whereas they were lowest (p≤0.05) in pregnant dry animals. It could be concluded that extreme ambiences produced oxidative stress in the buffaloes of all physiological states. The depressed levels of endogenous vitamin E and C in the serum showed their depletion in the body probably to combat free radical scavengers. Vitamin E and C should be supplemented to protect the animals from oxidative stress.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N1/JSPB_2013_1_28-34.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

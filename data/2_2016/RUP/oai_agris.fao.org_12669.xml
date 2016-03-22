@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P12669">
+    <dc:title xml:lang="ru">СТИМУЛИРОВАНИЕ ПРИВЛЕЧЕНИЯ ЧАСТНЫХ ИНВЕСТОРОВ ДЛЯ ЭФФЕКТИВНОГО ЗЕМЛЕПОЛЬЗОВАНИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STIMULATION OF PRIVATE INVESTORS INVOLVEMENT FOR EFFECTIVE LAND USE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Khamzin  I.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khamzina  O. I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E13</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">investment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">finance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">credit policies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3930</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2901</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28658</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: land use, efficiency, investments, conditions of production</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассматривается стимулирование привлечения частных инвестиций в сельскохозяйственное производство на условиях государственного софинансирования и предлагается система стимулирования, обеспечивающая создание льготных экономических условий для вложений капитала в аграрный
+сектор экономики.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Stimulation of private investments involvement into agricultural production on the terms of the state joint financing is considered in the article. The system of stimulation providing creation of preferential economic terms for capital investments in agrarian sector of economy is offered.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_edc76e54a803499c81d954549d57fdf0.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.№4, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

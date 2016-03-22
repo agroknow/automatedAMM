@@ -1,0 +1,122 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C03466">
+    <dc:title xml:lang="ru">Обзор мирового опыта консервации углерода в существующих лесных резервуарах</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>The review of world experience preservation of carbon in the existing forest tanks</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Koroleva T.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shunkina E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Saint Petersburg Forestry Research Institute</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forest reserves</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Carbon</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">legislation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">storage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">protective forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Regulations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">North America</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Temperate forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Boreal forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28136</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1301</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3062</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4253</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7427</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28127</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6493</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5219</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1325849205597</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35649</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1014</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Будучи самым большим наземным резервуаром углерода, леса играют важнейшую роль в борьбе с глобальным потеплением. В них содержится более половины земного углерода и от них зависит около 80% всего обмена между наземными  экосистемами и атмосферой. В бореальных лесах и лесных массивах умеренного климата зарезервировано 32% общемировых лесных запасов углерода. Самым эффективным способом удержания углерода в лесопользовании является сохранение лесов и сокращение количества вырубок. При этом большое значение имеет создание лесоохранных зон. В регулировании мирового стока углерода важное место занимает грамотная лесная политика каждого государства, имеющего лесные площади. В связи с этим важно изучение опыта зарубежных стран по сохранению пулов углерода в лесах, с учетом особенностей законодательства, принципов веде-
+ния лесного хозяйства, прав собственности на леса и др.
+Рассмотрен опыт ряда европейских стран, СНГ и Северной Америки, владеющих бореальными лесами.
+Приведены краткие сведения о лесной политике Китая как страны с бурно развивающимся лесным хозяйством. Анализ лесных политик и лесного законодательства зарубежных стран позволяет утверждать, что в них строго закрепляется экономическая ответственность всех субъектов лесных отношений за выполнение условий по сохранению лесных экосистем как крупнейших пулов углерода.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">As the largest terrestrial carbon sinks, forests play a vital role in the fight against global warming.
+They contain more than half of all terrestrial carbon and depends and they affect about 80% of the exchange between terrestrial ecosystems and the atmosphere, 32% of the global forest carbon
+stocks is reserved in boreal forests and in forests of temperate climate. Forest preserving and reduce the number of cuttings are the most effective ways to sequester carbon in forest. In this case the creation of forest protection zones is crucial. Smart forest policy of countries having forest areas is important in the global carbon stock regulation. So, it is important to study of foreign countries experience for the conservation of forest carbon pools (legislation, principles of management, ownership of the forests and others). There is consider the experience of several countries of Europe, CIS and North America, owning boreal and temperate forests in the paper. Also there is brief information on forest policy in China, as a country with a thriving forest. Analysis of forest policy and forest legislation of foreign countries suggests that they clearly assigned responsibilities of all economic subjects of forest
+relations for the conditions for the conservation of forest ecosystems as major carbon pools.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal.spb-niilh.ru/pdf/4-2014/spbniilh-proceedings-4-2014-2.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Труды Санкт-Петербургского научно-исследовательского института лесного хозяйства</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2079-6080</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

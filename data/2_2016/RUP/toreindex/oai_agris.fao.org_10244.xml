@@ -1,0 +1,37 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P10244">
+    <dc:title xml:lang="ru">НОВЫЙ АНТИОКСИДАНТ – «АРКУСИТ»  В КОРМЛЕНИИ ЦЫПЛЯТ-БРОЙЛЕРОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>NEW ANTIOXIDANT - "ARCUSIT" IN CHICKENS-BROILERS FEEDING</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mikhnev Ivan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_429</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье показана эффективность использования антиоксиданта  при скармливании цыплятам - бройлерам. Его действие ведет к повышению сохранности поголовья, увеличению среднесуточного прироста живой массы, снижению затрат корма на прирост, повышению мясных качеств. Проведена апробация ЗАО «Константиновская птицефабрика» Раменского района Московской области.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The efficiency of an antioxidant use while chickens - broilers feeding is shown in article. Its effect is to increase the livestock safety, the daily average gain of live weight, to reduce feed costs growth and to improve meat quality. Approbation of JSC “Konstantinovsky Poultry Farm” from Ramensky district of the Moscow region is carried out.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_737e086ce9534ba8957b34460a741543.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№1, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

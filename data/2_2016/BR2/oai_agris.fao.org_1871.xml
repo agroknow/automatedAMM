@@ -1,0 +1,69 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016201871">
+    <dc:title xml:lang="en">Effect of aqueous and ethanolic extracts of angico preto skin on cattle tick teleogines</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito dos extratos aquoso e etanólico da casca do angico preto (Anadenanthera macrocarpa) sobre teleóginas de Rhipicephalus (Boophilus) microplus</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Fernandes Rozeverter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fernandes Maria</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Batista Maria</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Silva José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lopes Glauciany</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Piauí</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Piauí</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Piauí</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Piauí</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Educação e Cultura do Estado do Piauí</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oviposition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">egg hatchability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5462</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2496</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This research was carried out to determine the effect of aqueous (AE) and ethanolic skin extracts (EE) of Anadenanthera macrocarpa on the oviposition and the egg eclodibility of teleogines of Rhipicephalus (Boophilus) microplus. The concentrations used were AE and EE 8.26 mg.mL-1 and 12.5 mg mL-1, respectively. As for the tests, we have used 240 ticks for each extract, which were cleaned, weighed and divided into groups of ten. These were immersed in 20 mL of test and control solutions at 10, 20, 30, 40, 50 and 60 minutes, after they were kept in Petri dishes, procedure which was replicated three times. Distilled H2O and dimethyl sulfoxide were used as negative controls and Amitraz as positive control at a concentration of 0.25 mg mL-1. The results have shown that the EA group immersed for up to sixty minutes has presented a product efficiency of 10.85% (p&gt;0,05), and EE, in thirty minutes, has registered a 35.24% efficiency mark. conclude that the ethanolic extract has
+interfered discreetly in oviposition of ticks in the test considered.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/view/185/201</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

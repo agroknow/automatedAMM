@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A11482">
+    <dc:title xml:lang="en">COMPARISON ANALYSES OF SATELITE IMAGES OF HIGH RESOLUTION FOR INTERPRETATION OF FORESTS CONTAMINATED BY WASTES OF SILICATE PRODUCTION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>СРАВНИТЕЛЬНЫЙ АНАЛИЗ СПУТНИКОВЫХ СНИМКОВ ВЫСОКОГО РАЗРЕШЕНИЯ ПРИ ДЕШИФРИРОВАНИИ ДРЕВОСТОЕВ</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>ЗАГРЯЗНЕННЫХ ОТХОДАМИ СИЛИКАТНОГО ПРОИЗВОДСТВА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>KURBANOV Eldar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VOROBYEV Oleg</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POLEVSHCHIKOVA Yuliya</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NEZAMAEV Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DEMISHEVA Ekaterina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Remote sensing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">imagery</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6498</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36760</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The long term terrestrial monitoring of the impact of anthropogenic wastes on the environment is considered to be an expensive procedure. Therefore new alternative options of the ecosystems monitoring are very important. Remote sensing methods are among them. The aim of the research was to develop and approbate of the identification methodology of forest ecosystems contaminated by the wastes of silicate production in Republic Mari El with the use of satellite images of high resolution ALOS and RapidEye. With the aim to separate the classes of forest cover, contaminated by lime dust, the MNF (minimal noise fraction) transformation algorithm was applied on the satellite images. The best results of unsupervised classification were obtained for the RapidEye satellite image, on the base of which thematic maps of contaminated territory were developed. Estimation of the precision of the research results are based on the criteria of geo statistics. The classes of forest cover contaminated by the lime dust were better separated on the RapidEye satellite image. The precision of the contaminated area estimation on the developed thematic map was confirmed by high Kappa coefficient (0.82). Analyses of thematic map based on the RapidEye image for classes of earth cover shows high contamination of the forest areas by lime dust around the silicate plant. Maximum concentration of the contamination of forest ecosystems locates within the 500 m around the plant. The main trend of the spatial distribution of the lime dust on the forest ecosystems was found in the north-western direction, which also corresponds to the wind rose of the investigated territory. Obtained research results could be useful for the department of ecological security of Republic Mari El for estimation of the condition of the forest ecosystems in the area of silicate production, as well during the monitoring of the spatial distribution of different classes of contaminated forest areas.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Для оценки степени загрязнения лесных насаждений отходами силикатного производства в Республике Марий Эл использованы спутниковые снимки высокого разрешения ALOS и RapidEye. С целью повышения разделимости на спутниковых снимках классов лесного покрова, загрязненных известковой пылью, применен алгоритм линейной трансформации MNF (minimal noise fraction). Лучшие результаты неуправляемой классификации были получены для снимка RapidEye, на основе которого разработаны тематические карты загрязненных лесных насаждений. Точность результатов тематического картирования подтверждается критериями геостатистики.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/107/93</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.18/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

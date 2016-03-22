@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A11486">
+    <dc:title xml:lang="en">GENETIC VARIATION OF VEGETATIVE OFFSPRINGS OF SPRUCE PLUS TREES ON THE BASE OF CLONES (REPUBLIC OF MARI EL)</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ГЕНЕТИЧЕСКАЯ ИЗМЕНЧИВОСТЬ ВЕГЕТАТИВНЫХ ПОТОМСТВ ПЛЮСОВЫХ ДЕРЕВЬЕВ ЕЛИ НА АРХИВЕ КЛОНОВ В РЕСПУБЛИКЕ МАРИЙ ЭЛ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PROKHOROVA Alexandra</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHEYKINA Olga</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GLADKOV Yuriy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">trees</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Following the results of researches with the use of different types of molecular and genetic markers, genetic differentiation of Spruce population was established. The differentiation appeared because of environmental exposure. However, the level of genetic differentiation of plus trees of different geographic origin and the typical for them level of genetic variability are still unclear. The article is devoted to the study of genetic variability and differentiation of clones of plus trees of Hybridous Spruce of different geographic origin. Assessment of extent of genetic variation and differentiation was carried out on the base of study of ISSR parts of DNA with the use of polymerase chain reaction (PCR). Vegetative offsprings of plus trees from the Republic of Mari El, Udmurt republic, Kirov oblast, Perm oblast and Nizhny Novgorod oblast were studied in the course of the research. The studied groups of plus trees have different level of genetic variation. Thus for example, the share of polymorphous locus varies from 55,4 to 91,1%, the observed number of allels is 1,554 - 1,911, effective allels are 1,272 1,484, genetic diversity по Nei is 0,168 - 0,286, Shannon index is 0,261 0,433. It was also found out that groups of plus trees are genetically differentiated and genetic distance по Nei between them is 0,0328 - 0,1195. With the help of cluster analysis the tested trees were divided into 3 groups in accordance with their origin: 1 – plus trees from the Republic of Mari El and Nizhny Novgorod oblast</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">2 – plus trees from the Kirov and Perm oblasts</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3 – plus trees from the Udmurt Republic.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Проведены исследования плюсовых деревьев ели, отобранных в пяти географических районах ISSR-методом. С использованием 9 ISSR-праймеров всего было амплифицировано 168 фрагментов, из которых 163 оказались полиморфными. Было установлено, что изученные группы плюсовых деревьев отличаются по уровню генетической изменчивости: полиморфность варьирует от 55,4 до 91,1 %</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">наблюдаемое число аллелей от 1,554 до 1,911</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">эффективное число аллелей от 1,272 до 1,484</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">генетическое разнообразие по Nei от 0,168 до 0,286</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">индекс Шеннона от 0,261 до 0,433. Генетическое расстояние между группами плюсовых деревьев составило 0,0328 – 0,1195.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/109/95</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.18/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

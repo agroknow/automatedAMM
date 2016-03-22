@@ -1,0 +1,42 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016006852">
+    <dc:title xml:lang="en">Development, changes and assessment of tree alleys in town streets</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Supuka Ján</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">street trees</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">towns</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Slovak Republic</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35324</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7823</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33096</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Street tree alleys were started to plant as a part of great reconstruction of European and world cities after industrial revolution from the beginning of 19th century. Important participation at first street alleys plantation have had decoration associations organised at town’s of Slovakia territory on 2nd half of 19th century. Street tree alleys and river embankments have wide spectrum of functions useful for man and improving of environmental conditions. In a new terminology we are talking on services those should be classified as follow: supporting, provisioning, regulating and cultural services. Street trees have high value at designing of the pedestrian zones and new squares. In Nitra town conditions we have assessed 26 most important street tree alleys. For this purpose was elaborated a new methodical approach, where besides basic biometrical dates the following tree characteristics were assessed: potential of environmental adaptability, potential of biology-ecological value, potential of culture value, potential of disturbing and undesirable influences. Each group of characteristics was valuated in three following levels of significance (1) low, (2) medium, (3) high. There were assessed 22 woody plant species and cultivars mapped at Nitra town streets.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.40/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

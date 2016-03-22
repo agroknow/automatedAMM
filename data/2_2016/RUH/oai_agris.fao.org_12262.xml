@@ -1,0 +1,96 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H12262">
+    <dc:title xml:lang="ru">ОСОБЕННОСТИ СЕЛЕКЦИИ СОИ В СИБИРИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>SOYBEAN SELECTION PECULIARITIES IN SIBERIA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Рожанская О.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Потапов Д.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Чураков А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Халипский А.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Сибирский научно-исследовательский институт кормов</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Красноярский государственный аграрный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Glycine soja</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant breeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant biotechnology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Adaptability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_23607</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5956</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27590</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35024</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI 10.18454/IRJ.2015.41.113</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Для импортозамещения сои и расширения её посевов в Сибири необходимы новые сорта с повышенной
+продуктивностью и засухоустойчивостью. Цель работы — создание нового селекционного материала сои, задачи —
+расширение генетической изменчивости, отбор высокопродуктивных и скороспелых форм, оценка адаптивности к
+эколого-географическим условиям Сибири. Селекционный материал создаётся методом многократного
+индивидуального отбора из линий, полученных с использованием сомаклональной изменчивости и индуцированного γ-
+мутагенеза на базе сорта СибНИИК-315. Изучена зависимость хозяйственных признаков сои от гидротермических
+условий за период 1998–2015 гг. в районе Новосибирска. Представлены результаты селекционного изучения
+экспериментальных линий, сочетающих скороспелость с высокой семенной продуктивностью в сложных погодных
+условиях Сибири и превосходящих по адаптивности исходный сорт. С 2013 г. успешно проходит Государственное
+сортоиспытание скороспелый и высокоурожайный сорт сои СибНИИК-9 (сортообразец 9 RS). Подготовлен к
+передаче в ГСИ ещё более скороспелый сортообразец 8 RS.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">There is a need for new soybean varieties with increased productivity and draught-resistance for import substitution and
+expansion of its crops in Siberia. The aim of the work is to create new breeding material of soybean, the tasks are to broaden
+the genetic variability, to select highly productive and early-maturing forms, to evaluate the adaptability to ecological and
+geographical conditions of Siberia. Breeding material is created from the individually selection of lines produced using
+somaclonal variability and γ-mutagenesis based on the cultivar SibNIIK-315. The article presents the dependence of the
+agronomic traits of soybean on hydrothermal conditions during 1998-2015, in Novosibirsk district. The article presents the
+results of experimental study of breeding lines that combine soon-ripeness with high seed production in the harsh weather
+conditions of Siberia and the superior adaptability of the cultivar SibNIIK-315. Starting in 2013, early maturing and high
+yielding variety of soybean SibNIIK-9 (9 RS variety of the breed) is successfully passing the State trial procedures. The ultra
+early-maturing variety 8 RS has been prepared for State trial procedures.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/10-3-41.pdf#page=62</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.10-3(41)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

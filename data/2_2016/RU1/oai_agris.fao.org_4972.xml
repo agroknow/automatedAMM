@@ -1,0 +1,37 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016104972">
+    <dc:title xml:lang="en">24-Epibrassinolide Mediated Changes in Photosynthetic pigments and Antioxidative Defence System of Radish Seedlings under Cadmium and Mercury Stress</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kapoor Dhriti</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rattan Amandeep</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gautam Vandana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kapoor Nitika</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bhardwaj Renu</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present work was conducted to study the effects of 24-EBL on photosynthetic pigments (total chlorophyll, chl a, chl b, carotenoid, anthocyanin and flavonoid content) and activities of antioxidative enzymes (guaiacol peroxidase, catalase, superoxide dismutase, ascorbate peroxidase, glutathione reductase, dehydroascorbate reductase, mono-dehydroascorbate reductase, polyphenol oxidase, glutathione peroxidase and glutathione-S- transferase and protein content) in 7-day old seedlings of Raphanus sativus exposed to cadmium and mercury toxicity. Findings of present study were revealed that brassinolide was proved beneficial for amelioration of Cd and Hg stress by altering various metabolic processes of plant.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N3/JSPB_2014_3_110-121.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104916">
+    <dc:title xml:lang="es">ALIMENTACIÓN DE LAS VACAS LECHERAS EN PUEBLA, MEXICO Y SU APORTE DE METANO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>FEEDING DAIRY COWS IN PUEBLA</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>MEXICO´S CONTRIBUTION ON METHANE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Silva-Gómez Sonia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Duarte-Chávez Ivonne</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Guerrero-Morales Jesús</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Toxtle-Tlamani José Silvestre</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hernández-Zepeda J. Santos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Benemérita Universidad Autónoma de Puebla</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Benemérita Universidad Autónoma de Puebla</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Benemérita Universidad Autónoma de Puebla</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Benemérita Universidad Autónoma de Puebla</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Benemérita Universidad Autónoma de Puebla</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food safety</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33995</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The introduction of bovines in America starts on 1527. Currently, bovines are a protein source and its products are socially accepted. They also generate, trough manure and belching, a green house effect gas: methane, which contributes to climate change. This work addresses domestic cattle production in Puebla, Mexico. Domestic cattle production generates jobs as well as low price products for the locals. This activity is upheld as a source of jobs and relatively cheap and accessible products for regional population in which herdsmen have implemented a series of strategies to maintain their livestock- like the way they feed them-, as a response to cattle production from international enterprises. Given the effects on climatic change, there is a paradox</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">either discouraging the production of bovines, due to the crescent methane production, or encouraging it due to crescent demand of a growing population which has meat and dairy products as a very important part of its in take. However, production of domestic herds is developed in far different conditions in comparison to the one disposing of more technology. In domestic cattle, the herdsmen take advantage of fodder in his region and provides calcium and corn to cows as a means of weight control.  Fodder helps by giving high milk productions. This practices are reported by specialists as a contribution which decreases methane volume due to the processes in the animal´s digestive system. It is argued the continuity of domestic livestock can be achieved by the improvement of the herd's hygiene measures.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">La introducción de bovinos en América, inicia en 1527</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">actualmente es fuente proteica y sus productos socialmente aceptables, además genera por estiércol y eructos, un gas de efecto invernadero (GEI): metano, contribuyente al cambio climático (CC). Este trabajo aborda la producción ganadera familiar, en Puebla, México, fuente de empleos y de productos accesibles y baratos, para la población regional, en la cual los vaqueros despliegan estrategias, para conservar a sus animales – como el tipo de alimentación suministrada -, ante el embate de la producción bovina por empresas transnacionales. Dados los efectos del CC, existe una paradoja: desincentivar la producción bovina, debido a la generación en aumento, de metano, frente al seguimiento e intensificación de esa actividad, debido a la demanda creciente de una población en aumento, y con patrones de consumo que tienen a carne y lácteos en el centro de su ingesta. Pero la producción en hatos familiares se desarrolla en condiciones distintas, en comparación a la que incluye mayor tecnificación. En la ganadería familiar se aprovecha forraje de la región y el vaquero proporciona calcio y maíz a la vaca para que no pierda peso, y suministra forraje verde para asegurar los volúmenes de leche</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">así como hojas de brócoli, lechuga y alguna otra hortaliza producida. Esas prácticas reportadas por los especialistas, como contribución que aminora volúmenes de metano, debido a lo que ocurre en el rumen. Se argumenta la pervivencia de bovinos manejados en la economía familiar, con recomendaciones, como acentuar las medidas de higiene.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo069_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H07679">
+    <dc:title xml:lang="ru">ОЦЕНКА САНИТАРНО-БИОЛОГИЧЕСКОГО СОСТОЯНИЯ РЕКИ БЕЛОЙ В РАЙОНЕ СБРОСА СТОЧНЫХ ВОД НЕФТЕКАМСКВОДОКАНАЛА</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>EVALUATION OF SANITARY AND BIOLOGICAL CONDITION OF BELAY RIVER NEAR THE DISCHARGE OF SEWAGE NEFTEKAMSKVODOKANAL</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Шкундина Ф.Б.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Баймиева Я.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Башкирский государственный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Phytoplankton</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biomass</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">saprophytes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13344</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14083</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью нашего исследование явилось выявление степени воздействия сточных вод Нефтекамскводоканала на санитарно-биологическое состояние р. Камы по фитоплантону. Для выполнения этой цели было необходимо решить следующие задачи: 1.Выявить закономерности изменения численности и биомассы фитопланктона</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">2. Определить индекс сапробности по численности и биомассе клеток и по его значениям оценить санитарно-биологическое состояние. Поученные результаты могут быть использованы для оценки возможности использования реки Белой в рекреационных целях.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">The purpose of the research was identification of extent of influence of sewage of Neftekamskvodokanal on a sanitary and biological condition of the Kama River on phytoplankton. For performance of this purpose it was necessary to solve the following problems: 1. To reveal regularities of change of number and biomass of phytoplankton</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2. To determine a saprobity index by the number and the biomass of cages and by its values to estimate a sanitary and biological condition. The taught results can be used for an assessment of possibility of use of the river by Bélay in the recreational purposes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/3-10-1.pdf#page=45</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.3 (10)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,48 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016006719">
+    <dc:title xml:lang="en">Ecophysiological research of European beech (Fagus sylvatica L.) in high-productive mixed forests of the Poľana Mts in Central Slovakia</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Priwitzer Tibor</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Čaboun Vladimír</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>National Forest Centre, Zvolen, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cambium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">electrical resistance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Gas exchange</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10570</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11098</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This paper presents the results of ecophysiological research of European beech (Fagus sylvatica L.) in high-productive mixed forests of the Slovak Poľana Mountain. This research was performed in the research and demonstration object Poľana - Hukavský grúň. The radiation, temperature and humidity regimes, as well as daily dynamic of photosynthetic activity and electric resistance of cambial tissue are presented within the whole beech crown profile. The impact of meteorological conditions on selected physiological processes was studied. The results confirmed close correlation between a diameter of trees d1,3 and biofield, as well as between a biofield and cambial tissue’s electric resistance. The considerable differences in CO2 uptake within individual beech crown layers were determined.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.40/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

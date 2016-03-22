@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016109807">
+    <dc:title xml:lang="en">Characterization of Extra Virgin Olive Oil from Kalinjot</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>HYSI ELONA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KONGOLI RENATA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Agricultural University of Tirana, Faculty of Biotechnology and Food, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Agricultural University of Tirana, Faculty of Biotechnology and Food, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fatty acids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pigments</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2818</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5875</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">components of olive oil: fatty acid, phenols, pigments, fragrance and minor components contribute in the composition
+of the profile of olive oil.
+Fatty acid composition was measured by gas chromatography determined as acid methyl esters (FAMEs). FAMEs
+were prepared by vigorous shaking of a solution of each olive oil sample in hexane (0.2 g in 3 ml) with 0.4 ml of 2 N
+methanol potassium hydroxide solution, then 2 μl were injected into the GC (HP5890N, Hewlett Packard, USA) with a
+FID detector. The monounsaturated fatty acid Oleic acid (C18:1) was representing high concentrations (74.4%-
+77.5%). Palmitoleic acid (C16:1) the major saturated in olive oil (11.5%-12.1%). The total phenols are very important
+for the quality of extra virgin olive oils</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">these parameters are related to oxidative stability and bitterness index, both
+implicated in olive oil taste. The determination of these natural antioxidants is carried out using a spectrophotometric
+method of Gouttfinger. The results were expressed as mg of caffeic acid per kg of oil (mg caffeic acid kg -1). Sensorial
+evaluation showed higher level of natural antioxidant.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_2_2015_files/15_ELONA%20HYSI%20pp%20182-185.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

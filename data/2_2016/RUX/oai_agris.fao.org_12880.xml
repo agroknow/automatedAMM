@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12880">
+    <dc:title xml:lang="en">OPTIMIZATION OF CONSTRUCTIVE-TECHNOLOGICAL PARAMETERS OF THE WIRE PRESS-EXTRUDER BY UNEVEN PRESSURE IN THE LOADING ZONE</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ОПТИМИЗАЦИЯ КОНСТРУКТИВНО-ТЕХНОЛОГИЧЕСКИХ ПАРАМЕТРОВ НАПРАВИТЕЛЯ ПРЕСС-ЭКСТРУДЕРА ПО НЕРАВНОМЕРНОСТИ ДАВЛЕНИЯ В ЗОНЕ ЗАГРУЗКИ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Коnоvаlоv  V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Оrsik I.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Uspenskaya I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Penza state technological university</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Samara State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Samara State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mechanization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">extruders</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">loading</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">technical properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4685</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28369</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12218</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2572</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Currently the extrusion processing of meat fish waste has a special place in the production of animal feed. This technology best solves both the issues of recycling meat-fish waste and for obtaining feed additives with a high degree of digestibility and bacterial purity. The introduction of meat-fish waste in the grain mixture can improve the efficiency of feed utilisation. At the same time a mixture of fish waste and bran coming into the extruder is uneven in composition, density and humidity. This variability of physical and mechanical properties of the mixture entering the extrusion, leads to fluctuations of pressure within the press-extruder, which leads to process instability, and, ultimately, to obtain a product of non-uniform composition and properties, to increase the intensity. To remedy these adverse events in the loading area of the press-extruder, it is proposed to install a conical guide, which stabilizes the density of the incoming mixture. To determine the modes, in which the pressure fluctuations in the loading zone of the press-extruder are minimum, a multifactorial experiment was conducted to obtain the dependence of non-uniformity of pressure, measured by the coefficient of variation of the pressure in the loading zone. Processing the data obtained during implementation of the experiment, allowed us to obtain a regression equation that adequately describes the dependence of the non-uniformity of the pressure in the loading zone from the selected independent factors.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В настоящее время при производстве кормов особое место занимает экструзионная переработка мясорыбных отходов. Такая технология наилучшим образом решает как вопросы утилизации мясорыбных отходов, так и получения кормовой добавки с высокой степенью усвояемости и бактериальной чистоты. Введение в зерновую смесь мясорыбных отходов позволяет повысить эффективность использования кормов.  В тоже время поступающая в пресс-экструдер смесь рыбных отходов и отрубей неравномерна по своему составу, плотности и влажности. Такое непостоянство физико-механических свойств смеси, поступающей на экструдирование, приводит к колебаниям давления внутри пресс-экструдера, что приводит к нестабильности процесса, а, в итоге, к получению продукта неоднородного состава и свойств, повышению энергоёмкости. Для устранения указанных нежелательных явлений в загрузочную зону пресс-экструдера предлагается устоновить конический направитель, который стабилизирует плотность поступающей смеси. Для определения режимов, при реализации которых колебания давления в зоне загрузки пресс-экструдера минимальны, был проведен многофакторный эксперимент с целью получения зависимости неравномерности давления, оцениваемой коэффициентом вариации давления в зоне загрузки. Обработка данных, полученных в ходе реализации эксперимента, позволила получить уравнение регрессии, адекватно описывающее зависимость неравномерности давления, в зоне загрузки от выбранных независимых факторов.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-15-%D0%9A%D0%BEn%D0%BEv%D0%B0l%D0%BEv.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(30)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="CO2016000084">
+    <dc:title xml:lang="es">Estimación del contenido de carotenoides en la pulpa de frutos de gulupa (Passiflora edulis Sims) conforme a la variación del color en la cáscara</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Estimating fruit pulp carotenoid content from shell color in gulupa (Passiflora edulis Sims)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Franco Germán</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cartagena V. José R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Correa L. Guillermo A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Passiflora edulis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Postharvest physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">postharvest technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5618</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24406</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6133</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>4 figs., 1 tab., 29 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">La gulupa (Passiflora edulis Sims) es un fruto aceptado en mercados europeos</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">pero, su corta vida en poscosecha limita la comercialización. Por lo tanto, es necesario, caracterizar algunos atributos de la maduración, para que el fruto mantenga las mejores condiciones de calidad. La investigación tuvo como objetivo estimar, a partir de los cambios de color del fruto y de su edad, la evolución de los carotenoides, mediante el uso de modelos que predijeran esta relación. Se utilizaron frutos con edad conocida para determinar el color con base en el espacio CIE L*, a* y b*. La colorimetría confirmó que hay evolución apreciable a partir de los 84 días después de floración (DDF), con color morado oscuro hacia los 98 DDF y púrpura muy oscuro a los 105 DDF. En frutos madurados en la planta, se apreció disminución en la luminosidad (L*), mientras que en las coordenadas a* el valor aumentó y el b* disminuyó, cambios que definen el color del fruto. Se observó una tendencia similar en frutos cosechados a partir de los 91 DDF. Tanto en los frutos madurados en la planta como en los cosechados, el contenido de carotenoides se incrementó a medida que la senescencia del fruto avanzaba. Modelos de regresión permitieron estimar el contenido de carotenoides: uno múltiple, con las coordenadas de color como predictoras y el otro polinomial, basado en la edad del fruto. Palabras claves: β-caroteno, color Cielab, alimentos funcionales, frutos tropicales.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Gulupa (Passiflora edulis Sims) is currently receiving increasing acceptance in European markets. However, its short postharvest life constitutes its main marketing limitation, and makes it necessary to characterize its ripening characteristics in order to assure that fruits reaching the consumer are of the best possible quality. Predictive models were fitted to estimate flesh carotenoid content from fruit age and color change. For this purpose, a research was conducted on plant material from the Colombian National Germplasm Bank, administered by Corpoica. Fruit samples of known age were subjected to CIE L* a* and b* space-based colorimetric determination, which confirmed the existence of appreciable color changes since 84 days after flowering (DAF). Deep purple color was reached at around 98 DAF and very dark purple color at 105 DAF. In fruits on the vine, luminosity (L*) was observed to decline, while the value of coordinate a* increased and that of coordinate b* decreased. These changes feature the fruit’s characteristic color. A similar trend was observed in the evolution of color in fruits off the vine (harvested at 91 DAF). In both fruits on and off the vine, carotenoids were found to increase along with fruit age. Two regression models were adjusted to estimate carotenoid content: a multiple model with color coordinates as predictors, and a polynomial model based on fruit age. Key words: β-carotene, Cielab color, functional foods, tropical fruits.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.corpoica.org.co/SitioWeb/Archivos/Revista/RevCorpoicaVol14-2cap06.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Revista CORPOICA : Ciencia y Tecnología Agropecuaria</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">01228706</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01506">
+    <dc:title xml:lang="en">The influence of limestone particle size on egg shell quality off eggs produced by semi heavy laying hens raised in floor</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Influência da granulometria do calcário sobre a qualidade da casca de ovos produzidos por poedeiras semipesadas criadas no piso</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LEMOS, M. J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CALIXTO, L. F. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LIMA, C. A. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>AGOSTINHO,  T. S. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ARAÚJO, M. O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COUTO, I. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">poultry rearing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">litter for animals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Egg yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37673</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_434</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26941</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective was to evaluate the influence of different particle size of limestone, used in the nutrition of laying hens raised in bed system, on weight and egg shell quality. 360 eggs were harvested from laying hens, whose were fed with three different particle sizes of limestone: thick (particles of 2 mm), thin (particles of 0.82 mm) and the mixture of the two (50% thick and 50% thin). The parameters used for evaluating the quality of the eggs were egg weight, percentage and thickness of the shell. The results showed that the use of limestone with thick grain size affected (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se avaliar a influência de diferentes granulometrias do calcário, utilizado na nutrição das poedeiras semipesadas criadas no sistema cama, sobre o peso e a qualidade externa dos ovos. Foram coletados 360 ovos de poedeiras semipesadas, alimentadas com rações com três diferentes granulometrias de calcário calcítico: grossa (partículas de 2 mm)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">fina (partículas de 0,82 mm) e a mistura das duas (50% granulometria grossa e 50% granulometria fina). Os parâmetros utilizados para a avaliação da qualidade dos ovos foram: peso dos ovos, percentagem e espessura da casca. Os resultados mostraram que a utilização do calcário de granulometria mais grossa favoreceu (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1342440666.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.68/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

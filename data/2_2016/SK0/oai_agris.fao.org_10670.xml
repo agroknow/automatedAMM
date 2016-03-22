@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016010670">
+    <dc:title xml:lang="sk">Mikrobiálna fytáza a produkcia kurčacieho mäsa</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Microbial phytase and chicken meat production</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Angelovičová Mária</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kliment Martin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nagy Szabolcs</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovenská poľnohospodárska univerzita, Nitra</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Nitra</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">broiler chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">phytase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2838</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33525</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The aim of our study was to research and evaluate an effectiveness of 6-phytase of microbial origin produced by Schizosaccharomyces pombe and Aspergillus oryzae strains. Four experiments were carried out with Cobb 500 final type broilers according to scheme: group with phytase with lower content of phosphorus, group without phytase with lower content of phosphorus and control group with standardized feed mixtures without phytase and with normed phosphorus requirement. The experiment I, 2 and 3 were carried out on poultry farm, in the hall with deep litter. The experiment 4 was carried out in experimental facility of Department of Food Hygiene and Safety, Faculty of Biotechnology and Food Sciences, Slovak University of Agriculture in Nitra according to welfare principles. 500 FTU.kg of 6-phytase of microbial origin was used in the feed mixtures. 6-phytase, produced by Schizosaccharomyces pombe genetically modified strain (ATCC 5233), was used in the experiment and 6-phytase, which is a product of microscopic fungus Aspergillus oryzae, was used in the experiment 2, 3 and 4. The content of non-phytate phosphorus was reduced by means of Dicalcium phosphate feed additive in the 1 st experiment by 37.7% in the feed mixture HYD 01, by 35 %  in the feed mixture HYD 02 and by 35.14% in the feed mixture HYD 03 from 4.5g.kg, normed requirement of broiler chickens for non-phytate phosphorus (control group), by means of Monocalcium phosphate feed additive in the 2nd, 3 rd and 4th to 2.32, 2.31 g.kg, respectively against 4.50 g.kg (control group). The feed mixtures with a content of phytogenic feed materials of 89.25% in the HYD 01, 93.0% in the HYD 02 and 93.0% in the HYD 03 were used in the 1 st experiment</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">the feed mixtures with a content of phytogenic feed materials of 88.3% in the HYD 01 , 92.6% in the HYD 02 and 93.7% in the HYD 03 were used in the experiment 2, 3 and 4. A calculation method for non-phytate phosphorus reduction in the feed mixtures of soybean-cereal type within the use of 6-phytase was designed and experimentally verified, based on percentage share of phytogenic feed mixture, 70% share of phytogenic feed mixtures total phosphorus and normed requirement of non-phytate phosphorus. Based on experimental results can be stated, that body weight of broiler chickens was similar in all group, when required broiler performance and product quality stayed remained, without statistically significant differences between groups (p more then 0.05). Statistically non-significant differences (p more then 0.05) were detected for the content of calcium, phosphorus and magnesium in blood of broiler chickens. An aplication of 6-phytase of microbial origin positively influenced a mineralisation of tibia for calcium, phosphorus and magnesium with statistically significant differences (p equal or less then 0.05) between group with reduced content of phosphorus to group with phytase with reduced content of phosphorus and to control group, and for calcium between all groups. Improved utilization of phosphorus from phytogenic feed mixtures by means of 6-phytase of microbial origin at reduced content of phosphorus in the feed mixtures was verified by reduced content of excreted phosphorus in faeces of broiler chickens with statistically significant differences between groups (p equal or less then 0.05) evaluated in the experiment 1 and 4.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="ags:ISBN">978-80-552-1228-9</dc:identifier>
+    <dc:type>Book</dc:type>
+  </ags:resource>
+</ags:resources>

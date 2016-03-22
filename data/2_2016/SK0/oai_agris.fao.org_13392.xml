@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016013392">
+    <dc:title xml:lang="en">Soil organic matter and their relationship to the sorption capacity under different soil management in a vinyeard in an extremely humid year</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>ORGANICKÁ HMOTA A JEJ VZŤAH K SORPCIÍ PÔDY  PRI RÔZNYCH SPÔSOBOCH HOSPODÁRENIA VO VINOHRADE POČAS EXTRÉMNE VLHKÉHO ROKU</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Šimanský Vladimír</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovenská poľnohospodárska univerzita v Nitre, Trieda A. Hlinku 2, 949 76 Nitra, email:Vladimir.Simansky@uniag.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil sorption</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">organic matter</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">vineyards</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Farmyard manure</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertilization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15868</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5387</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2810</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2863</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Soil organic matter and their relationships to the sorptive capacity of the soil under different soil management practices in a productive vineyard were evaluated. In 2006, an experiment of the different management practices in a
+productive vineyard was established in Rendzic Leptosol in the Nitra-Dražovce locality. During the year 2010, the soil samples were taken from following treatments: 1. O – (tillage), 2. O+MH (tillage+farmyard manure), 3. TTP (grass without fertilization), 4. TTP+NPK3 (grass + 3-rd degree of fertilization intensity for vine), and 5. TTP+NPK1 (grass + 1-st degree of fertilization intensity for vine). Obtained results showed that intensive cultivation inter-rows of vine (by 23 %), as well as application of farmyard manure (by 24 %) had effect on increase of fulvic acids in comparison to TTP treatment. In O and O+MH the highest values of carbon lability and index lability were observed. Statistical significant linear trend of decrease in index lability were observed in O+MH (R2 = 0.346</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">P ≤ 0.05) and in TTP+NPK1 (R2 = 0.428</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">P ≤ 0.05). Overall, the lowest value of carbon pool index was determined in O treatment. The sum of basic cations (by 37 %), cation exchange capacity (by 36 %), and sorption capacity of soil organic matter (by 25 %) decreased with higher doses of fertilization in comparison to TTP. During 2010, the values of sorption capacity of soil organic matter decreased (linear trend) in the following order:  O &gt; O+MH a TTP+NPK1. Higher content of extracted humic substances was reflected in higher the sorption capacity of soil organic matter, however, this effect was statistically confirmed in increasing content of extracted fulvic acids.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/FEE/fakulta_fee/afe/acta-fee_30-1_cele-1.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Acta Facultatis Ecologiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-300X</ags:citationIdentifier>
+      <ags:citationNumber>v.30/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

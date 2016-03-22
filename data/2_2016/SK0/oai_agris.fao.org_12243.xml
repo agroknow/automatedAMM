@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012243">
+    <dc:title xml:lang="en">The effect of patulin on femoral bone structure in male rabbits</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kováčová Veronika</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ďúranová Hana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Babosová Ramona</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Omelka Radoslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Krajčovičová Vladimíra</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Stawarz Róbert</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Capcarová Marcela</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Martiniaková Monika</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q53</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rabbits</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bones</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">patulin</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mycotoxins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6414</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1001</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24882</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5026</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A lot of kinds of crops are susceptible to fungal attack, leading to considerable financial losses and damage the health of humans and animals. Patulin, a toxic fungal metabolite, can be found mainly in apple and apple products, with much less frequent contamination in other food products. Because of its high incidence and harmful health effects, patulin belongs to a class of mycotoxins, which are strictly monitored. However, its effect on bone structure is still unknown. This study was designed to investigate the impact of patulin on femoral bone structure in adult male rabbits. Four month-old male rabbits were randomly divided into two groups of three animals each. Rabbits from the experimental group (group A, n=3) were intramuscularly administered with patulin at dose 10 μg.kg-1 body weight (b.w.) twice a week for 4 weeks. The second group without patulin administration served as a control (group B, n=3). At the end of the experiment, body weight, femoral weight and length, cortical bone thickness and histological structure of femoral bones from all rabbits were determined. The results did not show any significant differences in body weight, femoral weight and length between experimental and control groups of rabbits. On the other hand, intramuscular application of patulin induced a significant increase in cortical bone thickness (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/448/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016109645">
+    <dc:title xml:lang="en">“Optimum Currency Area” in the Balkan Region</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SPAHO MATEO</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculty of Economics, European University of Tirana, Tirana - Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Balkan</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Economic growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_799</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2474</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In economics, an “Optimum Currency Area”, also known as an optimal currency region (OCR), is a
+geographical region in which it would maximize economic efficiency to have the entire region share a single
+currency. It describes the optimal characteristics for the merger of currencies or the creation of a new currency.
+The theory is used often to argue whether or not a certain region is ready to become a currency union, one of the
+final stages in economic integration. Over time, step by step, is expected to join the EU Albania too. In a
+continuous and closer integration there’s a question if would have been profitable whether our country can adopt
+a common currency (Euro), as many countries did in the EU, or is better to follow another example that stops a
+further integration after EU membership, like (United Kingdom, Sweden, etc.).
+It is Euro the right choice as a common currency for the EU? What are the criteria for an Optimum Currency
+Area? Do have different countries profitability with different levels of wealth, different populations and
+diversified products, adopting the samecurrencyor not? Through thetheoryof"Optimal CurrencyArea" elaborated
+by RobertMundell, Ronald Mc Kinnon and Peter Kenneth,will beanalyzed notonly if Europe is one of the
+Optimal Currency Area.It will be also analyzed whether the Balkan countries, divided byethnic, historical and
+cultural reasons, will have benefits from a common currency or at the opposite, a common currency would slow
+down their economic growth.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_2_2015_files/1_SPAHO%20M_pp%2073-78.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

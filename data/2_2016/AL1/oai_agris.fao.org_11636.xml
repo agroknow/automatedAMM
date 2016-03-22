@@ -1,0 +1,34 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016111636">
+    <dc:title xml:lang="en">Logistic Equation and its Application as Forecasting Model of Vegetables Production in Greenhouses in Albania</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SHEHU VALENTINA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Correct forecasting is of a great importance for the business and economy of the country. To comprehend the market
+and the economic system, mathematical models are used to describe and predict the future of situation. Agriculture is
+the spinal column of Albania’s economic activity and the last 20 years free market experience has given a
+demonstration of the high correlation between agricultural progress and the economic development. Producing
+greenhouse-grown vegetables can result a beneficial activity, but it is a hard and complicated investment. The
+greenhouse technology is one of great innovation in agriculture. Agricultures methods must be combined with
+technical knowledge, marketing must be planned before harvest, and every phase of process should be well-managed.
+In this paper it is studied and applied the logistic growth model for forecasting the production of vegetables in
+greenhouse. The results of this paper show that the logistic S-shaped curve is a mathematical model to characterize the
+progress of innovation in agriculture. Also, the logistic equation can be used to describe and predict the production of
+vegetables in greenhouses in Albania.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_3_2015_file/4_VALENTINA%20SHEHU%20N3_pp%20228-235.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

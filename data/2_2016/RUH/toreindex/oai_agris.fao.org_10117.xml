@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10117">
+    <dc:title xml:lang="ru">ВОЛНОВАЯ ДИНАМИКА ОНТОГЕНЕЗА ЛИСТЬЕВ ЗАГРЯЗНЕННОЙ ОКОЛО АВТОМОБИЛЬНОЙ ДОРОГИ ЛИПЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>WAVE DYNAMICS ONTOGENESIS LEAFCONTAMINANTS APPROXIMATELY LINDEN ROAD</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>МАЗУРКИН П.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>КУДРЯШОВА А.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Поволжский государственный технологический университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">T01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">leaves</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">behavioural sciences</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pollution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biological development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4243</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330964</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6077</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_921</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Даны волновые уравнения динамики онтогенеза листьев липы, растущей около автомобильной трассы с интенсивным движением. Показан способ анализа параметров (длины, ширины, периметра и площади) для инженерной биологии и биоиндикации окружающей воздушной среды колебательными возмущениями листьев. На обочине выбирают дерево и замеряют перпендикулярно дороге расстояние от середины корневой шейки до бордюра. Затем в кроне на удобной для измерений высоте выделяют зоны по сторонам света. В каждой зоне выбирают группу из не менее 5 учетных листьев, отмечаемые метками в виде кусков белой нитки, привязанных на черешке. Из измеренных не менее 10 раз в период вегетации данных выбирают параметры с максимальными значениями, относительно них совместно с периодом онтогенеза от распускания почек до опадения каждого учетного листа выполняют факторный анализ. По данным статистическим моделированием выявляют закономерности бинарных отношений.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Given the dynamics of the wave equation ontogeny linden leaves growing near the highway with heavy traffic. Shows a method of analysis parameters (length, width, perimeter and area) for engineering biology and bio-indication to the ambient air-vibrational disturbances leaves. On the side of the tree is selected and replaced ryayut-perpendicular to the road distance from the middle of the root collar to the curb. Then in the crown at a comfortable height measurement zone is isolated to the cardinal. Each zone is selected from a group of at least 5 user leaves celebrated labels in the form of pieces of white thread, attached to the petiole. From the measured at least 10 times during the growing season data selected parameters with maximum values on them together with a period of ontogenesis bud to leaf abscission each accounting perform factor analysis. According to the statistical model-ing show patterns of binary relations.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/02/1-1-32.pdf#page=59</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.1 (32)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

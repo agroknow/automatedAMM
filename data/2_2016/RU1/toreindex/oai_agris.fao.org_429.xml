@@ -1,0 +1,53 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100429">
+    <dc:title xml:lang="en">Osmo and hydro priming improvement germination characteristics and enzyme activity of Mountain Rye (Secale montanum) seeds under drought stress</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ansari Omid</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sharif-Zadeh Farzad</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Germination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Enzymes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drought stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2603</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24993</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Impacts of various concentrations of  polyetylenglycol 6000 (PEG 6000)(0, -9, -11, -13 and -15 bar) and hydro priming on Mountain Rye (secale montanum) germination characteristic and enzyme activity were evaluated under drought stress in the seed laboratory of Natural Resources Faculty, University of Tehran, Karaj, Iran. Analyze of variance for hydro priming showed that temperature Ч time of priming interaction was significantly for germination percentage (GP), normal seedling percentage (NSP), coefficient of velocity of germination (CVG), seedling vigor index (SVI), coefficient of allometry (AC) and seedling length (SL) under drought stress and for osmo priming showed that Concentration of PEG Ч Temperature Ч Time of priming interaction was significantly for all traits under drought stress.  Results of interaction effects for hydro priming showed that the highest GP (53%) and NSP (23.5%)  were attained from hydro priming for 16h at 15 ◦C and the highest CVG (0.21) and AC (0.49) were attained from hydro priming for 8h at 10 ◦C, also hydro priming for 8h at 15 ◦C increased SL (3.15) as compared to the unprimed.Osmo priming with concentration of -15 bar PEG for 24h at 15 ◦C increased GP (80.5 %), GI (17.9), NSP (45 %), SVI (257.85) and SL (5.73 cm) and decreased MTG as compared to the unprimed and other treatments of osmo priming. The highest CVG was
+ attained from concentration of -9 bar PEG for 24h at 10 ◦C. the highest AC was attained from concentration of -9 bar PEG for 12h at 15 ◦C. Also osmo and hydro priming increased catalase (CAT) and ascorbate peroxidase (APX) as compared to the unprimed.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N4/JSPB_2012_4_253-261.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

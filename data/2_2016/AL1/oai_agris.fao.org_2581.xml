@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102581">
+    <dc:title xml:lang="en">Roles of and Threats to Indigenous Cultural Beliefs in Protection of Sacred Forests in Southwest Nigeria</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DAPO BABALOLA FOLARANMI 1,2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LAWAL IBRAHEEM 3,4</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OPII EGBE EMMANUEL 5</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OSO ABIODUN OLUSESI 6</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Centre for Environmental Economics and Policy in Africa, University of Pretoria, South Africa</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2Department of Forest Resources Management, University of Ilorin, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>3Medicinal Plant and Economic Development (MPED) Research Centre, University of Fort Hare, South Africa</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>4Forestry Research Institute of Nigeria, Jericho, Ibadan, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>5Akperan Orshi College of Agriculture, Yandev, Benue State, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>6Ministry of Forestry, PMB 2008, Ibara, Abeokuta, Ogun State, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land use</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">religion</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4182</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6497</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Sacred forests play a central role in the cultural and livelihoods of indigenous people. Despite the vital roles of sacred forests, a decline in the areas of the forests have been reported. The consequence of this is that many of the people’s indigenous knowledge systems built over the years as well as the endemic forest diversity are at the risk of becoming extinct. The study therefore investigated the contributions of selected sacred forests to rural communities as well as the challenges facing the forests. Data was collected through field visit and questionnaire administration. The respondents include people living in two villages (Balogun and Ososun) adjacent to Igbo Igunnko (meaning Igunnuko sacred forest) and Igbo Oro (Oro sacred forest) located in Ogun State, Southwest Nigeria. The forests form part of the history upon which the surrounding villages were established. Among the taboos supporting existence of the sacred forests, prohibition of fishing in Oso’ro River (that link the two sacred forests) is the most effective. Increasing rate of firewood collection and killing of wild animals, and land demand for farming and building constitute great threat to existence of the sacred forests. Adoption of Christianity and Islam by the people is also contributing to the neglect of cultural beliefs that are in support of the sacred forests. To prevent further encroachment into the sacred forests, there is need for proper demarcation of the boundary for protection against pressing land uses and over exploitation. Also, the current traditional knowledge and beliefs in support of sacred forest should be properly strengthened to control unsustainable exploitation in the forests.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4OjJjODZmNWI2ZWJiYjI1Mzg</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

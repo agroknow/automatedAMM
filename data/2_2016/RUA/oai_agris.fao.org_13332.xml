@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A13332">
+    <dc:title xml:lang="en">FOREST RESTORATION MANAGEMENT AT THE FIRE SITES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>УПРАВЛЕНИЕ ЛЕСОВОССТАНОВЛЕНИЕМ НА ГАРЯХ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DENISOV Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KONUKHOVA Tatiana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RACHKOVA Tatiana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Introduction. Sandy lowland on the left bank of the Volga river between Nizhny Novgorod and Kazan determines formation of vast pine forests that are open to large fires from time to time. A strategy for forest restoration of the area includes establishment of pure pine plantation that leads to fire risk increase and repetition of large forest fires. Some change of the existing approaches to forest restoration is required. The goal of the research is to estimate the possibility for forest restoration management at the fire sites and decrease fire risk in pine forests of the considered region based on  the carried out research and review of some publications. Results and discussion. A new strategy for forest restoration management at the fire sites shall be based on the account of the peculiarities of natural regeneration in different forest growth conditions (dry and fresh sandy soil in particular). In the first decade after the fire, natural young growth  mainly include broadleaved species that significantly decreases fire risk. This phenomenon shall be considered to be a natural mechanism, creating the conditions for pine forests to grow during the first 40 - 50 years without intensive fires. By that time a share of pine in stand composition is increased due to successful implementation of ecological and biological peculiarities of the broadleaved species taken part in the first stage of forest restoration. Pine plantations establishment is advisable when  coniferous forest is grown in dry growth conditions where formation of new generation of forest takes a long period of time. Conclusions. Forest restoration at the large fire sites (fresh sandy soils) shall take place naturally but monitoring management with moderate human interference in the course of forest formation is still important. At the first stage (up to 40-50 years), a large share of birch in stand composition is explained by possible fire risk decrease. The share of birch in stand composition shall be decreased (up to 10–20%) by means of  cleaning cuttings in the next 40 years. Forest restoration monitoring at the large fire sites shall be carried out with the use of modern  techniques for remote sensing.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рассматриваются вопросы управления процессом лесовосстановления сосны на гарях в лесном среднем Заволжье. Для естественных молодняков, формирующихся на гарях в условиях свежих боров, в первое десятилетие характерна высокая степень участия в составе лиственных пород, резко снижающих вероятность пожаров в течение десятилетий, что позволяет сосне сохранить свою популяцию. Количества подроста сосны в этих условиях достаточно для естественного формирования сосновых древостоев к возрасту спелости при минимальном лесоводственном вмешательстве. Необходима организация мониторинга лесовосстановления с помощью современных малых беспилотных средств дистанционного зондирования, сокращения доли искусственного восстановления и изменения технологий посадки сосны на гарях там, где они необходимы из-за отсутствия подроста главной породы.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/280/292</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.27/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

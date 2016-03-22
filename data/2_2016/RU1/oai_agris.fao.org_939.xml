@@ -1,0 +1,60 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100939">
+    <dc:title xml:lang="en">Hepatoprotective Role of Sodium Selenite Against Oxidative Damage Induced by Mercuric Chloride in Rat Albinos Wistar</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Necib Youcef</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bahi Ahlem</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zerizer Sakina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abdennour Cherif</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Boulakoud Mohamed Salah</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mercury</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Oxidative stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">councils</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4751</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37481</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_50194</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Background: The present study was undertaken, to evaluate the protective effect of sodium selenite against mercuric chloride induced oxidative stress in experimental rats. Female Albinos Wistar rats randomly divided into four groups, were the first was served as a control, whereas the remaining groups respectively treated with: sodium selenite (1mg/ kg b.w</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ip), mercuric chloride (1 mg/kg body weight i.p) and combination of sodium selenite and HgCl2. Change in liver enzyme activities, thiobarbituric acid reactive substances (TBARS) level, antioxidants and reduced glutathione (GSH) contents were determined after 10 days experimental period. 
+Results: Exposure of rats to mercuric chloride caused a significant increase the lipid peroxidation level  along  with  corresponding  decrease  in  the  reduced  glutathione  and  various  antioxidant enzymes  in  liver.  And  increase  in  serum:  glucose  level,  APL  and  transaminases  activities  and decreased  in  total  protein  and  albumin  levels.  Furthermore,  treatment  with  mercuric  chloride caused a marked elevation of liver weight and decreased body weight. Supplementation of sodium selenite  resulted  in  decreased  of  lipid  peroxidation  level  and  in  the  serum:  AST,  ALT  and  APL activities were decreased along with increase in total protein, albumin and liver GSH levels. The activities of antioxidants enzymes: glutathione peroxidase (GSH -Px) and glutathione –S-transferase (GST) were also concomitantly restored to near normal level by sodium selenite supplementation to mercuric chloride intoxicated rats. Liver histological studies have confirmed the changes observed in biochemical parameters and proved the beneficial role of sodium selenite. 
+Conclusion:  The  results  clearly  demonstrate  that  sodium  selenite  treatment  augments  the antioxidants defense mechanism in mercuric chloride induced toxicity and provides evidence that it may have a therapeutic role in free radical mediated diseases.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N4/JSPB_2013_4_230-240.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

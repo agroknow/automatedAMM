@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13609">
+    <dc:title xml:lang="en">EFFECT OF CROSSING BESTUZHEV AND RED DANISH BREED ON GROWTH AND DEVELOPMENT OF HEIFERS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ВЛИЯНИЕ СКРЕЩИВАНИЯ БЕСТУЖЕВСКОЙ И  КРАСНОЙ ДАТСКОЙ ПОРОДЫ  НА РОСТ И РАЗВИТИЕ ТЕЛОК</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Stenkin Nikolay I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lukyanova Raisa V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Malyanov Gennady M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>LLC &amp;quot</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Novaya zhizn&amp;quot</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate />
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">breeding stock</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crossbreeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16206</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1976</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_959</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>5 tables, 7 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Studied the effect of crossing Bestuzhev and red Danish breed. To obtain the test herd there was selection of Bestuzhev purebred cows of I and II lactation with milk yield in 305 days from 2436 to 2532kg, when the fat content in milk from 3,81 to 3,90% and live weight from 443 to 459kg. In this case, one half of the cows were inseminated by sperm of purebred breeding bull Rostka 2377 and the other with the sperm of the bull of the red Danish breed Torpana 2379 MN-31. 2 groups of experimental heifers were formed on the principle of analogues (10 heads) from the resulting offspring after birth, in the I group (control) heifers from the bull Rostka 2377 were, and in the II group (experienced) – from the bull Torpana 2379 MN-31. The experience lasted from birth to 18 months of age. Feeding heifers was carried out on a balanced and nutritious diets and 1 fodder unit had 109 g of digestible protein. Animal welfare conform to the hygienic standards. The results showed that heifers of the experimental group exceeded their peers in the control group on body weight both at birth and at 6, 12 and 18 months of age, respectively, and they had higher average daily gains and higher energy growth. On a higher level of occurrence of assimilation processes in the body of experienced heifers against control is evidenced by the increased content in the blood of erythrocytes and hemoglobin. Thus, crossing Bestuzhev and red Danish breed has had a positive impact on the growth and development of heifers during growth, which contributes to better implementation of bioresource potential of their meat productivity with greater payment of forage by growth and reduction of its cost.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучали  влияние скрещивания бестужевской и красной датской породы. Для получения подопытного поголовья проводился отбор чистопородных бестужевских коров по І и ІІ лактации с надоем молока за 305 дней от 2436 до 2532кг, при содержании жира в молоке от 3,81 до 3,90% и живой массой от 443 до 459кг. При этом одна половина коров осеменялась спермой чистопородного быка-производителя Ростка 2377, а другая – спермой быка-производителя красной датской породы Торпана 2379 МН-31. Из полученного потомства после рождения были сформированы по принципу аналогов (по 10 голов) 2 группы подопытных тёлок, в І группе (контрольной) были телки от быка-производителя Ростка 2377, а во ІІ группе (опытной) – от быка-производителя Торпана 2379 МН-31. Опыт продолжался от рождения до 18-месячного возраста. Кормление телок проводилось по сбалансированным и полноценным рационам и на 1 корм. ед. приходилось 109г переваримого протеина. Условия содержания животных соответствовали санитарно-гигиеническим нормам. Результаты исследований показали, что телки опытной группы превышали своих сверстниц контрольной группы по живой массе как при рождении, так и в 6, 12 и 18 – месячном возрасте, соответственно у них были и более высокие среднесуточные приросты и более высокая энергия роста. О более высоком уровне протекания ассимиляционных процессов в организме опытных телок против контрольных свидетельствует и повышенное содержание в крови эритроцитов и гемоглобина. Таким образом, скрещивание бестужевской и красной датской породы оказало положительное влияние на рост и развитие телок при их выращивании, что способствует наилучшей реализации биоресурсного потенциала их мясной продуктивности с большей оплатой корма приростом и снижения его себестоимости.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/3-15-Stenkin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

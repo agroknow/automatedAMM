@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100301">
+    <dc:title xml:lang="en">EFFECT OF CHRONIC RADIATION ON PLANT-PATHOGEN  INTERACTIONS IN 30-KM CHERNOBYL ZONE</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Dmitriev A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dyachenko A.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Grodzinsky D.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7950</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It was established in pot experiments that infection with powdery mildew (Erysiphe graminis DC. f. sp. tritici Em. Marchal) and brown rust (Puccinia triticana Erikss. &amp; Henn.) of three wheat (Triticum aestivum L.) cultivars ('Mironovskaya 808', 'Polesskay 70', and 'Kiyanka') grown from seeds, collected in the Chernobyl exclusion zone, was 1.5–2.0 times higher than that of plants grown from control seeds. On filed plots in the Chernobyl zone, wheat plant resistance to biotic stress was reduced. At artificial infection with brown rusts, the disease development was enhanced on plots with increased radiation background. One of the mechanisms of declined phytoimmunity potential under the action of low doses of chronic irradiation is evidently a reduced activity of plant proteinase inhibitors. Thus, in wheat and rye (Secale cereale L., cv. ‘Saratovskaya’) kernels, their activity reduced by 35–60% as compared to control. Active form and race formation in the population of the grass stem rust causal agent (Puccinia graminis Pers.) was observed in the Chernobyl zone. A “new” population of this fungus with high frequency of more virulent clones than in other Ukraine regions was distinguished. The results obtained independently in greenhouse and field trials performed in the Chernobyl zone demonstrated radiation stress influence on the pathogen–plant system. They indicate a necessity of monitoring the microevolutionary processes occurring in both plants and their pathogens under conditions of technogenic stresses.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S25.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,27 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016312409">
+    <dc:title xml:lang="ru">Естественнонаучные аспекты здоровья</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Брындин Е.Г.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Брындина И.Е.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">S01</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Организация Здравоохранения считает, что продолжительность жизни человека и состояние его здоровья на 75% определяет его образ жизни и система питания, на 10% - наследственность, еще 10% - условия внешней среды, и лишь на 5% услуги здравоохранения. В статье показано, что здоровье человека больше всего зависит от образа жизни. Здоровым образом жизни человек достигает и сохраняет здоровое состояние.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Репутациология</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2071-9094</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.5-6</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

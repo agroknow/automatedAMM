@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02937">
+    <dc:title xml:lang="en">Carcass and meat traits of Morada Nova, Santa Ines and ½ Ile de France ½ Texel lambs finished in feedlot</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Características quantitativas da carcaça e qualitativas da carne de cordeiros Morada Nova</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>Santa Inês e ½ Ile de France ½Texel terminados em confinamento</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ISSAKOWICZ, J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BUENO, M. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ISSAKOWICZ, A.C.K.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HAGUIWARA,  M. M. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Color</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tenderness</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mutton</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">slaughter value</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1773</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1328094313259</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28590</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5015</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35851</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to evaluate the carcass and meat traits of Morada Nova, Santa Ines and ½ Ile de France ½ Texel lambs finished in feedlot. Weight and proportion of meatcuts, measures of carcass size and color, tenderness, cooking loss and ultimate pH of meat from 10 Morada Nova, 6 Santa Ines and 10 ½ Ile de France ½ Texel were evaluated. The lambs were finished in collective pens, fed ad libitum with 50% corn silage and 50% concentrate and slaughtered at about six months old. Analysis of variance was performed by the procedure PROC GLM of SAS (SAS Inst., Inc., Cary, NC) and means were compared by Tukey test at 5% significance. The Morada Nova lambs had values of 14.1 kg, 13.9 kg, 0.240 kg/cm, 56.2 cm and 35.8 cm for hot and cold carcass weight, compactness index, hip and leg circumference respectively and these values were lower (P  0.05) among genetic groups. The scores for conformation and fat cover were higher (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo deste estudo foi avaliar as características da carcaça e da carne de cordeiros Morada Nova, Santa Inês e ½ Ile de France x ½Texel terminados em confinamento. Avaliou-se peso e proporção dos cortes cárneos, medidas de dimensão da carcaça e cor, maciez, perdas por cocção e pH final da carne de 10 animais da raça Morada Nova, 6 Santa Inês e 10 ½ Ile de France ½Texel. Os animais foram terminados em confinamento em baias coletivas, alimentados ad libitum com 50% de silagem de milho e 50% de ração concentrada, e abatidos precocemente com aproximadamente seis meses de idade. Análises de variância foram realizadas pelo PROC GLM do SAS (SAS Inst., Inc., Cary, NC) e as médias comparadas pelo teste de Tukey a 5% de significância. Os cordeiros Morada Nova apresentaram valores de 14,1 kg</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">13,9 kg</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,240 kg/cm</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">56,2 cm e 35,8 cm para peso de carcaça quente e fria, índice de compacidade, circunferência de quadril e circunferência de perna, respectivamente, sendo estes menores (P0,05) entre os grupos genéticos avaliados. A nota para cobertura de gordura e conformação foi superior (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1412019356.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

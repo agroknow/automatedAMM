@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016111657">
+    <dc:title xml:lang="en">Climatic Variation: Implications on Sustainable Rice Production in Igbemo - Ekiti, Ekiti State, Nigeria</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>OLABODE ABIODUN</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Geography and Planning Sciences, Adekunle Ajasin University Akungba-Akoko, Ondo, Nigeria.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">some adverse conditions on rice production with specific focus on increased temperature levels and rainfall anomalies
+in Igbemo-Ekiti, Nigeria. Primary data through questionnaire administration elicited background information of
+farmers who involve in rice farming in the study area</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">and data on climatic variables such as rainfall, temperature and
+humidity</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">and rice yield from 1997-2012 were collected and treated using descriptive and correlation analysis. Results
+show that</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">majority of farmers (80.8%) engaged fully in farming</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">rainfall is positively correlated with temperature
+(0.39) but has negative correlation with rice yield (-0.38) which indicates that rice production in this area does not
+absolutely rely on rainfed but supplementary water from irrigation</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">that high temperature (340C) recorded in 1997 was
+responsible for the low rice production (55,000t) in the year</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">and while reduced level of temperature (320C) induced
+high yield of rice (95,000t) recorded in 2012. It is therefore recommended that farmers in the study area should
+embark on intensive farming that is capable of regulating activities of climatic variables towards continuous farming
+system.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_3_2015_file/7_Abiodun%20Daniel%20Olabode%20-3%20pp%20249-255.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

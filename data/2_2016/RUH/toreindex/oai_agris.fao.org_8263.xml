@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08263">
+    <dc:title xml:lang="ru">ПРОМЕЖУТОЧНЫЕ РЕЗУЛЬТАТЫ ГОЛШТИНИЗАЦИИ КРАСНОГО ПЕСТРОГО СКОТА В УСЛОВИЯХ ОМСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INTERMEDIATE RESULTS GOLSHTINES RED WHITE CATTLE IN CONDITIONS OF OMSK REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ШАХВАЕВА А.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ЕФРЕМОВ А.П.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Омский государственный аграрный университет им П.А. Столыпина</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">breeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49902</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрено – влияние быков производителей голштинской породы на поголовье красной степной породы в Омской области и повышения ее живой массы, интенсивности роста и относительной скорости для дальнейшего качества и в конечном счете увеличение прибыли.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In article it is considered – influence of bulls of producers of golshtinsky breed on a livestock of red steppe breed in the Omsk region and increases of its live weight, intensity of growth and relative speed for further quality and finally increase in profit.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/7-114.pdf#page=102</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.7 (14)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

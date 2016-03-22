@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016204809">
+    <dc:title xml:lang="en">ARE THE REAL GDP SERIES IN ASIAN COUNTRIES NONSTATIONARY OR NONLINEAR STATIONARY?</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Jannati Nurun Nahar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sultana Nayeem</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rayhan Md. Israt</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>University of Dhaka, Dhaka-1000, Bangladesh</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E14</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Gross national product</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Products</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11364</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6211</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This paper checks whether per capita real gross domestic product (GDP) series in 16 Asian countries are nonstationary or nonlinear and globally stationary during the period from 1970 to 2009, by applying the nonlinear unit root tests developed by Kapitanios, Shin and Snell (2003). In five out of the sixteen countries that is approximately one-third of the countries, the series are found to be stationary with asymmetric or nonlinear mean reversion. Analyses depict that nonlinear unit root test are suitable for some cases compare to the commonly used unit root test, Augmented Dickey-Fuller (ADF) and Dickey-Fuller Generalized Least Square (DF-GLS) tests.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.rjoas.com/issue-2013-06/article_02.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Russian Journal of Agricultural and Socio-Economic Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2226-1184</ags:citationIdentifier>
+      <ags:citationNumber>v.18/n.6</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

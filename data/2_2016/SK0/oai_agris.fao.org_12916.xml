@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012916">
+    <dc:title xml:lang="en">Comparison of diversity and host preference of wood-decaying polypores in urban  areas of southern and central Slovakia</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Porovnanie diverzity a hostiteľskej preferencie drevokazných trúdnikov v intravilánoch  sídel južného a stredného Slovenska</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sliacka Iveta</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email:  IvetaSliacka@azet.s</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Polyporus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">host plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">urban areas</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15819</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11621</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8085</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Polypores are heterogeneous group of organisms that belongs to the kingdom Fungi. Polypores are growing cosmopolitan. Most research is carried out in Europe, research are focus mainly on discovering of new species and complementary data about mycogeography of polypores. A total were described around 1,500 species of polypores. In the study, we focused on the detection and comparison of diversity and host preferences of wood-decaying polypores in 2 areas: urban areas of towns in southern Slovakia and central Slovakia. We concluded that the level of diversity of polypores is based on the determination Idiv the same in the both areas. Higher number of taxa and findings of polypores we recorded in the urban areas of central Slovakia. Higher diversity of taxa of host plants have been recorded in urban areas in towns of southern Slovakia</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/FEE/fakulta_fee/afe/acta-fee-31-2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta Facultatis Ecologiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-300X</ags:citationIdentifier>
+      <ags:citationNumber>v.31/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

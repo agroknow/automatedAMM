@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100295">
+    <dc:title xml:lang="en">PHOSPHORYLATION/DEPHOSPHORYLATION OF  MITOCHONDRIAL PROTEINS IN REDOX-SIGNALLING OF HIGHER  PLANTS UNDER ABIOTIC STRESS CONDITIONS</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Subota I.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Arziev A.Sh.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Katyshev A.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Koulintchenko M.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Konstantinov Yu.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">maize</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mitochondria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Respiration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12332</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4869</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9421</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We studied an impact of the widely spread intra-cellular signals Ca2+ and сAMP on activity of the protein phosphorylation in maize mitochondria. The use of the isolated mitochondria is a convenient model system for investigation of the different physiological processes, for example for simulation of the different stress conditions. The treatment of maize mitochondria with high concentration of calcium ions which mimics the initial stage of apoptosis led to an increase of the phosphorylation level of some proteins and to an additional phosphorylation of the 59 and 66 kDa proteins. The treatment of the mitoplasts, i.e., the mitochondria devoid of the outer membrane with calcium ions insignificantly induced the activity of protein phosphorylation. It is assumed that the outer membrane is essential for Ca2+ signal transduction to plant mitochondria. We also identified a 94 kDa protein involved in phosphorylation of the mitochondrial proteins. This protein might be a single-subunit protein kinase or one of the subunits of the protein kinase complex. Antimycin A and KCN which are the inhibitors of mitochondria respiration increased the phosphorylation activity of the mitochondrial polypeptides. The effect of this inhibitors was similar both in in organello system and at the level of the whole plant. It should be noticed that at the level of the whole
+plant the effect of KCN on activity of the mitochondrial protein phosphorylation was more essential. Some
+considerable differences were found both at the level of protein phosphorylation and in electrophoresis
+patterns representing the intact mitochondria, the mitoplasts and the outer membrane fraction. The
+activity of protein phosphorylation in mitoplasts and the outer membrane fraction was extremely high compared to the phosphorylation activity of the mitochondrial proteins. This could be explained by the higher level of “substrate phosphoprotein phosphatase” in the outer membrane of mitochondria. This phosphoprotein phosphatase primarily dephosphorylates the protein of the inner membrane. When the proteins of the outer membrane were added together with the phosphorylated mitoplast proteins, the activity of phosphorylation effectively decreased. Thus, the phosphoprotein phosphatases of the outer membrane could dephosphorylate the inner membrane proteins and vice versa, the inner membrane phosphatases dephosphorylate the outer membrane proteins. Mn-SOD is the first line protection enzyme of the mitochondrial DNA, as this enzyme scavenges superoxide anion and severely reduces the toxic influences of ROS. Till now, the regulation of this enzyme activity is not clear. One of such mechanisms can be the phosphorylation of serine and threonine residues. We studied the effect of different redox agents on the phosphorylation of the mitochondrial Mn-SOD by using the recombinant Mn-SOD protein. It was found out that the oxidizing agent K3[Fe(CN)6] led to dephosphorylation of the Mn-SOD, while, at the same time, such reducing agents as sodium dithionite and GSH did not exert any effect on phosphorylation.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S23.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

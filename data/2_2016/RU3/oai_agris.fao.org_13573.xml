@@ -1,0 +1,33 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016313573">
+    <dc:title xml:lang="ru">Особенности технологии возделывания нута в предгорной зоне КБР</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ханиева И.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Тарашева З.З.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">trace elements</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7834</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В Российской Федерации в настоящее время на высокобелковые культуры, дающие полноценный белок, приходится лишь 2,4-3,1%, когда на долю зерновых культур - более 40%. Зернобо-бовые культуры в структуре посевов России составляют 2,5-3,0%, хотя необходимая доля их должна быть 10-14%. Нехватка полноценного белка приводит к ухудшению продовольственного обеспечения населения продуктами питания, перерасходу кормов и повышению себестоимости животноводческой продукции. Главным источником такого белка являются зернобобовые культуры - нут, горох, фасоль, чечевица, которые также способствуют сохранению плодородия почвы, снижению применения мине-ральных азотных удобрений, получению экологически чистой продукции. Нут — не очень известная для народов России полевая культура. Основные районы возделывания нута относятся к засушливым жарким местностям. Это самая засухоустойчивая зернобобовая культура, отличающаяся устойчиво-стью к полеганию и повреждению болезнями и вредителями, к которым восприимчивы другие культу-ры семейства бобовых. По хозяйственной ценности нут не уступает гороху, а по содержанию в белке незаменимых аминокислот он превосходит его. Более того, белок нута по своей биологической актив-ности близок к белку животного происхождения, так как в его состав входят все незаменимые амино-кислоты.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

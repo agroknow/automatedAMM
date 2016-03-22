@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016211259">
+    <dc:title xml:lang="en">Microbiological and sensory profile of jelly conventional umbu-cajá</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Perfil microbiológico e sensorial de geleias convencionais de umbu-cajá</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Oliveira Emanuel Neto Alves de</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Santos Dyego da Costa</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rocha Ana Paula Trindade</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gomes Josivanda Palmeira</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Paus dos Ferros, RN, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Campina grande, Campina Grande, PB, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Campina grande, Campina Grande, PB, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Campina grande, Campina Grande, PB, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q54</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">aspartame</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">processing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24279</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6195</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Jelly is one of the most widely used alternative to the use of surplus production during the harvest of various fruits. The objective of the research was develop jellies conventional umbu-caja, varying
+the sugar and pectin concentrations and evaluate the microbiological and sensory profile of the product. The conventional jellies (GC) were prepared to a 22  factorial planning with two central experiments. To preparation were used diluted pulp, sugar (50, 55 and 60%) and pectin (0.5, 1.0 and 1.5%). The formulations were heated and concentrated until the soluble solids content of ? 63 º Brix. The jellies were subjected to microbiological and sensory tests with 40 tasters with the application
+of acceptance testing using hedonic scale nine-point, which evaluated the attributes of color, appearance, aroma, texture, taste, sweetness, overall impression and intention to purchase. All experiments were within the microbiological standards established by legislation. The jellies GC1 and GC5 were the experiments that had higher rates of acceptability 82.21 and 81.24% respectively. The variation in the concentrations of sugar and pectin influenced significantly the bills assigned to the consistency and color was the attribute with the acceptance highest second assessment of the tasters.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Geleia é uma das alternativas mais utilizadas para o aproveitamento do excedente de produção durante a colheita de diversos frutos. Objetivou-se com a pesquisa desenvolver geleias convencionais de umbu-cajá, variando as concentrações açúcar e pectina e avaliar o perfil
+microbiológico e sensorial do produto. As geleias convencionais (GC) foram formuladas utilizadose um planejamento fatorial 22
+ com 2 experimentos centrais. Para elaboração foram utilizados a
+polpa diluída, açúcar (50, 55 e 60%) e pectina (0,5, 1,0 e 1,5%). As formulações foram aquecidas e concentradas até atingir teor de sólidos solúveis de ? 63 ºBrix. As geleias foram submetidas a testes
+microbiológicos e sensoriais com 40 provadores com aplicação de teste de aceitação através de escala hedônica de nove pontos, em que foram avaliados os atributos de cor, aparência, aroma, consistência, sabor, doçura, impressão global e intenção de compra. Todos os experimentos
+apresentaram-se dentro dos padrões microbiológicos estabelecidos pela legislação. As geleias GC5 e GC1 foram os experimentos que apresentaram os maiores índices de aceitabilidade 82,21 e 81,24%, respectivamente. A variação nas concentrações de açúcar e pectina influenciou significativamente nas notas atribuídas à consistência e a cor foi o atributo que apresentou maior aceitação perante avaliação dos provadores.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.comunicatascientiae.com.br/comunicata/article/download/506/325</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100843">
+    <dc:title xml:lang="en">Growth and Nitrogen Fixation in Silicon and/or Potassium Fed Chickpeas Grown under Drought and Well Watered Conditions</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kurdali Fawaz</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Al-Chammaa Mohammad</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mouasess Ahmad</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Silicon</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Potassium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nitrogen fixation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7061</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6139</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5196</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A pot experiment was conducted to study the effects of silicon (Si) and/or potassium (K) on plant growth, nitrogen uptake and N2-fixation in water stressed (FC1) and well watered (FC2) chickpea plants using 15N and 13C isotopes. Three fertilizer rates of Si (Si50, Si100 and Si200) and one fertilizer rate of K were used. For most of the growth parameters, it was found that Si either alone or in combination with K was more effective to alleviate water stress than K alone. Increasing soil water level from FC1 to FC2 often had a positive impact on values of almost all studied parameters. The Si100K+ (FC1) and Si50K+ (FC2) treatments gave high enough amounts of N2-fixation, higher dry matter production and greater nitrogen yield. The percent increments of total N2-fixed in the above mentioned treatments were 51 and 47% over their controls, respectively. On the other hand, increasing leave’s dry matter in response to the solely added Si (Si50K- and Si100K-) is associated with lower Δ13C under both watering regimes. This may indicate that Si fertilization had a beneficial effect on water use efficiency (WUE). Hence, Δ13C could be an adequate indicator of WUE in response to the exogenous supply of silicon to chickpea plants. Our results highlight that Si is not only involved in amelioration of growth and in maintaining of water status but it can be also considered an important element for the symbiotic performance of chickpea plants. It can be concluded that the synergistic effect of silicon and potassium fertilization with adequate irrigation improves growth and nitrogen fixation in chickpea plants.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N3/JSPB_2013_3_385-406.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

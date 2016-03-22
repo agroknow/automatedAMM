@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100981">
+    <dc:title xml:lang="en">The expression of Arabidopsis glutamate dehydrogenase gene gdh2 is induced under the influence of tetrapyrrole synthesis inhibitor norflurazon</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Garnik E.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Belkov V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tarasenko V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Potapova T.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Korzun M.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Konstantinov Yu.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Glutamate dehydrogenase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">gene expression</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chloroplasts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Arabidopsis thaliana</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29506</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27527</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9824</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33292</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The gdh2 gene encoding beta-subunit of glutamate dehydrogenase in Arabidopsis belongs to diurnal-regulated genes. Its expression is highly increased in the dark and reduced to minimal rates at the day light. Some sugar-responsive regulatory pathways are known to be involved in the gdh2 light repression, but the specific mechanisms of this regulation are unknown. In our experiments expression of  gdh2  gene increased 6-11 fold in  Arabidopsis  seedlings grown in presence of the tetrapyrrole synthesis inhibitor norflurazon. The increasing rate depended on the  light  intensity  and  did  not  correlate  with  the  induction  of  ROS  marker  genes.  This observation can be explained by both a low glucose level in the cells treated with norflurazon and  absence  of  repression  by  the  chloroplast-to-nucleus  retrograde  pathways  because  of chloroplast  dysfunction.  We  assume  that  the  diurnal  regulation  of  gdh2  gene  expression involves not only sugar-dependent, but also chloroplast-to-nucleus regulatory signals.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N4/JSPB_2013_4_299-309.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

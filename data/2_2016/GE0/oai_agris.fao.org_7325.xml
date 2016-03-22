@@ -1,0 +1,45 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="GE2016007325">
+    <dc:title xml:lang="en">The methods and perspectives for reconstruction of the wild pistachio tree ecosystems (pistacieta mutica) on the Iori plateau (East Georgia, South Caucasus)</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lachashvili N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khachidze M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Eradze N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khetsuriani  L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pistachios</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13413</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1325849205597</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The methods for reconstruction and cultivation of PistaciamuticaFisch.&amp; C. A. Mey.and its communities in the south-eastern and eastern parts of Iori plateau have been developed. The paper gives historical distribution area of P. mutica and its ecosystems. It  considers the main characteristics of physical and geographic conditions of the area and the P. mutica’s bioecological indicators that became a cornerstone for development of methods for rebuilding of its communities in the natural conditions. Suitable area for rebuilding and cultivation are determined. There are given the methods for collecting the fruits and seeds, breeding of seedlings, their care and protection as well as their cultivation on the nature. There is considered a probability of influence of the expected climate global changes on the typical plants of pistachio-woodland. On the basis of comparison of the plants’ bioecological features and basic climatic parameters, the opinion is expressed that the expected climate global changes are not able to have a negative impact on the structure of pistachio ecosystems and their reconstruction.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://agrscience.ge</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Annals of agrarian science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1512-1887</ags:citationIdentifier>
+      <ags:citationNumber>v.12/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

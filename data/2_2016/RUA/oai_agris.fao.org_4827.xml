@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A04827">
+    <dc:title xml:lang="en">EFFICIENCY IMPROVEMENT OF FOREST FIRE CONTROL</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ПОВЫШЕНИЕ ЭФФЕКТИВНОСТИ ПРОФИЛАКТИКИ ЛЕСНЫХ ПОЖАРОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>POCHITAEVA Margarita</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>IPLAEV Maxim</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fires</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">educational courses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2915</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10145</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The analysis of statistics of forest fires in the Republic of Mari El (1979 – 2012) shows that at least 80 % of them are human-caused. Such fact stresses our attention on necessity of qualitative improvement of fire-prevention propaganda, taking into account individual peculiarities of citizens. The aim of the paper is to reveal peculiarities of fire propaganda management in order to improve its effectiveness and targeting. The data of sociological questionnaires and the analysis of data on statistics of forest fires in Mari El were collected. The obtained results showed that the speech constructions with affirmation-negation or prohibition expressions were prevailed in formulation of appeals to the population (posters, pamphlets, leaflets) directed to pay their attention to take fire precautions. Use of such method in fire-prevention propagation doesn’t allow to form the stereotypes of fire-safety behavior in forests. For effective management of fire safety propagation it is important to identify key-places in the areas of intense fire propaganda with the aim to arrange effective informing of citizens. Speech constructions should be put in a positive way. Slogans is better to focus on concrete actions to be taken by a person to get skills of fire safe stay in forest. The authors offer an algorithm of fire-prevention propaganda activities which is based on addressness and personal approach. An important role in fire safe stay in forest plays training of population: school teachers, managers of tourist clubs, supervisors students practice, etc. (all the people who organize and spend some time in forests). This approach makes it possible to ground some corrections in the list of basic cultural competences, prescribed by the Federal Standard of Education.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">«Проект реформирования лесоуправления и мер по борьбе с лесными пожарами в России» нацелен, в том числе и на снижение количества пожаров, возникающих по вине человека. Исследование особенностей организации противопожарной пропаганды, которой в Проекте уделяется значительное внимание, показывает, что её результаты определяются не столько количеством информационных сообщений, сколько организацией адресной интенсивной профилактической работы с населением в зонах высокой горимости лесов и особенностями конкретной территории. Эффективное ведение противопожарной пропаганды требует чётко продуманного плана действий, предусматривающего экспертную оценку средств наглядной пропаганды и привлечение к такой работе специалистов экспертов (педагогов, психологов). Задача Проекта по снижению количества антропогенных пожаров может быть решена только с привлечением методов психологии и смежных с ней наук, а не только методов и подходов экологического образования и просвещения.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/42/20</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.21/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

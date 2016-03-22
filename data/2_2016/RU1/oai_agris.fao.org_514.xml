@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100514">
+    <dc:title xml:lang="en">Synergistic Accumulative Effect of Salicylic Acid and Dibutyl Phthalate on Paclitaxel Production in Corylus avellana Cell Culture</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Rezaei A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ghanati F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Behmanesh M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Safari M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sharafi Y.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cell culture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Corylus avellana</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7178</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32098</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Suspension cell cultures of Corylus avellana were challenged with salicylic acid and its combined use with dibutyl phthalate solvent. Salicylic acid with concentrations of 12.5, 25 and 50 mg L–1 and 10% (v/v) dibutyl phthalate were used and added on day 8 and 10 of subculture, respectively. The results showed that growth, viability and protein content of cells were decreased by the treatments, compared to control. In all treatments, hydrogen peroxide content and lipid peroxidation rate of cells increased, compared to those of the control cells. Activity of phenylalanine ammonia-lyase increased by salicylic acid and, dibutyl phthalate exaggerated effect of salicylic acid. While flavonoids content decreased by the treatments, paclitaxel content increased significantly. The extracellular paclitaxel was more affected, compared to cell-associated paclitaxel and all treatments increased paclitaxel release and specific yield compared to that of the control. The most production of paclitaxel and specific yield of it were observed under effect of combined use of salicylic acid (50 mg L–1) and dibutyl phthalate, suggesting a synergistic accumulative effect.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N1/JSPB_2013_1_157-168.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

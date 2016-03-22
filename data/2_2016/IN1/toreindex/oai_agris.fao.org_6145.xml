@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="IN2016106145">
+    <dc:title xml:lang="en">Baculoviruses as microbial insecticides</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Nidhi N</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The use of conventional pesticides lead
+to a myriad of problems such as environmental
+pollution, pest resurgence, secondary pest outbreak and
+many more. The present era is the era of new
+technologies that are novel, sustainable and
+environment friendly. Thus, when one talks about plant
+protection, the techniques that fulfil the above criteria
+are always welcome. One such technique is the use of
+microbial insecticides against the major insect-pests.
+The use of pathogenic microorganisms for pest control
+is not a new concept, but there have been continuous
+research and re-evaluations in the ongoing
+technologies, so as to create more potent products. The
+necessity of the baculoviruses is indispensable when it
+comes to managing the pests. This can be proved by
+the fact that a lot of countries including India have
+successfully exploited this biopesticide against many
+pests. The use of the contemporary technology, such as
+gene incorporation and genetic engineering has made
+the products much more effective. Baculoviruses are
+relatively very safe as they cause diseases in the
+arthropods only and no significant damage has been
+noted in the non-target population. The prospects of
+this emerging biopesticide are immense. The use of
+baculoviruses as potential microbial insecticides is the
+perfect choice under the current circumstances. Its use
+will lead agriculture towards precision and
+sustainability.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.indianjournals.com/ijor.aspx?target=ijor%3Ajha&amp;volume=5&amp;issue=2&amp;article=002</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Journal of Hill Agriculture</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0976-7606</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

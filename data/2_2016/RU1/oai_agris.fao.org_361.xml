@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100361">
+    <dc:title xml:lang="en">Effect of photoperiod on some biological parameters of Clarias gariepinus juvenile</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Solomon S.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Okomoda V.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Photoperiodicity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fish</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5809</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Photoperiod effect on Growth parameters and cannibalism of  Clarias gariepinushave been well documented in resent past, but little is known about the response of other biological parameters such as, Condition factor, Shooters composition, Body colouration and Blood glucose of this important tropical fish species to different photoperiods, therefore the present study was designed to evaluate these responses of the African catfish to 24 hours of light (00D:24L), 24 hours of darkness (24D: 00L) and 12 hour light / 12 hours darkness (12D: 12L).   The six weeks experiment observed significant differences (P0.05) at the end of the experiment and were Significantly lower than value obtained at the start of the experiment, Shooters composition was highest in 00D:24L (41.5% i.e. 27 of 65) leading to high mortality (13.33%) due to cannibalism compared to 12D: 12L (Shooters =15.27% i.e. 11 of 72, Mortality= 4%) and 24D: 00L (Shooters=5.33% i.e. 4 of 75, Mortality= 0%) photoperiod. More so, 93.33% (70 of 75) of fish in the dark phase (24D: 00L)exhibited Deep shiny black body colouration, while 6.67% (5 of 75) was observed of Normal fish colouration. However the fishes in the 00D: 24L photoperiod were observed to be predominantly Lighter skin colouration, (80% i.e. 52 of 65= lighter colouration, 18.46% i.e. 12 of 65= Normal skin coloration and 1.53 i.e. 1 of 65= Deep black body colouration) while 12D: 12L were of Normal skin colouration (100% Normal skin colouration), also blood glucose was observed to increase as the light hours increased (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N4/JSPB_2012_4_47-54.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

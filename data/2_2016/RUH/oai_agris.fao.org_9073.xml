@@ -1,0 +1,81 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09073">
+    <dc:title xml:lang="ru">МОНОКЛОНАЛЬНЫЕ АНТИТЕЛА ДЛЯ ОПРЕДЕЛЕНИЯ РАСТВОРИМЫХ И МЕМБРАННЫХ ФОРМ ИММУНОГЛОБУЛИНОВ КРУПНОГО РОГАТОГО СКОТА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>MONOCLONAL ANTIBODIES FOR CERTAIN SOLUBLE AND MEMBRANE FORM OF IMMUNOGLOBULINS CATTLE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ездакова И.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Гончарова И.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Всероссийский научно-исследовательский институт экспериментальной ветеринарии имени Я.Р.Коваленко</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">monoclonal antibodies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">immunoglobulins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">immunological techniques</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24051</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3805</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3807</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4788</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Полученные гибридомы являются стабильным продуцентом моноклональных антител к иммуноглобулинам крупного
+рогатого скота, которые могут быть получены в неограниченных количествах и с минимальными затратами. На основе
+полученных МкА к IgM и IgA рогатого скота приготовлены реагенты для количественного определения концентрации
+иммуноглобулинов классов М и А в РИД, ИФА и иммуноцитохимическом анализе. Данные реагенты можно использовать для
+анализа гуморального звена иммунитета крупного рогатого скота и овец</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The resulting hybridomas are stable producer of monoclonal antibodies to bovine immunoglobulin, which can be obtained in unlimited
+quantities and with minimal costs. On the basis of Mab for IgM and IgA cattle prepared reagents for the quantitative determination of
+immunoglobulins M and A in the single radial immunodiffusion, ELISA and immunocytochemistry . These reagents can be used for analysis
+of humoral immunity in cattle and sheep.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/03/2-3-21.pdf#page=99</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.3 (21)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

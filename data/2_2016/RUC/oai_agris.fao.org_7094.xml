@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C07094">
+    <dc:title xml:lang="ru">Применение экрана из огнестойкой бумаги для остановки и локализации лесных низовых пожаров</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Use of fire-resistant paper screen for the stop and localization of forest surface fires</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Artsybashev E.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Saint-Petersburg Forestry Research Institute</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forest fires</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forest protection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3045</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3519</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28075</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The main objective of the study is to develop a new way of stopping and localization of the most common forest surface fires on the principle of interrupting the transmission of heat by convection and radiation from burning wood materials to a noncombustible using a screen of fire-resistant paper. The results of laboratory tests of heat-resistant paper, commercially available, at the temperature limit, the mechanical strength and the response to the fire-extinguishing solutions. The structure of the most fire hazardous heather forest type pine and the results of these studies determined the height of the front of the screen, developed a prototype handheld platform for moving coil technology and screen settings in forest types dominated by a ground cover of grasses and shrubs. The results of the test platform and screen in a production environment. It was determined that the screen height of 40 cm has the same fire-retardant effect that the mineralized forest strip zone up to 1,2 m.
+The ways of further improving the new method of fighting forest fires.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Основная цель исследования заключалась в разработке нового способа остановки и ло- кализации наиболее распространенных лесных низовых пожаров на основе принципа прерывания передачи тепла конвекцией, индукцией и излучением от горящих лесных материалов к негорящим с применением экрана из огнестойкой бумаги. Приведены ре- зультаты лабораторных испытаний термостойких бумаг, выпускаемых промышленно- стью, на температурный предел, механическую прочность и реакцию на огнетушащие растворы. Изучена структура наиболее пожароопасного типа леса – сосняк верещатни- ковый, и по результатам этих исследований определена фронтальная высота экрана, раз- работаны опытный образец ручной передвижной платформы и технология установки экрана в типах леса с преобладанием в напочвенном покрове трав и кустарничков. При- ведены результаты испытания платформы и экрана на опытных пожарах в производст- венных условиях. Установлено, что экран при высоте 40 см по огнезадерживающей спо- собности эквивалентен минерализованной полосе шириной не менее 1,2 м.
+Намечены пути дальнейшего совершенствования нового способа борьбы с лесными по- жарами.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal.spb-niilh.ru/pdf/1-2015/spbniilh-proceedings-1-2015-4-full.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Труды Санкт-Петербургского научно-исследовательского института лесного хозяйства</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2079-6080</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

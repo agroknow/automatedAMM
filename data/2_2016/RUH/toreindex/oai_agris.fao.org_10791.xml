@@ -1,0 +1,102 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10791">
+    <dc:title xml:lang="ru">РЕГИОНАЛЬНАЯ ИНФРАСТРУКТУРА ВНУТРЕННЕЙ ПРОДОВОЛЬСТВЕННОЙ ПОМОЩИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>REGIONAL INFRASTRUCTURE INTERNAL FOOD AID</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Стукач В.Ф.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ушакова Е.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Омский государственный аграрный университет им П.А. Столыпина</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">C20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">D10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E73</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">WTO</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">food aid</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37338</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3012</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Цель работы состоит в исследования проблемы развития инфраструктуры распределения продовольственной
+помощи в условиях вхождения России в ВТО, имеющую значение для реализации Доктрины продовольственной
+безопасности, поддержки отечественных производителей и переработчиков сельскохозяйственной продукции в
+рамках «зеленой корзины» ВТО.
+Рассматриваются экономические и социальные проблемы институтов региональной инфраструктуры
+внутренней продовольственной помощи, задачи в научно-технологической сфере, развитии индустрии питания.
+Предлагаются решения по наращиванию ресурсной базы продовольствия путем оптимизации потоков
+продовольствия в технологическом цикле. Оптимизация логистических операций, в технологиях приготовления пищи
+позволяет исключить отдельные переделы, что сокращает издержки на производство, удешевляет фермерскую
+продукцию и повышает ее конкурентоспособность. Направление молочной продукции через производственно-
+логистические центры (ПЛЦ), минуя торговые сети, для приготовления пищи, позволит увеличить объем
+кондиционного молока, соответствующего технологическим требованиям, на 20-25%. Исключение замораживания
+(говядина, свинина, птица) из технологического процесса позволяет увеличить объем поставок непосредственно по
+схеме «сельскохозяйственные предприятия – ПЛЦ»
+Оценивается практика реализации пилотного проекта в Омской области, приводятся примеры эффективного
+использования предпринимателями возможностей системы в наращивании производства, анализируются
+результаты эксперимента «Школьное молоко».
+Инфраструктура распределения продовольственной помощи, создания индустриально - логистических центров
+является для России принципиально новым институтом развития. Предлагается система инструментов для анализа
+и оценки проекта. Практическая реализация позволит регулировать взаимодействие звеньев инфраструктуры,
+заключать договоры с торговыми сетями о закупках сельскохозяйственной продукции, осуществлять мониторинг
+рынка продовольствия.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The purpose of the work is to study the problems of infrastructure development in the distribution of food aid conditions of
+Russia's entry into the WTO, which has significance for the implementation of the Food Security Doctrine, to support domestic
+producers and processors of agricultural products under the "green box" of the WTO.
+We consider the economic and social problems of institutions of regional infrastructure of domestic food aid, the problem
+in the field of science and technology, the development of the food industry. Offers solutions for increasing the resource base
+of food by ratsanalizatsii logistical schemes and optimize the flow of food in the technological cycle.. Direction of dairy
+products through the production and logistics centers (PLC), bypassing the retail chains, cooking, will increase the amount of
+milk conditioned corresponding to the technological requirements by 20-25%. Excluding freezing (beef, pork, poultry) from
+the process can increase the volume of supplies directly from the scheme of "agricultural enterprises - PLC".
+Evaluated practices of the pilot project in the Omsk region, are examples of the effective use of entrepreneurs the
+opportunity to build a system of production, analyzes the results of the experiment "School milk".
+The infrastructure of the distribution of food aid, the creation of industrial - logistics centers in Russia is a fundamentally
+new development institution. Practical implementation will regulate the interaction of infrastructure links, to enter into
+contracts with retail chains for procurement of agricultural products, to monitor the food market</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/09/8-1-39.pdf#page=72</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.1 (39)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

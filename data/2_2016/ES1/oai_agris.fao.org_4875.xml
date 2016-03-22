@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104875">
+    <dc:title xml:lang="es">EFECTO DEL CRUCE SOBRE LAS CARACTERÍSTICAS DE LA CANAL DE CERDO CELTA SACRIFICADO A 7 MESES</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EFFECT OF CROSSBRED ON CARCASS CHARACTERISTICS OF CELTA PIG SLAUGHTERED AT 7 MONTHS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lorenzo Rodriguez Jose</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fernández  Miguel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Becerra Antonio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Carril Jose</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rodríguez Iván Manuel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ruiz Daniel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Fundación Centro Tecnológico de la Carne</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Fundación Centro Tecnológico de la Carne</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Departamento de Anatomía y Producción Animal. Facultad de Veterinaria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ASOPORCEL</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ASOPORCEL</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Fundación Centro Tecnológico de la Carne</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">The aim of this study was to evaluate the influence of the crossbred on carcass characteristics of Celta pig breed slaughtered at 7 months. A total of 32 pigs Celta breed crossed with Duroc, Landrace, Pietrain and Mangalica pig were employed. Each group consisted of 8 animals that were sacrificed at 7 months old. Pigs were raised in an extensive system. After 24 h of cooling, carcasses were transferred to the pilot plant of Meat Technology Centre where the main linear morphometric measurements were taken. Significant differences were found in all parameters studied, being the highest values in live weight, carcass weight and killing out performance for Celta crossed with Duroc. However, no significant differences (P&gt;0.05) in live weight and carcass weight among the crossed with Pietrain, Mangalica and Landrance were found. Regarding the morphometric measures, longitudinal measures were consistent with the heavier carcass, being higher in crossed with Duroc, with the exception of the length of the ham which was higher in the crossed with Mangalica (38.2 vs. 40.3 cm). Compactness index of carcass was significantly (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">El objetivo de este estudio fue evaluar la influencia del cruce sobre las características de la canal de cerdo Celta sacrificado a los 7 meses. Un total de 32 cerdos de raza Celta cruzados con Duroc, Landrace, Pietrain y Mangalica fueron empleados. Cada uno de los grupos estuvo formado por 8 animales que fueron sacrificados a los 7 meses de edad. Los cerdos fueron manejados y alimentados en un sistema extensivo. Tras 24 h de refrigeración las canales fueron trasladadas a la planta piloto del Centro Tecnológico de la Carne donde se realizaron las principales medidas lineales morfométricas de la canal. Se encontraron diferencias significativas en todos los parámetros estudiados, siendo los valores más altos en peso vivo, peso canal y rendimiento para el cruce Celta por Duroc. Sin embargo, no se encontraron diferencias significativas (P&gt;0,05) en peso vivo y peso canal entre los cruces con Pietrain, Mangalica y Landrance. Con respecto a las medidas morfométricas las medidas longitudinales estuvieron acorde con las canales más pesadas siendo superior en el cruce con Duroc, con la excepción de la longitud del jamón que fue superior en el cruce con Mangalica (38,2 vs. 40,3 cm). El índice de compacidad de la canal fue significativamente (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo040_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

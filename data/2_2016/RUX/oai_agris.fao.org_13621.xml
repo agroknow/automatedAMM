@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13621">
+    <dc:title xml:lang="en">DETERMINATION OF DESIGN PARAMETERS OF ROLLER-RIDGE-MAKER</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ОПРЕДЕЛЕНИЕ КОНСТРУКТИВНЫХ ПАРАМЕТРОВ КАТКА-ГРЕБНЕОБРАЗОВАТЕЛЯ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Кurushin V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sharonov I.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kurdyumov V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agricultural practices</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ridge tillage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil compaction</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49913</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25818</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7163</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">At the present stage of development of the crop science, one of the promising technologies of cultivation of row crops is ridge. However, along with the advantages of this technology it has disadvantages, in particular, increased evaporation of moisture from the surface of the ridge with temperature condition, exceeding enforceable standard, resulting in a decrease in the yield of crops. The above disadvantage can be eliminated by using the proposed roller-ridge-maker which is able to form the ridge of regular geometric shape and at the same time to perform its surface treatment. Distinctive features of the proposed rink is the fulfillment of the seals in the form of a spiral, and the spiral form represents the surface of a spherical segment, and the outer turn of the spiral is a circle. In addition, packing-loosening element of roller is in the form of a cylinder, on the outer surface of which the pointy spikes are set radially. For quality performance of the processes of sowing of crops according to ridge technology and subsequent surface treatment of the ridge the main structural parameters of the roller-ridge-maker are calculated:  the minimum diameter of packing-loosening element,  the radius of the spike, number of spikes, the distance between the spikes, etc. When using the proposed roller-ridge-maker with optimized parameters when planting row crops the ridge is formed with given geometric parameters, and the quality of surface processing of the ridge corresponds to the agrotechnical requirements.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">На современном этапе развития растениеводства одной из перспективных технологий возделывания пропашных культур является гребневая. Однако наряду с преимуществами данной технологии у нее имеются и недостатки, в частности, повышенное испарение влаги с поверхности гребня при температурном режиме, превышающим установленные нормы, следствием чего является снижение урожайности возделываемых культур. Указанный выше недостаток можно устранить с помощью предложенного нами катка-гребнеобразователя, способного формировать гребень правильной геометрической формы и одновременно выполнять его поверхностную обработку. Отличительными особенностями предлагаемого катка- является выполнение уплотнителей в виде спирали, причем форма спирали представляет собой поверхность шарового сегмента, а наружный виток спирали представляет собой окружность. Кроме того, уплотнительно-рыхлительный элемент катка выполняют в виде цилиндра, на внешней поверхности которого радиально устанавливают заостренные шипы. Для качественного выполнения процессов высева семян сельскохозяйственных культур по гребневой технологии и последующей поверхностной обработке гребня рассчитаны основные конструктивные параметры катка-гребнеобразователя: минимальный диаметр уплотнительно-рыхлительного элемента, радиус шипа, количество шипов, расстояние между шипами и др. При использовании работе предлагаемого катка-гребнеобразователя с оптимизированными параметрами при посеве пропашных культур формируется гребень с заданными геометрическими параметрами, а качество поверхностной обработки гребня соответствует агротехническим требованиям.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/3-15-Kyrushin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

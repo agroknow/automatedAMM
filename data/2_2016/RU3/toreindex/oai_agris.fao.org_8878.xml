@@ -1,0 +1,29 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016308878">
+    <dc:title xml:lang=" ">Стратегическое взаимодействие агропромышленной и финансово-кредитной сферы в региональной экономике</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Воронов А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Глухих Л.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Родин Д.Я.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E13</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">В проведенном исследовании авторы поставили проблему развития интеграционных процессов взаимодействия институтов финансово-кредитной системы с предприятиями сферы АПК. Доказана эффективность функционирования институтов финансовых супермаркетов в сфере интеграции интересов финансовых институтов с предприятиями серы АПК и переработки. По результатам исследований, авторами определено, что деятельность банковского института  по созданию, продвижению кредитных инноваций в сферу регионального АПК строится на маркетинговом подходе. В контексте развития кредитного инжиниринга предложен авторский подход к реализации стратегии  проникновения финансовых инноваций на рынок кредитных услуг для предприятий АПК, переработки и ЛПХ, основанный на организационно-управленческом механизме инновационного маркетинга банка. В конечном итоге он позволяет  реализовать резервы рыночной устойчивости и конкурентные преимущества банка на рынке кредитных услуг, а также социальную составляющую банковской и агропромышленной отрасли региональной экономики.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.1-2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

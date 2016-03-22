@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016104559">
+    <dc:title xml:lang="en">Study of the Rooting Ability of the “Kushan” Olive Cultivar (Olea Europaea L.)</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BREGU KOZETA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>THOMAJ FADIL</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Agricultural University of Tirana, Department of Horticulture and Landscape Architecture, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cutting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2046</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The “Kushan” cultivar is an native cultivar which holds very precious qualities</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">high oil radius, very good stability against the olive fly and a reduced development of the crown, which provides the adaptation for intensive forms of cultivation. But, anyway it has stayed isolated in a narrow area and no studies have been conducted before to evaluate the opportunities of vegetative propagation. It’s propagation and distribution will be very valuable for farmer economies. The tests have been conducted during 2011 and 2012, at the DEE-Valias (Didactic Experimental Economy)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">property of AUT Tirana. The cuttings have been treated with different concetrations of IBA, in total 6 variants (from 0 to 6000 ppm). Also, 4 different time periods of cuttings collection were tested (from 5th of March until 6th of April). For their propagation, the cuttings were put in a perlite substrate , while the bottom up warming in the working table was maintained on a 22-24oC regime, and air humidity was maintaned at 85-95 by mist irrigation. According to reference classifications of Dettori [19] and  Di Vaio [20], Kushan belongs to cultivars with a high rooting ability. The best results were obtained by treatments with 3000, 4000, 5000 ppm IBA. Treatment with higher concentration decreases significantly the rooting ability. The best time frame for collecting of vegetative cuttings seems to be the period from the second week of March up till the first week of April.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_2014/8_Kozeta%20Bregu%20pp%2039-46.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

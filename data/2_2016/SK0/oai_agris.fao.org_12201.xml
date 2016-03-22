@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012201">
+    <dc:title xml:lang="en">The effect of paternal bull on milk fat composition of dairy cows of different breeds</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>KIRCHNEROVÁ K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vršková Martina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Huba  Ján</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dairy cows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bulls</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26767</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1148</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331025</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Intake of milk fat in human nutrition is important because of unsaturated and especially essential fatty acids (FAs), linoleic and α-linolenic acid, and conjugated linoleic acid (CLA), which is found only in meat and milk of ruminants. The objective of our study was to investigate the effect of paternal bulls on fatty acids composition in milk fat of dairy cows of different breeds. The milk samples were taken in total from 299 dairy cows from 11 dairy farms. In experiment Holstein (H, n = 105), Red Holstein (R, n = 120) and Pinzgau (P, n = 74) breeds originated from different bulls were used. Individual milk samples were analyzed for fatty acids in milk fat using gas chromatography (apparatus GC Varian 3800, Techtron, USA), using FID detector in capillary column Omegawax 530</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">30 m. In the chromatography records there were identified 54 fatty acids inclusive of particular isomers. Their relative proportions were expressed in percent's (%). Among the studied breeds, the highest content of conjugated linoleic acid (CLA) - 0.67%, essential FAs (EFA) - 2.98%, monounsaturated FAs (MUFA) - 25.84% and the lowest atherogenic index (AI) - 3.10 was at breed P. Within this breed there was high variability and daughters of bull COS1 achieved significant above-average values of CLA content 1.07%, EFA 3.71%, MUFA 29.93% and under breed average AI = 2.40. The group of daughters of NOB3 was significant lower in CLA, 0.50% as compared with an average of P breed. . From the breed H bull MTY2 showed significantly higher value of 0.62% CLA, EFA 3.42%, 34.29% MUFA and lower value of AI, 1.9 as compared to H breed average. Statistically significantly lower levels of CLA 0.29% and 21.46% MUFA and higher AI 3.72 in milk fat of his daughters, bull STY3 may be considered as potential worser of these properties. At the breed R bull MOR506 showed in compar to the breed average significantly higher value of the EFA 3.80% and also the higher content of CLA 0.50% and MUFA 25.09%, resulting in statistically significant lower AI = 2.91. Bull MOR506 could be considered as potential improver of milk fat composition. The above described variability in the composition of milk fat of dairy cows and the subsequent relationships between these values suggest that the selection of the bull according to the fatty acid composition of milk fat may be considered.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/443/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

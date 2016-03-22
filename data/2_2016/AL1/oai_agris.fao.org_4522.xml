@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016104522">
+    <dc:title xml:lang="en">Analyses of Volatile Components of Albanian Vitex Agnus Castus L. Fruits</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DERVISHI DORINA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PAPAJANI VILMA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NURO AUREL</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NINGA EDERINA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Pharmacy, Faculty of Medical Sciences, Albanian University, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculty of Pharmacy, University of Medicine, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculty of Natural Sciences,University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Toxicology and Quality Department, Food Safety and Veterinary Institute Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">verbenaceae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8193</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the present study is the determination of the chemical composition of Vitex agnus-castus fruits essential oils growing wild in two different zones of Albania. Vitex agnus-castus L. (Verbenaceae) is a small tree or deciduous shrub, native to the Mediterranean region and Asia. It is known in Albania as “ konopicë ” and grows wild in the western lowland. The GC/FID and GC/MS analyses of the fruit soils revealed that the major constituents identified were sabinene from 8.98% (Tepelena) to 16.41% (Divjaka)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1,8 cineole from 9.38% (Tepelena) to 12.63% (Divjaka)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ß-caryophyllene from 7.88% (Divjaka) to 10.97% (Tepelena)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ß-farnesene from 9.23% (Tepelena) to 10.84% (Divjaka)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">α-terpinyl acetate from 3.64% (Divjaka) to 6.56% (Tepelena) ect.
+The major group of components in both areas are the total sesquiterpenes, 34.47% and 33.34%, respectively inDivjaka and Tepelena, with the main rapresentatives β-caryophyllene and β-farnesene. Aromadendrene was found in Divjaka oils with 6.24%, but was not dedected in Tepelena zone. The quantity of the monoterpene hydrocarbons was higher in Divjaka fruits oils, due to the high quantity of sabinene (16.41%). Meanwhile the quantity of total diterpenes was higher in Tepelena oils because of the higher percentage of manoyl oxide. It was also found verticiol in the Tepelena fruits oils which was not detected in Divjaka oils. The examination of the data reveals differences in the chemical composition of Agnus Castus L. fruits essential oils, from two different areas of Albania.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_2014/3_DORINA%20DERVISHI_pp%2014_17.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

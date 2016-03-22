@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12790">
+    <dc:title xml:lang="en">RESPONSIVENESS OF CORN HYBRIDS ON APPLICATION OF GROWTH AND DEVELOPMENT REGULATORS OF PLANTS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ОТЗЫВЧИВОСТЬ ГИБРИДОВ КУКУРУЗЫ НА ПРИМЕНЕНИЕ РЕГУЛЯТОРОВ РОСТА И РАЗВИТИЯ РАСТЕНИЙ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Prokhorova L.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Volkov A.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Кirillov  N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Chuvash state agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F61</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Zea mays</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Germinability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant growth substances</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8504</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3246</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5968</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">There are the results of three years of research of influence of growth and development regulators of plant of Baikal EM-1, Krezatsin, Zircon and Epin on energy of germination, laboratory and field germination, yield and energy efficiency of early maturing maize hybrids ROSS 145 MV, Povolzhsky 107 SV, Catherine SV and NK Gitago. Field experiments were carried out on light loamy sod-podzolic soils in the climatic conditions of the Chuvash Republic. Studies have shown significant positive effects of the use of biological preparation Baikal EM-1, Krezatsin, Zircon and Epin in the cultivation of all analyzed without exception hybrids of corn, which is expressed in the yield increase from 0,4 to 1,53 t/ha or biological energy 5,47 to 19,67 thousand MJ/ha, the increase in the net energy income by 1,3-2,3 times and reducing the energy cost of 1 ton of corn grain by 5-25% compared with the variant without the use of growth promoting substances. In General, the most appropriate in light loamy sod-podzolic soils of the Chuvash Republic is the technology of cultivation of medium early hybrid NK Gitago with the use of a biological preparation Baikal EM-1.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Представлены результаты трехлетних исследований влияния регуляторов роста и развития растений Байкала ЭМ 1, Крезацина, Циркона и Эпина на энергию прорастания, лабораторную и полевую всхожесть, урожайность и энергетическую эффективность раннеспелых гибридов кукурузы РОСС 145 МВ, Поволжский 107 СВ, Кaтеринa СВ и НК Гитаго. Полевые опыты проводились на легкосуглинистых дерново-подзолистых почвах в климатических условиях Чувашской Республики. Исследования показали достоверное положительное влияние применения биопрепаратов Байкала ЭМ 1, Крезацина, Циркона и Эпина при возделывании всех без исключения анализируемых гибридов кукурузы, которое выражается в прибавке урожая от 0,4 до 1,53 т/га или биологической энергии от 5,47 до 19,67 тыс. МДж/га,  увеличении чистого энергетического дохода в 1,3-2,3 раза и снижении энергетической себестоимости 1 т кукурузного зерна на 5-25 % по сравнению с вариантом без использования ростостимулирующих веществ. В целом, наиболее целесообразной на легкосуглинистых дерново-подзолистых почвах Чувашской Республики является технология возделывания среднераннего гибрида НК Гитаго с использованием биопрепарата Байкала ЭМ 1.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-15-Prokhorova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(30)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

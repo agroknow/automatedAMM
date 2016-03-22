@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12883">
+    <dc:title xml:lang="en">WASHING MACHINE OF SUBMERSIBLE TYPE WITH ACTIVATION OF LIQUID BY MEANS OF AIR BUBBLING ON THE OUTER SIDE OF LAUNDERED OBJECTS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>МОЕЧНАЯ МАШИНА ПОГРУЖНОГО ТИПА С АКТИВАЦИЕЙ ЖИДКОСТИ ПУТЕМ ВОЗДУШНОГО БАРБОТИРОВАНИЯ С НАРУЖНОЙ СТОРОНЫ ОТМЫВАЕМЫХ ОБЪЕКТОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Маyorov  A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Мikheyeva D.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Mari State University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">storage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mechanization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">technical properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7427</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4685</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2572</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the technological process of production of canned food the degreasing operation of cans using a washing machine is included. A large number of modern washing machines work in irrational mode and are energy - and metal-intensive, so their use is disadvantageous. Given the fluidity of canning production, analyzing the dependence of the quality of cleaning from the relative motion of the object of cleaning and analyzing existing device for cleaning tin metal cans, two-stage washing machine with planetary motion of the object of cleaning and activating the liquid by means of air bubbling on the outer side of laundered objects is developed. In the study of the process of cleaning the surfaces of cylindrical tin cans washer, the greatest interest was caused by factors such as temperature and concentration of the washing solution, the rotational speed of the driving wheel. Experimental investigations included several stages and consisted of preliminary univariate and full three-factor experiments. The result was the mathematical dependence of the washing process, allowing to assess the quality of surface cleaning cans depending on changes in its security factors. The optimal technological parameters of washing machines in which the required quality of cleaning surfaces of cans is achieved with minimal energy consumption.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В технологический процесс производства консервов включена операция по обезжириванию банок при помощи промывочной машины. Большое количество современных моечных машин работают в нерациональном режиме и являются энерго- и металлоемкими, поэтому их использование является невыгодным. Учитывая поточность консервного производства, анализируя зависимость качества очистки от вида относительного движения объекта очистки и анализируя существующие устройства для мойки консервных металлических банок разработана двухступенчатая моечная машина с планетарным движением объекта очистки и активацией жидкости путем воздушного барботирования с наружной стороны отмываемых объектов. При исследовании процесса мойки поверхностей жестяных цилиндрических консервных банок моечной машиной наибольший интерес вызвали факторы такие как температура и концентрация моющего раствора, частота вращения ведущего колеса. Программа экспериментальных исследований включала несколько этапов и состояла из предварительных однофакторных и полного трехфакторного экспериментов. В результате была получена математическая зависимость процесса мойки, позволяющая оценить качество очистки поверхности банок в зависимости от изменений его режимных факторов.
+Определены оптимальные технологические параметры моечной машины, при которых необходимое качество очистки поверхностей консервных банок достигается при минимальных энергозатратах.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-15-%D0%9C%D0%B0yorov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(30)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

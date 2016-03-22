@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102316">
+    <dc:title xml:lang="en">Influence of poultry manure application on the leaf amino acid profile, growth and yield of moringa (Moringa oleifera lam) plants plant</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MABEL NDUBUAKU UCHENNA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>UCHENNA NWANKWO VINCENT</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BAIYERI KAYODE PAUL</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Crop Science, Faculty of Agriculture, University of Nigeria, Nsukka</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Amino acids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Moringa oleifera</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_342</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24664</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The study was carried out in the Department of Crop Science, Faculty of Agriculture, University of Nigeria, Nsukka, to determine the amino acid profile, morphological growth pattern and yield of Moringa oleifera plants as influenced by poultry manure application. Three levels of poultry manure (0 tonne/ha, 5 tonnes/ha and 10 tonnes/ha) were used. The moringa seeds used were collected from three locations of Nigeria i.e Nsukka (Enugu State), Dutse (Jigawa State) and Jos (Plateau State). The experiment was a 3 x 3 factorial trial in a randomized complete block design (RCBD) with three replications. Records of first, 50% and 100% seedling emergence were taken between five and 21 days after planting. Morphological growth and yield characteristics were recorded. Succulent and older leaves were sampled monthly for laboratory analysis of amino acid content. There were no significant differences (p &gt; 0.05) in the effects of the different poultry manure rates on days to seedling emergence and the total percentage emergence. Moringa plants grown with 10 tonnes/ha of poultry manure had the highest values of plant height, stem girth and leaf number in the first 12 weeks of planting followed by those gown with 5 tonnes/ha and 0 tonne/ha in that order. Moringa plants grown with 5 tonnes/ha of poultry manure flowered most promptly. Plants grown with 10 tonnes/ha of poultry manure had the highest values of all the yield parameters. Levels of poultry manure did not have any significant effect (p &gt; 0.05) on essential and non-essential amino acid contents of the leaves. Young succulent leaves had higher values of the amino acids than older leaves except tryptophan, argenine (essential amino acids), aspartic acid, serine and tyrosine (non-essential amino acids).</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

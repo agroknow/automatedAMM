@@ -1,0 +1,44 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H07675">
+    <dc:title xml:lang="ru">НЕКОТОРЫЕ МОРФОМЕТРИЧЕСКИЕ ОСОБЕННОСТИ ВИДОВ РОДА PAEONIA L. ПРИ ИНТРОДУКЦИИ В БАШКИРТОСТАНЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>SOME MORPHOMETRIC CHARACTERISTICS OF THE GENUS PAEONIA L. AT INTRODUCTION IN BASHKORTOSTAN</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Реут А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Миронова Л.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ботанический сад-институт Уфимского научного центра РАН</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Morphology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">На базе Ботанического сада-института Уфимского научного центра РАН проведены исследования морфометрических особенностей четырех интродуцированных видов рода Paeonia L. Выявлено, что наибольшее число лабильных признаков отмечено у P. anomala и P. lactiflora, наименьшее - у P. hybrida и P. tenuifolia.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">On the basis of the Botanical Garden-Institute, Ufa Research Center conducted the study of morphometric features four alien species Paeonia L. Revealed that most of the symptoms observed in labile P. anomala and P. lactiflora, the lowest - in P. hybrida and P. tenuifolia.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/3-10-1.pdf#page=42</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.3 (10)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

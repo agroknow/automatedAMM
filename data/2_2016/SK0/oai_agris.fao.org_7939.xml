@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007939">
+    <dc:title xml:lang="en">Evaluation of different methods for DNA extraction from milk</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Volk, H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Piskernik, S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kurinčič, M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Klančnik, A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Toplak, N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Jeršek, B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Food Science and Technology, Biotechnical Faculty, University of Ljubljana, Jamnikarjeva 101, SI-1000 Ljubljana, Slovenia. E-mail: barbka.jersek@bf.uni-lj.si</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">DNA</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">PCR</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">spectrophotometry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">food quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2347</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34079</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14497</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10965</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to compare six commercial, three non-commercial, and two combined methods for isolation of DNA from milk, on the basis of estimated quantity and quality, using spectrophotometric measurements and cow-specific real-time polymerase chain reaction (PCR). An evaluation of the associated time, cost and labour of each method was carried out as an additional assessment. The highest concentration of DNA was obtained by a phenol-chloroform protocol combined with DNeasy Blood and Tissue kit (Qiagen, Hilden, Germany), but the spectrophotometric measurements and real-time PCR parameters showed that the DNA quality was not good. According to the real-time PCR efficiency (E) and correlation coefficient (R2), only three commercial kits, namely, QIAprep Spin Miniprep (Qiagen), DNeasy Blood and Tissue kit, (Qiagen) and SmartHelix First DNAid (ExVivon, Ljubljana, Slovenia), as well as one combined method (phenol-chloroform protocol and Nucleospin Food kit (Macherey-Nagel, Düren, Germany) produced DNA of good quality for real-time PCR. Given the estimated time required for DNA extraction, and the cost and labour requirements, the three commercial kits were faster, cheaper and simpler than the other methods, and can be recommended as applicable methods for the extraction of DNA from milk.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

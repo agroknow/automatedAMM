@@ -1,0 +1,60 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012650">
+    <dc:title xml:lang="en">Lipid oxidation in chicken meat after application of bee pollen extract, propolis extract and probiotic in their diets</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bobko Marek</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Haščík Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bobková Alica</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pavelková Adriana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tkáčová Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Trembecká Lenka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Apidae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_865</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12459</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_118</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the experiment, the effect of the addition of bee pollen, propolis extract and probiotic in a feed mixture for chicken broilers Ross 308 on oxidative stability of breast and thigh muscles during chilled storage was investigated. In the experiment were included 180 pieces of one day-old chicks, which were divided into 4 groups (control, E1, E2 and E3). Chickens were fed by ad libitum system until the age of 42 days. These feed mixtures were made without antibiotics preparation and coccidiostats. Bee pollen extract in amount of 400 mg.kg-1 (E1), propolis extract in an amount of 400 mg.kg-1 (E2) was added into feed mixtures and probiotic (Lactobacillus fermentum) (E3) in an amount 3.3 g added daily to the water given the experimental group. During whole period of chilled storage were higher values of MDA determined in control group compare to experimental groups. The higher average MDA value determined in breast muscels of broiler chicken hybrid combination Ross 308 was in samples of control group (0.129 mg.kg-1) compared to experimental groups E1, E3 (0.125 mg.kg-1) and E2 (0.115 mg.kg-1) after 7-day of chilled storage. Significantly higher values of MDA were determined in control group compare to second experimental group on the end of storage. Trend of thigh muscle oxidation stability of chicken hybrid combination Ross 308 was during 7 days of chilled storage similar than in breast muscle. The higher average MDA value determined in thigh muscels was in samples of control group (0.142 mg.kg-1) compared to experimental groups E1 (0.137 mg.kg-1), E2 (0.125 mg.kg-1) and E3 (0.138 mg.kg-1) after 7-day of chilled storage. We have not determined statistically significant differences between testing groups on the end of storage. Higher amount of MDA in thigh muscle compare to breast muscle is due to by higher amount of fat occurred in thigh muscle.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/495/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

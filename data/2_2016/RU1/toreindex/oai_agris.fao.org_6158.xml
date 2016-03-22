@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016106158">
+    <dc:title xml:lang="en">The Effects of Aluminum and Phosphorous on some of Physiological Characteristics of Brassica napus</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tohidi Zahra</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Baghizadeh Amin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Enteshari Shekofeh</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">aluminium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Brassica napus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_317</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1066</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The environmental toxicity of Aluminum causes nervous, lung and kidney disease in human body. Aluminum toxicity depends on different factors and these factors cause penetration of toxic element to environment soil. The acidity of environment and the root of plants cause the lack of tolerance in absorption of nutrients and makes abnormality in the growth of plants. In this study the effect of Aluminum (40 µmol) and different levels of Phosphorous (0, 40, 80, 320 µmol) in one cultivar of Brassica napus were investigated. Results showed in plants that treated with Aluminum, Shoot length, Root length and Chlorophyll a, b content significantly decreased but Malondialdehyde (MDA) and Reduced Sugars content significantly increased. On the other hand, in plants that treated with Phosphorous and Aluminum decreased in growth parameters and Chlorophylls content moderated against plants that treated just with Al and MDA content and reduced sugar content decreased. From these results we suggested that Phosphorous treatment reduced the harmful effect of Aluminum toxicity in this cultivar of canola.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2015/N1/JSPB_2015_1_16-28.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

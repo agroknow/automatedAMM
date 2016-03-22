@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02230">
+    <dc:title xml:lang="en">Stylosanthes capitata Vogel response to mineral nutrients and liming in “cerrado” soil</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Respostas de Stylosanthes capitata Vogel à aplicação de nutrientes e doses de calcário em solo de cerrado</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PAULINO,  V. T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COLOZZA, M. T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OTSUK,  I. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mineral nutrients</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34864</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7156</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It was tested in a sandy soil (Quartzipsamment) of "cerrado" vegetation the effects of lime and mineral nutrients on Stylosanthes capitata growing. The fertilization treatments (subtractive assay), at three rates of lime: 0.73, 1.54 and 4.90t ha-1, corresponding to raise the base soil saturation from 40%, 60% and pH elevation to 6.5. It were arranged in a complete randomized block design with four replications. Stylo plants were cut close to the soil surface 84 days after emergency. Phosphorus was the most limited nutrient. Potassium had positive effects upon the forage legume. Lime brought positive effects in dry matter yields. The highest dry matter yields were obtained with the application of 1.28 t ha-1 of lime wich rise the base saturation of soil to 53%. The single applications of sulphur or micronutrients do not change significantly the dry matter yield, nitrogen accumulation and nodulation. Low levels of phosphorus, potassium, calcium, magnesium, sulphur, born, copper and zinc were observed, when those nutrients were not added as fertilizers. The results show that stylo has been negatively affected to the pH elevation to 6.5 (rate of 4,90t ha-1 of lime).</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Avaliaram-se num Neossolo quartzarênico, com 92% de areia, os efeitos da calagem e da nutrição mineral em Stylosanthes capitata cv. CIAT 1019. Os tratamentos estudados, em esquema subtrativo, foram tratamento completo (P, K, Calagem 1, S, B, Cu, Fe, Mo e Zn) e a omissão seqüencial de cada nutriente, e três doses de calcário dolomítico (toneladas/ha): 0,73 (calagem 1) e 1,54 (calagem 2) para elevar a saturação inicial do solo de V= 18,4% para 40 e 60%, respectivamente, e 4,90t ha-1 (calagem 3) para elevação do pH a 6,5. Foram avaliadas a produção de matéria seca (parte aérea, raízes e da planta inteira), acumulação de nitrogênio, e os teores de N, P, K, Ca, Mg, S, Cu, Fe, Mn e Zn na parte aérea das plantas. Foi realizado um único corte aos 84 dias de idade.. Os tratamentos foram dispostos em blocos ao acaso com quatro repetições. O fósforo foi o elemento mais limitante ao crescimento. A ausência de K foi a segunda variável a limitar a produção. Os rendimentos máximos em termos de acumulação de matéria seca foram obtidos mediante a aplicação de 1,28t de calcário por hectare, equivalentes a quantidade necessária para elevar o índice de saturação por bases do solo a 53 %. A aplicação isolada de enxofre e de micronutriente não alterou significativamente as produções de matéria seca da parte aérea, das raízes da planta inteira, acumulação de nitrogênio e nodulação do estilosantes. Verificaram-se baixos teores de fósforo, potássio, cálcio, magnésio, enxofre, boro, cobre e zinco na parte aérea do Stylosanthes quando esses nutrientes não foram adicionados como fertilizantes. A maior dose de calcário (4,90t ha-1 ) foi mais prejudicial que a não aplicação de calcário.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1242239300.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

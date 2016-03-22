@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206497">
+    <dc:title xml:lang="en">Germination of Lafoensia pacari seed’s and seedling formation at different temperatures</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Germinação de sementes e formação de plântulas de Lafoensia pacari sob diferentes temperaturas</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Oliveira Ademir Kleber Morbeck</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lemes Frederico Tormin Freitas</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Anhanguera-Uniderp, Campo Grande, MS, Brasil.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Anhanguera-Uniderp, Campo Grande, MS, Brasil.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">indigenous organisms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lythraceae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34268</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15508</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The species Lafoensia pacari is a tree (Lythraceae) distributed by Cerrado and Pantanal. Its wood is
+suitable for civil construction, manufacture of furniture and the tree recommended for landscaping and considered medicinal. Taking into account their potential use and importance of the species, the aim of this study was to evaluate seed germination and seedlings growth at different temperatures. L. pacari seeds were collected from Pantanal do Rio Negro, Mato Grosso do Sul. The seeds were
+submitted to at different temperatures, constant of 20, 25, 30 and 35 °C and alternating, 20-30 and 25-35 °C, in germination chambers. The results showed the percentage above 59% for all treatments, with statistically identical results. The species has high GSI and low AGT, with all treatments with
+similar results. The seedling growth, with exception of 20 oC, was not affected by treatments, with equal values.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A espécie Lafoensia pacari pertence à família Lythraceae, ocorrendo principalmente nos biomas Cerrado e Pantanal. Sua madeira é indicada para construção civil e marcenaria e a árvore, recomendada para arborização urbana e paisagismo, além de ser considerada uma espécie medicinal. Levando-se em consideração seu potencial de utilização variado e a importância da espécie, este trabalho foi desenvolvido com o objetivo de verificar o efeito de diferentes temperaturas sobre a germinação e crescimento inicial de plântulas. As sementes utilizadas no experimento foram coletadas no Pantanal do Negro, Mato Grosso do Sul. As sementes foram
+submetidas a seis testes, com temperaturas constantes de 20, 25, 30 e 35 °C e alternadas de 20-30 e 25-35 °C em câmaras de germinação. Os resultados obtidos evidenciaram percentagem de germinação acima de 59% para todos os tratamentos, com resultados estatisticamente iguais.
+As sementes da espécie, no momento da coleta, possuem alto IVG e baixo TMG, com todos os tratamentos apresentando resultados similares. Também o desenvolvimento inicial das plântulas, com exceção da temperatura de 20 oC, foi similar para todas as temperaturas testadas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/148/288</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

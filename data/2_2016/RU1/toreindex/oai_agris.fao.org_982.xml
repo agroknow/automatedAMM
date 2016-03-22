@@ -1,0 +1,37 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100982">
+    <dc:title xml:lang="en">Seed Germination, Seedling Growth and Enzyme Activity of Wheat Seed Primed under Drought and Different Temperature Conditions</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Azadi M.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Younesi E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tabatabaei S.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">enzymic activity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35150</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The study aimed was to determine the effects of drought stress (0, -4, -8, -12 bar) and osmopriming (-15 bar PEG 6000 for 15 at 24 h) on seed germination, seedling growth and enzyme activity at different temperatures  were  assessed in  the  laboratory  for  wheat. Results  showed  that  the highest  germination  percentage  (GP)  (94.33%),  normal  seedling  percentage  (NSP)  (92%), germination index (GI) (44.85) and seedling length (11.03 cm) were attained from osmo-priming in control  conditions.  Therefore,  seed  priming  with  PEG  6000  significantly  (p≤  0.01)  increased germination characteristics as compared to the unprimed seeds under drought stress. Also, osmopriming increased catalase (CAT) and ascorbate peroxidase (APX) as compared to the unprimed.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N4/JSPB_2013_4_310-318.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

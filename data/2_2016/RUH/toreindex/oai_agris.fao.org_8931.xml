@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08931">
+    <dc:title xml:lang="ru">ПОСЕВЫ ГРЕЧИХИ В ПРИАЛЕЙСКОЙ ПРИРОДНОЙ ЗОНЕ АЛТАЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>BUCKWHEAT SOWING NEAR ALEI NATURAL ZONES OF ALTAI</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ВАЖОВ В.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ОДИНЦЕВ А.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Важова Т.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Алтайская государственная академия образования им. В.М. Шукшина</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Buckwheat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farm area</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Yields</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9471</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2794</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8488</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В 2012 г. гречиха высевалась в Приалейской природной зоне на 70,5 тыс. га, что составляло 14% от посевов культуры в
+Алтайском крае, однако её урожайность (0,62 т/га) была меньше средней по краю на 13%. Поэтому при выращивании гречихи
+необходимо исходить из требований системы земледелия, особенностей увлажнения локальной территории и технологических
+приемов, увязанных с биологией культуры. Соблюдение данных мероприятий позволяет довести урожайность гречихи до 1,5-2,3
+т/га.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In 2012 the buckwheat was sown in Prialeyskoy natural area 70.5 ts. hectares, representing 14% of the crop culture in the Altai region,
+but its yield (0.62 t/ha) was less than the average over the edge by 13%. Therefore, when growing buckwheat must be based farming system
+requirements, features dampening local territory and technological methods, linked to the biology of culture. Observance of these activities
+allows you to bring the yield of buckwheat to 1.5-2.3 t / ha</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/03/2-2-21.pdf#page=5</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.2 (21)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,48 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016105010">
+    <dc:title xml:lang="en">Biochemical Response of Glycine max (L.) Merr. to Cobalt and Lead stress</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Imtiyaz Sofi</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Agnihotri Rajneesh K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ganie Showkat A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sharma Rajendra</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Glycine max</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">toxicity to plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3301</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35143</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Background: Heavy metal pollution of soil has become a global concern, largely due to the fact that the heavy metals accumulated in plants may either directly or indirectly find their way into animals and human beings. Present study was carried out on the phytotoxicity  of cobalt (Co) and lead (Pb) on biochemical constituents viz. chlorophyll a, b, carotenoids, proline, protein and carbohydrate content of three different varieties of Glycine max viz. SL-688, PS-1347, DS-9712 treated with 50, 100 and 150 µM concentrations. 
+Results: The exposure of soybean varieties to Pb and Co resulted in the reduction of chlorophyll, carotenoids, carbohydrate and protein content and addition in proline content. Test plants were more sensitive to lead in comparison to cobalt. PS-1347 variety was found to be more susceptible to both the heavy metals. Maximum deleterious effect was observed at higher concentrations (100 &amp; 150µM). However, an additional supply of nitrogen not only minimized the inhibitory effect of these two heavy metals but also decreased the proline content of plants. 
+Conclusions: The findings of the present study indicate that effect of heavy metals with different treatments on biochemical content was significantly different at 0.05 level of probability. Soils contaminated by heavy metals probably lead to substantial losses in seed yield of soybean plant.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N3/JSPB_2014_3_259-272.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

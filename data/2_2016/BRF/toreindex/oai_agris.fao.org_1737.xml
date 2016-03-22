@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01737">
+    <dc:title xml:lang="en">Zinc in metabolites components of Tanzania grass and Palisade grass</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito do zinco nos componentes metabólitos dos capins Tanzânia e Marandú</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>FONSECA, Ivana M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PRADO,  Renato M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VALE,  Diego W.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FELTRIN, Mariana S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CORREIA, Marcus A. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CAZETTA, Jairo O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2009-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Brachiaria brizantha</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">organic compounds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Trace elements</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Panicum maximum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1043</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5384</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7834</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16379</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5537</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Growth and productivity of forage plants are dependent on organic compounds stored in the plants and can be affected by zinc nutrition. Faced applicable, it was aimed to evaluate the effect of zinc fertilizer in the metabolic compounds tanzania grass and palisadegrass. The experiment was realized in greenhouse in pots filled with 3 dm3 of medium texture Oxisol with five plants. The experimental design was completely randomized in factorial scheme 2x3 (two grasses: Panicum maximum cv. Tanzania and Brachiaria brizantha cv. Marandu, and three zinc rates: 0, 60 and 240 mg dm-3) with four replicates. There were difference between cultivars for all variables, except for free aminoacids and nitrate. However, the increase in Zn rates did not promote difference in the organic compounds of the plants. The application of Zn did not affect the synthesis of metabolites components tanzaniagrass and palisadegrass. The tanzania grass had higher uptake of Zn and N, and higher capacity for synthesis of soluble carbohydrates and crude protein than palisadegrass, showing higher biomass yield.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O crescimento e a produtividade de plantas forrageiras são dependentes dos compostos orgânicos armazenados nas plantas, podendo ser afetados pela nutrição com zinco. Diante disso, objetivou-se avaliar o efeito da adubação com Zn nos componentes metabólitos dos capins tanzânia e marandu. Desenvolveu-se o estudo em casa de vegetação em vaso preenchido com 3 dm3 de amostra de um Latossolo Vermelho distrófico textura média com cinco plantas. O delineamento experimental utilizado foi o inteiramente ao acaso, em esquema fatorial 2x3, sendo duas cultivares de forrageiras (Panicum maximum cv. Tanzânia e Brachiaria brizantha cv. Marandu) e três doses de zinco no solo (0, 60 e 240 mg dm-3), com quatro repetições. Avaliaram-se as concentrações de glicose, sacarose, amido, aminoácidos livres, nitrito, nitrato, proteína solúvel, os teores de Zn e de N nas plantas e a produção de massa seca. Verificou-se diferença entre as cultivares para todas as variáveis analisadas, exceto para aminoácidos livres e nitrato. Entretanto, o aumento das doses de Zn não promoveu diferença nos compostos orgânicos nas plantas. A aplicação de Zn não afetou a síntese dos compostos metabólitos nas plantas dos capins tanzânia e marandu. O capim-tanzânia apresentou maior absorção de Zn e N, além de maior capacidade de síntese de carboidratos solúveis e de proteína bruta do que o capim-marandu, obtendo maior produção de biomassa.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1278611947.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.66/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

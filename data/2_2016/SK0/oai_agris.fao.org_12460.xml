@@ -1,0 +1,60 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012460">
+    <dc:title xml:lang="en">Selected parameters of quality and safety of herbal tea</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bobková Alica</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fikselová Martina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bobko Marek</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lopašovský Ľubomír</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tóth Tomáš</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zeleňáková Lucia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food safety</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">herbal teas</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33995</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35743</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this work was to assess the heavy metal presence and possible microbiological contamination in herbal teas. Evaluation of selected tea products was performed from Nitra locality during years 2009 - 2013. Microscopic filamentous fungi detection, bacteria such as Escherichia coli and Salmonella spp. were compared to requirements given in the Codex Alimentarius of Slovakia. The highest permissible limit for microscopic filamentous fungi was not exceeded (in 32 observed herbal tea samples). For incidence of Escherichia coli, 93 samples were investigated and for Salmonella spp., 91 herbal tea samples. No sample showed the presence of Salmonella spp., and at E. coli maximum permitted presence was detected below limit. Among chemical parameters, cadmium, lead and mercury content were monitored. The highest amount of lead and mercury was found in year 2012. In 2009, the highest cadmium content was found. The average content of lead in all 100 inspected herbal tea samples was 0.784 mg.kg-1 so all the samples met requirements defined in the legislation. The mean content of mercury (98 investigated herbal tea samples) was 0.0161 mg.kg-1 so all samples met the requirements as well. Average cadmium content was 0.1702 mg.kg-1 while the highest permitted limit for cadmium is 1.0 mg.kg-1. All herbal tea samples were in accordance with the legislation except one (white willow bark tea) with a very high content of cadmium (4.36 mg.kg-1).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/451/pdfq</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

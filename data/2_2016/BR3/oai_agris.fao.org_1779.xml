@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016301779">
+    <dc:title xml:lang="pt">Hidrogel como alternativa no aumento da capacidade de armazenamento de água no solo</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Hydrogel as an alternative to increase water storage capacity of soil</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mendonça Thaís Grandizoli</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Urbano Vanessa Ribeiro</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Peres José Geanini</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Souza Claudinei Fonseca</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">moisture content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Electrical conductivity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil water retention</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4886</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24022</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7212</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Frente ao uso de 70% de água potável do planeta que a agricultura consome, alternativas são necessárias
+para reduzir o consumo e otimizar o uso da água durante o cultivo. Os hidrogeis são polímeros hidrorretentores
+capazes de absorver grande quantidade de água e estão sendo utilizados como alternativa viável para melhorar
+o armazenamento de água em áreas de escassez. O presente trabalho teve como objetivo avaliar a utilização de
+diferentes dosagens de hidrogel no armazenamento de água no solo destacando-se as vantagens e desvantagens
+de cada dosagem. Utilizaram-se três diferentes dosagens do hidrogel (4, 8 e 12 g por vaso com 8 kg de solo)
+permitindo analisar a eficiência do produto comparado à testemunha em função da disponibilidade de água
+e do aumento da condutividade elétrica do solo. Essas variáveis foram determinadas com o uso de sondas de
+reflectometria no domínio do tempo (TDR). A dosagem de 4 g por vaso mostrou-se viável pois comparada à
+recomendação do fabricante (8 g por cova, em condições de campo), apresentou teor de água semelhante, menor
+condutividade elétrica do solo e menor custo de implantação. A maior dosagem (12 g por vaso) causou inchaço do
+solo acarretando em perda do produto, solo e possível estrangulamento radicular.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">As 70% of potable water on the planet is used in agriculture, alternatives are needed to reduce its
+consumption and optimize the use of water for cultivation. Hydrogels are hydro polymers capable of absorbing
+large quantities of water and have been used as an alternative to improve water storage in areas of shortage.
+This study aimed to assess the use of different doses of hydrogels for water storage in soil, emphasizing the
+advantages and disadvantages of each dose. The doses of the hydrogel used were (4, 8 and 12 g per pot) to analyse
+the efficiency of the product compared to the control, depending on the availability of moisture and increase in
+electrical conductivity. These variables were determined with the use of time-domain reflectometer (TDR) probe.
+The dose of 4 g per pot was more viable, compared to the manufacturer’s recommendation (8 g per hole, under
+field conditions), because it presented similar moisture content, lower electrical conductivity and lower cost.
+The higher dose (12 g per pot) caused swelling of the soil resulting in loss of product and soil and possible root
+strangulation.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.ufrb.edu.br/wrim/images/wrim-2-2-2013/v02n02a03.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Water Resources and Irrigation Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2316-6886</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

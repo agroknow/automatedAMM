@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016D03451">
+    <dc:title xml:lang="en">SPECIALIZED ECOLOGICAL INFORMATION RESOURCES TO SUPPORT RESEARCH</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>СПЕЦИАЛИЗИРОВАННЫЕ ЭКОЛОГИЧЕСКИЕ ИНФОРМАЦИОННЫЕ РЕСУРСЫ ДЛЯ СОПРОВОЖДЕНИЯ НАУЧНЫХ ИССЛЕДОВАНИЙ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lavrik Olga</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rykova Valentina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>State Public Scientific-Technological Library of the Russian Academy of Sciences</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ecology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">scientists</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Research institutions</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Databases</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2467</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6855</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6514</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24833</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9001017</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article presents a system of information support of ecological research created by main information centers of Russia: the All-Russian Institute of Scientific and Technical Information of the Russian Academy of Sciences, Russian National Public Library for Science and Technology, Russian State Library, Library for Natural Sciences of the Russian Academy of Sciences. Special attention is paid to information products of State Public Scientific -Technological Library of the Siberian Branch of the Russian Academy of Sciences.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье представлена система информационной поддержки экологических исследований, созданная основными информационными центрами России: Всероссийский институт научной и технической информации Российской академии наук (ВИНИТИ), ГПНТБ России, Российская государственная библиотека, Библиотека по естественным наукам Российской академии наук. Особое внимание уделяется информационным продуктам Государственной публичной научно-технической библиотеки Сибирского отделения Российской академии наук.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.12731/wsd-2014-10-10</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>В мире научных открытий</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2072-0831</ags:citationIdentifier>
+      <ags:citationNumber>v./n.10</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

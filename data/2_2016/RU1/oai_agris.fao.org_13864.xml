@@ -1,0 +1,71 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016113864">
+    <dc:title xml:lang="en">The Tebuconazole-based Protectant of Seeds “Bunker” Induces the Synthesis of Dehydrins During Cold Hardening and Increases the Frost Resistance of Wheat Seedlings</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Korsukova A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Borovik O.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Grabelnych O.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Voinikov V.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">azoles</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">tebuconazole</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">growth inhibition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Frost resistance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Winter wheat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spring wheat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_750</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36931</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34027</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11025</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8412</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7337</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Triazole derivatives are widely used in agriculture for seed protectant of cereals against seed and soil infection. Triazole derivatives can have an effect on the biochemical and physiological functions of plants. The tebuconazole-based protectant of seeds «Bunker» (content of tebuconazole 60 grams per liter, g/L) is a systemic fungicide of preventive and therapeutic action. The effect of the seed treatment by «Bunker» preparation on the shoot growth and cell viability coleoptile, synthesis of dehydrins in shoots and frost resistance etiolated winter and spring wheat seedlings has been studied. It has been shown that treatment of winter and spring wheat seed by «Bunker» preparation induces similar concentration-dependent inhibition of the coleoptiles length. At the recommended dose (0,5 liter per tonne of seeds, L/t) growth inhibition was 28 - 30%, at a concentration of 1 L/t – 33 - 36%, at a concentration of 1,5 L/t – 40 - 42%, at a concentration of 3 L/t – 43 - 47%, at a concentration of 4 L/t – 48 - 51% and at 5 L/t – 53 - 56%. The treatment of wheat seed by «Bunker» preparation had no phytotoxic effect on coleoptile cells in any of the studied concentrations, on the contrary, with increasing concentration of preparation observed the increase in cell viability, as measured by recovery of 2,3,5-triphenyltetrazolium chloride. We can assume that having retardant properties, tebuconazole not only inhibits the growth of plants, but also delays their aging. The treatment of seed protectant at a concentration of 1.5 L/t induced synthesis of the dehydrins with molecular masses about 19, 21, 22, 25 and 27 kD in winter wheat shoots and 18,6, 27 and 28,5 kD in spring wheat shoots during cold hardening. Among identified dehydrins the dehydrin of 27 kD is most significantly induced both in winter and spring wheat. The treatment of seed protectant «Bunker» in the same concentration increased the frost resistance of winter and spring wheat seedlings. It is supposed that increasing of cold and frost resistance of winter and spring wheat caused by seed treatment of the tebuconazole-based protectant may be associated with increase of the abscisic acid content – one of the triggers of the low-temperature adaptation of plants. It is concluded that tebuconazole-based protectant of seeds «Bunker» increases the resistance of wheat to low temperature, affecting the growth processes and the synthesis of stress proteins.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2015/N4/JSPB_2015_4_118-127.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

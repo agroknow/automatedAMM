@@ -1,0 +1,30 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016313566">
+    <dc:title xml:lang="ru">Выращивание племенного молодняка лошадей кабардинской породы при культурно-табунном содержании</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Амшоков Х.К.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food supply</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3029</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Племенное коневодство является важной отраслью сельскохозяйственного произ-водства, значение которой стало заметно возрастать в последние годы. Вместе с тем, для даль-нейшего развития в условиях экономического кризиса и тяжелой рыночной экономики, отрасль коне-водства должна быть максимально эффективной, рентабельной, что возможно при выращивании ка-чественного племенного молодняка для получения высококлассных лошадей и при организации воспро-изводства на качественном уровне и минимальных затратах средств. На этой основе развивается в последние годы направление коневодства в приоритетном национальном проекте «Развитие АПК» - коневодство включено также в целевые показатели Государственной программы развития сельского хозяйства на 2010-2020гг., а также принята Республиканская программа «Развитие коневодства и конного спорта в Кабардино-Балкарской Республике на 2015 - 2017 годы и на плановый период до 2020 года» Перед коневодством Кабардино-Балкарии поставлена задача по обеспечению дальнейшего развития на основе осуществления в хозяйствах системы эффективных мер по укреплению кормовой базы, разработкой новых методик выращивания, содержания и кормления молодняка и племенного ко-непоголовья, улучшению породности и повышения племенных качеств, разводимых лошадей при одно-временном росте поголовья и повышению уровня селекционной работы в целом. Решению данных за-дач отрасли коневодства и отвечает эффективное использование коневодческими хозяйствами ес-тественных пастбищ при условии строгого соблюдения технологии культурно-табунного содержа-ния, кормления и воспроизводства лошадей в соответствии с действующими научно-обоснованными рекомендациями и нормативами по выращиванию племенного молодняка лошадей.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,34 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016104957">
+    <dc:title xml:lang="en">Impacts of Different Water Pollution Sources on Antioxidant Defense Ability in Three Aquatic Macrophytes in Assiut Province, Egypt</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gadallah Mohamed A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sayed Suzan A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sewage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7007</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present study was undertaken to evaluate the impacts of surface water pollution with wastes coming from sewage effluents (Site 2), agricultural runoff (Site 4) and oils and detergents factory (Site 3) on the stability of leaf membrane (measured as injury %), hydrogen peroxide (H2O2), ascorbic acid (Asc A), lipid peroxidation, chlorophyll (Chl) content, soluble sugars (SS), soluble proteins (SP) and total free amino acids (TAA) of Cyperus alopeucroides, Persicaria salicifolia and Echinochloa stagnina. Concentration of H2O2, MDA and TAA were higher in the three plants collected from polluted sites as compared with those of plants grown in control Nile site (Site1). The opposite was true for Asc A, SS and SP where their concentrations reduced significantly in response to water pollution. Leaf membrane was more damaged (high injury %) in plants exposed to wastes from different sources than in plants growing at control site. The results of this study indicated that water pollution reduced the oxidative defense abilities in the three plants through reduction of Asc A activities, enhancement of H2O2 production and increasing MDA accumulation. In addition it impaired the metabolic activity through lowering the SS and SP contents and enhancement of TAA accumulation and increase membrane injury. The over production of hydrogen peroxide by the studied aquatic plants under water pollution could be used as an oxygen source needed to oxidize the more resistant organic and inorganic pollutants and used for pollution control and municipal and industrial wastewater treatment.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N3/JSPB_2014_3_47-61.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

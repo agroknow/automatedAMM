@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F00989">
+    <dc:title xml:lang="en">Body measurements and carcass traits of castrated and non-castrated Mediterranean buffalos</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Medidas corporais e características de carcaça de bubalinos Mediterrâneo castrados e inteiros</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>RAMALHO, R. O. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RODRIGUES,   V. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COUTO,  D. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PITOMBO,  R. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOUZA,  D. D. N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ARAÚJO,  A. H. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sex</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Slaughter weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1326096213808</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7010</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7106</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this study was evaluated the effect of sex condition on body measurements and carcass traits as well as the correlations between them, using data of 20 Mediterranean, from Fazenda Três Rios, at Casimiro de Abreu, Rio de Janeiro, managed in tangola grass pasture, receiving mineral salt ad libitum, slaughtered at approximately 462,05 kg (±28.34). The body measurements were: thoracic depth (TD), croup length (CL), withers height (WH), rump width (RW), rump height (RH), ischium distance (ID), cushion thickness (CT), thoracic perimeter (TP), and dorsal line length (DLL). Data were submited to variance analysis and Pearson correlation. The castrated animals presented higher height of croup. Non-castrated animals had bigger yield from leather than the castrated animals, which influenced the lowest yield of carcass regarding the castrated ones. There was no difference for yield of paws, innards and head in function of the sexual condition. There was significant correlation between the slaughter weight (SW) and the following corporal measures: TP, TD, RW, ID and WH.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1371730344.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A04884">
+    <dc:title xml:lang="en">ECOLOGICAL AND PHYSIOLOGICAL ASSESSMENT OF ADAPTATION OF THE INTRODUCED PLANTS (CONIFEROUS TREES) IN THE MIDDLE VOLGA REGION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЭКОЛОГО-ФИЗИОЛОГИЧЕСКАЯ ОЦЕНКА АДАПТАЦИИ ХВОЙНЫХ ИНТРОДУЦЕНТОВ В СРЕДНЕМ ПОВОЛЖЬЕ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>KARASEV Valeriy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KARASEVA Margarita</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SEREBRYAKOVA Natalia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LAZAREVA Svetlana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chlorophylls</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pinus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Larix</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Adaptation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1577</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5890</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4195</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_117</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Nowadays plant introduction helps to solve an important problem of biodiversity by means of introduction of economically valuable species. The problem is possible to be solved in case of extensive study of the introduced plants in the new climatic conditions. The goal of the research is to assess the level of adaptation of the introduced plants (coniferous trees) and to reveal the variability of characteristics of their conditions by physiological and bioelectric characteristics in the Middle Volga region. Research technique. The size and the wet of needles and outgrowths, the content of chlorophyll, bioelectric characteristics were determined. Measurement of bioelectric potential was carried out by high-resistance millivoltmeter of direct current with the usage of platinum electrodes (Extra-999). Electric impedance of the close to the cambial complex of tissues was measured by Ц4314 device on a frequency of 500 Hz, chlorophyll content was measured with the use of photoelectroncolorimetric method. Result. Coefficient of variability of wet in needles and outgrowths for all the studied species varies within 2…21 %.  Swiss mountain pine and Balkan pine are of more stable wet needle characteristics. The connection between the wet of plant tissue and the value of impedance of the close to the cambial complex of tissues is very dense and reverse (r = -0.85…–0.90). Trees-leaders have the following impedance parameters: 16.4…21.9 kOhm, the  impedance parameters  for weak trees are 2–3 times higher.  The content of chlorophyll in Siberian larch, Siberian cedar, Weymouth pine is close to the content of chlorophyll in the local species (1.2…2.2 mg\g of dry mass)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">besides, they form productive plantations. Leading trees have high values of bioelectric po-tential (180…200 mV), the values of bioelectric potential of weak trees is much lower – 60…70 mV. Conclusion. The carried out research proves the necessity to have an early express- diagnostics of living conditions and selection of the most perspective, sustainable biotypes depending on the chlorophyll content, impedance of the close to the cambial complex of tissues  and bioelectric potential, characterizing the intensity of metabolic processes.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Приведены результаты комплексных исследований, выполненных с целью оценки адаптивных свойств и устойчивости хвойных интродуцентов в регионе. Установлено, что коэффициент изменчивости влажности хвои и побегов для всех изученных видов варьирует в пределах от 2 до 21 % (от слабой до значительной), наиболее стабильными показателями влажности хвои отличаются сосна горная, сосна балканская, более высокую влажность хвои имеет лиственница сибирская, сосна сибирская. Биометрические показатели растений, содержание общего хлорофилла в хвое, близкое по параметрам к аборигенным видам, высокие значения биопотенциалов (150–200 мВ) у лиственницы сибирской, сосны сибирской, псевдотсуги Мензиса, сосны веймутовой свидетельствуют об  успешной адаптации данных видов в регионе.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/69/46</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.24/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

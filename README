@@ -1,0 +1,12 @@
+/*
+	Automated AMM
+	Mihalis Papakonstadinou
+*/
+
+
+1) run.sh
+2) preindex.sh (maybe insert into run.sh)
+3) AFTER moving files, cleanse.sh
+
+	*run.sh has hardcoded dirs names
+	*notify/sendemail sends email to list	(TODO: print #records harvested&estimation of error)

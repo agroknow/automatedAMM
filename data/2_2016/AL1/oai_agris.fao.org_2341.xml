@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102341">
+    <dc:title xml:lang="en">Evaluation of Anchovy (Engraulis encrasicolus) Population by Age and Length</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>KOLITARI JERINA 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DURO SOKOL2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CAUSHI ALFRED2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KRISTO ROLAND 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VUKAJ JERINA 3</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Aquaculture and Fishery Laboratory, Durrës, Agricultural University of Tirana, Albania.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2Faculty of Veterinary Medicine, Agricultural University of Tirana, Albania.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>3Faculty of Economy and Agribusiness, Agricultural University of Tirana, Albania.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">population</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">length</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Age</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Statoliths</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4260</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_186</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26883</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Anchovy (Engraulis enchrasicholus), is a member of small pelagic fish group in the waters of the Mediterranean and Adriatic Sea with important economic value for all regional countries, including Albania. The purpose of this study was to define the age of Anchovy, as one of the important indicators for the assessment of fishing reserves. Age evaluation was based on sagital otoliths, found in the inner ear of the fish. The study was conducted at the Aquaculture and Fishery Laboratory in Durres, during the period January 2008 - December 2009. At this time, 863 fish were analysed. For each individual was kept records for weight and height then, otoliths were removed, and finally watched in stereomicroscope (40 X) annual assessment circles around the otoliths opaque core. Age of fish is equal to the number of annual rings. The study showed that the average age was 2.22 year, and 70%  were 2+ and 3+ years. The average length was 13.98 cm. About 58% of anchovy fish were with length 12.5 - 15 cm. This study will help determine the population dynamics of anchovy fish and more accurate predictions for the amount of fish to hunt in defined time periods.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

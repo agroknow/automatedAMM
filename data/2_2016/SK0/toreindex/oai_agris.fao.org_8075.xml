@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016008075">
+    <dc:title xml:lang="en">New potential of using millet-based yeast-fermented leaven for composite wheat bread preparation</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Różyło, R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Equipment Operation and Maintenance in the Food Industry, University of Life Sciences, Doświadczalna 44, 20-280 Lublin, Poland. Tel: +48 (81) 461-00-61, e-mail: renata.rozylo@up.lublin.pl</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Millets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Panicum miliaceum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bread</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">leavening agents</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">doughs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4838</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5538</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1071</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34038</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26776</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The many health benefits to be derived from millet and fermented food are well-documented. As a consequence of this, a novel method for the preparation of composite wheat-millet bread was designed on the basis of the use of millet-based yeast-fermented leaven. Bread was produced with 30% share of millet flour and evaluated in terms of the following physical parameters: bread mass and volume, textural properties of crumb, degree of crumb staling, and index of crumb texture homogeneity. The obtained results confirmed that it is possible to produce mixed bread from the millet-based yeast-fermented leaven. The results were dependent on flour properties, and from wheat flour of high gluten content and high falling number, bread of sufficient quality was obtained. Further studies could be proposed on rheological measurements of dough and estimation of biological activity of bread prepared from millet-based yeast-fermented leaven. Methods using yeast-fermented leaven prepared from millet flour with different origin and other types of flour should be tested for other composite wheat breads.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

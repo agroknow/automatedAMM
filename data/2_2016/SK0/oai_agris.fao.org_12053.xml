@@ -1,0 +1,60 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012053">
+    <dc:title xml:lang="en">Liquid chromatographic determination of polyphenenols in czech beers during brewing proces</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ganbaatar Chunsriimyatav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kubáň Vlastimil</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kráčmar Stanislav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Valášek Pavel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fišera Miroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hoza Ignác</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">beers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Polyphenols</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Brewing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_864</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1087</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">High performance liquid chromatographic (HPLC/UV) method was adapted for simultaneous determination of seven polyphenols, including derivatives of benzoic (gallic and vanillic acids) and cinnamic acids (p-coumaric, ferulic and sinapic acids), flavan-3-ols (catechin) and flavonols (rutin) in worts and beers at the various stages of the brewing process. Based on the semi-quantitative HPLC analysis, total polyphenols chromatographic index (TPCI) was in the ranges of 5.18 - 19.4 mg/L and 7.37 - 20.7 mg/L for all worts and beers, respectively. The HPLC analyses showed that relatively high levels of (+)-catechin and gallic acid were in all the worts and the beers, while the values were much lower for ferulic acid, rutin, vanillic acid, sinapic acid and p-coumaric acid. Polyphenols with relatively high concentrations, that were detected in all tested worts and beers, were gallic acid (1.29 - 4.75 mg/L resp. 2.59 - 4.97 mg/L), (+)-catechin (1.66 - 7.95 mg/L resp. 4.70 - 10.0 mg/L) and ferulic acid (0.41 - 4.53 mg/L resp. 1.05 - 2.87 mg/L). On the other side, the sinapic acid (0.72 - 1.59 mg/L resp. 0.72 - 2.5 mg/L), rutin (1.17 - 2.03 mg/L resp. 1.16 - 2.85 mg/L), p-coumaric acid (ND - 4.73 mg/L resp. ND - 1.44 mg/L) and vanillic acid (ND - 1.52 mg/L resp. 0.75 - 1.81 mg/L) were detected in lowest concentrations. In both, worts and beers investigated in this study, the changes in the contents of individual polyphenols were not uniform. In the case of some polyphenols, a decrease in the content was observed after boiling the worts with hops or after the main fermentation until maturation and filtration, but with some polyphenols, the concentrations were constant until the end of the process or even increased.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/421/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

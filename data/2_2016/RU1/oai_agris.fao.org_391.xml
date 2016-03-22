@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100391">
+    <dc:title xml:lang="en">Interactive effects of salinity and low potassium on growth, physiology response of Houttuynia cordata Thunb. W01-100</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Yu Ting Zou</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sha Dai</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Jing Ye Li</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zheng Qiong Liu</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Wei Wu</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Potassium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chlorophylls</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Salinity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6139</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1577</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6751</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Houttuynia  cordata Thunb. is a plant enrichment in potassium in plant was reported. Salinity and low potassium availability are important environmental factors restricting plant growth and productivity throughout the world. The interactive effects of salinity and potassium on growth, water content, chlorophyll content, lipid peroxidation content, ion accumulations and K+/Na+ ratio, and organic accumulations as well as oxidative enzymes were investigated in Houttuynia  cordata Thunb.. Plants of three-leaf-stage were selected for uniformity, then treated with four levels of Na+ (50, 100, 200 mmol/L) and K+(0, 0.6, 1.2, 2.4 mmol/L) for 20 days. Plant biomass production, ratio of root and shoot, root numbers, water content and MDA content significantly declined in the combined effect of salinity and K+ deprivation, and increased with salinity. However, salinity in conjunction with K+ deprivation led to an increase on leaf chlorophyll content, which even increased with increasing salinity levels. As expected, K+ content in plant was positive correlated with supplementary K+ concentrations, while Na+ was well correlated with salinity, especially enhanced by the interactive effects of salinity and K+ deprivation. Soluble sugar and proline contents remarkable increased by the highest salinity. SOD activity also substantial increased by the highest salinity, and increased with supplementary K+ concentrations. However, elevated CAT and POD activities were not accompanied with an increase in SOD activity.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N4/JSPB_2012_4_130-142.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

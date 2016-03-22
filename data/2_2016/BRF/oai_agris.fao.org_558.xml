@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F00558">
+    <dc:title xml:lang="en">Fermentative characteristics of coffee pulp silage with different proportions of coffee hulls.</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Características fermentativas de silagens de polpa de café com diferentes proporções de casca de café.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BARCELLOS,  A. F</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TAVARES, V. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CARVALHO, R. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GONÇALVES, C. C. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Digestibility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Effluents</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fermentation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Protein quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Agricultural resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2266</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24455</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2855</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6257</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28001</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study aimed to evaluate the chemical composition and fermentation characteristics of the coffee pulp silages with different proportions of coffee hulls. The material was ensiled in PVC with 150 mm diameter by 750 mm high, according to the treatments: coffee pulp (CoP), CoP + 20% of coffee hulls (CH), CoP + 40% of CH and CoP + 60% CH in a completely randomized design with six replications. The silos were opened 60 days after closing, when samples were taken for determination of dry matter (DM), crude protein (CP), neutral detergent fiber (NDF), acid detergent fiber (ADF), lignin, cellulose, pH, N-NH3, caffeine, calcium (Ca), phosphorus (P) and in vitro digestibility of dry matter. We also determined gas production and effluent. There was a linear increase in DM content and pH, and a linear decrease of CP, NDF and ADF, lignin, cellulose, caffeine, Ca and P. This reduction occurs because the coffee hulls have lower levels than pulp to CP, NDF, ADF, caffeine, Ca and P. There was also a linear reduction in N-NH3 values, and only the highest percentage of silage with coffee hulls obtained below 10%, considered as the limit for good quality silage. Effluent production was higher for silage shelled coffee pulp and do not get any production in silage with 60% coffee hull. There was no significant difference in vitro digestibility of dry matter among treatments. The coffee hulls was effective in increasing DM content of CoP silage and to reduce NDF, ADF, N-NH3, providing nutritional value of silage satisfactory for cattle feed, creating an alternative for recovery of such waste. When considering the DM content found in silages, the amount of bark best coffee to be added to coffee pulp for the production of silage is between 30% and 35%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Este trabalho teve como objetivo avaliar a composição química e as características fermentativas de silagens da polpa de café com diferentes proporções de casca de café. O material foi ensilado em PVC de 150 mm de diâmetro por 750 mm de altura, segundo os tratamentos: polpa de café (PC), PC + 20% de casca de café (CC), PC + 40% de CC e PC + 60% de CC, segundo delineamento inteiramente casualizado com seis repetições. Os silos foram abertos 60 dias após o fechamento, quando foram retiradas amostras para determinação dos teores de matéria seca (MS), proteína bruta (PB), fibra em detergente neutro (FDN), fibra em detergente ácido (FDA), lignina, celulose, pH, N-NH3, cafeína, cálcio (Ca), fósforo (P) e digestibilidade in vitro da MS (DIVMS). Determinou-se também a produção de efluentes e de gás. Houve um aumento linear no teor de MS e pH, à medida que foi adicionado casca de café nas silagens, e decréscimo linear nos teores de PB, FDN e FDA, lignina, celulose, cafeína, Ca e P. Esse decréscimo ocorreu pelo fato da casca de café possuir teores inferiores ao da polpa para PB, FDN, FDA, cafeína, Ca e P. Houve também redução linear nos valores de N-NH3, e somente a silagem com maior porcentagem de casca de café obteve valor inferior a 10%, considerado como limite para silagem de boa qualidade. A produção de efluentes foi maior para a silagem de polpa de café sem casca e não se obteve nenhuma produção na silagem com 60% de casca. Não houve diferença significativa na DIVMS entre os tratamentos. A casca de café foi efetiva em aumentar o teor de MS da silagem de PC e em reduzir os teores de FDN, FDA, N-NH3, proporcionando silagem de valor nutritivo satisfatório à alimentação de bovinos, criando, assim, alternativa para aproveitamento desses resíduos. Ao considerar o teor de MS encontrado nas silagens, a melhor quantidade de casca de café a ser acrescentada à polpa de café, para produção de silagem está entre 30% e 35%.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1389613889.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

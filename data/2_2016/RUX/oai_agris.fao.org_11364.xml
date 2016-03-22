@@ -1,0 +1,74 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X11364">
+    <dc:title xml:lang="en">To determine the performance of the press-extruder with a cone gatherer</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>К определению производительности пресс-экструдера с коническим направителем</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Novicov V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kurdyumov V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Samara State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">augers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_50115</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Currently extrusion processing of meat and fish waste occupies a special place in feed production. This technology is the best way to decide both the disposal of meat and fish wastes and fodder additive with a high degree of digestibility and bacterial purity. Commercially available press extruders are designed mainly for processing of grain raw material and require modernization of the working bodies for qualitative performance of the extrusion process of meat and fish waste.
+
+In this regard, with the aim of improving the technological process of processing of fish waste it is proposed to improve zone of press extruder by installing a cone gatherer, allowing to increase the performance of serial press extruder KMZ - 2U.
+
+The formula to determine the performance of the press-extruder with cone gatherer was proposed.
+
+Changing the parameters of the extrusion process, it is possible to experimentally clarify the components of the expression and to determine the rational values of the design parameters of the gatherer to increase productivity of press extruder as a whole.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В настоящее время при производстве кормов особое место занимает экструзионная переработка мясорыбных отходов. Данная технология наилучшим образом решает как вопросы утилизации мясорыбных отходов, так и получение кормовой добавки с высокой степенью усвояемости и бактериальной чистоты. Серийно выпускаемые пресс-экструдеры предназначены в основном для переработки зернового сырья и требуют модернизации рабочих органов для качественного выполнения процесса экструзии мясорыбных отходов.
+
+В связи с этим с целью улучшения технологического процесса переработки рыбных отходов предлагается усовершенствование зоны подачи пресс-экструдера путем установки конусного направителя, позволяющего повысить производительность серийного пресс-экструдера КМЗ - 2У.
+
+Предложена формула для	определения производительности пресс-экструдера с коническим направителем.
+
+Изменяя параметры процесса экструдирования, можно экспериментально уточнить составляющие данного выражения и определить рациональные значения конструктивных параметров направителя для увеличения производительности пресс-экструдера в целом</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(29)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

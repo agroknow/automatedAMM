@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100466">
+    <dc:title xml:lang="en">Ambient Stress vis-a-vis Enzyme Regulators of Carbohydrate Metabolism in Marwari goat from arid tracts in India</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pandey N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kataria N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kataria A.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Joshi A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sankhala L.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pachaury R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Asopa S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cold</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Carbohydrate metabolism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1743</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1299</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The study was designed to determine modulation of enzyme regulators of carbohydrate metabolism in Marwari breed of goat of both sexes and varying age groups during moderate, extreme hot and cold ambiences. The enzyme regulators included sorbitol dehydrogenase (SDH), malate dehydrogenase (MDH), glucose-6-phosphatase (G-6-Pase) and glucose-6-phosphate dehydrogenase (G-6-PDH)which were determined in the serum. The moderate ambience was considered as control for each enzyme regulator and the mean values in UL-1 were 8.67±0.005, 40.87±0.32, 8.04±0.003 and 7.53±0.005, respectively. The mean values of SDH, MDH and G-6-Pase were significantly (p≤0.05) higher during hot and cold ambiences in comparison to respective moderate mean value. However, the increase was more in cold than hot ambience for each case. The mean value of G-6-PDH was significantly (p≤0.05) higher during cold ambience while significantly (p≤0.05) lower during hot ambience in comparison to moderate mean value. In each ambience the sex and age effects were significant (p≤ 0.05) on each enzyme regulators. It could be concluded that extreme ambiences produced modulations in the metabolic reactions reflected on the basis of pattern of variations of enzyme regulators in the serum</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N1/JSPB_2013_1_46-53.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

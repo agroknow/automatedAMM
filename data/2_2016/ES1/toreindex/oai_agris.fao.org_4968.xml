@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104968">
+    <dc:title xml:lang="es">ESTRUCTURA DE LOS HATOS BOVINOS EN TABASCO, MÉXICO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STRUCTURE OF HERDS OF BOVINE CATTLE IN TABASCO</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>MÉXICO</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Quiroz Valiente Jorge</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Granados Zurita Lorenzo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Arredondo Manuel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>García Anastacio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Espinoza García José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Centro Nacional de Investigación Disciplinaria en Fisiología y Mejoramiento Animal, INIFAP</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Centro Nacional de Investigación Disciplinaria en Fisiología y Mejoramiento Animal, INIFAP</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Genetic resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3218</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Tropical cattle production systems are managed on pasture and its structure is based on the intensity of production. The aim of this study was to know the herd structure of production systems according to their livestock inventory and know the main breeds that compose it. Surveys were conducted with 184 farmers in dual purpose systems In Tabasco, Mexico. Selected livestock producers belong to any organization, of which 34 were women and 150 were men. The average age of the entire sample was 55.8 years and they have received technical assistance for 4.36 years on average. 34% have the livestock activity only, 33% have eventually some other activity, 18% have another business and 15% had a permanent job. 65% produce milk for sale. We conclude that the age of producers is close to old age, the number of animals per farmer has increased in recent years but is concentrated in a few producers and the proportion of cows by farmers is 48% and coupled with heifers reproductive age is 60%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">La estructura de los sistemas bovinos de producción tropical está basada en la intensidad de producción. El objetivo fue conocer la estructura del hato de acuerdo a su inventario ganadero y conocer las razas principales que lo componen. Se realizaron 184 encuestas a ganaderos de Tabasco, México. Sólo 34 fueron mujeres y 150 son hombres. La edad promedio de toda la muestra fue de 55.8 años y han recibido asistencia técnica en promedio por 4.36 años. El 34% su única actividad es la ganadería, el 33% tienen otra actividad eventual, el 18 % tienen otro negocio y el 15% tienen empleo fijo. La estructura de hato observada fue: sementales 2.3, vacas 58.5, vaquillas en edad reproductiva 14.6, novillas 15.3, becerras lactantes 13.3, becerros lactantes 12.7 y toretes 5.2. En promedio son 121.9 animales. El 20% tiene más de 80 vientres y el 10% tiene más de 120. El 17% de los ganaderos utiliza sementales Holstein, 26% Suizo Pardo, 23% Simbrah y 31% alguna raza cebuína. El 3% usa otras razas. Ningún ganadero utiliza sementales Criollos. Únicamente el 27% utiliza sementales probados genéticamente y el 65% hace alguna forma de selección de sus vientres por la producción de ellas mismas o la producción de sus madres. El 20% de los ganaderos utilizan un sistema de cruzamientos ordenado. Se concluye que la edad de los productores está cerca de la vejez y la proporción de vientres por ganaderos es el 48% y sumado con las vaquillas en edad reproductiva es el 60%.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo100_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

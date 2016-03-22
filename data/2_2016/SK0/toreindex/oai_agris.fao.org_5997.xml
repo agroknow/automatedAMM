@@ -1,0 +1,78 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016005997">
+    <dc:title xml:lang=" ">EFFECT OF SEMEN COLLECTION FREQUENCY ON THE PROGRESS IN THE MOTILITY OF RABBIT SPERMATOZOA</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PAÁL D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KROČKOVÁ J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ONDRUŠKA Ľ.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SLANINA T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>STREJČEK F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MASSÁNYI P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L53</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rabbits</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spermatozoa</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">motility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spermatozoa</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6414</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7287</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12670</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7287</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the present study the effect of collection regime on rabbit semen development was analyzed. Eight seminal traits, such as overall ejaculate volume (VOL), spermatozoa concentration (CON), motility (MOT), progressive motility (PRO), percentage of progressive motility (% PRO), curvilinear velocity (VCL), beat-cross frequency (BCF) and amplitude of lateral head displacement (ALH) were analyzed. As the number of collections increased, more bucks were able to ejaculate. During collections the semen volume gradually increased from 0.4 ml to 1.0 ml with the average of 0.68 ± 0.34 ml. The average of MOT was 55.55 ± 26.63 % and the average of PRO reached 40.43 ± 27.35 %. The other assessed parameters were CON - 0.547 ± 0.165 x 109 ml-1</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ALH - 4.18 ± 1.18 μm</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">BCF - 27.42 ± 7.12 Hz</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">VCL - 104.04 ± 37.00 μm.s-1.A positive correlation between ejaculate volume and the number of collections was found. MOT and PRO significantly correlated with the number of collections. In addition, positive correlation between % PRO and the number of collections was recorded. No correlation between the number of collections and VCL was detected. In the case of ALH, a moderate positive correlation between this parameter and the number of collections was observed. BCF slightly correlated with the number of collections. The results of present study indicate on possibility to increase the values of some seminal parameters, which opens new opportunities for raising the quality of semen directly in vivo.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.cvzv.sk/index.php/sk/rocnik-47-2014/cislo2</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Slovak Journal of Animal Science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1337-9984</ags:citationIdentifier>
+      <ags:citationNumber>v.47/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

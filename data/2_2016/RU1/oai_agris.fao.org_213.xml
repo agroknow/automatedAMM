@@ -1,0 +1,69 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100213">
+    <dc:title xml:lang="en">GENETICS AND GENOMICS OF PLANT GENETIC RESOURCES</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Börner A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pshenichnikova T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khlestkina E.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Osipova S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kobiljski B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Landjeva S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Simon M.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nagel M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rehman Arif M.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Neumann K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lohwasser U.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Röder M.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Planting stock</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9001017</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16111</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Plant genetic resources play a major role for global food security. The most significant and widespread mean of conserving plant genetic resources is ex situ conservation. Most conserved accessions are kept in specialized facilities known as genebanks maintained by public or private institutions. World-wide 7.4 million accessions are stored in about 1,500 ex situ genebanks.
+In addition, series of genetic stocks including chromosome substitution lines, alloplasmic lines, single chromosome recombinant lines, introgression lines, etc. have been created. Analysing these genetic stocks many qualitative and quantitative inherited traits were associated to certain chromosomes, chromosome arms or introgressed segments. Today, genetic stocks are supplemented by a huge number of genotyped mapping populations. Beside progenies of bi-parental crosses (doubled haploid lines, recombinant inbred lines, etc.) panels for association mapping were created recently. 
+In our presentation we give examples for the successful utilisation of genebank accessions and genetic stocks for genetic and genomic studies. Using both segregation and association mapping approaches, data on mapping of loci/marker trait associations for a range of different traits are presented</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S10.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

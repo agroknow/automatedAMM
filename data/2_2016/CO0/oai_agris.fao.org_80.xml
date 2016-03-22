@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="CO2016000080">
+    <dc:title xml:lang="es">Estudios de germinación y remoción de latencia en semillas de papayuelas Vasconcellea cundinamarcensis y Vasconcellea goudotiana</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Highland papayas Vasconcellea cundinamarcensis and Vasconcellea goudotiana seed germination and dormancy release studies</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Benítez Sandra Patricia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lobo Mario</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Delgado Oscar Arturo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Medina Clara Inés</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Germination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Indigenous organisms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25189</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34268</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>4 tabs., 30 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Se estudió la germinación y latencia de las semillas de Vasconcellea cundinamarcensis y V. goudotiana, para desarrollar procedimientos promotores de emergencia de los embriones. La categorización de las semillas viables no germinables se realizó con el empleo del tetrazolio. La fermentación prolongada de las semillas, para remover la sarcotesta, afectó la viabilidad de éstas, en especial las de V. cundinamarcensis. Aplicaciones de KNO3 y AG3 promovieron una germinación significativamente mayor, en comparación con el testigo, en semillas fermentadas previamente durante 15 días de V. goudotiana, lo cual no ocurrió en las de V. cundinamarcensis. La aplicación de Saccharomyces cerevisiae durante 36 horas, para fermentación y liberación de la sarcotesta, indujo germinación en las dos especies, con una respuesta significativamente superior en V. goudotiana. La adición de AG3 y KNO3, luego del tratamiento anterior, promovió mayor emergencia en ambos taxa, en especial en V. goudotiana. La fermentación de las semillas con Saccharomyces cerevisiae, en combinación con AG3 y KNO3 produjo germinación en las dos especies, con énfasis en V. goudotiana al aplicar 1000 ppm de AG3 + KNO3 al 2,5% y en V. cundinamarcensis, al utilizar 600 ppm de AG3 + AG3 al 2,5%, sin diferencia significativa con la aplicación de 1000 ppm de AG3 + KNO3 al 1,5%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">se logró mayor germinación en V. goudotiana en el tratamiento precitado, con el cual se obtuvo con confiabilidad estadística la máxima brotación de plántulas, en relación con el resto de tratamientos evaluados con la propia especie y en V. cundinamarcensis. Palabras claves: brotación de plantas, categorización, emergencia de embriones, viabilidad de semillas.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Seed germination and dormancy of Vasconcellea cundinamarcensis and V. goudotiana were studied in order to develop procedures for seed embryo emergency. Characterization of viable dormant seeds was done with the tetrazolium test. Long periods of seed fermentation, for sarcotestal removal, affected the seed viability, mainly in V. cundinamarcensis. AG3 and KNO3 application promoted a significantly higher germination, in V. goudotiana, but not in V. cundinamarcensis, in relation to control seeds,fermented during 15 days. AG3 and KNO3 application promoted a significantly higher germination in V. goudotiana, but not in V. cundinamarcensis, in relation to control 15 days fermented seeds. Seed fermentation with Saccharomyces cerevisiae during 36 hours for sarcotest removal, promoted a significant higher germination than that of the control, fermented without enzyme application, mainly in V. goudotiana. Seed fermentation with S. cerevisiae during 36 hours application, for sarcotest removal, promoted a significant higher germination than that of the control, fermented without enzyme application, mainly in V. goudotiana. Seed germination, after S. cerevisiae fermentation and application of AG3 and KNO3, occurred in both species, being obtained the best germination in V. goudotiana, with application of 1000 ppm of GA3 + 2.5% KNO3, with statistical differences, related to the other germination applied treatments. The best germination results, without significant differences, in V. cundinamarcensis were obtained with the application of 600 ppm of GA3 + 2.5% KNO3 or 1000 ppm of GA3 + 1.5% KNO3, after the fermentation procedure with S. cerevisiae. Key words: plant growth, embryo emergency, seed viability.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.corpoica.org.co/SitioWeb/Archivos/Revista/RevCorpoicaVol14-2cap05.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Revista CORPOICA : Ciencia y Tecnología Agropecuaria</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">01228706</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

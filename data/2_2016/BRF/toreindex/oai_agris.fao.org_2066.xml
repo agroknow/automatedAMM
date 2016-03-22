@@ -1,0 +1,151 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02066">
+    <dc:title xml:lang="en">Carcass composition of Nelore steers feed with tropical grass or corn silages</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Composição da carcaça de novilhos Nelore alimentados com dietas a base de silagens de capim Marandu ou de milho</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SIGNORETTI, R. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SAMPAIO,  R. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RESENDE, F. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COAN,  R. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>REIS,  R. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALLEONI,  G. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FARIA,  M. H</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SIQUEIRA,  G. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MIGUEL,  F. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carcasses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Muscles</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bones</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feeding level</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">silage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1310f6eee3d3</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2816</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5003</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1001</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16128</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7060</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This research evaluated the nutritional plane and silage effect on the chemical and physical composition of the Nelore steers carcass. Twenty-four Nelore steers, averaging 369.05 ± 15.06kg of live weight and 24 months of age distributed in a randomized design, with a factorial scheme 2 x 2 (silage x nutritional plane) with six replications. The treatments had been: 1) Marandu grass silage and daily gain of 1.0kg</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">2) Marandu grass silage and daily gain of 1.2kg</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3) Corn silage and daily gain of 1.0kg</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4) Corn silage and daily gain of 1.2kg. The silage and nutritional plane didn't affect all variables related to the chemical and physical carcass composition characteristics. However the animals whose received high nutritional diet plane showed highest daily weight gain in relation to the live and hot carcass weight, compared to animal feed in low nutritional plane. The muscular, adipose, and bony tissue proportions were 51.28</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">33.11 and 15.60%, respectively. The muscular: bony</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">soft: bony</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">adipose: muscle and adipose: bony tissue ration were in average 3.27</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">5.44</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0.65, and 2.14, respectively. The dry matter, ethereal extract, protein and ash values were 52.68</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">47.32</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">32.85</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">14.91 and 4.92, respectively. The diet for daily gain of 1.2 kg resulted in a better animal performance and silage and nutritional planes didn't affect the chemical and physical carcass composition.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Os objetivos do presente estudo foram avaliar o efeito do plano nutricional e do tipo de volumoso sobre a composição física e química da carcaça de novilhos em terminação. Foram utilizados 24 novilhos da raça Nelore, castrados, com idade média de 24 meses e peso vivo médio inicial de 369,05 ± (15,06kg), distribuídos em delineamento inteiramente casualizado, em arranjo fatorial 2 x 2 (volumosos x planos nutricionais) com seis repetições. Os tratamentos foram: 1) SC e ganho de 1,0kg/dia</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2) SC e ganho de 1,2 kg/dia</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3) SM e ganho de 1,0kg/dia e 4) SM e ganho de 1,2kg/dia. Não houve efeito das silagens estudadas e dos planos nutricionais em todas as variáveis relacionadas com a composição física e química da carcaça. No entanto, animais submetidos a dietas com alto plano nutricional apresentaram maiores ganhos diários em relação ao peso vivo e ao peso da carcaça quente em comparação àqueles com baixo plano nutricional. As porcentagens de tecido muscular, adiposo e ósseo foram, em média, de 51,28</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">33,11 e 15,60, respectivamente. As relações tecido muscular:ósseo</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">tecido mole:ósseo</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">tecido adiposo:muscular e tecido adiposo:ósseo foram, em média, 3,27</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">5,44</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,65 e 2,14, respectivamente. As porcentagens médias de matéria seca, umidade, extrato etéreo, proteína e cinzas foram de 52,68</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">47,32</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">32,85</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">14,91 e 4,92, respectivamente. Concluiu-se que dieta para ganho de 1,2kg/dia promoveu maior ganho de peso aos animais e as composições física e química da carcaça não foram influenciadas pelos volumosos e pelos planos nutricionais.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1216213810.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

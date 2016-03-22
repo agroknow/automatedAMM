@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104896">
+    <dc:title xml:lang="es">EXTRACCIÓN DE ADN MITOCONDRIAL DE DISTINTAS ESPECIES DE LA FAMILIA Formicidae PERTENECIENTES AL GÉNERO Camponotus PARA SU POSTERIOR SECUENCIACIÓN Y ESTUDIO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>MITOCHONDRIAL DNA EXTRACTION OF SEVERAL SPECIES OF Formicidae GENDER Camponotus FOR POSTERIOR SEQUENCING STUDY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Raya Laura</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Landi Vincenzo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Garrido Juan José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Reyes Joaquín</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Like also in higher animals in the world of insect the understanding of genetics composition of a environment is helpful to bring ecologic and evolutive conclusion. The classification of the genus Camponotus (ants) is carried out so far by morphological characteristics. Over the last few years a classification methods using the mitochondrial DNA has been introduced. Specimens which are similar from the point of view of phenotypic behavior could be easily distinguished. We present the initial setup of a study of classification trough DNA mitochondrial sequence.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Tanto como para los animales superiores, en el mundo de los insectos entender la composición genética de un ecosistema es de gran ayuda para extraer conclusiones de tipo evolutivo y ecológico. La clasificación de especies del género Camponotus (hormigas) se ha venido llevando a cabo hasta ahora por rasgos morfológicos. Sin embargo, en los últimos tiempos se han introducido métodos de clasificación por medio del ADN mitocondrial que permite distinguir entre especímenes que son similares desde un punto de vista fenotípico. En este trabajo presentamos la puesta a punto inicial de un estudio de clasificación a través de dicho ADN</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo047_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

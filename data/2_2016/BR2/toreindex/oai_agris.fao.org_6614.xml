@@ -1,0 +1,87 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206614">
+    <dc:title xml:lang="en">Seed physiological quality of melon according to the stage of maturation of the fruits.</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Qualidade fisiológica de sementes de melão em função do estádio de maturação dos frutos</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Donato Luan Mateus Silva</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rabelo Marcelo Mendes</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>David Andréia Márcia Santos de Souza</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rocha Aline Ferreira</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rocha Amanda Soares</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Borges Gilson Alcantara</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual de Montes Claros – Unimontes, Campus de Janaúba,MG, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual de Montes Claros – Unimontes, Montes Claros, MG, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual de Montes Claros – Unimontes, Montes Claros, MG, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual de Montes Claros – Unimontes, Montes Claros, MG, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual de Montes Claros – Unimontes, Montes Claros, MG, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual de Montes Claros – Unimontes, Montes Claros, MG, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Germination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">To obtain melon seeds high quality physiological one aspect to be considered is the ideal time of harvest, which can be determined by the stage of maturation. Thus, the aim of this study was to evaluate the physiological quality of melon seeds cv. Hales Best Jumbo according to the stage of
+ripeness of the fruit. The experimental design was completely randomized with four replicates per treatment, which consisted of fruit harvest in four maturity, based on their color and visual presence of transverse diameter in the epidermis, and classified as: I - green fruit with skin not lacy II - green
+fruit with transverse diameter in the epidermis III - fruit with yellow skin and lacy IV - yellow fruit epidermis and lacy advanced stage of maturation. After being extracted from the fruits, seeds were subjected to the following tests to assess their quality physiological water content, thousand seed
+weight, germination, first count of germination, seedling emergence, speed of emergence, length seedlings, fresh weight and dry weight of seedlings, and accelerated aging. Physiological quality of melon seeds, cultivate Hales Best Jumbo increases with advancing maturity stage of fruits, and
+seeds obtained from fruits with yellow skin laced advanced stage of maturity showed have superior physiological quality.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Para a obtenção de sementes de melão de elevada qualidade fisiológica um dos aspectos a ser considerado é a época ideal da colheita, que pode ser determinada pelo estádio de maturação do fruto. Dessa forma, objetivou-se com este trabalho, avaliar a qualidade fisiológica de sementes
+de melão cv. Hales Best Jumbo em função do estádio de maturação do fruto. O delineamento experimental utilizado foi inteiramente casualizado com quatro repetições por tratamento, que consistiram na colheita dos frutos em quatro estádios de maturação, com base na sua coloração
+visual e presença ou não de rendilhamento na epiderme, e classificados como: I - frutos verdes com epiderme não rendilhada</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">II – frutos verdes com rendilhamento na epiderme</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">III - frutos com coloração amarela e epiderme rendilhada</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">IV – frutos amarelos e epiderme rendilhada em estádio avançado
+de maturação. Após serem extraídas dos frutos, as sementes foram submetidas aos seguintes testes para avaliação da sua qualidade fisiológica: teor de água, peso de mil sementes, germinação, primeira contagem de germinação, emergência de plântulas, índice de velocidade de emergência, comprimento de plântulas, matéria fresca e matéria seca de plântulas, e envelhecimento acelerado. A qualidade fisiológica de sementes de melão, cultivar Hales Best Jumbo aumenta com o avanço do estádio de maturação dos frutos, sendo que as sementes obtidas a partir de frutos amarelos com epiderme rendilhada em estádio avançado de maturação apresentam qualidade fisiológica superior.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/544/302</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

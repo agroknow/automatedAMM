@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016011750">
+    <dc:title xml:lang="en">Genotyping and virulence factors of Listeria monocytogenes in terms of food safety</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gelbíčová, T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Koláčková, I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Karpíšková, R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Masaryk University, Kamenice 5, 625 00 Brno, Czech Republic. E-mail: terezag@sci.muni.cz, tel.: +420 549 496 254</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">foods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">virulence</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Listeria monocytogenes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3032</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8261</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26553</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present study was designed to assess heterogeneity of virulence factors among strains of Listeria monocytogenes isolated from the food chain and humans in the Czech Republic. The virulence characteristics, presence of Listeria pathogenicity island 1 (LIPI-1) as well as inlA, inlB, inlC and inlJ genes of tested strains of L. monocytogenes from foods and food processing plants were comparable with human strains independently of particular serotypes. Restriction polymorphism of inlA gene confirmed a correlation between the restriction fragment length polymorphism (RFLP) profiles and the serotypes. Strains of serotype 1/2a and 1/2c with RFLP profiles, which may be characterized by production of a truncated internalin A, were detected not only in food strains, but also in 44% of strains isolated from clinical cases of listeriosis. Premature stop codon (PMSC mutation type 3) in the inlA gene associated with the production of truncated internalin A was detected in one L. monocytogenes strain from a ready-to-eat fish product. Considering food safety, all tested food strains should still be considered as pathogenic to humans even though some of these showed reduced virulence on the basis of genotyping results.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.54/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

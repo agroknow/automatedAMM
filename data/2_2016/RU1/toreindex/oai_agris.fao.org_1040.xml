@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101040">
+    <dc:title xml:lang="en">Effect of Cold Temperature and Food Restriction on Energy Metabolism and Thermogenesis in Eothenomys miletus</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zhu Wan-long</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Yang Shengchang</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gao Wenrong</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zhang Lin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Wang Zheng-kun</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Starvation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Leptin</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7375</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37243</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the present study was to examine the energy strategy in response to the cold temperature and food shortage. The survival rate, body mass, body fat content, serum leptin levels, basal metabolic rate (BMR) and nonshivering thermogenesis (NST) as well as masses and the morphology of visceral organs and the digestive tract were measured in Eothenomys miletus that was subjected to the cold temperature (5°C) and food restriction (80% of ad libitum food intake). The results showed that body mass, body fat content, serum leptin levels, brown adipose tissue (BAT) mass and dry mass of digestive tract in cold and food restriction group were lower than those in control group. In contrasts, BMR and NST in cold and food restriction group was significantly higher relative to control group. The rate of survival was 18.18% in E. miletus during cold and food restriction after 4 weeks acclimation. In addition, serum leptin levels were positively correlated with body mass and body fat content, and negatively correlated with BMR and NST. These results suggested that E. miletus apply physiological adjustments to adapt cold and food lacking external environment by reducing body mass, body fat content, and increasing energy metabolism. However, energy intake is insufficient to compensate for the increase in energy requirement due to cold, led to body mass decreased and mortality rate increased. Moreover, serum leptin may acts as a fat signals, and may be involved in the regulation of energy balance and body mass in E. miletus under the cold temperature and food restriction.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_26-36.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

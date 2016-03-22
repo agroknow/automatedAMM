@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01617">
+    <dc:title xml:lang="en">Carbohydrate sources in diets for weaning pigs of different weights: pH and gastrointestinal tract microbiota</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Diferentes fontes de carboidratos em rações para leitões desmamados com diferentes pesos: pH e microbiota do trato gastrintestinal</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>AUGUSTO,  R. M. N</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BERTO,  D. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LO TIERZO, V</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MELLO,  G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BERTO,  D. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVEIRA,  J. P. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TELLES, F. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PINTO,  J. P. A. N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">coliform bacteria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Escherichia coli</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lactobacillus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lactose</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15894</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33700</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4144</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4146</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Forty eight piglets from a commercial strain weaned at an average age of 21 days were used in order to evaluate effects of carbohydrates sources (lactose or maltodextrin) and the weights of piglets at weaning on the stomach pH, colon and rectum contents, and the amount of total coliform, Escherichia coli and Lactobacillus spp in digesta of ileum and cecum. The experiment was conducted in a randomized block design and analyzed in split plot, considering class of weight and carbohydrates as main plots and the slaughter age of animal as sub-plots. The stomach pH and intestinal contents were not influenced by the diets provided as well as the amount of total coliform. It was found that the presence of lactose in the feed decreased counts of Escherichia coli and Lactobacillus ssp in the ileum. Regarding the class of weight, the lighter piglets had lower counts of Escherichia coli and Lactobacillus. The maltodextrin can be used as an alternative to replace the lactose in the diet, regardless of the piglets weight at weaning, as it does not adversely affect the pH and the Lactobacillus population in the gastrointestinal tract.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Foram utilizados 48 leitões de linhagem comercial, desmamados com média de idade de 21 dias, com o objetivo de avaliar os efeitos das fontes de carboidratos (lactose ou maltodextrina) e dos pesos dos leitões ao desmame, sobre os valores de pH do conteúdo do estômago, cólon e reto, e contagem de coliformes totais, Escherichia coli e Lactobacillus spp na digesta do íleo e do ceco. O experimento foi conduzido em delineamento em blocos casualizados e analisado em parcelas subdivididas, tendo como parcelas principais as classes de peso e as fontes de carboidratos e como subparcelas a idade de abate dos animais. Os pHs dos conteúdos estomacal e intestinal não foram influenciados pelas dietas fornecidas, bem como a contagem de coliformes totais. Verificou-se que a presença de lactose nas rações determinou diminuição as contagens de Escherichia coli e Lactobacillus spp no íleo. Em relação à classe de peso, os leitões mais leves apresentaram menores contagens de Escherichia coli e Lactobacillus. A maltodextrina pode ser usada como uma alternativa para substituir a lactose nas rações, independente do peso dos leitões ao desmame, visto que não afeta negativamente o pH e a população de Lactobacillus no trato gastrintestinal.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1396560355.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

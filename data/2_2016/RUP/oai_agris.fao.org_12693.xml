@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P12693">
+    <dc:title xml:lang="ru">ПРОДУКТИВНОСТЬ ЛЬНА МАСЛИЧНОГО В ЗАВИСИМОСТИ ОТ НОРМЫ ВЫСЕВА И ГЕРБИЦИДОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PRODUCTIVITY OF LINUM USITATISSIMUM DEPENDING ON SEEDING RATE AND HERBICIDE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Avdeenko  А.Р.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: Linum usitatissimum, seeding rates, herbicides, vegetable oils, weeds</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приводятся результаты исследований влияния нормы высева и гербицидов на продуктивность льна масличного в условиях Ростовской области. Установлена зависимость полевой
+всхожести и выживаемости растений льна от нормы высева, проведѐн анализ засорѐнности посевов льна в течение вегетационного периода, выявлено влияние нормы высева и гербицида на показатели структуры и урожайность льна. Необходимо высевать сорт ВНИИМК 620 нормой 7,0 млн.шт/га. Для защиты посевов от сорной растительности следует проводить обработку в фазу развития 9-24 баковой смесью гербицидов Магнум + Корсар (0,006 кг/га + 1,0 л/га).</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Results of research of influence of seeding rate and herbicide on the productivity of linseed in conditions of Rostov region are presented. Field dependence of germination and survival of linum plants from seeding rate is determined. The analysis of debris of linum crops during the vegetative period is carried out. The impact of seeding rate and herbicide on the indices of structure and yield of flax is revealed. You must sow grade VNIIMK 620 norm of 7.0 million units/HA. To protect crops against weed vegetation it is necessary to carry out processing in the phase of 9-24 tank mix herbicides Magnum + Corsair (0.006 kg/ha + 1.0 l/HA).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_edc76e54a803499c81d954549d57fdf0.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№4, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

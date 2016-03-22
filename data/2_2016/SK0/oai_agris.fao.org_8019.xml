@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016008019">
+    <dc:title xml:lang="en">Effect of different extraction conditions on the antioxidant potential of baru almonds (Dipteryx alata Vog.): comparison to common nuts from Brazil</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Borges, T. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rodrigues, N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>de Souza, A. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pereira, J. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Mountain Research Centre, School of Agriculture, Polytechnic Institute of Bragança, Campus de Sta Apolónia, Apartado 1172, 5301-855 Bragança, Portugal. Tel.: +351 273303277</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>fax: +351 273325405</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>e-mail: jpereira@ipb.pt</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Almonds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">extraction</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fruits</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8734</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36910</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3131</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The antioxidant properties and total phenols content of baru almonds (Dipteryx alata Vog.) were investigated using different solvents and extraction temperatures, and were compared with other types of nuts commonly consumed in Brazil. Although baru almonds are popular and widely consumed, few studies report on their biological properties and there are no data on optimum extraction conditions. For this reason, we tested five different extraction methodologies (water and methanol at boiling and room temperature, and water : methanol (1 : 1) at room temperature) on baru almonds, and evaluated the antioxidant properties based on scavenging activity, reducing power and total phenols content. The methanolic extraction at room temperature was the best extraction methodology providing the highest general antioxidant potential. The extraction method selected was applied to several dry fruits: baru almonds (three different samples), peanut, cashew nut, crude cashew nut, macadamia and Brazil nut. Among these nut fruits, baru had the highest antioxidant activity and total phenols content. The results obtained revealed that baru almonds are a good source of bioactive compounds, and have a higher bioactivity than many nut fruits widely distributed, consumed and more popular.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

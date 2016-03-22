@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016104995">
+    <dc:title xml:lang="en">28-Homobrassinolide Modulate Antenna Complexes and Carbon Skeleton of Brassica juncea L. under Temperature Stress</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kaur Harpreet</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sirhindi Geetika</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bhardwaj Renu</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sharma Poonam</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mudasir Mir</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Brassica juncea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Temperature</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chlorophyll</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Carotenoides</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1064</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7657</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1577</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1333</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of present study was to explore the ameliorative impact of 28-homoBL on morpho-physiological attributes, photosynthetic pigments and sugars of Brassica juncea L. exposed to oxidative stress caused by extreme temperatures (4 and 44 °C). For this, experiments were carried out at the Plant Physiology Laboratory, Department of Botany, Punjabi University, Patiala. Effect of different degrees of temperature (4 and 44 °C) taking 24 °C as control was studied. 28-homoBL (10-6, 10-9 and 10-12M) primed and unprimed seeds of B. juncea L. in terms of antenna complexes and end products of photosynthesis that is total carbohydrates and total soluble sugars was investigated. All concentrations of 28-homoBL used in present study showed different effects on morphology and light quenching pigments. All concentrations of 28-homoBL showed promoting effect on growth and light quenching pigments. The carbon makeup ameliorated positively in stressed and non-stressed components of photosynthetic machinery and 10-9 M 28-homoBL showed best results. In conclusion 28-homoBL showed great potential in protecting the reaction centre of photosynthetic machinery from oxidative stress caused by extreme low and high temperatures but in very dose dependent manner and thus modulate the carbon skeleton of the plant.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N3/JSPB_2014_3_186-196.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

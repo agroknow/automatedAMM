@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012541">
+    <dc:title xml:lang="en">The influence of Pichia killer toxins on the wine spoilage yeasts</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Blaszczyk Urszula</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Satora Pawel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sroka Pawel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">wine industry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">winemaking</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Yeasts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Toxins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8404</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8405</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8480</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7828</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Killer yeasts are able to produce toxins that antagonize the growth of susceptible yeasts cells of the same species or the ones that are related to them. Killer strains are resistant to their own toxins but can be sensitive to killer proteins of other yeasts. The killer proteins of Pichia spp. are known for its broad spectrum of antifungal activity including pathogens such as Candida albicans. The aim of the study was to investigate the potential of the partly purified killer toxins to inhibit the growth of selected yeast strains which can contribute to wine spoilage. Three Pichia killer yeast strains (CBS 1982, CBS 5759, CBS 7373) were used in the study. The killer protein secreted by Pichia anomala CBS 1982 was characterized by the highest antifungal activity. The most pronounced effect of the reduction of cell proliferation by killer toxin preparations was found after 2 and 20 h cultivation. Among the 13 tested strains, all Pichia killer toxin preparations inhibited the growth of Rhodotorula graminis Rg, Rhodotorula mucilaginosa Rm and Schizosaccharomyces pombe DSM 70576. Killer toxins produced by Pichia anomala CBS 1982 (K8) and CBS 5759 (K4) limited the growth of Candida pulcherrima K5 and Hanseniaspora guillermondii DSM 3432 after 2, 20 and 168 h of incubation. A significant reduction of Debaryomyces hansenii DSM 3428 biomass was observed in medium with the addition of one toxin preparation (Pichia anomala CBS 1982). The growth limitation of Candida glabrata DSM 6425, Hanseniaspora uvarum DSM 2768, Metchnikowia pulcherrima DSM 70321 and Cryptococcus laurentii DSM 70766 was noticed only after 2 hours cultivation in presence of killer protein preparations. The killer toxins could be used in the food industry as selective tools to control infections during the fermentation of wine and improve the quality of the final product.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/481/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

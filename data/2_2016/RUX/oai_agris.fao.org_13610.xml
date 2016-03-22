@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13610">
+    <dc:title xml:lang="en">PHYSIOLOGICAL AND BIOCHEMICAL STATUS OF BLOOD OF CYPRINID FISH WHEN FEEDING FORAGE WITH PRE PROBIOTIC SUPPLEMENT &amp;quot;BIOKORETHRON FORTE&amp;quot;</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ФИЗИОЛОГО-БИОХИМИЧЕСКАЙ СТАТУС КРОВИ  КАРПОВЫХ РЫБ  ПРИ КОРМЛЕНИИ КОМБИКОРМОМ С  ПРЕПРОБИОТИЧЕСКОЙ ДОБАВКОЙ «БИОКОРЕТРОН ФОРТЕ»</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ulitko Vasily E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ulyanova Mariya V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carp</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fish feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">compound feeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">immunoglobulins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1334</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2922</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1796</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3805</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_959</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Investigated the effect of carp feeding of granulated feed Supplement enriched with "Biokorethron Forte" on its morphological and biochemical status of blood. The test was conducted in LLC "Fish farm" Ulyanovsk district of Ulyanovsk region. It was formed 4 groups of carp placed in a variety of isolated ponds of 250 individuals each. Carps of experimental groups were fed with granulated feed enriched in % by weight of feed: in II – 0,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">III – 1</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">IV – 2. Carp of control group consumed a granulated feed without supplements.  In the study of the status of the blood of the carp we have established a higher level of erythropoiesis and hemoglobin synthesis. The same morphological composition of the blood indicates an increase in fish experimental groups its respiratory function, not only by increasing erythropoiesis, but also due to the greater degree of saturation of erythrocyte hemoglobin. Relative to the control group carp it is more by 3,21...5,38...14,86 picogram (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Исследовали влияние скармливания карпу гранулированного комбикорма обогащенного биодобавкой «Биокоретрон Форте» на его морфо-биохимический статус крови. Опыт проводили в ООО «Рыбхоз» Ульяновского района Ульяновской области. Было сформировано 4 группы карпа размещенных в различных изолированных прудах по 250 особей в каждой. Карпу опытных групп скармливали  гранулированный комбикорм, обогащенный в % к массе комбикорма: во II – 0,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">III – 1</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">IV – 2. Карп контрольной группы потреблял гранулированный комбикорм, без биодобавки.  При исследовании статуса крови карпа установили повышение уровеня эритропоэза и синтез гемоглобина. Так же морфологический состав крови свидетельствует об усилении у рыбы опытных групп её дыхательной функции, не только за счет усиления эритропоэза, но и за счет большей степени насыщения эритроцитов гемоглобином. По отношению к контрольной группе карпа она больше на 3,21…5,38…14,86 пикограмм (Р</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/3-15-Ulitko.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

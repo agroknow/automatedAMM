@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007502">
+    <dc:title xml:lang="en">Preservation and restoration of living plant collections on the example of the Buda Arboretum of Corvinus University, Budapest</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Schmidt Gábor</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sütöri-Diószegi Magdolna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Corvinus University of Budapest, 1118 Budapest, Villányi út 29-43, Hungary</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">arboreta</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pollution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tolerance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">global warming</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">heat resistance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_586</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6077</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37740</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34836</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11489</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The Buda Arboretum was initiated in the winter of 1893/94. Now it covers 7.5 hectares and is surrounded by the constantly growing city of Budapest. At present, the Arboretum is under very strong urban effect. Within the framework of a EU-project “Preservation and Restoration of Living Plant Collections and Historical Gardens” the Buda Arboretum was profoundly reconstructed and developed between 2010–2012. There were reconstructed selected objects serving to special purposes, e.g.: 1. Special biotypes (garden pond and the surrounding wetland, rock-gardens, pergolas for the climbing plants</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">a retaining wall giving shelter for the Mediterranean collections</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">greenhouse as a biotope for tropical and subtropical plants), 2. The historic geometrical garden part (called Parade Square), 3. Ecological solutions for water supply, 4. Suppression of invasive species and development of Laurocerasus, Malus, Potentilla, Prunus, Syringa collections, wetland-perennials, collection of Hungarian bred woody ornamentals introduction and trial of new Mediterranean species, etc. After reconstruction, the plant material includes over 1,900 woody species and cultivars, more than 240 kinds of bulb-flowers, 500 different perennials, 250 annuals and round about 300 tropical and subtropical (greenhouse) taxa.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.40/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

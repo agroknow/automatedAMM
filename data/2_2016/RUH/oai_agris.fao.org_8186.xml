@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08186">
+    <dc:title xml:lang="ru">ПОРАЖЕНИЕ ОЗИМОЙ ПШЕНИЦЫ ВИРУСОМ МОЗАИКИ ОЗИМОЙ ПШЕНИЦЫ В ЗАВИСИМОСТИ ОТ ТЕХНОЛОГИИ ЕЕ ВОЗДЕЛЫВАНИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>DISTRUCTION OF WINTER WHEAT BY MOSAIC VIRUS DEPENDING ON ITS GROWING TECHNOLOGY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>МАРКЕЛОВА Т.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>БАУКЕНОВА Э.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Научно-исследовательский институт сельского хозяйства Юго-Востока</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Winter wheat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant viruses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sowing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8412</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5985</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7268</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучена степень поражения озимой пшеницы Левобережная 1 вирусом мозаики озимой пшеницы в зависимости от различных технологических приемов возделывания. Выявлено, что соблюдение оптимальных сроков сева, норм высева семян, а также соблюдение пространственной изоляции являются основными профилактическими мероприятиями, позволяющими избежать поражения пшеницы вирусными болезнями.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The degree of damage to winter wheat Levoberezhnaya 1by winter wheat mosaic virus depending on different technological methods of cultivation was studied. It was found that the main preventive measures that allow avoiding wheat viral diseases are as follows: compliance with the optimum sowing time, seeding rates, and adherence to the spatial isolation.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/6-13-2.pdf#page=5</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.6 (13)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

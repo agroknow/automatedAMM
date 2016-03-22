@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016103025">
+    <dc:title xml:lang="en">Comparative Morpho-Biochemical Responses of Wheat Cultivars Sensitive and Tolerant to Water Stress</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Aldesuquy Heshmat S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ibraheem Farag I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gahnem Hanan E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">proteins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Trehalose</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6259</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7888</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Water stress is likely the most important factor that adversely affects plant growth and development. In this study two wheat cultivars Gemmieza-7 (sensitive) and Sahel-1 (tolerant) were subjected to water stress and compared in terms of growth parameters (growth vigor of root and shoot), water relations (relative water content and saturation water deficit ) and protein as well as nucleic acids (DNA and RNA) content in flag leaves of both cultivars. In general, water stress caused noticeable reduction in almost all growth criteria of root, shoot and flag leaf which was consistent with the progressive alteration in water relations, protein and nucleic acids content of both cultivars during grain filling. Furthermore, degree of leaf succulence and degree of leaf sclerophylly were severely affected by water stress in both wheat cultivars. In relation to wheat cultivar, the sensitive was more affected by water stress than the tolerant one. Generally, the application of salicylic acid, trehalose or their interaction induced marked increase in growth vigor of root and shoot, water relations and protein as well as nucleic acids in flag leaves of both wheat cultivars in compare with control and water stressed plants. In conclusion, Sahel-1 has suitable mechanisms to enable it to respond more effectively to water stress than Gemmieza-7.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N2/JSPB_2014_2_168-189.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

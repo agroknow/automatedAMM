@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012421">
+    <dc:title xml:lang="en">Bioinformatic approach in the identification of Arabidopsis gene homologous in Amaranthus</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Žiarovská Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Záhorský Michal</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gálová Zdenka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hricová Andrea</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Molecular genetics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">bioinformatics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Amaranthus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Identification</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27577</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37958</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_324</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3791</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Bioinfomatics offers an efficient tool for molecular genetics applications and sequence homology search algorithms became an inevitable part for many different research strategies. Appropriate managing of known data that are stored in public available databases can be used in many ways in the research. Here, we report the identification of RmlC-like cupins superfamily protein DNA sequence than is known in Arabidopsis genome for the Amaranthus - plant specie where this sequence was still not sequenced. A BLAST based approach was used to identify the homologous sequences in the nucleotide database and to find suitable parts of the Arabidopsis sequence were primers can be designed. In total, 64 hits were found in nucleotide database for Arabidopsis RmlC-like cupins sequence. A query cover ranged from 10% up to the 100% among RmlC-like cupins nucleotides and its homologues that are actually stored in public nucleotide databases. The most conserved region was identified for matches that posses nucleotides in the range of 1506 up to the 1925 bp of RmlC-like cupins DNA sequence stored in the database. The in silico approach was subsequently used in PCR analysis where the specifity of designed primers was approved. A unique, 250 bp long fragment was obtained for Amaranthus cruentus and a hybride Amaranthus hypochondriacus x hybridus in our analysis. Bioinformatic based analysis of unknown parts of the plant genomes as showed in this study is a very good additional tool in PCR based analysis of plant variability. This approach is suitable in the case for plants, where concrete genomic data are still missing for the appropriate genes, as was demonstrated for Amaranthus.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/467/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

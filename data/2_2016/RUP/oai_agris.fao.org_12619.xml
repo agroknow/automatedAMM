@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P12619">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ МЕТЕОУСЛОВИЙ ГОДА, УСЛОВИЙ ПОСЕВА СОРГО НА РАЗВИТИЕ ПОЛОСАТОЙ ПЯТНИСТОСТИ (PSEUDOMONAS ANDROPOGONI) В УСЛОВИЯХ ЛЕСОСТЕПИ САМАРСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INFLUENCE OF METEOCONDITIONS OF A YEAR</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>CONDITIONS OF THE SORGHUM CROPS ON DEVELOPMENT OF STRIPED SPOTTINESS (PSEUDOMONAS ANDROPOGONI) IN THE CONDITIONS OF THE FOREST-STEPPE OF THE SAMARA REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Matvienko  E.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Syrkina  L.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Antimonov  A.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Antimonova  O. N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: sorghum, crops conditions, prevalence, grades</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Развитие полосатой пятнистости (Pseudomonas andropogoni) на сорговых культурах в лесостепи Самарской области в значительной мере зависит от гидротермических условий года, чем более засушливые условия мая и июня и больше количество осадков и прохладнее в июле, тем выше пораженность сорго полосатой пятнистостью. При посеве сорго во влажную почву (3 л/м) уменьшалась интенсивность
+развития полосатого бактериоза к концу августа – первой половине сентября в 2012 г. у сахарного сорго на
+14, зернового сорго на 12–19%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">в 2013 г., соответственно, на 15 и 2–4%. К фазе полной спелости при интенсивности развития бактериоза 45–75% высота растений уменьшается на 13, их масса – 11, масса зерна с растения – 28, число зерен в метелке – 20, масса 1000 семян – на 11%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Development of striped spottiness (Pseudomonas andropogoni) on the sorghum cultures in the foreststeppe of the Samara region considerably depends on hydrothermal conditions of a year. The more droughty conditions of May and June and more amount of precipitation and more cool in July, the sorghum prevalence striped
+spottiness is higher. When sowing a sorghum to the damp soil (3 l/m) intensity of development of a striped bacteriosis was reduced by the end of August – the first half of September in 2012 at a sugar sorghum on 14, a grain sorghum by 12–19%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">in 2013, respectively, for 15 and 2–4%. To a phase of full ripeness at intensity of development of a bacteriosis of 45-75% height of plants decreases on 13, their weight – 11, the mass of grain from a plant – 28, number of grains in a whisk – 20, the mass of 1000 seeds – by 11%.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_60fd80d1243849019f1ac86891d5fdb7.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№3, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

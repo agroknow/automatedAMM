@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01671">
+    <dc:title xml:lang="en">First metagenomic analysis of microorganisms in honey bees from Brazil</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Primeira análise metagenômica de microorganismos em abelhas melíferas oriundas do Brasil</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>TEIXEIRA,  Erica W.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MESSAGE, Dejair</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CHEN,  Yanping</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PETTIS,  Jeffrey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>EVANS,  Jay D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Africanized bees</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pathogens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">colony counting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Honeycombs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32628</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5630</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24147</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3656</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Nota Científica</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Alternative approaches including metagenomic and genetic screening can be extremely useful and can accelerate important discoveries related to a current phenomenon wich affect honey bees around the world (characterized by the depopulation or sudden losses of hives). To determine possible causes for the decline in honey bee colonies from southeastern Brazil, and in particular to test the likelihoods of specific predicted causative agent(s) for this condition, a diverse set of analyses were proposed. These analyses form part of a more extensive Epidemiological Evaluation Program for bees in southeastern Brazil. Here we present an overview about part of this Program. Three viruses were identified (Acute Bee Paralysis Virus - ABPV, Black Queen Cell Virus - BQCV, and Deformed Wing Virus - DWV) in 1,920 analyzed bees, and a multiplex RT-PCR assay was developed and validated. Although strategy adopted to analyze data in details is still being evaluated and prepared by the authors, the first results indicated that ca. 26 % of the samples carried Israeli Acute Paralysis Virus (IAPV), and some isolates for this virus were found. Nosema ceranae, Melissococus pluton, Leptomonas apis, and Spiroplasma apis were also detected. Pathological, epidemiological, and widespread studies remain to be conducted once no single pathogen seems overly predominant in declining bee colonies.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Abordagens alternativas, incluindo análises genéticas e metagenômicas, podem ser extremamente úteis para descobertas relacionadas ao atual fenômeno que vem afetando as abelhas melíferas no mundo (caracterizado pelo declínio populacional ou perda súbita de colméias). Para identificar as possíveis causas envolvidas com o declínio populacional em colméias da região sudeste do Brasil e, em particular, para testar as semelhanças com possíveis agentes causadores envolvidos com tal fenômeno, diversas análises foram propostas. Tais análises fazem parte de um extenso Programa de Avaliação Epidemiológica para abelhas oriundas da região sudeste do país e parte desse Programa e de seus resultados encontram-se aqui apresentados. Três vírus foram identificados (Acute Bee Paralysis Virus - ABPV, Black Queen Cell Virus - BQCV, and Deformed Wing Virus - DWV) em 1920 abelhas analisadas e um ensaio multiplex RT-PCR foi desenvolvido e validado. Embora certas estratégias adotadas para análise dos dados com maiores detalhes encontrem-se ainda em preparação, os primeiros resultados indicaram que aproximadamente 26% das amostras analisadas encontravam-se infectadas pelo vírus Israeli Acute Paralysis Virus (IAPV) e diferentes isolados de tal vírus foram identificados. Nosema ceranae, Melissococus pluton, Leptomonas apis, and Spiroplasma apis foram também detectados. Estudos patológicos, epidemiológicos e de dispersão necessitam ser conduzidos, uma vez que nenhum patógeno, em particular, parece ser predominante nas colônias afetadas pelo mencionado declínio.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1246470461.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

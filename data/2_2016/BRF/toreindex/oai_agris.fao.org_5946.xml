@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F05946">
+    <dc:title xml:lang="en">Effect of pre- anc postcalving supplementation of primiparous Nellore donor cows with sources of polyunsarurated fatty acids on the number of oocytes obtained in vivo and in vitro embryo production</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito da suplementação com fontes de ácido graxos poliinsaturados em doadoras primíparas da raça Nelore durante o pré e pós-parto sobre número de oócitos obtidos in vivo e produção in vitro de embriões</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ROSSI,  G. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MONTEIRO,  F. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LIMA, M.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RIBEIRO,  E. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MERCADANTE,  M. E. Z.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GARCIA, J.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ova</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">parturition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Reproductive performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">supplements</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5454</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5604</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33996</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the effects of feeding primiparous Nellore cows supplements rich in protected or unprotected linoleic (n-6) and linolenic (n-3) acids before and after calving on the number of follicles, total number of cumulus-oocyte complexes (COCs) collected by aspiration (OPU) and oocytes suitable for culture (grades I, II and III), and in vitro embryo production (IVEP). The donor cows were randomly divided into three groups: control (n=7), Megalac-E® (n=8</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">100 g/donor/day), and flaxseed (n=7</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1.0 kg/donor/day). The diets were offered at least 30 days precalving and 75 days postcalving. The animals were submitted to OPU on postcalving days 30, 45, 60 and 75. Recovered oocytes were selected and those considered suitable for culture were submitted to the IVEP procedures. The data were analyzed using a completely randomized design with repeated measures over time. There was no effect of supplementation on the number of follicles, the number of recovered COCs and those suitable for culture, or IVEP. However, the rate of oocytes suitable for culture recovered by OPU was higher on postcalving days 60 and 75 when compared to days 30 and 45. Additionally, the rate of embryos produced in vitro increased after postcalving day 45. In conclusion, pre- and postcalving supplementation with 100 g/day Megalac-E® or 1.0 kg/day flaxseed does not alter the number of oocytes obtained in vivo or IVEP rates of lactating primiparous Nellore donor cows. However, IVEP improves when the programs are carried out 45 days after calving.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O objetivo do trabalho foi avaliar os efeitos das suplementações ricas em ácidos linoleico (n-6) e linolênico (n-3) protegidos ou não, no pré e pós-parto de fêmeas primíparas da raça Nelore sobre número de folículos, número total de complexos cúmulos oócitos (CCO) aspirados (OPU) e de oócitos susceptíveis ao cultivo (graus I, II e III) e a produção in vitro de embriões (PIVE). As doadoras foram divididas aleatoriamente em 3 grupos: Controle (n=7), Megalac-E® (n=8</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">100 g/doadora/dia) e Linhaça (n=7</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1,0 kg/doadora/dia). As dietas foram fornecidas pelo menos 30 dias pré-parto e 75 dias pós-parto. Estes animais foram submetidos à OPU nos dias 30, 45, 60 e 75 do pós-parto. Os oócitos recuperados foram selecionados e os considerados susceptíveis ao cultivo submetidos aos procedimentos da PIVE. Os dados foram analisados em um delineamento inteiramente casualisado com medidas repetidas no tempo. Não foi detectado efeito das suplementações no número de folículos, no número de CCO recuperados e susceptíveis ao cultivo e na PIVE. No entanto, houve um aumento na taxa de oócitos susceptíveis ao cultivo recuperado pela OPU nos dias 60 e 75 do pós-parto em comparação aos dias 30 e 45. Além disso, a taxa de embriões produzidos in vitro foi maior a partir do dia 45 pós-parto. Em conclusão, a suplementação pré e pós-parto com 100 g/dia de Megalac-E® ou 1,0 kg/dia de torta de linhaça não altera o número de oócitos obtidos in vivo e a PIVE de doadoras primíparas da raça Nelore lactantes. No entanto, a PIVE melhora quando os programas são realizados após 45 dias pós-parto.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1427135588.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

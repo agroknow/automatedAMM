@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12910">
+    <dc:title xml:lang="en">SPRING WHEAT ON SLOPING LANDS OF BUGULMIN-BELEBEY UPLAND</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЯРОВАЯ ПШЕНИЦА НА СКЛОНОВЫХ ЗЕМЛЯХ БУГУЛЬМИНО-БЕЛЕБЕЕВСКОЙ ВОЗВЫШЕННОСТИ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Аbdulvaleyev  R.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Тrots  V.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Aksenovsk agricultural college</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Samara State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sloping land</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8347</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7109</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>8 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The study of the influence of slopes of different exposures on peculiarities of formation of productivity elements and yield of spring wheat (Triticum aestivum L.). The experiments were conducted from 2011 to 2013 on the fields of farms of Belebey district located on the south wing of Bugulmin-Belebey upland. The object was to study the slopes of the southern, northern, south-eastern and south-western exposures with slope from 1,5 tо 2,50. The flattened area was as a control. The soil - leached Chernozem. It was established, that on sloping fields, the preservation of plants to harvest on average by 2,4-53,5% less than the flattened area, and the prevalence of root rot reached 34,5-57,7 %, besides the weed infestation of crops on the slopes of 1,4-1,8 times higher than the target value. The productivity of spring wheat on sloping sites is reduced by 4,1-61,5 %, while the Northern slope exposure by 2,1-3,4 times. However, crops in the middle part of the slopes areon average by 18,7-33,7 % more productive than the crops of the bottom part and by 55,0-63,2% than the crops from the top part. At the same time the greatest number of grain formed on the slops of south-western - 16,0-24,2 dt/hа and south-eastern exposure – 15,5-23,4 dt/hа.  It can be concluded that under the conditions of Bugulmin-Belebey upland the spring soft wheat is advisable to sow in the middle part of the slope. This will allow to obtain stable yields of grain on average by 3,0 to 7,8 dt/ha more than on the lower and upper parts of the slope. If possible, the crops should be placed on the slopes of the south-western, south-eastern and southern exposure, the yield of plants on them, on average, by 1,9-2,1 times higher than on the slope of northern exposition.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изученали влияния склонов различной экспозиции на особенности формирования элементов продуктивности и урожая яровой мягкой пшеницы (Triticum aestivum L.). Опыты проводились с 2011 по 2013 гг. на полях хозяйств Белебеевского района расположенных на южном крыле Бугульмино-Белебеевской возвышенности. Объектом исследований являлись склоны южной, северной, юго-восточной и юго-западной экспозиций крутизной от 1,5 до 2,50. В качестве контроля выступал выровненный участок. Почва участков - чернозем выщелоченный. Установлено, что на склоновых полях сохранность растений к уборке в среднем на 2,4-53,5% меньше, чем на выровненном участке, а степень распространения корневых гнилей достигала 34,5-57,7 %, к тому же засоренность посевов на склонах в 1,4-1,8 раза превышало контрольный показатель. Продуктивность яровой пшеницы на склоновых участках снижается на 4,1-61,5%, а при северной экспозиции склона в 2,1-3,4 раза. Однако посевы в серединной части склонов в среднем на 18,7-33,7% продуктивнее посевов нижней части и на 55,0-63,2% посевов верхней части. При этом наибольшее количество зерна формировалось на склонах юго-западной – 16,0-24,2 ц/га и юго-восточной экспозиции – 15,5-23,4 ц/га. По результатам исследований можно сделать заключение, что в условиях Бугульмино-Белебеевской возвышенности яровую мягкую пшеницу целесообразно высевать в серединной части склона. Это позволит получать стабильные урожаи зерна в среднем на 3,0-7,8 ц/га больше, чем на нижней и верхней части склона. По возможности посевы следует размещать на склонах юго-западной, юго-восточной и южной экспозиции, урожайность растений на них в среднем в 1,9-2,1 раза выше, чем на склоне северной экспозиций.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/3-15-Abdulvaleyev.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

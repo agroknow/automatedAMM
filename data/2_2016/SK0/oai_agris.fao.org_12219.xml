@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012219">
+    <dc:title xml:lang="en">Immunofluorescence detection of milk protein in meat products</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Petrášová Michaela</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pospiech Matej</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tremlová, B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Randulová Zdeňka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">research methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">immunofluorescence</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4788</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_31858</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3804</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Nowadays there are various vegetable protein additives intended for the manufacture of meat products in the food industry. These ingredients include both, plant-origin as well as animal-origin proteins. The most common vegetable additives include various types of flour, starch, fiber and plant protein. Among animal proteins, the most commonly used are plasma, collagen or milk protein. Milk protein is added to meat products due to its functional properties, such as emulsifying fats, improving the holding capacity of meat, improving juiciness, gel-forming capacity and affecting the taste of the product. Usage of these proteins, however, is currently limited by the effective legislation, not only in order to prevent consumer deception, but also because of their potential impact on consumers' health of. Thus, this issue has received considerable attention not only in the Czech Republic, but also globally. The main risk is the impossibility of selecting a suitable foodstuff for individuals with potential allergic reactions. The only option for allergic consumers to protect themselves is to strictly exclude the given allergen from their diet. Although the number of studies dealing with the reduction or loss of allergenicity is increasing, yet these practices are not common. Most of the population suffering from food allergies is thus still dependent on strict exclusion of foodstuffs causing adverse allergic reactions from their diet. Detection of allergens in foodstuffs is unfortunately quite difficult due to the fact that they occur in trace amounts and are often masked by different parts of the foodstuff. This research dealt with the detection of milk protein in meat products purchased in the market network of the Czech Republic, whereas declaration given by the manufacturer on the packaging for the small meat products purchased from the market was used to verify the detection of milk protein by the immunofluorescence method. 20 products were examined, these were selected with regard to the presence of milk protein that was declared by the manufacturer on the packaging. Method validation was performed by comparing the positive results from the investigated method with information on the packaging of the meat product. Milk protein was detected in 84.62 per cent of samples where the manufacturer declared the presence of milk or cheese on the package and additionally in 85.71 per cent of samples where the manufacturer declared the presence of milk protein. The results show that the immunofluorescence method is suitable for the detection of milk protein in meat products.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/431/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,24 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016308788">
+    <dc:title xml:lang="en">Model of strategic management of food industry enterprise business reputation</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gorin S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E16</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The paper shows that the use of total cost management concept is not only able to underprop a high business reputation of the food industry enterprise, but also to ensure the directed economic development. Ad hoc, a model of strategic management of food industry enterprise business reputation is proposed, characterized by logically relevant co-relation of leading economic indicators. It is deduced that applying the concept of total cost management not only provides for business development, but also contributes to its positive business reputation.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.1-2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

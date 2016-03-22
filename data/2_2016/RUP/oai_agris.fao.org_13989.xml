@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13989">
+    <dc:title xml:lang="ru">МЕРЫ БОРЬБЫ ПРОТИВ БОЛЕЗНЕЙ КАРТОФЕЛЯ В УСЛОВИЯХ ЮГА АЗЕРБАЙДЖАНА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>CONTROL MEASURES AGAINST DESEASES OF POTATOES IN THE SOUTH OF AZERBAIJAN</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Agayev  J.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant diseases</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5962</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: potato, disease, control measures, «RidomilGold», «Kvadris», «Revus», biological efficiency</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье приведены краткие сообщения о фитосанитарном состоянии посевов картофеля в Азербайджане. Даны результаты производственного опыта по борьбе против основных вредоносных болезней картофеля в условии Джалилабадского района. Полученные результаты показывают, что применение составленной схемы борьбы было эффективным и экологически сбалансированным против болезней картофеля. В новую схему борьбы входят методы повышающие устойчивость растений, использованы перспективные сорта «Амири 600» и «Максим», а так же применялись эффективные фунгициды как, «Ридомил», «Голд», «Квадрис» и «Ревус».</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article presents brief reports on the phytosanitary status of potato crops in Azerbaijan. The results of operating experience in the fight against malicious main diseases of potato in the condition of Jalilabad district are given. The results show that the use of the made scheme of the fight was efficient and ecologically-balanced against potato diseases. In the new scheme of struggle are methods of enhancing plant resistance, selected promising varieties «Amiri 600», «Maxim» and effective as fungicides, «Kvadris» and «Revus».</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_fa0a4a5b43a94f9099d24e755a019296.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№4, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

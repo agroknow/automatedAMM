@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P12625">
+    <dc:title xml:lang="ru">ПРИМЕНЕНИЕ НЕТРАДИЦИОННОГО СЫРЬЯ ПРИ ПРОИЗВОДСТВЕ КРЕМА ТВОРОЖНОГО</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>NON-TRADITIONAL RAW MATERIALS USE IN CREAM CHEESE PRODUCTION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Blinova  O.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Prazdnichkova  N.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Trots  A.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Makushin  A.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q51</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: corn flakes, cream cheese, organoleptic quality index, physico-chemical quality indicators</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В работе рассматривается возможность использования хлопьев зерновых в производстве крема творожного с целью получения функционального продукта. Предложено олокоперерабатывающим
+предприятиям наряду с кремом творожным с ароматом ванили, вырабатывать крем творожный с хлопьями пшенными и хлопьями «7 злаков», так как это позволит получить продукт с лучшими свойствами.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This paper examines the use of cereal grains in the production of cream cheese in order to obtain a functional product. It is proposed for dairy plants to produce cream cheese with cereal flakes and millet flakes "7 cereals" along with cream cheese with vanilla, as it will allow obtaining a product with the best properties.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_60fd80d1243849019f1ac86891d5fdb7.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№3, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="CO2016000045">
+    <dc:title xml:lang="es">Influencia de las coberturas en cultivos de cítricos sobre los hongos formadores de micorrizas arbusculares en Oxisoles del piedemonte llanero colombiano</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Influence of cover crops on citrus crops on arbuscular mycorrhizal fungi development in the Colombian piedmont Oxisols</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Monroy L. Hernán Javier</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Salamanca S. Carmen Rosa</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Citrus fruits</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fruit trees</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land cover</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">VAM (fungi)</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1641</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3128</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37897</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24527</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>4 tabs., 3 figs., 44 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Se identificaron morfológicamente hongos formadores de micorrizas arbusculares nativos asociados a coberturas de gramíneas y leguminosas, establecidas en suelos Oxisoles del piedemonte llanero (Meta, Colombia) y se evaluó su ca pacidad de colonización. El área experimental se estableció en las calles de un cultivo de naranja Valencia donde se sem braron especies de Arachis pintoi (CIAT 18744), Brachiaria brizantha cv. Toledo, B. dictyoneura cv. Llanero, Desmodium ovalifolium cv. Maquenque, Panicum maximum (CIAT 36000), Paspalum notatum, un testigo químico (glifosato) y un testigo mecánico con guadaña. Se utilizó un diseño de bloques completos al azar con ocho tratamientos y tres repeticiones, que se evaluaron en la época húmeda y en la seca. Se tomaron muestras de suelo rizosférico y raíces de las gramíneas y leguminosas para identificar morfológicamente hongos formadores de micorrizas arbusculares y cuantificar el número de esporas y el porcentaje de colonización. Se identificaron 26 morfotipos de dichos hongos, incluyendo Scutellospora heterogama, Acaulospora scrobiculata y A. morrowiae que representaron 65% de la población presente en las dos épocas. La colonización radical osciló entre 47% y 94% con un contenido de esporas entre 63 y 300/100 g de suelo seco. Las coberturas con mayor porcentaje de colonización y diversidad de hongos formadores de micorrizas arbusculares fueron B. brizantha, B. dictyoneura y P. notatum</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">el control mecánico y los tratamientos con glifosato presentaron una influencia negativa sobre el contenido de esporas y colonización radical de dichos hongos.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Native arbuscular mycorrhizal fungi associated with grass and legume cover crops established on Oxisol soils in the Colombian piedmont (Meta) were identified morphologically and the ability to colonize was evaluated. The experimental area consisted of cover crops Arachis pintoi (CIAT 18744), Brachiaria brizantha cv. Toledo, B. dictyoneura cv. Llanero, Desmodium ovalifolium cv. Maquenque, Panicum maximum (CIAT 36000), Paspalum notatum, and a chemical control (Glyphosate and mechanical control) established in the rows in a Valencia orange grove. The experiment followed a complete randomized block design (8 cover crops) and three replications, evaluated during the wet and dry seasons. Rhizosphere soil and grass and legumes roots were sampled in order to identified AMF and quantify the number of spores and the percentage of colonization. A total of 26 species were identified, including Acaulospora scrobiculata, A. morrowiae and, Scutellospora heterogama, which accounted for over 65% of the population. The percentage of root colonization ranged between 47% and 94% with spore counts between 63 and 300/100 g of dry soil. Cover crops with the highest colonization percentage and AMF diversity were B. brizantha, B. dictyoneura and P. notatum in their respective order. Glyphosate and mechanical control had a negative influence on the sporulation and colonization of the arbuscular mycorrhizal fungi in the root system. Key words: biodiversity, citrus, morphotypes, acid soil, tropical lowlands.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.corpoica.org.co/SitioWeb/Archivos/Revista/Articulo6_REVISTACORPOICAVol14No1-2013.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Revista CORPOICA : Ciencia y Tecnología Agropecuaria</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">01228706</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P11330">
+    <dc:title xml:lang="ru">ИЗУЧЕНИЕ ИНТРОДУКЦИИ, ЭФИРОМАСЛИЧНОСТИ И ХИМИЧЕСКОГО СОСТАВА  ВИДОВ “NEPETA L”, РАСПРОСТРАНЕННЫХ НА КАВКАЗЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STUDY OF INTRODUCTION</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>ESSENTIAL OIL PERCENTAGE AND CHEMICAL COMPOSITION OF “NEPETA L” OIL TYPES THAT ARE WIDESPREAD IN THE CAUCASUS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mamedova  Z.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant propagation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5977</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: distribution, introduction, phenology, essential oils, component composition</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Впервые были определены морфобиологические особенности 11 видов Nepeta L. в онтогенезе, выполненные во время фенологических наблюдений в природе. Указано расположение и произрастающие условия видов Nepeta L. в двух флористических районах Азербайджана. Впервые изучен компонентный состав эфирных масел 11 видов Nepeta L. На основе химического состава эфирных масел были показаны их характерные особенности. Биологические особенности в онтогенезе ароматического растения Nepeta L. вида Cataria сорта. Победитель вариации citriodora рекомендуется для дальнейшего выращивания и интродукции на Апшероне.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Morph biological features of 11 types Nepeta L in ontogeny carried out during phenological observation in the nature have been identified for the first time. Location and growing conditions of Nepeta L species in two floristic regions of Azerbaijan are specified. The component composition of essential oils of 11 types of Nepeta L was studied for the first time. Idiosyncrasy of essential oils composition have been shown based on their chemical compound. Biological features in the ontogeny of aromatic plant “Nepeta L” type of Cataria sort have been de-noted. The winner of Citriodora type is recommended for introduction, and further extensive cultivation on Absheron.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_c17f1fe3d60b428e9faf26082c2e7dd6.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№1, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

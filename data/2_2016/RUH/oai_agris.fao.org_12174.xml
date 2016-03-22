@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H12174">
+    <dc:title xml:lang="ru">РЕГУЛИРОВАНИЕ ФИЛЬТРАЦИОННЫХ ХАРАКТЕРИСТИК НЕФТЯНЫХ КОЛЛЕКТОРОВ С ИСПОЛЬЗОВАНИЕМ ПОВЕРХНОСТНО-АКТИВНЫХ ВЕЩЕСТВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>REGULATION OF FILTRATION CHARACTERISTICS OF OIL RESERVOIR WITH SURFACE ACTIVE AGENTS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Рогачев  М.К.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Кузнецова  А.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Национальный минерально-сырьевой университет «Горный»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P05</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P07</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oils industry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">energy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">energy demand</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5335</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2565</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9000047</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI 10.18454/IRJ.2015.41.155</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрено текущее состояние и проблемы нефтедобывающей отрасли России, и как вариант
+решения предлагается использование физико-химических методов повышения нефтеотдачи пластов. Доказывается
+эффективность применения поверхностно-активных веществ (ПАВ) и их комплексное воздействие на нефть и
+породу-коллектор. Показана эффективность применение указанных технологий для полимиктовых коллекторов.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article considers the current state and problems of the Russian energy sector and as an alternative solution provided
+the use of physical and chemical EOR methods. We prove the effectiveness of the Surface Active Agents and the combined
+effect for oil and reservoir rock. And the efficiency of the use of these technologies for polymictic reservoirs</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/10-4-41.pdf#page=98</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.10-4(41)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A04825">
+    <dc:title xml:lang="en">FOUR DECADES OF FOREST RESEARCH WITH THE USE OF LANDSAT IMAGES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЧЕТЫРЕ ДЕСЯТИЛЕТИЯ ИССЛЕДОВАНИЙ ЛЕСОВ ПО СНИМКАМ LANDSAT</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>KURBANOV Eldar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VOROBYEV Oleg</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GUBAYEV Aleksandr</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LEZHNIN Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POLEVSHCHIKOVA Yuliya</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DEMISHEVA Ekaterina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">imagery</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Geographical information systems</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cartography</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36760</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35131</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1344</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The paper presents a review of the main research directions of the Earth forest cover based on the use of USGS Landsat Global Archive. The questions of the use of the satellite images for the thematic mapping of forest ecosystems, estimation of their conditions, modeling of biological productivity and detecting of disturbances were examined. The analyses of different methods of detecting multi temporal Landsat images and possibilities of their potential use for the long term monitoring of Russian forests on the regional and national levels were carried out. The research represents systematization of foreign and Russian publications concerning the touched questions. The Landsat images could be used in detecting of the forest characteristics (average age, height, diameter on the breast height and basal area), as well for the forest inventory and management. Several examples of such research publications were discussed in the paper. The defoliation in the forests of the different regions of the world was studied. The thematic mapping of the Landsat images showed that the accuracy assessment of the forest cover classification with such processes varies between 64 and 78%. Important part of the Landsat use is the research on estimation and mapping of biological productivity (carbon) in forest stands all over the world. The vegetation indexes (NDVI, SVI) and dendrometry parameters of the forests are important mechanisms in this respect. Special part of the research activities are dedicated to the estimation of afforestation and reforestation on the abandoned agricultural lands. Meanwhile FAO reports based on the Landsat images assessments show decrease in forest lands due to extensive forest cuttings and catastrophic nature disasters. Recently, estimations of burnt forest areas are based on the wide use of BAI (Burnt Area Index), NBR (Normalized Burn Ratio) and SAVI (Soil Adjusted Vegetation Index). The research showed high capacity of Landsat archive images for the increasing of accuracy for the monitoring of forest cover in Russian Federation on regional and national levels.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проведён обзор основных направлений исследований лесного покрова Земли, проведённых на основе архива серии спутниковых снимков Landsat Геологической службы США. Рассматриваются вопросы применения спутниковых снимков при тематическом картировании лесных насаждений в области оценки их таксационных показателей и состояния древостоев, моделировании биологической продуктивности и выявлении нарушений природного и антропогенного характера. Проводится анализ различных методов дешифрирования разновременных спутниковых серий снимков Landsat и возможности их потенциального применения для долгосрочного мониторинга лесов России на региональном и национальном уровнях. Работа представляет собой систематизацию зарубежных и российских публикаций по изложенным вопросам.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/40/18</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.21/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

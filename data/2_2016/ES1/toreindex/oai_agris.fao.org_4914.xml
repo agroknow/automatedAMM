@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104914">
+    <dc:title xml:lang="es">AVALIAÇÃO DAS PRÁTICAS DO MANEJO DA ORDENHA  DE CAPRINOS NO MUNICÍPIO DE SUMÉ,  REGIÃO CARIRI PARAIBANO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EVALUATION OF MANAGEMENT  PRACTICES OF  THE  MUNICIPALITY  OF  GOATS  MILKING SUMÉ</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>REGION  CARIRI  PARAIBANO)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Silva Ana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Alves  Admir</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>De Lima Paulo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Soares Filho  Paulo Henrique</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Fedral de Campina Grande</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Fedral de Campina Grande</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Fedral de Campina Grande</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Fedral de Campina Grande</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The goat has been highlighted in the semiarid region of Brazil for its importance in income generation, but is a recent activity, a reality of the early two thousand, with encouragement from the state government through the milk of Paraiba program. The municipality is located in the Sumé cariri Paraiba region, is part of the milk production chain and state government program where you buy milk from producers through the company's technical assistance and rural extension of Paraiba and are distributed in schools and share with needy families enrolled in the government program. All this incentive is a great challenge for this zoo technical exploration. Health management and hygiene practices during milking have implications often with lack of knowledge and to the producer of the basic rules of this management, thus justifying the problem with hygiene and milk quality training. The study was directed by a zootechnical prepared to evaluate these practices, interview with the producers on the property and follow procedures for cleaning the milking questionnaire.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">A caprinocultura vem-se destacando na região semiárida do Brasil por sua importância na geração de renda. Porém, é uma atividade recente, com início no ano dois mil, através do incentivo do governo do Estado mediante o programa Leite da Paraíba. O município de Sumé está localizado na região do cariri paraibano, fazendo parte da cadeia produtiva do leite e do programa do governo do estado, onde se compra o leite dos produtores através da empresa de assistência técnica e extensão rural da Paraíba. Posteriormente o leite é distribuído nas escolas e as famílias carentes cadastradas no programa do governo. Este incentivo é um grande desafio para essa exploração zootécnica. Manejo sanitário e práticas higiênicas na ordenha têm implicações muitas vezes com a falta de conhecimento e até treinamento do produtor sobre as normas básicas desse manejo, justificando assim o problema com a higiene e qualidade do leite.  O estudo foi direcionado através de um questionário preparado para avaliar essas praticas zootécnica, com entrevista aos produtores na propriedade e acompanhamento dos procedimentos de limpeza da ordenha.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo067_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

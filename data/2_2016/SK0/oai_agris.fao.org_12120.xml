@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012120">
+    <dc:title xml:lang="en">The bacteriological quality of goat and ovine milk</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bogdanovičová Kateřina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Skočková, A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Šťástková Zora</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Koláčková, I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Karpíšková, R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">goats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sheep</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">bacteriological analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3324</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25559</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study concentrates on information concerning the microbiological hazards that can be present in raw milk from animal species other than cows. A total of 54 (23 of ovine and 31 of goat) bulk tank milk samples from 10 farms in the Czech Republic were collected in years 2013 - 2014. The sampling was done at regular time intervals during the whole year, with five to eight samples collected from each of the 10 dairy farms involved in the study. All milk samples were collected into sterile sampling bottles and transported in a cooler sampling case to the laboratory for immediate examination. Farms were randomly selected to cover the whole area of the Czech Republic. The prevalence and characteristic of Escherichia coli, Staphylococcus aureus, Salmonella spp., Campylobacter spp. and Listeria monocytogenes was studied. Raw cow's milk can be contaminated by E. coli intramammarily during clinical or subclinical mastitis and either directly through animal feces or indirectly during milk collection through farm employees or the milking equipment. E. coli was detected in 90.3% of the goat milk and 95.7% of the ovine milk samples. The genes encoding Shiga toxins 1 and 2- (stx1, stx2) were not detected and no STEC was identified. The Eae was the detected in 3 (4.6%) isolates. S. aureus was detected in 9 (29.0%) samples of goat milk and 8 (34.8%) samples of ovine milk. A total 12 (57.1%) enterotoxin positive S. aureus were obtained</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6 (28.6%) were positive for the production of sec encoding enterotoxin SEC</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">in 4 (19.0%) isolates the gene seh was detected</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2 (9.5%) isolates were proven positive for seg (4.8%) and combination seg and sei (4.8%). The presence of MRSA was not detected in the tested samples in our study. L. monocytogenes was detected in 1 (3.2%) samples of goat milk and 1 (4.3%) samples of ovine milk. The serotype (1/2a, 1/2b) was detected in our study. Campylobacter spp. and Salmonella spp. were not isolated from any of the samples. These results form the basis for determining the microbiological quality standards for goat and ovine milk.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/438/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

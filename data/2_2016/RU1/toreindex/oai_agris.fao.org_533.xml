@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100533">
+    <dc:title xml:lang="en">Study of photosynthesis process in the presence of low concentrations of clomazone herbicide in tobacco (Nicotiana tabacum)</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Darwish Majd</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lopez-Lauri Felicie</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sallanon Huguette</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Photosynthesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">photosystem II</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tobacco</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5812</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34075</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7796</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The effect of chemical residues of clomazone on photosynthetic processes has been studiedby using several low concentrations  of the herbicide  (0, 1, 0.1, 0.01, 0.001,  0.0001 and 0.00001) µM and seedlings  of two varieties of tobacco (Nicotiana tabacum L. cv. Virginie vk51, Nicotiana tabacum,  L. cv.  Xanthi).  The content of  photosynthetic pigments, the parameters  of the chlorophyll-a  fluorescence and the  JIP-test  were  performed on  an  adult leaf (AL) and a young leaf (YL), that gave a complementary designto know the action's mode of  clomazone on the plant physiological processes. Clomazone reducedthe total chlorophyll (a+b),  carotenoids pigments (reduction in size antenna pigments  judged by  an increase in the  chlorophyll a/b ratio) in young leaves  more than adults leaves.  The  maximal photochemical efficiency (Fv/Fm) of photosystem  II (PSII) decreased  significantly in youngleavescompared to  adult leaves  and in (Virginie) variety than (Xanthi) variety. Among the  parameters calculated of the JIP-test most affected by  the treatment, PIabs, 1-VJ, ABS/RC,  DI0/RC, TR0/RC, ET0/RC, ET0/ABS, which indicated  acomparable effects of clomazone(1μM, 0.1µM, 0.01µM) between the two types  of leaves and the varieties used. More, the results showed that the concentration ( 1μM) was the most effective amongthe other low concentrations  used and  the (Virginie) variety ismore sensitive than  the (Xanthi)variety. We conclude that clomazone has probably two combined functions (physiological,  toxic)  judged by  the different behavior of both types  of leaves  in the presence of the herbicide.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N1/JSPB_2013_1_229-245.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

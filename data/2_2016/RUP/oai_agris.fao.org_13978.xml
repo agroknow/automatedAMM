@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13978">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ ОСНОВНЫХ ПРИЕМОВ ВОЗДЕЛЫВАНИЯ НА УРОЖАЙНОСТЬ ЗЕРНА КУКУРУЗЫ В УСЛОВИЯХ ЗАКАТАЛЬСКОГО РАЙОНА АЗЕРБАЙДЖАНСКОЙ РЕСПУБЛИКИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INFLUENCE OF THE MAIN METHODS OF CULTIVATION ON PRODUCTIVITY OF GRAIN OF CORN IN THE CONDITIONS OF THE ZAKATALSKY REGION OF THE AZERBAIJAN REPUBLIC</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Abbasov  R.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: inter-row cultivation, hilling, seed spacing, the yield</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье представлены результаты влияния междурядной обработки, густоты стояния и условия питания на урожайность зерна кукурузы. Выявлено, что самый высокий урожай зерна кукурузы получается при двухразовой междурядной обработке и густоте посева 47 тыс. растений на гектар и на фоне «Н140П100+20» тон навоза. При таких условиях урожайность зерна кукурузы в среднем за 2013-2015 г составила 788.5 ц/га в варианте без удобрений 55.6 ц/га.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Results of influence of interrow processing, density of standing and condition of feed on productivity of grain of corn are presented in the article. It is revealed that the biggest crop of grain of corn turns out at 2 times interrow processing, density of crops of 47 thousand plants on hectare and using «N140P100+20» tone of manure. Under such conditions the productivity of grain of corn for 2013 – 2015 on average was 788.5 c/hectare in option without fertilizers 55.6tsga.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_b3aaaad50ea1436192841e289aa4dd94.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

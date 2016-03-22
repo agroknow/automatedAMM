@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100201">
+    <dc:title xml:lang="en">PREDICTION OF THE STRUCTURE AND LOCALIZATION OF GENES CONTROLLING LEAF PUBESCENCE IN WHEAT TRITICUM AESTIVUM L. AND BARLEY HORDEUM VULGARE L. BASED ON ARABIDOPSIS THALIANA (L.) HEYNH. GENES DATA</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Doroshkov A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pshenichnikova T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Afonnikov D.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hordeum vulgare</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Arabidopsis thaliana</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3662</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33292</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Investigation of the formation of leaf hairs in cereals is important both for practical and fundamental points of view. Trichomes have a number of important functions related to protection from pests and counteracting to environmental factors. On the other hand trichomes are interesting from the plant development standpoint. However, information about the molecular organization of these genes and their interactions, and localization is incomplete. Large genome size of
+T. aestivum and H. vulgare makes finding and mapping the genes responsible for leaf pubescence enormously resource-intensive task. On the other hand, control of leaf pubescence in a representative dicotyledonous
+A. thaliana is well researched.
+According to modern ideas, higher plants are descended from the one common ancestor, i.e. they are monophyletic. That allows, based on genes known to one well-studied species, to predict the structure, as well as to predict the location of functionally similar genes in other species. Preliminary analysis and prediction of localization can significantly reduce the work on the mapping of genes controlling pubescence.
+In our work, on the basis of literary sources, as well as information from databases, the gene network for trichome formation was reconstructed. We used KEGG (http://www.genome.jp/kegg/), NCBI: Gene (http://www.ncbi.nlm.nih.gov/gene) and PLAZA 2.5 databases (http://bioinformatics.psb.ugent.be/plaza/).
+We performed a phylogenetic analysis of genes belonging to this network. The analysis suggests the presence of functionally similar genes from the reconstructed gene network for a wide range of higher plants. Based on the representation of the genes we have identified conserved part of gene network controlling leaf pubescence of A. thaliana . With service KEGG SSDB (http://www.kegg.jp/kegg/ssdb/), we found the genes most similar functionally to the current ones in Oryza sativa L. Then, using the comparative chromosome maps we evaluated the localization of the leaf hairiness genes on T. aestivum and H. vulgare chromosomes. Interestingly that three of the predicted genes colocalized with the known genetic markers, modifying the pubescence in H. vulgare. Thus, these data allow us to predict the location of genes controlling leaf pubescence on the H. vulgare chromosomes and in T. aestivum homoeologous group of chromosomes. Phenotypic effects of the predicted genes may also be predicted</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S9.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012601">
+    <dc:title xml:lang="en">Effect of selenium on its content in milk and performance of dairy cows in ecological farming</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Horký Pavel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dairy cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">alternative agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">SELENIUM</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28792</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6953</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Currently, the ecological farming is increasingly spread in the European Union. The aim of this relatively young farming method is a friendly approach to agricultural production with an emphasis to deliver healthy raw materials and food to final consumer. Selenium is included in an essential trace micronutrients which are necessary for the proper process of physiological reactions. It is a part of glutathione peroxidase, which is a powerful antioxidant. At present,  selenium-deficiency can occur in feed and food in central Europe. Selenium deficiency is one cause of the higher occurrence of cardiovascular diseases. The aim of the experiment was to study whether the addition of selenium to the diet of dairy cows in ecological farming can increase its concentration in milk and affect quantitative (milk yield) and quality (content of protein, fat, lactose, somatic cells and urea) milk indicators. The experiment included twenty cows of Holstein breed. The first experimental group of cows (n = 10) was fed with selenium in an amount of 0.3 mg.kg-1 (as selenomethionine) in the feed dose. The control group (n = 10) was not fed with the increased selenium in the feed dose. The basic feed dose contained 0.17 mg of Se/kg in the diet. For dairy cows, daily intake was of 20.5 kg of dry matter feed. The duration of the experiment was set at 45 days. The selenium concentration in milk was measured from 0.13 to 0.15 µg.mL-1 in the experimental group of cows during the evaluation. The control group of cows without the addition of selenium to the diet showed a selenium concentration below the detection limit. During the experiment, milk yield, lactose, fat and protein were not affected. A significant decrease (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/492/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

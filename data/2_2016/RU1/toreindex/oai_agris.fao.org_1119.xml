@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101119">
+    <dc:title xml:lang="en">Effect of Spermine and Spermidine on Wheat Plants Irrigated with Waste Water: Conductive Canals of Flag Leaf and Peduncle in Relation to Grain Yield</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Aldesuquy Heshmat S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anatomy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spermidine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spermine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49890</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33555</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33556</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A pot experiment was conducted to evaluate the beneficial effect of grain presoaking in spermine (0.15 mM), spermidine (0.3 mM) and their interaction on waste water tolerance of wheat plants (Triticum aestivum L.) variety Sakha 94. In general, waste water caused significant increases in the leaf thickness and ground tissue thickness in flag leaves as well as metaxylem vessel area, xylem vessel area, vascular bundle area in flag leaf and peduncle of main shoot of wheat plants. On the other hand leaf thickness and ground tissue thickness appeared to decrease at concentration 100% of waste water. Irrigation of wheat plants with waste water at all examined concentrations decreased phloem area in flag leaves and peduncle of main shoot of wheat plants. The application of spermine, spermidine or their interaction induced some modifications in the anatomical features of the flag leaf and peduncle of main shoot which appeared to be an adaptive response to heavy metals in applied waste water. Furthermore, Irrigation of wheat plants with waste water stress decreased significantly grain yield / plant. The applied polyamines appeared to alleviate the effect of heavy metals stress in waste water on grain yield. The effect was more pronounced with spermine +spermidine treatment. For anatomical features, the economic yield of wheat plants appeared to be positively correlated with the phloem area but negatively correlated with vascular bundle area and xylem area in flag leaf and peduncle of main shoot.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_145-166.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

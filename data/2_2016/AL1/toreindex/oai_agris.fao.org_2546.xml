@@ -1,0 +1,74 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102546">
+    <dc:title xml:lang="en">Agricultural activities of Zarma ethnic group in Dosso district area of Niger Republic</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>B. ADESIJI GBOLAGADE 1*</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>G. OLUJIDE MUKAILA 2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>R. OLALEYE ROTIMI 3</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>H. Abdoulmoumouni Soumana 2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>I. TYABO SALIHU3</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOHAMMED IBRAHIM 3</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Department of Agricultural Extension and Rural Development, Faculty of Agriculture, University of Ilorin, Ilorin, Kwara State, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2Department of Agricultural Extension and Rural Development, University of Ibadan, Oyo State, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>3Department of Agricultural Economics and Extension Technology, Federal University of Technology, Minna, Niger State, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">activities</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">constraints</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330834</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1820</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The study assesses the agricultural activities of Zarma ethnic group in Dosso district area in Niger Republic. One hundred and twenty farmers comprising of both males and females were interviewed in line with the objective of the study. Descriptive statistics and inferential statistical tools were used for data analysis. The findings indicated that 88.3%, 64.2% and 55.0% of the respondents indicated encountering severe problems of accessibility to fertilizer, poor climatic conditions and lack of feed and drugs for their animals. The findings also revealed that 65.8% of the respondents adopted coping strategies of selling of processed food crops to earn income while a large percentage (43.3%) engage in both livestock and food crop trading. Inferential statistics shows that there is a significant relationship between gender and the coping strategies adapted by the respondents since p-value for gender (X2 = 5.821</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">P ≤ 0.05) is equal to 0.05 significant level. This implies that both males and females are looking for other means to supplement food for their households in the study area. The findings further revealed that age (r = 0.414, p = 0.000), and household size (r = 0.567, P = 0.000) are significantly related to agricultural activities, and the chi-square test showed that gender (x2 = 30.863, P = 0.000) has significant relationship with cropping activities in the study area. It is recommended that agricultural extension services should be intensified to transfer relevant and better farming techniques to the study area in order to boost their agricultural activities.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4OmZhZGIyMDM1YTI4YWIxZQ</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

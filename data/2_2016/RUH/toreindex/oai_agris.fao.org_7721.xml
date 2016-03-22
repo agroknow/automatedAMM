@@ -1,0 +1,59 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H07721">
+    <dc:title xml:lang="ru">АНАЛИЗ МОРФОЛОГИЧЕСКОЙ ИЗМЕНЧИВОСТИ РАЗЛИЧНЫХ ПОРОД СИЗОГО ГОЛУБЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ANALYSIS OF MORPHOLOGYCAL VARIABILITY OF DIFFERENT BREEDS OF ROCK PIGEON</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Куликов В.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ишимский государственный педагогический институт имени П.П. Ершова</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Morphology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">economic distribution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pigeons</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49874</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2338</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5870</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проанализирована внутривидовая изменчивость шести морфометрических признаков у 150 особей четырёх пород сизого голубя, разводимых на территории с. Полозаозерье Бердюжского района Тюменской области. В исследуемых популяциях голубей выявлена изменчивость изучаемых признаков, отражающая специфику стандарта и историю формирования каждой породы. Показано, что эволюционно более старые породы характеризуются меньшей изменчивостью изучаемых признаков и нарушением законов нормального распределения, что ограничивает возможности их дальнейшей селекции.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The author analyses intraspecies variability of six morphometric properties of 150 adults of four breeds of rock pigeon raised in Polozaozerye Village, Berdyuzhye District, The Tyumen Region. The research reveales variability of the properties under study which is a result of the breeding standard specific characteristics and the history of each breed shaping. The author shows that evolutionarily older breeds are characterized by lesser variability of the properties under study and by variations from normal distribution which limit their further selection.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/4-11-1.pdf#page=71</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.4 (11)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

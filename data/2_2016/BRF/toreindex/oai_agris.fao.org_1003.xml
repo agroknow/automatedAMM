@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01003">
+    <dc:title xml:lang="en">Normative instruction in 30: an anlaysis of the institucional change influence of environment on the pet food agribusiness system</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Instrução normativa 30: uma análise da influência da mudança do ambiente institucional sobre o sistema agroindustrial de pet food</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS,  J. P. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DADALT,  J. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OBA,  P. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ARCARI, M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRUNETTO, M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GAMEIRO,  A. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pet animals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">legislation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Regulations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5742</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4253</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6493</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This paper aims to analyze the influence of Instruction 30 (IN30) which includes registration and labeling of food for pets, from the point of view of interpretation, assimilation and its possible impacts on agents that comprise the pet food Agribusiness System (SAG). Were interviewed institutions, represented by two major agencies: The Ministry of Agriculture, and Livestock (MAPA) and the Brazilian Association of the Industry of Products for Pets (ABINPET)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">manufacturing firms</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">research centers based at Universities, retailers and owners of dogs and cats, totalizing five samples. It was observed that the institutions, the researchers and manufacturers consider the IN30 as an initiative of great importance by bringing self-control and self-regulation of the SAG, besides contemplating the desire of firms regarding agility in launching new technologies. However, the main concern of the researchers was related to quality assurance of food. Firms show up unssatisfied with the lack of consensus on the interpretation of some articles of IN30 by MAPA´s enforcement agents, with discrepancies between regional and the technical managers of companies, especially regarding labeling. Already retailers and owners of pets still seem unaware of the legal aspects of such normative.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Este trabalho tem o objetivo de analisar a influência da Instrução Normativa 30 (IN30), que contempla registro e rotulagem de alimentos destinados a animais de companhia, do ponto de vista de interpretação, assimilação e seus possíveis impactos sobre agentes que compõe o Sistema Agroindustrial (SAG) de pet food. Foram entrevistadas instituições, representadas pelos dois principais órgãos: O Ministério da Agricultura, Pecuária e Abastecimento (MAPA) e a Associação Brasileira da Indústria de Produtos para Animais de Estimação (ABINPET)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">firmas fabricantes</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">centros de pesquisa sediados em universidades</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">varejistas e proprietários de cães e gatos totalizando cinco amostragens. Observou-se que as instituições, os pesquisadores e os fabricantes consideram a IN30 como uma iniciativa de grande importância, por trazer autocontrole e autorregulamentação ao SAG, além de contemplar os anseios das firmas no que tange agilidade no lançamento de novas tecnologias. A principal preocupação dos pesquisadores, no entanto, foi com relação à garantia da qualidade dos alimentos. As firmas mostram-se insatisfeitas com a falta de consenso na interpretação de alguns artigos da IN30 por fiscais do MAPA, com discrepâncias entre regionais, e pelos responsáveis técnicos das empresas, principalmente no que tange rotulagem. Já os varejistas e proprietários de animais de companhia parecem ainda desconhecer os aspectos legais de tal normativa.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1372702451.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

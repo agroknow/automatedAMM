@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104955">
+    <dc:title xml:lang="es">HOMEOSTASIS ENERGÉTICA, PROTEICA Y ENDÓCRINA EN VACAS DE LECHERÍA TROPICAL EN PERIODO DE TRANSICIÓN</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ENERGY</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>PROTEIN AND ENDOCRINE HOMEOSTASIS IN DAIRY COWS IN TROPICAL IN TRANSITION PERIOD</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Cervantes Patricia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hernández Sandra</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hernández Antonio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Andrade Salas José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Medicina Veterinaria y Zootecnia, Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Medicina Veterinaria y Zootecnia, Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Medicina Veterinaria y Zootecnia, Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Medicina Veterinaria y Zootecnia, Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic markers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In tropical dairy cows of local breeds, the high energy and protein cost for adaptation to extreme climatic variation is reflected in nutritional problems, metabolic disorders, aggravated during transition period and present a negative balance of energy and protein. The aims was to know the protein and energy balance in the transition period, tropical dairy cows (n = 21), based on the crossbreeding of Bos Taurus x Bos indicus. The study was in 3 stages: 1) pregnant, 2) calving and 3) postpartum. Was analyzed in whole blood Hematocrit (VPC) and hemoglobin. In serum were quantified: Glucose, Cholesterol, β-Hydroxybutyrate, Nonesterified Fatty Acids (NEFA), albumin, globulins, total protein, the hormones Leptin and IGF-1. At the calving were higher (p</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Los trastornos metabólicos que afectan a la vaca en el periodo de transición son múltiples y se asocian a desequilibrios homeostáticos. Durante los dos meses preparto el balance proteico se dificulta por incremento en las necesidades, el bajo consumo y movilización, mientras que el costo energético para lograr la adaptación a índices de temperatura y humedad crítica es mayor, lo que se refleja en problemas nutricionales y enfermedades metabólicas que elevan los costos de producción, reducción de la producción láctea y síntesis de inmunoglobulinas, así como un severo balance negativo. El objetivo fue conocer el balance proteico y energético en el periodo de transición, de vacas de lechería tropical (n=21),  producto del mestizaje de Bos Taurus x Bos indicus. Las vacas se estudiaron en 3 etapas: 1) gestantes, 2) parto y 3) posparto. En sangre completa se analizó el Volumen del Paquete Celular (VPC-%) y hemoglobina (HEM-g/L)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">se cuantificaron los metabolitos séricos: Glucosa (GLU), Colesterol (COL), β-hidroxibutirato (BHB), Ácidos Grasos No Esterificados (AGNES), Albumina (ALB), Globulinas (GLO), Proteínas Totales (PT-g/L), y el valor sérico (ng/dL) de las hormonas Leptina (LEP) e IGF – 1 (IGF1) por ELISA. En el periodo del parto el VPC aumentó (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo098_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

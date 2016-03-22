@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13322">
+    <dc:title xml:lang="en">Influence of various factors on milk production of saanen</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние различных факторов на молочную продуктивность коз зааненской породы</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pushkaryov M.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lekontseva N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Izhevsk SAA</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">goats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">livestock breeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Milk performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Goat milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3324</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12212</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24276</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16083</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>5 tables, 10 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We studied the effect of types of selection, duration of lactation and season on milk production of saanen. For experiment 3 groups of saanen were selected, 8 heads in each. The first group - goats of “Tatar" selection, imported from the Republic of Tatarstan, the 2nd group - “Bashkir" selection (from Bashkiria), group 3 (control) — goats of total herd (local selection). The results revealed that the highest yields were in the spring-summer period (2,45-3,14 kg). The yield of milk fat of the goats of “Tatar" selection was 31,36 kg per lactation, under the coefficient of milk yield 1363,8%. The dry matter content of milk goats meets the requirements in autumn (13,64-13,76%). In summer there was the lowest dry matter content (12,15%), which to the winter increased to 14,8%. This trend is observed with a mass fraction SNF, fat, protein and casein. Mass fraction of protein does not conform to the regulations for the whole year and ranges from 3,0% to 3,5%. The casein content meets standards in autumn and winter periods (2,62-2,83%). Mass fraction of lactose does not meet the regulations and on average is 4.3%. The density of milk is low all year (28,4 to 30,1 0A). The acidity in the first and the second group was 17,4 and 17,5 °T respectively, and the third - 16,8 °T, that is below standard. Milk of goats of “Tatar" selection according to the content of somatic cells corresponds to the highest grade - 319,2 thousand/cm3, that is by 24-25% lower of the same parameter of the goats of the 2d and 3d groups. By the end of lactation, this figure increased to 583 (autumn) and 969 thousand/cm3 (winter). The number of bacteria in milk did not exceed 500 thousand/cm3 and corresponded to the 1st grade the whole year. Economic results allowed us to obtain more profit from goats of the 1st experimental group - 14685 rubles (profitability 69,5%), which is by 7,9% and 27% more than in the 2nd and 3rd experimental groups, respectively.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучали влияние типов селекции, периодов лактации и сезонов года на молочную продуктивность коз зааненской породы. Для проведения опыта были отобраны 3 группы коз заанеской породы, по 8 голов в каждой. Первая группа - козы «татарской» селекции, привезенные из Tатарстана, 2-я группа - «башкирской» селекции (из Башкирии), 3-я группа (контрольная) - козы общего стада (местная селекция). В результате выявлено, что наибольшие удои были в весенне-летний период (2,45-3,14 кг). Выше у коз первой группы на 7,2% и 22,8% по сравнению с удоями коз второй и третьей групп соответственно. Выход молочного жира, у коз «татарской» селекции составил 31,36 кг за лактацию, при коэффициенте молочности 1363,8%. По содержанию сухого вещества молоко коз отвечает требованиям осенью (13,64-13,76%). Летом было самое низкое содержание сухого вещества (12,15%), которое к зиме повышается до 14,8%. Эта тенденция наблюдается и с массовой долей COMO, жира, белка и казеина. Mассовая доля белка не соответствует регламенту весь год и колеблется с 3,0% до 3,5%. Содержание казеина отвечает нормам в осенний и зимний периоды (2,622,83%). Mассовая доля лактозы не отвечает регламенту и в среднем составляет 4,3%. Плотность молока низкая весь год (28,4-30,1 0A). Kислотность в первой и второй группе составила 17,4 и 17,5 °T соответственно, а в третьей - 16,8 °T, что ниже стандарта. Mолоко коз «татарской» селекции по содержанию соматических клеток соответствует высшему сорту - 319,2 тыс./см3, что на 24-25% ниже аналогичного показателя коз второй и третьей групп. K концу лактации этот показатель увеличивается до 583 (осень) и 969 тыс./см3 (зима). Количество бактерий в молоке весь год не превышало 500 тыс./см3 и соответствовало 1 сорту. Экономические результаты позволили получить большую прибыль от коз 1-й опытной группы - 14685 рублей (рентабельность 69,5%), что на 7,9 и 27% больше чем во 2-й и 3-й опытных группах соответственно.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(29)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

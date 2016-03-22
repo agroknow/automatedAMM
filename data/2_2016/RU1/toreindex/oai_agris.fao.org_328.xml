@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100328">
+    <dc:title xml:lang="en">SEQUENCES OF PLANT TRANSFORMATION: THE RESULT OF THE  INSERTED FOREIGN GENE EXPRESSION OR THE STRESS  REACTION?</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Enikeev A.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kopytina T.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Maximova L.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shafikova T.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gamanetzs L.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">днк</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Agrobacterium tumefaciens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Gene transfer</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2347</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27444</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24846</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The gene technology using in plant investigations came to the better understanding of plant physiological processes. At the same time unclear knowledge about transgenic plant physiology may occur a source of incorrect interpretation of obtained results and, consequently, wrong conclusions. In addition, the causes and mechanisms of pleiotropic effects associated with transgenic insertion and gene silencing are remaining unexplained. To solve the problem of transgenic plant physiology it is necessary to pay a close attention to physiological and biochemical peculiarities of plant-agrobacterium symbiosis, because it is a base of plant transformation. It was assumed earlier that agrobacterial transformation is a complex biotic stressing factor and transgenic plant is a long-term stressed organism. We suppose that physiological consequences of plant transformation are determined not only by foreign gene insertion, but largely by stress reaction of plant cells on agrobacterium transformation. Foreign DNA insertion to the plant recipient results in cascade of response reactions remarkably changing metabolism. The degree of such response is supposed to be in dependence on phylogenetic relations of gene donor and recipient. Cell cultures were obtained from tobacco plants (Nicotiana tabacum cv. ’Samsung’) transformed by following Agrobacterium tumefaciens strains: disarmed 669 one and LBA4400 one with hsp 101 in sense or antisense orientation. These cell cultures were used for investigations of the stress-reactions on biotic (bacterial infection agent Clavibacter michiganensis subsp. Sepedonicus) and abiotic (high temperature, potassium fluoride) factors. It was revealed that “sense” culture was superior to normal and “699” ones in tolerance to pointed stressing factors. Similar results were obtained for “antisense” culture, nevertheless it was a priori not expected to be tolerant. So, to assess the transformation consequence is necessary to take into account that observed effects may not result from action of the invected gene only.
+Conclusions:
+1. To consider the transgenesis to be completed solely if expression of transferred gene is present – is methodologically incorrect way. The transferred genes could be silenced because of the response defense reaction likely as under a “pathogen attack”. So the absence of transferred gene expression doesn’t mean the absence of transformation as fact. Moreover the deletion of inserted construction could take place but physiological trace of the insertion nevertheless can be noticeable.
+2. The assessment of physiological consequences of transgenesis when using the plants transformed by disarmed constructions and the plants transformed by constructions including foreign geterological genes should be carried out carefully because of these systems are different. The process of transformation by disarmed constructions is very similar with natural agrobacterial infection where plants and bacteria have been coadapted during evolution, so the transformation by insertion of foreign genes leads to forming much more unstable systems.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S31.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

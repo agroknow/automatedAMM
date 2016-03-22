@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01090">
+    <dc:title xml:lang="en">Dry matter genotypes of Cynodon by microwave and conventional oven methods.</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Estimativa da massa seca de genótipos do gênero Cynodon pelos métodos de forno de microondas e convencional</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, E. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MONÇÃO,  F. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GOES,  R. H. T. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LEMPP,   B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GABRIEL,  A. M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOURA,  V. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PEREIRA,  T. L</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Microwave ovens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Air</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genotypes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32492</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_224</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1325750753297</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes />
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aimed of this work was to comparing the drying process in a microwave oven and forced air ventilation, as well as their effects on the chemical composition of different genotypes of the genus Cynodon (Tifton 85, Jiggs, Russell, Tifton 68 and Vaquero) collected at different ages cutting (28, 48, 63 and 79 days). The experimental design was a randomized block in a split-plot design, with 4 replicates. There was no difference (P&gt;0.05) between the methods analyzed on the chemical composition of the genotypes studied. Increasing age cutoff negatively influenced (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se por meio deste trabalho comparar o processo de secagem, em forno de microondas e em estufa de ventilação de ar forçada, bem como seus efeitos sobre a composição química de diferentes genótipos pertencente ao gênero Cynodon (Tifton 85, Jiggs, Russel, Tifton 68 e Vaquero) colhidos em diferentes idades de corte (28, 48, 63 e 79 dias). O delineamento experimental utilizado foi o de blocos casualizados em esquema de parcelas subdivididas, com 4 repetições. Não foi observada diferença (P&gt;0,05) entre os métodos analisados sobre a composição química dos genótipos em estudo. O aumento da idade de corte influenciou negativamente (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1378833432.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

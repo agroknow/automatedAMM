@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007973">
+    <dc:title xml:lang="en">Staphylococcus aureus in unripened ewes’ lump cheese. Part 1: Exposure assessment after first 24 h of fermentation</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ačai, P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Valík, Ľ.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Medveďová, A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Studeničová, A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Institute of Biochemistry, Microbiology and Health Protection, Faculty of Chemical and Food Technology, Slovak University of Technology, Radlinského 9, 812 37 Bratislava, Slovakia. Tel: +421 918 674 518, e-mail: lubomir.valik@stuba.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ewe cheese</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Staphylococcus aureus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Monte Carlo method</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32464</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16429</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28916</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The exposure assessment to Staphylococcus aureus in unripened ewes’ lump cheese manufactured on the farm level after first 24 hours fermentation was performed in this study. The first scenario dealt with the assumption that there was slow and insufficient acid production and the presence of lactic acid bacteria (LAB) culture in ewes’ milk had practically no inhibitory effect on the Staph. aureus growth. The second and the third scenario took into account also the initial LAB culture density in milk. Within the second scenario, it was assumed that LAB culture was able to suppress the Staph. aureus growth to some extent represented by a beta function with the mean probability of 0.40. The third scenario was based on the assumption that LAB population had the potential to inhibit the population under study. This represented the effect of active starter culture added to milk prior to fermentation. When the initial numbers of Staph. aureus in ewes’ milk were up to 4 log CFU∙ml-1, the exposure assessment indicated that about 11.6%, 3.0% and 0.2% of ewes’ lump cheese samples could contain more than 105 CFU∙g-1 Staph. aureus within the first, second and third scenario, respectively.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

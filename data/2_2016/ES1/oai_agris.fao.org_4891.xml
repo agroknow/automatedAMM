@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104891">
+    <dc:title xml:lang="es">AVANCES EN EL ESTUDIO DE LA CURVA DE CRECIMIENTO DEL GANADO BOVINO MARISMEÑO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ADVANCES IN THE STUDY OF GROWTH CURVE IN MARISMEÑO CATTLE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Nogales Sergio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lupi Teresa</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>León José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Arando Ander</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Miró María</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Delgado Juan Vicente</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Camacho María Esperanza</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Escola Superior Agrária do Instituto Politécnico de Castelo Branco</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Centro Agropecuario Diputación de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>IFAPA. Centro Alameda del Obispo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The Marismeña cattle breed is very singular in Southern Spain as it is located almost exclusively in the Doñana Natural Area (Natural and National Park). In order to characterize their growth, the weights data of animals of different ages were collected from the last five years. Data totaled 1771 weights, collected from males (n=470) and females (n=1301). The data was fitted to growth models: Brody, Von Bertalanffy, Logistic, and Gompertz. To choose the best model to explain the growth, two parameters were used: the determinative coefficient (R2) and mean square error. The most appropriate was the Brody Model for male and female, with an R2 of 0.99 and 0.862, respectively. The resulting models were defined as: males, weight = 633.95 * (1 - 9515 * exp (-0.0009 * age)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">females, weight = 387.60 * (1 - 0.9429 * exp (-0.0016 * age). The Marismeña breed cattle showed a slow growth and a clear sexual dimorphism, very noticeable after the age of 2 years.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">La raza bovina Marismeña es muy característica por estar localizada casi exclusivamente en el Entorno Natural de Doñana (Parque Natural y Nacional). Con objeto de caracterizar el crecimiento, se tomaron pesos individualizados de los animales durante los últimos cinco años. En total se recogieron 1771 pesos, 470 de machos y 1301 de hembras. Los datos fueron utilizados para hallar la curva de crecimiento con los modelos de Brody, Von Bertalanffy, Logístico y Gompertz. Para la elección del mejor modelo se usaron dos parámetros: el coeficiente determinativo (R2) y el cuadrado medio del error. El modelo más apropiado fue el de Brody tanto para machos como para hembras, con un R2 de 0,92 y 0,86, respectivamente. El modelo resultante fue: machos, peso = 633.95 * (1 - 9515 * exp (-0.0009 * edad)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">hembras, peso = 387.60 * (1 - 0.9429 * exp (-0.0016 * edad). La raza Marismeña  mostró  un lento crecimiento y un claro dimorfismo sexual, muy notable a partir de los 2 años de edad.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo043_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

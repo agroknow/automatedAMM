@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13471">
+    <dc:title xml:lang="en">METHODS OF SELECTION AS A GENETIC SOURCE FOR THE FORMATION OF INTRA-BREED TYPES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>МЕТОДЫ ПОДБОРА КАК ГЕНЕТИЧЕСКИЙ ИСТОЧНИК ФОРМИРОВАНИЯ ВНУТРИПОРОДНЫХ ТИПОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Katmakov Petr S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Аnisimova Еkaterina I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Scientific research Institute of the South-East</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Breeds (animals)</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">inbreeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">outbreeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Selection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genotypes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1939</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3817</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16007</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>4 tables, 9 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The work shows the impact of selection methods on the formation of intra-breed types of Simmental cattle. It is established that the descendants obtained by a close inside linear (Fx=12,50-15,64 %) and moderate interline (Fx=3,14-6,25 %) inbreeding show the best results. On average across all lactations difference in the yield of milk in favor of inbred cows, in comparison with outbred is 239 kg, and fat content in milk — 0,06 %. Milk yield of cows obtained from seven double-crosses ranged from 3282 to 5586 kg in milk fat from 3,79 to 4,06 %. 75 % of the descendants of three breed crosses attributed to desirable types, and in 7 of them, cows of milk type ranged from 57,1 to 83,3 %. It is revealed that milk yield of heifers, obtained under uniform selection, is by 891-1022 kg (26,5-31,7 %) greater than that obtained under heterogeneous selection and the majority (83,3 %) of the descendants related to the dairy type.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В работе отражено влияние методов подбора на формирование внутрипородных типов симментальской породы скота. Установлено, что лучшие результаты показывают потомки, полученные при близком внутрилинейном (Fx=12,50-15,64 %) и умеренном межлинейном (Fx=3,14-6,25 %) инбридинге. В среднем по всем лактациям разница по удою в пользу инбредных коров, в сравнении с аутбредными, составила 239 кг, а по содержанию жира в молоке 0,06 %. Удои коров, полученных от семи двухлинейных кроссов, варьировали от 3282 до 5586 кг при жирности молока от 3,79 до 4,06 %. 75 % потомков трехлинейных кроссов отнесены к желательным типам, а в 7 из них коровы молочного типа составляли от 57,1 до 83,3 %. Выявлено, что удои коров-первотелок, полученных при однородном подборе, на 891-1022 кг (26,5-31,7 %) больше, чем полученных при разнородном подборе и большинство (83.3 %) потомков отнесены к молочному типу.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-15-%D0%9A%D0%B0tmakov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(30)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206566">
+    <dc:title xml:lang="en">Influence of abiotic factors infestation in Mahanarva fimbriolata (stål, 1854) (hemiptera: cercopidae) in sugar cane</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Influência de fatores abióticos na infestação de Mahanarva fimbriolata (stål</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>1854) (Hemiptera: Cercopidae) em cana-de-açúcar</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Barbosa Rogério Hidalgo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kassab Samir Oliveira</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Colman Bruno Agostini</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pereira Fabricio Fagundes</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Silva Alan de Souza</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal da Grande Dourados, Dourados, MS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal da Grande Dourados, Dourados, MS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual de Mato Grosso do Sul, Dourados, MS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal da Grande Dourados, Dourados, MS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Anhanguera Educacional AS, Dourados, MS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Mahanarva fimbriolata (Stål, 1854) (Hemiptera: Cercopidae) is a pest of sugar cane in the centersouth of Brazil. Several factors can affect the occurrence and population growth of insect in the ecosystems. In order to verify the influence of abiotic factors on the infestation of M. fimbriolata, we
+evaluated a field cultivated with sugar cane in the municipality of Angélica, Mato Grosso do Sul, Brazil. Temperature (° C), accumulated precipitation (mm) and relative humidity (%) were correlated by Pearson simple linear model (r ) with population levels of nymphs and adults of M. fimbriolata. Further dependencies were obtained between the temperature (° C) with nymphs (r = 0.9026) and relative humidity (%) in adults (r = 0.8789) of M. fimbriolata. Such information could serve to develop strategies for integrated management programs of M. fimbriolata.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Mahanarva fimbriolata (Stål, 1854) (Hemiptera: Cercopidae) é uma das principais pragas da canade-açúcar no Centro-sul do Brasil. Vários fatores podem interferir na ocorrência e no crescimento populacional de insetos nos agroecossistemas. Com objetivo de verificar a influencia de fatores abióticos na infestação de M. fimbriolata, foi avaliado um talhão cultivado com cana-de-açúcar no município de Angélica, Mato Grosso do Sul. A temperatura (°C), precipitação acumulada (mm)
+e umidade relativa (%) foram correlacionadas pelo modelo linear simples Pearson (r) com níveis populacionais de ninfas e adultos de M. fimbriolata. Maiores dependências foram obtidas entre a temperatura (°C) com as ninfas (r=0.9026) e a umidade relativa (%) com adultos (r=0.8789) de M. fimbriolata. Tais informações poderão servir para elaboração de estratégias em programas de manejo integrado de M. fimbriolata.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/203/295</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

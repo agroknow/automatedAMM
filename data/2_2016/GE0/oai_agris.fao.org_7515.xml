@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="GE2016007515">
+    <dc:title xml:lang="en">Thermophilic cellulase/xylanase complex and its application in production of liquid sugars.</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kutateladze L.Y.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Urushadze T.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khvedelidze R.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zakariashvili N.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khokhashvili I.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Jobava M.D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Burduli T.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Thermophilic microorganisms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biological differences</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carbohydrate content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mesophile microorganisms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24092</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33264</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1298</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24048</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Mesophilic and thermophilic strains, active producers of cellulose and xylanase have been isolated from the col- lection available at the Institute. From selected strains three strains, active producers of cellulase/xylanase – Peni- cillium canescence Aj13 (mesophile), Trichoderma viride I 7-5 (mesophile), Aspergillus versicolor D1 (thermo- phile) were taken for further studies.  It has been shown that Penicillium canescence Aj13, Trichoderma viride I. 7-5 and Aspergillus versicolor D1, selectively chosen strains, representatives of different genera of microscopic fungi hydrolyzed cellulose of untreated stubble to reducing sugars by 36-42% and to glucose – 22-27% and that of treated stubble to reducing sugars by 42-51% and to glucose – 29-33%.  Optimal conditions for hydrolysis of stubble cellulose by obtained enzymatic preparations have been established. It was shown that high yield of glu- cose as a result of hydrolysis by enzymatic preparations of thermophilic strain was achieved at higher temperature (over 10°C, under the conditions of  60°C) in comparison of their mesophilic analogues.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.agrscience.ge</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Annals of agrarian science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1512-1887</ags:citationIdentifier>
+      <ags:citationNumber>v.12/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

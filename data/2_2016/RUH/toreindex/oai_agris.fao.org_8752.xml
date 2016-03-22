@@ -1,0 +1,53 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08752">
+    <dc:title xml:lang="ru">ОЦЕНКА ВЛИЯНИЯ ПРИРОДНЫХ ФАКТОРОВ И ХОЗЯЙСТВЕННОЙ ДЕЯТЕЛЬНОСТИ ЧЕЛОВЕКА НА СОВРЕМЕННОЕ СОСТОЯНИЕ УНИКАЛЬНЫХ ПРИРОДНЫХ ОБЪЕКТОВ СЕВЕРНОГО ПРИКАСПИЯ – БУГРОВ БЭРА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ESTIMATION INFLUENCES NATURAL FACTOR AND ECONOMIC ACTIVITY OF THE PERSON ON MODERN CONDITION UNIQUE NATURAL OBJECT NORTH PRIKASPIYA - BUGROV BERA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>БУХАРИЦИН П.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Астраханский государственный технический университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">protection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anthropogenic factors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nature conservation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330896</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34996</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5092</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Бэровские бугры названы в честь Карла Бэра, впервые описавшего их в 1866 году. Они считаются уникальными природными образованиями, памятниками природы Прикаспия, не имеющими аналогов в мире. Поэтому по мнению некоторых ученых они должны быть обязательно занесены в Красную книгу почв, как удивительные творения природы, представляющие научную, и историческую ценность.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Bugry Bera is named in honour of Chastised Bera, for the first time described them in 1866. They are considered by unique natural formation, monument of the nature Prikaspiya, not having analogue in the world. So in the opinion of some scientist they must be are without fall brought in Redden book of ground, as amazing creations of the nature, presenting scientific, and history value.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/01/12-2-19a.pdf#page=90</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.12 (19)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

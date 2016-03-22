@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016111666">
+    <dc:title xml:lang="en">A GIS Approach for the Managemnt Purposes and the Floristic and Vegetation Features of the “Grand Park” of Tirana</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MESITI AJOLA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DINGA LIRI</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GALLONI MARTA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PEZZI GIOVANNA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Botanical Garden, Research Centre of Flora and Fauna, Faculty of Natural Science, University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculty of Natural Science, University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Biological Geological and Environmental Sciences,Bologna University, Italy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Geographical information systems</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35131</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Environmental analysis of flora, vegetation and zoningin the “Grand Park” of Tirana (Albania) were carried out for
+management purposeswith GIS program.The Grand Park, which lies in the hills south of the city, covers a land area
+of about 220 ha plus 48 ha of water. The Park was built on an existing area of vegetation where species of Albanian
+flora were planted and some exotic species introduced, thus representing a "hybrid” park with natural and artificial
+features. It is surrounded by residential buildings, commercial and national roads with heavy traffic.The species and
+vegetation types of the park were sampled to identify the most important for conservation and management purposes</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">to analyse their origin and distribution in relation to anthropogenic impacts, and to provide general information on
+their ecology.Distribution of different green areas within the park was derived by interpreting aerial photographs, and
+by using Geographical Information Systems (Esri ArcGIS). The current map was compared with a previous one to
+detect the dynamics of the green urban areas.The environmental diagnosis identified several types of activities
+potentially harmful to the biodiversity of the “Grand Park” and the environmental quality of the city. Implementation
+of a management plan would be essential to maintain and preserve this urban park, aiming to ensure its role in
+improving the quality of urban life. The survey results showed that within the park area 69% of the species were wild
+and 31% introduced.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_3_2015_file/8_Mesiti%20A-N3_pp%20256-261.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

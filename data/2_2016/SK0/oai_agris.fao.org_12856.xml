@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012856">
+    <dc:title xml:lang="en">Atmospheric transport and deposition of ammonia: Review</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Atmosférický transport a depozícia amónneho dusíka: Review</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Krupová Danica</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Národné Lesnícke Centrum, T. G. Masaryka 25, 960 93 Zvolen, Slovensko, e-mail: krupova@nlcsk.org</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">emission</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">transport</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ammonium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331377</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7874</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32634</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This review article integrates the knowledge about atmospheric NH3 from the literature. Over the last years NH3 emissions have been increasing on a global scale. The emissions of NH3 are produced in agriculture, animal farms, by applications synthetic fertilizer NH3-based, by industrial processes, vehicular emissions and by volatilization from soils and oceans. Gaseous ammonia (NH3) is the most abundant alkaline gas in the atmosphere. Its formation, transport, the properties and the environmental implications with visible degradation of sensitive ecosystems is task of this review. The increase of atmospheric deposition of nitrogen in NH3 emissions negatively influences environmental and public health as well as climate change.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/FEE/fakulta_fee/afe/afe_29.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta Facultatis Ecologiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-300X</ags:citationIdentifier>
+      <ags:citationNumber>v.29/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

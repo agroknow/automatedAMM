@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104919">
+    <dc:title xml:lang="es">SISTEMA DE PRODUCCIÓN Y ZOOMETRÍA DE LA CABRA PASTOREÑA DE LA MIXTECA OAXAQUEÑA</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>CREOLE GOAT "PASTOREÑA" PRODUCTION SYSTEM AND ZOOMETRIC MEASUREMENT IN MIXTECA OAXACA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ramírez María Plácida</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sánchez Ortiz Martín</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ortiz Reyna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zaragoza Ramírez José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ricardi de la Cruz Lourdes Carmina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fuentes-Mascorro Gisela</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma Benito Juárez de Oaxaca</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma Chapingo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma Chapingo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma Chapingo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma Benito Juárez de Oaxaca</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma Benito Juárez de Oaxaca</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the last ten years, Oaxaca was being highlight as one of the leading producers of goat meat, 57% of the flock of goats is located in the Mixtec region and consists of native animals. Thirty-seven surveys applied to producers of goat Creole “pastoreña”, in three municipalities of the Mixteca low and the measures zoometric were determined to 206 males and 39 females. The results indicate that there are two production systems the transhumance, with flocks of 900 to 1,500 animals fed on native grass, in which separate the pregnant and lactating females during the dry season from the rest the flock and sold to the killing of Tehuacán, exclusively white animals. The extensive system with flocks of 5 to 800 heads, grazed native plants and are supplemented during the dry seasons with corn and salt, they castrated males of one year of age, breeding of goat are a secondary activity for them, occasionally sold to the killing of Huajuapan. Zoometric variable showing sexual dimorphism, to height at withers was 63.01 ± 6.75 for females and 72.93 ± 7.38 for males the thoracic perimeter of 76.09 ± 8.64 for females and 90.61 ± 11.52 for males. They are high animals with large respiratory capacity and thin reeds, as it befits to grazing animals.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">En los últimos diez años, Oaxaca se ha destacado como uno de los principales productores de carne de cabra, el 57% del ganado se ubica en la región Mixteca y está constituida por animales criollos. Se aplicaron 37 encuestas a productores de cabra criolla pastoreña, en tres municipios de la Mixteca baja y se determinaron las medidas zoométricas a 206 hembras y 39 machos. Los resultados indican que existen dos sistemas de producción el trashumante, con rebaños de 900 a 1,500 animales alimentados de flora nativa, en el que separan a las hembras gestantes y lactantes en época de estiaje del resto del rebaño y venden a la matanza de Tehuacán, exclusivamente animales de capa blanca. El sistema extensivo con rebaños de 5 hasta 800 cabezas, pastorean plantas nativas y se suplementa en época de estiaje con maíz y sal, castran a los machos de un año de edad, la caprinocultura es una actividad secundaria para ellos, ocasionalmente venden a la matanza de Huajuapan. La zoometría mostro dimorfismo sexual la alzada a la cruz fue de 63.01 ± 6.75 para hembras y 72.93 ± 7.38 para machos el perímetro torácico de 76.09 ± 8.64 para hembras y 90.61 ± 11.52 para machos. Son animales altos con amplia capacidad respiratoria y cañas delgadas, como corresponde a animales de pastoreo.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo072_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

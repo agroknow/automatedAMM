@@ -1,0 +1,78 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007924">
+    <dc:title xml:lang="en">Colour, bioactive compounds and antioxidant capacity of mixed beverages based on fruit juices with milk or soya</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Andrés, V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Villanueva, M. J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mateos-Aparicio, I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tenorio, M. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Food Science, Faculty of Pharmacy, Complutense University of Madrid, Plaza Ramón y Cajal s/n., 28040 Madrid, Spain. Tel.: +34 91 3941808, e-mail: mjvilla@ucm.es</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fruit juices</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">beverages</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">colour</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carotenoids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">vitamin C</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3123</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_896</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1773</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1333</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15229</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Fruit beverages are a source of phytochemicals, vitamins and minerals, with a high hydration capacity. The aim of this study was to evaluate mixed beverages based on fruit juices with milk or soya regarding their colour (L*, a*, b*), antioxidant compounds (carotenoids, ascorbic acid and polyphenols) and antioxidant activity. The b* parameter, which is associated with a yellow-orange colour, presented a positive correlation with β-carotene concentration (r2 = 0.917). β-Carotene was the main carotenoid (58–3547 mg•l-1), followed by zeaxanthin (37–97 µg•l-1) and lutein (5–15 µg•l-1). The concentration of deliberately added ascorbic acid ranged between 78 mg•l-1 and 993 mg•l-1. The HPLC methods used proved to be suitable for the analysis of carotenoids and vitamin C in these mixed beverages. Polyphenols are naturally present in these mixed beverages (151–503 mg•l-1). The antioxidant capacity of each mixed beverage was assessed in vitro by the ferric reducing antioxidant power (FRAP) method and ranged from 65 mmol•l-1 to 376 mmol•l-1 (expressed as Trolox equivalents). The antioxidant capacity of these beverages was mainly due to the vitamin C (97.7%) and, in a minor proportion, due to polyphenols (2.3%). Discriminant analysis was applied to these samples of mixed beverages and samples from ‘tropical’ and ‘soyjuice’ groups were found to be the best classified into their commercial denominations.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

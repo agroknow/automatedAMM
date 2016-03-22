@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101127">
+    <dc:title xml:lang="en">28-homobrassinolide Protects Photosynthetic Machinery in Indian mustard Under High Temperature Stress</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Fariduddin Qazi</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Yusuf Mohammad</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Begum Mahmooda</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ahmad Aqil</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Brassinosteroids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Brassica juncea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Photosynthesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Proline</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35037</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1064</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5812</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">High temperature is a serious threat to crop production. Brassinosteroids (BRs), a group of plant steroidal hormones, can reduce effects of abiotic stresses. The present study was aimed to study the potency of brassinosteroids on high temperature induced changes in Indian mustard (Brassica juncea L.) for effects on growth, chlorophyll, photosynthesis, photosystem II, antioxidant system and proline. Surface sterilized seeds of Indian mustard were sown in pots, grown for 21 days and treated with double distilled water or 0.01 µM of 28-homobrassinolide. Treated plants, after 24 h, were exposed to 30°C or 40°C for 48 h. One set of plants were kept at ambient temperature, 25°C, as the control. Plants were harvested at 30 days stage of growth to assess the various parameters. Plants exposed to 40°C had a decline in growth, leaf water potential, chlorophyll, photosynthetic rate, and activities of carbonic anhydrase (E.C.4.2.1.1) and nitrate reductase (E.C.1.6.1.1). The 28-homobrassinolide alone improved growth and photosynthesis responses along with various enzymes activities. Treatment of plants with HBL prior to exposure to 40°C, partially reduced damage and completely controlled damage when exposure was to 30°C. Levels of the antioxidative enzymes catalase (E.C.1.11.1.6), peroxidase (E.C.1.11.1.7), and superoxide dismutase (E.C.1.15.1.1), and the level of proline increased in response to 30 or 40°C and were further enhanced in the presence of 28-homobrassinolide. Plants grown under high temperature had increased levels of H2O2</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">application of HBL before temperature treatment decreased H2O2 content compared to the control. Elevated levels of antioxidative enzymes and proline might be responsible for conferring tolerance to high temperature stress in Indian mustard and overcome the loss of productivity of the crop.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_181-194.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,80 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09246">
+    <dc:title xml:lang="ru">БИОХИМИЧЕСКИЕ ПОКАЗАТЕЛИ КРОВИ У СИММЕНТАЛЬСКОЙ ПОРОДЫ ПРИ РАЗЛИЧНЫХ ДОЗАХ КОНЦЕНТРИРОВАННЫХ КОРМОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>BIOCHEMICAL PARAMETERS OF BLOOD SIMMENTAL AT VARIOUS DOSES OF CONCENTRATED FEED</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Скрябина В.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Северо-восточный федеральный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L52</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_959</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6461</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2838</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведены результаты экспериментального исследования гематологических показателей телок симментальской породы при
+скармливании им концентратного и без концентратного типа рациона в условиях Центральной Якутии. Получены данные по
+биохимическому составу крови и показателям естественной резистентности. Установлен широкий диапазон этапов
+формирования состава крови у крупного рогатого скота под влиянием условий кормления и содержания. Показано, что в период
+роста и развития телок до 18 мес. возраста под влиянием кормовых и адаптивных факторов происходит изменение 
+6
+гематологических показателей: гемоглобина, эритроцитов, лейкоцитов, макро-микро элементов, витаминов, аминокислот,
+белковых фракций и естественной резистентности</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Results of an experimental study of hematological parameters of Simmental heifers when fed the concentrate and without the
+concentrate ration type in conditions of Central Yakutia . The data on the biochemical composition blood and parameters of natural
+resistance . Established a wide range of stages in the formation of blood in cattle under the influence of feeding and . It is shown that in the
+period of growth and development of heifers up to 18 months age under the influence of feed and adaptive factors is a change in
+hematological parameters : hemoglobin, erythrocytes , leukocytes, macro-micro elements , vitamins, amino acids , protein fractions and
+natural resistance.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/5-2-24.pdf#page=5</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.2 (24)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

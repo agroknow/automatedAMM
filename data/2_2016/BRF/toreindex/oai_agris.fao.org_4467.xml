@@ -1,0 +1,91 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F04467">
+    <dc:title xml:lang="en">Different nutritional recommendations for broilers: performance and economic analysis</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Diferentes recomendações nutricionais para frangos de corte: desempenho e análise econômica</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>CANIATTO, A.R.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GAMEIRO,  A. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PACHECO, B.H.C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NATORI, M.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CAETANO,  V.C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FARIA, D.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Birds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Broiler chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">costs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crude protein</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">energy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_935</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1922</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24013</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2565</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this research was to compare the effect of different nutritional recommendations on the performance and economics of the production of broiler chickens. A total of 1,200 Cobb-500 line male broilers were placed in a completely randomized design with four treatments and 10 replicates, with 30 animals each. The diets in each treatment were as follows: 1. COBB-VANTRESS (2009)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">2. Commercial feed</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3. Rostagno et al. (2005)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">and 4. Rostagno et al. (2011). The following performance traits were evaluated: feed intake (FI), weight gain (WG), body weight (BW), feed conversion (FC) and productive efficiency index (PEI). The experiment ran while chickens were 1 to 21 and 1 to 42 days old. For the economic analysis, the diet cost and live weight price were considered when calculating the average cost of the diet (ADC) and the gross trading margin (TM). Analysis of variance was used to evaluate ADC and TM performance traits</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">diets means were compared with Tukey’s test. In the 1 to 21 day period, there was a higher FI and less efficient FC with diet 1 and more efficient PEI with diet 4. During the 1 to 42 day period, diets 1, 3 and 4 had the highest BW, WG and PEI. TM and ADC show similar results, i.e., commercial feed being less attractive to producers. For the entire experimental period, the nutritional recommendations of COBB-VANTRESS (2009), Rostagno et al. (2005) and Rostagno et al. (2011) had the highest productive and economic performance for broiler production.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O objetivo deste trabalho foi comparar diferentes recomendações nutricionais sobre o desempenho e análise econômica na produção de frangos de corte. Foram utilizados 1.200 frangos, machos, da linhagem Cobb-500. As aves foram submetidas a delineamento inteiramente casualizado com 4 tratamentos e 10 repetições, com 30 animais cada. As dietas consistiram: 1. COBB-VANTRESS (2009)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2. Ração Comercial</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3. Rostagno et al. (2005) e 4. Rostagno et al. (2011). As características de desempenho avaliadas foram: consumo de ração (CR), ganho de peso (GP), peso corporal (PC), conversão alimentar (CA) e índice de eficiência produtiva (IEP). Esta avaliação ocorreu no período de 1 a 21 e de 1 a 42 dias de idade dos frangos. Para análise econômica foram considerados o custo da dieta e o preço do frango vivo, visando o cálculo do custo médio da dieta (CMD) e da margem bruta de comercialização (MB). Os resultados de desempenho, CMD e de MB foram analisados por meio da análise de variância. Empregou-se o teste de Tukey (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://iz.sp.gov.br/pdfsbia/1418747551.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

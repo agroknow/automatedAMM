@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101051">
+    <dc:title xml:lang="en">Protective Effect of Virgin Olive Oil (Olea europea L.) Against Oxidative Damage Induced by Mercuric Chloride in Rat Albinos Wistar</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Necib Youcef</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bahi Ahlem</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zerizer Sakina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abdennour Cherif</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Boulakoud Mohamed Salah</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mercury</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Oxidative stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">councils</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Liver</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1325839526761</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4751</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37481</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_50194</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4395</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Olive oil is beneficial effects are not only related to its high content of oleic acid, but also to the antioxidant potential of its polyphenols. In this study, we assess the effects of virgin olive oil on mercuric chloride induced oxidative damage in the liver of rats. Adult male Albinos Wistar rats randomly divided into four groups, were the first was served as a control, whereas the remaining groups respectively treated with: virgin olive oil (2ml/ kg b.w</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">by gavage), mercuric chloride (0.5 mg/kg body weight i.p) and combination of virgin olive oil and HgCl2. Change in liver enzyme activities, thiobarbituric acid reactive substances (TBARS) level, antioxidants and reduced glutathione (GSH) contents were determined after 2 weeks of experimental period. Exposure of rats to mercuric chloride caused a significant increase the lipid peroxidation level along with corresponding decrease in the reduced glutathione and various antioxidant enzymes in liver. And increase in serum: glucose level, APL and transaminases activities and decreased in total protein and albumin levels. Furthermore, treatment with mercuric chloride caused a marked elevation of liver weight and decreased body weight. Supplementation of virgin olive oil resulted in decreased of lipid peroxidation level and in the serum: AST, ALT and APL activities were decreased along with increase in total protein, albumin and liver GSH levels. The activities of antioxidants enzymes: glutathione peroxidase (GSH-Px) and glutathione –S-transferase (GST) were also concomitantly restored to near normal level by virgin olive oil supplementation to mercuric chloride intoxicated rats. Liver histological studies have confirmed the changes observed in biochemical parameters and proved the beneficial role of virgin olive oil. The results clearly demonstrate that virgin olive oil treatment augments the antioxidants defense mechanism in mercuric chloride induced toxicity and provides evidence that it may have a therapeutic role in free radical mediated diseases.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_45-58.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

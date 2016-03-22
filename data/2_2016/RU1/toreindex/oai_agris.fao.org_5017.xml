@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016105017">
+    <dc:title xml:lang="en">Allelopathic effect of Solanum melongena L. on Vigna radiata L.</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Singh Deepti</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Singh N.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Yadav Kavita</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kumar Sanjay</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lal Bihari</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Solanum melongena</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vigna radiata</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7218</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8242</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present study has been carried out to investigate the allelopathic effect of aqueous leaf leachate of Solanum melongena L. on Vigna radiata L. The effects of leachate on germination, radicle length, plumule length, protein content and cell division in root tip meristems of seedlings of Vigna were studied. The seeds of mungbean were soaked with leaf leachate of 10, 25, 50, 75 and 100% concentrations for 4h. Bioassay indicated that there was dose-dependent inhibition of germination and seedling growth. Protein content was found to be reduced by the leachate of different concentrations as compared with control. The study also revealed that antioxidative enzymes, viz. superoxide dismutase, catalase and peroxidase activities increased with the increase in concentration of aqueous leaf leachate. Mitotic activity in root-tip cells of mungbean was found to be reduced and the impact was dose-dependent. However, chromosomal abnormalities, viz. fragment, precocious separation, sticky chromosome, disturbed metaphase and bridge were found to be increased with increasing concentrations of leachate.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N3/JSPB_2014_3_287-296.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

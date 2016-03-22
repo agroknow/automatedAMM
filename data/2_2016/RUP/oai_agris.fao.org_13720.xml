@@ -1,0 +1,47 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13720">
+    <dc:title xml:lang="ru">СТИМУЛЯТОРЫ РОСТА В СОВРЕМЕННЫХ ТЕХНОЛОГИЯХ ВОЗДЕЛЫВАНИЯ ЯРОВОЙ ПШЕНИЦЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>GROWTH STIMULANTS IN MODERN TECHNOLOGIES OF SPRING WHEAT CULTIVATION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Glukhovtsev  V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kukushkina  L.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Demina  E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: spring wheat, variety, growth stimulants, microfertilizers, preparations, yield, productivity</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведены экспериментальные данные по оценке влияния микроудобрений и стимуляторов роста на повышение урожайности новых сортов яровой пшеницы. Выявлена сортовая специфика отзывчивости яровой мягкой пшеницы различного генотипа на современные препараты. По результатам исследований препараты Нутривант Плюс Зерновой и Флорон в смеси с препаратом Аминокат 30% рекомендованы как наиболее эффективные для повышения урожайности яровой пшеницы и увеличения валового сбора зерна в условиях Средневолжского региона.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Experimental data on the evaluation of microfertilizers effect and growth stimulants on increase the yield of spring wheat new varieties were shown. Varietal specificity responsiveness of different genotype of soft spring wheat to modern preparations is identified. By results of researches preparations Nutrivant Plus Grain and Floron in a mixture with the preparation Aminokat 30% is recommended as the most effective for increasing the
+yield of spring wheat and increase the gross grain harvest in the conditions of the middle Volga region.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_b3aaaad50ea1436192841e289aa4dd94.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202817">
+    <dc:title xml:lang="en">Genetic variability among cultivars of soybean, as the oil yield, in Tocantins State</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Variabilidade genética entre cultivares de soja</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>quanto ao rendimento de óleo</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>no estado do Tocantins</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Alves Lopes Leonardo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Muci Peluzio Joênes</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sérgio Afférri Flávio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vinícius de Carvalho Edmar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Palmas, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Palmas, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de São Carlos, Buri, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Palmas, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Glycine max</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3301</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In order to evaluate the genetic diversity among 21 cultivars of soybeans, as the oil yield, they were conducted five field trials of crops in crop year 2008/09, two in the experimental area of University of Tocantins in Palmas (11/30/2008, 12/16/2008) and three in the experimental area of the Federal
+University of Tocantins in Gurupi (12/03/2008, 12/18/2008 and 01/05/2009). The cultivars were P98Y70, M 8766RR, M 9144RR, BR / EMGOPA 314, P98R91, P98Y51, M 9988RR, P99R01, M 8867RR, M 9056RR, M 8527RR, M 8360RR, FT Esperança, FTS 4188, CM 015, CM 017, CM 136, CM 149, CM 102, Nidera A7002 and M 9350. Multivariate methodologies procedures such as Mahalanobis, Tocher’s optimization
+method and nearest neighbor method were used for oil yield, wherever each field trials represented one variable. Variations among the soybean cultivars were noticed for all characteristics. In this sense, can be expected as promising the following crosses: M 9144RR x BR / EMGOPA 314, M 9144RR x Nidera A7002 and FTS 4188 x M 9144RR, as the cultivars were dissimilar to oil yield.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Com objetivo de avaliar a divergência genética entre 21 cultivares comerciais de soja, quanto ao rendimento de óleo, foram realizados cinco ensaios de competição de cultivares no ano agrícola 2008/09, sendo dois na área experimental da Universidade Federal do Tocantins em Palmas (30/11/2008, 16/12/2008) e três na área experimental da Universidade Federal do Tocantins em Gurupi (03/12/2008, 18/12/2008 e 05/01/2009). Os cultivares estudados foram P98Y70, M 8766RR, M 9144RR, BR/EMGOPA 314, P98R91, P98Y51, M 9988RR, P99R01, M 8867RR, M 9056RR, M 8527RR,
+M 8360RR, FT Esperança, FTS 4188, CM 015, CM 017, CM 136, CM 149, CM 102, Nidera A7002 e M 9350. A divergência genética foi avaliada para rendimento de óleo, por meio de procedimentos multivariados: distância generalizada de Mahalanobis, método de agrupamento de otimização
+de Tocher e método do vizinho mais próximo. No estudo da divergência genética, cada ensaio representou uma variável distinta. Foi observada variabilidade genética entre as cultivares. As hibridações M 9144RR x BR/EMGOPA 314, M 9144RR x Nidera A7002 e FTS 4188 x M 9144RR, poderão
+ser promissoras para obtenção de populações segregantes para o rendimento de óleo.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/411/254</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012128">
+    <dc:title xml:lang="en">Natural food resources for wild boars living in the Bieň game preserve</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Zdroje prirodzenej potravy diviačej zveri vo zvernici Bieň</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LEBOCKÝ Tibor</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wild boar</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feed resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24131</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35106</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This work researches the natural food resources in the Bieň wild boar game preserve established in central Slovakia. Its total area is 254 ha and 243 ha of which are afforested. Majority of the forest is classified as the forest site type Fageto quercetum and up to 85% of the forest is more than 60 years old. The game preserve is divided into the hunting section and generation section with the areas of 210 and 44 ha. Design of research plots was proposed to a regular grid of 160 × 160 m for the hunting section and 160 × 80 m for the generation section. An inventory of food resources was made in two time intervals. It was carried out in the autumn 2003 and spring 2004 for the first time and in the autumn 2011 and spring 2012 for the second time. Each research plot consists of four plots with the size of 0.2 × 0.2 m. There the soil pit was made at depth of 0.2 m and fractions of potential food for wild boars were separated. Fruits, roots and other fractions were classified as the food of plant origin and insects, molluscs, annelids and other fractions as the food of animal origin. The highest weight of plant fractions showed the hunting section with the approximate amount of 14.5–16.0 t ha–1. Within the plant food, roots prevail (95%) and significantly smaller part of 34% accounts for the fruits. Food of animal origin represents only 1–2% of the total share and consists mainly of annelids. Other fractions such as insects and molluscs reach less than half a per cent.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/3_3/Acta_Facultatis_Forestalis/lf-aff_56-1-2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta  Facultatis Forestalis Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0231-5785</ags:citationIdentifier>
+      <ags:citationNumber>v.56/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

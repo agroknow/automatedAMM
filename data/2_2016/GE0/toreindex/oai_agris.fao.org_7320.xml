@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="GE2016007320">
+    <dc:title xml:lang="en">Transformation of biologically active stilbenoids from grapevine to red wine, food supplement and beverage.</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bezhuashvili M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vashakidze p.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Elanidze L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vepkhishvili N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q05</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">beverages</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">food supplements</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">grapevines</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_896</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25006</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3360</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Cis- and Trans-piceid stilbenoids have been identified and determined in juice and skin of the red-grape vine varieties growing in Georgia. The experiment used different grape varieties, such as Saperavi, Cabernet Sauvignon, Otskhanuri Sapere, Aleksandrouli, Mujuretuli, Shavkapito, Tavkveri, Aladasturi, Dzelshavi, Ojaleshi. The substance isolated by means of preparations was identified with acid hydrolysis, thin-layer and high-effective liquid chromatography and UV-spectroscopy. It was found that the grape juice contains more trans-piceid, while the grape skin contains more cis-piceid. It was for the first time, trans-resveratrol was identified in the shoots of Saperavi grape (Vitis vinifera L.). Based on the gained data, the transformation of the grape stilbenoids in the red wine identified by us was fixed. We have developed the technologies to produce biologically active products containing stilbenoids by using the grapes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://agrscience.ge</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Annals of agrarian science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1512-1887</ags:citationIdentifier>
+      <ags:citationNumber>v.12/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

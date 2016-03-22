@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100436">
+    <dc:title xml:lang="en">Influence of nitrogen compounds on growth and the nitric oxide (NO) content in roots of etiolated pea seedlings</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Glyan’ko A.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mitanova N.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ischenko A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Potassium nitrate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nitric oxide</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6141</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36996</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The data on the influence of different concentration of sodium nitroprusside (SNP), potassium nitrate (KNO3), sodium nitrite (NaNO2) and L-arginine on 3 days-old etiolated pea seedlings growth and nitric oxide (NO) content in roots of these seedlings are obtained. It is found that 24 h exposition of seedlings to SNP showed negative influence on growth at a 4 mM dose</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">SNP at 0.05 mM doze stimulates their growth and 0.1 mM doze did not influence on seedlings growth. Using KNO3 negative influence on growth at the same exposition was showed only at superhigh concentration – 20 mM. Using NaNO2 negative influence on growth was shown at a doze of 2 mM but concentration of 0.1 and 0.5 mM did not influence on it. The exposition of seedlings to L-arginine caused growth inhibition already at concentration of 0.5 mM and reached maximum at 4 mM doze. Determination of NO level in roots using fluorescent probe DAF-2DA in variants with the greatest growth inhibition has showed, that the maximal inhibition of growth in roots and highest level of NO in roots in variants with SNP (4 mM) and NaNO2 (2 mM) was observed. In variants with KNO3 (20 mM) and L-arginine (4 mM) maximal growth inhibition did not coincide with NO accumulation and was observed after 30 min after the beginning of plants exposition and further it was reduced in 24 h. Results are discussed in connection with possible influence NO and participation of the investigated connections in generation nitric oxide in roots of pea seedlings.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N4/JSPB_2012_4_276-288.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

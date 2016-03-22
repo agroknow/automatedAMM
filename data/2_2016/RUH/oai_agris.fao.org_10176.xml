@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10176">
+    <dc:title xml:lang="ru">ХИМИЧЕСКИЙ МУТАГЕНЕЗ - ЭФФЕКТИВНЫЙ МЕТОД СОЗДАНИЯ ВЫСОКОПОТЕНЦИАЛЬНОГО ИСХОДНОГО МАТЕРИАЛА ХЛОПЧАТНИКА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>CHEMICAL MUTAGENESIS - AN EFFECTIVE METHOD OF CREATION HIGH POTENTIAL INITIAL MATERIAL OF COTTON PLANT</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ТАГИЕВ  А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Азербайджанский Научно-Исследовательский Институт Хлопководства</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cotton</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hybrids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mutants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fibre crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3707</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5013</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2876</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Использование индуцированных мутантов, одновременно несущих несколько измененных признаков в различных комбинациях скрещиваний, показали высокую эффективность этого метода, ускоряющего селекционный процесс и повышающего результативность мутационной селекции за счет расширения спектров изменчивости, увеличения числа форм, комплексно сочетающих 5-7 ценных признаков, а также появление растений с 8 хозяйственно-важными показателями, с усилением степени выраженности ценных мутантных признаков у различных рекомбинантов.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Application of the induced mutants carrying some changed characters at a time in different cross-breeding combinations showed high efficiency of this method, which quickens the breeding process and rises the result of mutation breeding due the widening of the changing specters, increasing the number of forms with complex of 5-7 valuable characters, appearance of plants with 8 economically important characters and fastening the express of valuable mutant characters of different recombinants.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/03/2-1-33.pdf#page=21</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.2 (33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

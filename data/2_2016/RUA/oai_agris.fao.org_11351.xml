@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A11351">
+    <dc:title xml:lang="en">AN ANNIVERSARY OF A SCIENTIST IN FORESTRY (VICTOR ILYICH PCHELIN IS 85 YEARS OLD)</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЮБИЛЕЙ УЧЁНОГО-ЛЕСОВОДА (ВИКТОРУ ИЛЬИЧУ ПЧЕЛИНУ – 85 ЛЕТ)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ALEKSEEV Ivan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MALKOV Yuri</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SEREBRYAKOVA Natalia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Victor Ilyich Pchelin, professor, Doctor of Agricultural Sciences, outstanding scientist and forester, wise and benevolent head, attentive and skilled teacher and really a good person was 85 years old on the 29th of June 2014. Victor Ilyich was born in Pochinky village of Gorky area. He greatly contributed to the studying of intraspecies variety and bioecological features of forest forming species in Central Volga Area.  Many researches  of V.I. Pchelin were devoted to the problems of formation of high productive forest plantings. Development of technologies, aimed at establishment of plantations of wood species, development of recommendations concerning optimization of structure of forest stands, cultivation of high-quality wood of purpose were made. The best part of V. I. Pchelin papers is still relevant for today. He is the author of "Dendrology" textbook (the book is intended for Higher Education Institutions), two monographs, five manuals, about 150 scientific papers and a copyright certificate.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Значительный вклад В. И. Пчелин внёс в изучение внутривидового разнообразия и биоэкологических особенностей лесообразующих видов Среднего Поволжья, большой объём исследований был посвящён проблемам формирования высокопродуктивных лесных насаждений. Им разработаны технологии создания плантационных культур древесных видов, даны рекомендации по оптимизации состава древостоев, выращиванию высококачественной древесины целевого назначения. Значительная часть работ В.И. Пчелина является актуальной и в настоящее время. Автор учебника «Дендрология» для вузов.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/56/33</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.22/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

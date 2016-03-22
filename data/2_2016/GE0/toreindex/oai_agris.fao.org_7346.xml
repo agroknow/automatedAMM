@@ -1,0 +1,48 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="GE2016007346">
+    <dc:title xml:lang="en">Plants potential for application in phytoremediation with the aim of production of healthy food</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sadunishvili T.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">phytoremediation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Metabolism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant biotechnology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">phytosociology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36976</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4769</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27590</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The constant increase of environmental pollution is one of the most important and unsolved global problems. Bio and phytoremediation technologies are the most reliable, ecologically friendly and cost-effective technologies for rehabilitation of polluted ecosystems. Plants are equipped with remarkable metabolic and absorption capabili- ties, as well as transport systems that allow them to uptake and transform environmental organic pollutants into nontoxic compounds or carry out their complete mineralization. Phytoremediation exploits plant physiological processes to decontaminate agricultural soils, industrial sites, brownfields, sediments and water or to improve food chain safety by phytostabilisation of toxic elements. Knowledge on the detoxification mechanisms in plants is essential to understand the fate of contaminants in plants and food, non-food and technical crops. Current paper presents data on the effect of benzene on oxidative enzymes and key enzymes of regular metabolism in different plants. Ryegrass, trifoliate orange and privet being exposed to benzene different concentrations exhibited high activities of regular metabolic and oxidative enzymes. These plants could be recommended for phytoremediation of soils polluted with benzene.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://agrscience.ge/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Annals of agrarian science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1512-1887</ags:citationIdentifier>
+      <ags:citationNumber>v.12/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

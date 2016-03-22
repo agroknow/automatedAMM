@@ -1,0 +1,36 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016314011">
+    <dc:title xml:lang="en">Substantiation of necessity the formation of the Russian forest sector management from a position of bio-socio-economic systems</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Muravieva M.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">system</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forest management</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330985</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16129</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">It reflected the crisis in the system of forest management and development of the forest sector of the economy of our country. Provisions are proposed to resolve the crisis on the basis of the transition to the intensive development model, which will help in the creation of such principles of forest management that would consider the forest sector as a bio-socio-economic system, affecting the elements of the natural, social and economic nature.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Экономика и предпринимательство</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1999-2300</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1-1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

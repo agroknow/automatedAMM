@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09155">
+    <dc:title xml:lang="ru">ОЦЕНКИ ТЕРМИЧЕСКОГО СОСТОЯНИЯ МНОГОЛЕТНЕМЕРЗЛЫХ ГРУНТОВ: РЕЗУЛЬТАТЫ МОДЕЛИРОВАНИЯ И ДАННЫЕ НАБЛЮДЕНИЙ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EVALUATION OF PERMAFROST THERMAL STATE: MODEL CALCULATIONS AND OBSERVATIONS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>АРЖАНОВ М.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>КАЗАНЦЕВ В.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Институт физики атмосферы им. А.М. Обухова РАН</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">B10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">permafrost areas</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">climatic change</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Models</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5715</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35367</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">С использованием данных наблюдений за приповерхностной температурой и толщиной снежного покрова на метеостанции п. Тазовский выполнен расчет термического состояния многолетнемерзлых грунтов на разной глубине за период 2006-2013 гг. Проведено сравнение полученных результатов с измеренными профилями температуры на экспериментальных площадках с минеральным и органическим грунтом.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Using observations of the surface temperature and the snow depth on the Weather item Taz the thermal state of permafrost at different depths for the period 2006-2013 is calculated. The results are compared with the measured temperature profiles at experimental sites with mineral and organic soil.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/4-4-23.pdf#page=41</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4 (23)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

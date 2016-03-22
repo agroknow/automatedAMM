@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01176">
+    <dc:title xml:lang="en">Impact of bovine somatotropin (BST)on the milk production and genetic evaluation of Holstein cattle</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Impacto da utilização da somatotropina bovina (bST) sobre a produção de leite e a avaliação genética de bovinos da raça Holandesa</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>RODRIGUES,  M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOREIRA,  H. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FARO,  L. E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CARDOSO,  V. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PAZ,  C. C. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">evaluation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dairy cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bovine somatotropin</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3222</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2736</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29329</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this work was to study the influence of the use of bovine somatotropin (bST) on milk yield (MP305) and genetic evaluation of MP305 of Holstein Cattle. Data from 474 bulls and observations concerning 3.341 lactations of 1.271 cows during the period from 1999 to 2003 were used. Variance analysis was performed by the GLM SAS procedure (2003) and parameters in one animal model. The heritability estimates for model 1(bST as a fixed effect) and model 2 (absence of this effect) were respectively 0.26 and 0.23 for the two analyses and correlations between estimated breeding values for bulls sets a (all evaluated), b (best 20%), c (best 10%) and d (best 5%) were, respectively, 0.9484, 0.9829, 0.9752 and 0.8974. Variance analysis of variance showed that the average PL305 increased significantly (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo do presente trabalho foi estudar a influência do uso da somatotropina bovina (bST) sobre a produção de leite (PL305) e a avaliação genética da PL305 de bovinos da raça Holandesa. Foram utilizados dados referentes a 474 touros e observações referentes a 3341 lactações de 1271 vacas, durante o período de 1999 a 2003. A análise de variância foi realizada pelo procedimento GLM do SAS (2003) e os parâmetros genéticos sob modelo animal unicaracterístico. As estimativas de herdabilidades para o modelo 1 (bST como efeito fixo) e modelo 2 (ausência desse efeito) foram respectivamente de 0,26 e 0,23 e a correlações entre os valores genéticos preditos para os conjuntos de touros a (todos avaliados), b (os melhores 20%), c (os melhores 10%) e d (os melhores 5%) foram, respectivamente, 0,9484, 0,9829, 0,9752 e 0,8974. A análise de variância demonstrou que as médias de PL305 aumentaram significativamente (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1378833607.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

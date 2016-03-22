@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012434">
+    <dc:title xml:lang="en">Rep-PCR typing of Staphylococcus spp. strains in meat paste production line and identification of their origin</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Manga Ivan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Klimešová Marcela</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Horáček Jiří</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Koláčková, I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bjelková Marie</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ponížil Antonín</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nejeschlebová Ľudmila</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">meat processing plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pollutants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">STAPHYLOCOCCUS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28609</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6076</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7368</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A meat paste production line and its microbial parameters have been evaluated in single Czech company. The raw meat paste samples before heat treatment were tested positively for the presence of three staphylococci species: Staphylococcus aureus, Staphylococcus haemolyticus and Staphylococcus epidermidis. Subsequent microbial analysis of meat paste components and ingredients (fresh meat, water, spices, equipment) identified only the spices used as positive for S. aureus (coriander, cinnamon, badian, mustard – (10 - 40 cfu/g)) and S. haemolyticus strains (juniper, ginger). The collection of sixteen collected strains (S. aureus (n = 4), S. haemolyticus (n = 4), S. epidermidis (n = 8)) has been typed with the rep-PCR method utilising (GTG)5 primer. Analysis of the fingerprints using the unweighted pair-group method using arithmetic averages (UPGMA) clustering method revealed presence of eleven strain clusters with similarity lower than 90%: two fingerprint clusters of S. aureus, three individual clusters characteristic for S. haemolyticus and six different S. epidermidis specific clusters. The S. aureus strains from different types of spice were identical, resp. very similar. Molecular tracking composed from the rep-PCR analysis of acquired isolates and comparison among all collected fingerprints confirmed the spices to be the source of both S. aureus and S. haemolyticus strains identified in raw meat paste. The additional rep-PCR analysis of the S. epidermidis collection confirmed usability and performance of this method. The antibiotic susceptibility to fourteen individual antibiotics has been examined among the collected staphylococci strains. The predominant erythromycin resistance (68.8%) was followed with the resistance to amoxicillin/clavulanic acid (56.2%). Other resistances observed were less frequent (clindamycin – 12.5%, oxacillin – 6.3%, tetracycline – 6.3%, sulphamethoxazole-trimethoprim – 6.3%, chloramphenicol – 6.3%, novobiocin – 6.3%). As shown by our experimental results, rep-PCR with the (GTG)5 primer is an applicable tool for typing of bacterial strains and may be used for identifying the source of contamination.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/465/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

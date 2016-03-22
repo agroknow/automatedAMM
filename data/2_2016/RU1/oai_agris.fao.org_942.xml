@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100942">
+    <dc:title xml:lang="en">Studying the Relationship Between Climatic Factors and Cotton Production by Different Applied Methods</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sawan Zakaria M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cotton</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Evaporation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">humidity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Temperature</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2739</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3689</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7657</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This  study  investigates  the  statistical  relationship  between  climatic  variables  and  aspects  of cotton  production  (G.  barbadense),  and  the  effects  of  climatic  factors  prevailing  prior  to flowering or subsequent  to boll  setting on  flower  and  boll  production  and  retention  in  cotton. Also,  the  study covers  the predicted  effects  of  climatic  factors  during  convenient intervals (in days) on cotton flower and boll production compared with daily observation. Further, cotton flower  and  boll production  as  affected  by  climatic  factors  and  soil  moisture  status  has  been considered. Evaporation, sunshine duration, relative humidity , surface soil temperature at 1800 h,  and maximum  air  temperature  are the important  climatic  factors that  significantly  affect flower  and  boll  production.  The  least  important  variables  were  found  to  be  surface  soil temperature  at 0600  h and minimum  temperature.  The five-day  interval was  found  to  be more adequately  and  sensibly  related  to  yield  parameters.  Evaporation,  minimum  humidity  and sunshine duration  were the most  effective  climatic  factors during  preceding  and  succeeding periods on boll production and retention. There was a negative correlation between flower and boll  production  and  either  evaporation  or  sunshine  duration,  while  that  correlation  with minimum  relative  humidity  was  positive. The soil moisture  status showed low  and in significant correlation with flower and boll production. Higher minimum  relative  humidity, short  period of sunshine duration, and low temperatures enhanced flower and boll formation.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N4/JSPB_2013_4_251-278.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

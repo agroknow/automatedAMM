@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016301772">
+    <dc:title xml:lang="en">Design, installation and calibration of a weighing lysimeter for crop evapotranspiration studies</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Projeto</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>instalação e calibração de um lisímetro de pesagem para estudos de evapotranspiração de culturas agrícolas</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Schmidt Carlos Daniel Seifert</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pereira Francisco Adriano de Carvalho</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Oliveira Aureo Silva de</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gomes Júnior João Fonseca</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vellame Lucas Melo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lysimeters</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nicotiana tabacum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4486</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5177</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Lysimeters are tanks filled with soil commonly used in studies of crop ET and movement of water and
+chemicals in the soil profile. The objective of this work is to describe the procedures for construction, installation
+and calibration of a precision weighing lysimeter for water demand studies of Sumatra type tobacco (Nicotiana
+tabacum L.) in Bahia, Brazil. The lysimeter was 1.60 m long, 1.10 m wide and 0.60 deep, with an internal soil
+surface of 1.76 m2. The lysimeter was installed in an area covered by a 30% shading screen used specifically for
+production of this type of tobacco. The inner box of the lysimeter was made of steel plates and the outer box
+was built on site with burnt-clay bricks bonded with cement mass. The weighing platform comprised four 1,000
+kg capacity load cells placed underneath the inner tank and a datalogger for data recording. The lysimeter was
+calibrated in the field using standard loads of known mass. Five cycles of loading and unloading were performed
+(47 points) in the range of 0 to 110 kg (62.5 mm). The system showed a strong linear relationship between standard
+mass and load cells output (r2 &gt; 0.99 and Sy/x = 0.033 mm). The load cell accuracy, which combines the effects of
+hysteresis, linearity and repeatability errors, was found to be of the order of ±0.06 mm and the datalogger was
+found to be able to resolve mass changes less than 0.1 mm. These uncertainty parameters combined with the
+ability of the lysimeter to respond to relatively small mass changes suggest that the weighing lysimeter herein
+described is adequate to measure tobacco ET over time periods of one hour or longer. The investment was around
+US$ 5,100.00, including hardware and field work for installation.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Lisímetros são tanques preenchidos com solo comumente utilizados em estudos de ET das culturas
+e movimento da água e solutos no perfil do solo. O objetivo deste trabalho é descrever os procedimentos de
+construção, instalação e calibração de um lisímetro de pesagem para estudo da demanda de água do fumo
+(Nicotiana tabacum L.) tipo Sumatra, na Bahia, Brasil. O lisímetro, com área interna de 1,76 m2, tinha 1,10 m
+de largura, 1,60 m de comprimento e 0,60 m de profundidade e foi instalado em área comercial de fumo coberta
+com tela de sombreamento de 30%. A caixa interna era feita de chapas de aço e a caixa externa de alvenaria
+construída no campo. A plataforma de pesagem continha quatro células de carga com capacidade de 1.000 kg e
+um datalogger para armazenamento dos dados. O lisímetro foi calibrado no campo por meio de pesos-padrão no
+intervalo de 0 a 110 kg (62,5 mm). O procedimento de calibração incluiu cinco ciclos de incremento e decremento
+(47 pontos) do peso total do lisímetro. Como esperado, o sistema mostrou forte relação linear (r2 &gt; 0,99 e Sy/x =
+0,033 mm) entre os pesos-padrões e o sinal das células de carga. A acurácia das células de carga, que combina
+os erros de histerese, linearidade e repetibilidade, foi em torno de ±0.06 mm. A resolução do datalogger foi
+inferior a 0,1 mm. Estes dados de desempenho combinados à sensibilidade do lisímetro a pequenas variações de
+massa sugerem que o lisímetro de pesagem aqui descrito é adequado para medição da ET do fumo em intervalos
+de tempo iguais ou superiores a uma hora. O custo total do sistema foi da ordem de US$ 5.000,00, incluindo
+equipamento e mão de obra para instalação.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.ufrb.edu.br/wrim/images/wrim-2-2-2013/v02n02a02.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Water Resources and Irrigation Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2316-6886</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

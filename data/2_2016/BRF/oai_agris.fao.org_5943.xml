@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F05943">
+    <dc:title xml:lang="en">Use of two sources of urea in the diet of crossbred lambs finished under a semi-intensive system</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Uso de duas fontes de ureia na dieta de cordeiros mestiços terminados em sistema semi-intensivo</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>GALLO,  S.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PEREIRA, E.C.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>REIS, V.P.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weight gain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">encapsulation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8350</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12459</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28357</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study compared the effect of genetic group and diet containing two sources of urea on the performance, carcass and meat traits of lambs. The experiment was conducted at FAZU, Uberaba, MG. Twelve crossbred Dorper and 12 crossbred Texel lambs, obtained by the crossing of Santa Inês ewes with pure rams of each breed, were divided into two groups and maintained on Áries paddocks (Panicum maximum cv. Áries). The animals received concentrate containing ureia or encapsulated urea ad libitum. A completely randomized factorial design was used, in which the two sources of non-protein nitrogen and the two genetic groups (Dorper or Texel crossbreds) were evaluated. Means were compared by the Tukey test at a probability level of 5%. The treatments did not influence daily weight gain (0.256 kg/day). The use of encapsulated urea increased hot and cold carcass yield when compared to the diet containing urea. Cooling losses were lower for Texel crossbreds (3.87%) compared to Dorper crossbreds (6.88%). Fat thickness (1.81 mm), conformation (2.98), L value (36.77), a* value (6.04), b* value (6.73), or shear strength (5.68 kgf) was not altered by the treatments applied. Encapsulated urea provided a higher carcass yield and lower cooling losses.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O estudo comparou o efeito de grupo genético e dieta com duas fontes de ureia sobre características de desempenho, carcaça e carne de cordeiros. O experimento foi realizado na FAZU, Uberaba, MG. Utilizaram-se 12 cordeiros mestiços Dorper e 12 mestiços Texel, oriundos de cruzamento de matrizes Santa Inês com reprodutores puros de origem de cada raça. Os cordeiros foram divididos em dois grupos e mantidos em piquetes de capim Áries (Panicum maximum cv. Áries), recebendo concentrado contendo ureia pecuária ou ureia encapsulada, à vontade. O delineamento experimental foi inteiramente casualizado em esquema fatorial onde se avaliou as duas fontes de nitrogênio não proteico e dois grupos genéticos (mestiços Dorper ou Texel). As médias foram avaliadas pelo teste de Tukey a 5% de probabilidade. Os tratamentos não influenciaram o ganho de peso diário (0,256 kg/dia). O uso da ureia encapsulada proporcionou maior rendimento de carcaça quente e fria quando comparada a dieta com ureia pecuária. As perdas por resfriamento foram menores para os mestiços Texel (3,87%) em comparação aos mestiços Dorper (6,88%). A espessura de gordura (1,81 mm), conformação (2,98), valores de L (36,77), teor de a* (6,04), teor de b* (6,73) e força de cisalhamento (5,68 kgf) não foram alterados pelos tratamentos empregados. A ureia encapsulada proporcionou maior rendimento de carcaça e menor perda no resfriamento.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1427133638.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

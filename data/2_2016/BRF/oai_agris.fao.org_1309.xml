@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01309">
+    <dc:title xml:lang="en">Supplementation with different energy and protein sources on the feeding behavior and performance of dairy heifers grazing Marandu during the dry season</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Suplementação com diferentes fontes proteicas e energéticas sobre o desempenho e o comportamento ingestivo de novilhas mestiças leiteiras mantidas a pasto de capim Marandu na época da seca</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SIGNORETTI, R. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOUZA, F. H. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, E. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SCHMIDEK,  A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PESSIM, B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Grazing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ruminants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">time</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cottonseed</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soybeans</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25243</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6695</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7778</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25473</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14477</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study aimed to evaluate the effect of supplementation different energy and protein sources in the dry season of the year, on body development and diurnal feeding behavior of crossbred Gir x Holstein dairy heifers 12.8 ± 4.6 months old, 215.50 ± 43.2 kg average body weight were distributed in Brachiaria brizantha cv. Marandu pasture with supplements being offered daily in proportion of 0.75% of the body weight. A completely randomized block design with a 2 x 2 factorial arrangement was used, with six replicates per treatment. Supplements contained whole soybean (WS) or whole cottonseed (WC) as the protein sources and citrus pulp (CPU) or corn (C) as the energy sources. Marandu grass pasture was managed according a rotational grazing system, six days grazing and 30 days of rest period. It was recorded the animals weight, height at withers, heart girt, rump length and corporal score after the grazing cycle. The considered behavioral variables were grazing time, ruminating time, idle time, trough time. No significant differences on the initial, heart girt, height at withers, rump length and corporal score final and initial to protein and energy sources. However, a significant effect was observed (P0.05). The WS base supplemented animals had kept lesser time eating supplement in comparison to the WC base supplemented ones (P0.05). The hour of the day influenced all the considered behaviors (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se avaliar o efeito de diferentes fontes proteicas e energéticas em suplementos múltiplos, na época da seca do ano, sobre o desenvolvimento corporal e o comportamento ingestivo diurno de novilhas mestiças Gir x Holandês, com idade média de 12,8 ± 4,6 meses e peso corporal (PC) médio inicial de 215,50 ± 43,2 kg, em pastagem de Brachiaria brizantha cv. Marandu. Empregou-se como fonte proteica grão de soja (GSI) ou caroço de algodão (CAI) inteiros e milho moído (M) ou polpa cítrica (POC) como fonte de energia, em delineamento em blocos ao acaso, esquema fatorial 2 x 2, com seis repetições por tratamento. Os suplementos foram fornecidos diariamente na proporção de 0,75% do PC. Ao final de cada ciclo de pastejo (36 dias) os animais foram pesados e mensurados quanto à altura na cernelha, perímetro torácico, comprimento da garupa e condição corporal. As variáveis comportamentais consideradas foram tempo em pastejo, tempo ruminando, tempo em ócio, tempo no cocho. Não foram verificadas diferenças (P&gt;0,05) no perímetro torácico inicial, na altura da cernelha, no comprimento da garupa e na condição corporal iniciais e finais entre as fontes de proteína e de energia. No entanto, as novilhas suplementadas com CAI apresentaram maior (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1365795007.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.69/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

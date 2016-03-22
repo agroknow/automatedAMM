@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H07698">
+    <dc:title xml:lang="ru">ДИНАМИКА СПЕКТРАЛЬНОЙ ПРОЗРАЧНОСТИ ВОДЫ РАЗНОТИПНЫХ ОЗЁР АЛТАЙСКОГО КРАЯ В РАЗНЫЕ СЕЗОНЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>SEASONAL DYNAMICS OF WATER SPECTRAL TRANSPARENCY IN DIFFERENT LAKES OF ALTAI KRAI</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Суторихин И.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Букатый В.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Акулова О.Б.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Институт водных и экологических проблем СО РАН</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lakes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">water</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Phytoplankton</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chlorophylls</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4160</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8309</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13344</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1577</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Основными целями и задачами проведённого исследования является изучение сезонной динамики спектральной прозрачности воды на разных глубинах озёр, нахождение зависимости прозрачности от содержания хлорофилла "а" и оценка влияния дисперсных частиц взвеси на показатель ослабления света в изучаемых водоёмах. В работе приведены результаты экспериментальных исследований спектральной прозрачности воды в диапазоне 400−800 нм в различные сезоны 2011−2013 гг. для трёх разнотипных озёр Алтайского края, обнаружена обратная зависимость величины прозрачности от концентрации основного фотосинтетического пигмента.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The main goals and objectives of the research is to study the seasonal dynamics of water spectral transparency at different depths of lakes, the estimation of chlorophyll "a" dependence of transparency, and the assessment of the suspended dispersed particles impact on the light attenuation coefficient in water bodies under study. The work presents the results of experimental investigation of water spectral transparency in the range of 400−800 nm during several seasons of 2011−2013 for three different lakes of Altai Krai. The inverse dependence of transparency on the concentration of the main photosynthetic pigment is found.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/3-210.pdf#page=126</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.3 (10)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

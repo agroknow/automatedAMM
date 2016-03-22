@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102557">
+    <dc:title xml:lang="en">A comparison of antioxidant properties of extracts from defatted and non-defatted flax (Linum usitatissimum) seeds</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BRODOWSKA KATARZYNA 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CATTHOOR RIK 2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRODOWSKA AGNIESZKA JOANNA 3</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SYMONOWICZ MARZENA4</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CHRUŚCIŃSKA ELŻBIETA ŁODYGA-5</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Ph.D. Student in Bioinorganic Chemistry and Environmental Analysis, Institute of General Food Chemistry, Department of Biotechnology and Food Sciences, Lodz University of Technology, Lodz, Poland.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2B.Sc. Student in Bioscience Engineering, Department of Sustainable Organic Chemistryand Technology, Ghent University, Ghent, Belgium.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>3Ph.D. Student in Bioorganic chemistry and raw cosmetic materials, Institute of General Food Chemistry, Department of Biotechnology and Food Sciences, Lodz University of Technology, Lodz, Poland.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>4Ph.D. Student in Bioinorganic Chemistry and Environmental Analysis, Institute of General Food Chemistry, Department of Biotechnology and Food Sciences, Lodz University of Technology, Lodz, Poland.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>5Professor, Institute of General Food Chemistry, Department of Biotechnology and Food Sciences, Lodz University of Technology, Lodz, Poland.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Flax seeds are an abundant source of lignans, which have antioxidant properties and significantly reduce the effects of free radicals. This paper presents total polyphenol content (TPC), free radical scavenging activity, and ferric reducing antioxidant power (FRAP) in extracts from defatted and non-defatted flax seeds. The obtained results have revealed that the ability of defatted flaxseed extracts to scavenge the DPPH radical was at the level from 19.7 to 76.1 %, while the scavenging capacity of non-deffated flaxseed extracts ranged from 25.7 to 76.3 %. Among the defatted and non-defatted flaxseed extracts, the second one has shown stronger ferric ion reducing activity with 0.062 ± 0.007 mmol TE/g of flaxseed extract. Studies on the total polyphenol content of flaxseed extracts demonstrate a higher amount of polyphenols in defatted flaxseed extracts (98.8 mg/100g). It was observed that non-defatted flaxseed extracts contain nearly one-third less polyphenols (61.3 mg/100g) compared to defatted flaxseed extracts.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4Ojc2MWE4YzExZDcyNDViNjU</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

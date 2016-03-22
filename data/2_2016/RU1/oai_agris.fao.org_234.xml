@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100234">
+    <dc:title xml:lang="en">BIOLOGICAL FUNCTION OF TOMBUSVIRUS-ENCODED SUPPRESSOR OF RNA SILENCING IN PLANTS</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Omarov R.T</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bersimbay R.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">viruses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">рнк</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8262</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6618</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">RNA interference (RNAi) plays multiple biological roles in eukaryotic organisms to regulate gene expression. RNAi also operates as a conserved adaptive molecular immune mechanism against invading viruses. The antiviral RNAi pathway is initiated with the generation of virus-derived short-interfering RNAs (siRNAs) that are used for subsequent sequence-specific recognition and degradation of the cognate viral RNA molecules. As an efficient counter-defensive strategy, most plant viruses evolved the ability to encode specific proteins capable of interfering with RNAi, and this process is commonly known as RNA silencing suppression. Virus-encoded suppressors of RNAi (VSRs) operate at different steps in the RNAi pathway and display distinct biochemical properties that enable these proteins to efficiently interfere with the host-defense system.
+Tombusvirus-encoded P19 is an important pathogenicity factor, required for symptom development and elicitation of a hypersensitive response in a host-dependent manner. Protein plays a crucial role of TBSV P19 in protecting viral RNA during systemic infection on Nicotiana benthamiana. The X-ray crystallographic studies conducted by two independent groups revealed the existence of a P19-siRNA complex</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">a conformation whereby caliper tryptophan residues on two subunits of P19 dimers measure and bind 21-nt siRNA duplexes. These structural studies provided the first details on the possible molecular mechanism of any viral suppressor to block RNAi. The association between P19 and siRNAs was also shown to occur in infected plants These and related studies revealed that in general the ability of P19 to efficiently sequester siRNAs influences symptom severity, however this is not a strict correlation in all hosts. The current working model is that during TBSV infection of plants, P19 appropriates abundantly circulating Tombusvirus -derived siRNAs thereby rendering these unavailable to program RISC, to prevent degradation of viral RNA and thus permit maintenance of viral RNA for systemic invasion. Evidence in support of this notion is that infection of N. benthamiana with P19-deficient tombusviral mutants was associated with the assembly of a discrete, high molecular weight RISC-like complex, which contains virus-derived siRNAs and exhibits specific ribonuclease activity.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S3.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

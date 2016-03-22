@@ -1,0 +1,78 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H13756">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ ПРЕДПОСЕВНОЙ ОБРАБОТКИ НА УВЕЛИЧЕНИЕ ВЫХОДА ЗЕЛЁНОЙ МАССЫ РАСТЕНИЙ И ИХ УСТОЙЧИВОСТЬ К ИЗМЕНЕНИЮ УСЛОВИЙ ПРОИЗРАСТАНИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INFLUENCE OF PREPLANT PROCESSING ON THE INCREASE IN GERMINATION OF GREEN MASS OF PLANTS AND THEIR RESISTANCE AGAINST THE CHANGE OF GROWING CONDITIONS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Васильев А.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Джанибеков  А.К.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Удинцова  Н.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Всероссийский научно-исследовательский институт электрификации сельского хозяйства</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Российский государственный аграрный университет – МСХА им. К.А. Тимирязева</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Азово-Черноморский инженерный институт Донского государственного аграрного университета</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">J11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Seeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">field experimentation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Climatic factors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6946</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33990</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29554</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18454/IRJ.2015.42.206</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В предлагаемой статье рассматривается влияние различных способов предпосевной обработки семян на
+увеличение объема зелёной массы. Оценивается, какой способ предпосевной обработки в меньшей степени зависит
+от влияния климатических факторов на эффективность обработки семян.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the proposed article it is considered how different ways of preplant grain processing influence on the increase in
+volume of green mass of plant. It is estimated which procedure of preplant processing is in the least dependency on the
+influence of climatic factors on the effieciency of seed processing.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/12/11-6-42.pdf#page=50</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.11-6(42)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

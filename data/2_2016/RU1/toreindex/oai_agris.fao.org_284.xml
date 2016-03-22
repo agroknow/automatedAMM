@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100284">
+    <dc:title xml:lang="en">DISRUPTION OF ARABIDOPSIS RETICULON GENE RTNLB16  RESULTS IN CHLOROPLAST DYSFUNCTION AND OXIDATIVE STRESS</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tarasenko V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Garnik E.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Katyshev A.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Subota I.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Konstantinov Yu.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Endoplasmic reticulum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Arabidopsis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth rate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2560</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33291</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16130</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Reticulons (RTNs) are endoplasmic reticulum (ER)-localized proteins that have recently attracted much attention. RTNs are ubiquitous proteins present in all eukaryotic organisms examined so far. In animal and yeast, in which knowledge of this protein family is more advanced, RTNs are involved in numerous cellular processes such as apoptosis, cell division and intracellular trafficking. Up to now, a little attention has been paid to their plant counterparts, RTNLBs. Meanwhile, gene search across sequenced genomes revealed that the RTN gene family is more diverse and numerous in plants than in animals and yeasts, which possibly suggests existence of functions specific for plant RTNs. Recently, the localization in different ER regions was shown for two members of plant reticulon family. The location in close proximity to chloroplast membrane was revealed for one of RTNLBs, which is argument in favor of its role in interorganellar interactions. In spite of growing interest towards to plant RTNs, there are no investigations devoted to insertion mutagenesis of genes encoding these proteins. We have genotyped an Arabidopsis line containing T-DNA insertion in RTNLB16 gene encoding uncharacterized member of RTNLB family. The obtained homozygous plants have arked phenotype expressed in a decreased growth rate and a pale-green leaf color. The leaf total chlorophyll content as well as the chlorophyll a/b ratio was significantly lower in mutant plants. It is interesting to note that the extent of phenotypic expression depended on a light intensity. The growth rate of wild-type and mutant plants was the same in low light conditions. The growth rate was significantly decreased and chlorophyll content was 3-5-fold lower in mutant plants growing under moderate light conditions. The growing of plants under high light conditions led to halted growth and death of mutants on the seedling stage. The demonstrated phenotype probably points out to a chloroplast dysfunction and resembles the phenotype of plants with inactivated genes encoding chloroplast proteins. The study of reactive oxygen species (ROS) level revealed the significantly elevated superoxide content in the mutant plant leaves. Moreover, the measurement of enzymatic activity of different superoxide dismutase isoforms showed an increased level of CuZnSOD which is localized predominantly in chloroplasts. At the same time, the level of mitochondria-localized MnSOD remained unchanged. This fact also points to chloroplasts as a potential source of increased ROS content in mutant plants. To test this hypothesis, we studied the ROS level in the guard cells of mutant and wild-type plants. As a result, the significant increase of chloroplast derived ROS content in guard cells of mutant plants was showed. Therefore, we conclude that an inactivation of the RTNLB16 gene leads to severe defects in chloroplast functioning and assotiated oxidative stress. We suppose that RTNLB16 protein participates in interactions between chloroplasts and other intracellular structures. The work was supported by RFBR (12-04-01027-а) and SB RAS Integration project 59.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S21.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

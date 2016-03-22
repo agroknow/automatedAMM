@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02215">
+    <dc:title xml:lang="en">Short-term culture of bovine bisected embryos effects on pregnancy rates, sex ratio and birth weight of calves</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Cultivo in vitro temporário de embriões bovinos bipartidos. Efeito na posterior taxa de prenhez</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>sexo e peso dos bezerros</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ALVAREZ, R. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>AMARAL,   J. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PIRES,  R. M. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MARTINEZ,  A. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OBA,  E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bovinae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Embryo splitting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">gestation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Culture techniques</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1040</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24835</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11139</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24396</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O presente estudo objetivou avaliar a taxa de prenhez, a duração da prenhez e a taxa de parição após a transferência de embriões bipartidos e reconstituídos in vitro, bem como algumas características (proporção de sexo e peso ao nascimento) dos bezerros produzidos. Embriões (mórulas grau 1) recuperados de vacas superovuladas foram bipartidos com uma lâmina metálica e transferidos em novilhas receptoras logo em seguida (grupo 1, n=38) ou após 24 horas de cultivo (meio EARLE + 10% SFB) a 38,5°C e atmosfera de 5% de CO2 (grupo 2, n=34). Como controle foram utilizados embriões intactos, não cultivados, transferidos logo após a coleta (grupo 3, n=36). Os dados foram analisados utilizando ANOVA e teste de χ2. Os hemi-embriões cultivados que evoluíram ao estágio de blastocisto (78%, 44/56) foram considerados viáveis. A taxa de prenhez no dia 45 após a transferência foi de 47,4%, 52,9% e 52,8% para os grupos 1, 2 e 3, respectivamente (P&gt; 0,05). A taxa de parição foi de 26,3% no grupo 1, 29,4% no grupo 2 e 30,6% no grupo 3 (P&gt; 0,05). Não houve diferença (P&gt;0,05) na duração da prenhez (280,8 ± 1,8, 285,5 ± 1,7 e 285,3 ± 1,7 dias), na proporção de machos (60,0%, 50,0% e 54,5%) e no peso dos bezerros ao nascimento (38,0 ± 4,2, 32,4 ± 2,5 e 36,2 ± 2,6kg) entre os grupos 1, 2 e 3, respectivamente. Foi concluído que o cultivo in vitro dos hemi-embriões durante 24 horas pode ser uma boa medida para eliminar os que não são capazes de continuar seu desenvolvimento, porém, a transferência dos que evoluem em cultivo não aumenta a taxa de prenhez quando comparada à transferência de hemi-embriões não cultivados.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study evaluated pregnancy rate, gestation length, calving rate, and also sex proportion and birth weight of calves derived from in vitro reconstructed bovine demi-embryos. Recovered embryos (grade I morulae) from superovulated cows were bisected with a steel blade and transferred to recipient heifers either immediately (group 1, n=38) or after a 24h period in culture medium (EARLE + 10% FCS) at 38.5 °C and 5% CO2  (group 2, n=34) when showed a reconstituted appearance. Intact, uncultured embryos immediately transferred to recipients after collection (group 3, n=36) were used as control. Data were analyzed by ANOVA and Chi-square test. In vitro cultured demi-embryos that developed from morulae to blastocyst (78%, 44/56) were considered viable. Pregnancy rate at day 45 was 47.4%, 52.9%, and 52.8% for groups 1, 2, and 3 respectively (P&gt; 0.05). Calving rate reached 26.3% in group 1. 29.4% in group 2, and 30.6% in group 3 (P&gt; 0.05). No difference was found regarding pregnancy length (280.8 ± 1.8, 285.5 ± 1.7 and 285.3 ± 1.7 days), male proportion (60%, 50% and 54.5%) and birth weight of calves (38 ± 4.2, 32.4 ± 2.5 and 36.2 ± 2.6 kg) among groups 1, 2 and 3, respectively. It was concluded that even though in vitro reconstructed demi-embryos transfer can be of some utility to select the viability of demi-embryos, this procedure is not able to improve pregnancy rates since it does not differ from uncultured demi-embryos.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1227187795.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

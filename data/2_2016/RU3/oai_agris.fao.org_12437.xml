@@ -1,0 +1,29 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016312437">
+    <dc:title xml:lang="ru">Менеджмент  сельского хозяйства Молдовы в условиях европеизации экономических отношениях</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Нестеренко К.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E12</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">В статье отражаются: концепции эффективного использования труда менеджеров и специалистов в условиях становления европейских экономических отношений</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">психолого-педагогического подхода к подбору, подготовке и закреплению кадров, специалистов на производстве</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">теоретические аспекты стиля работы менеджера в условиях европеизации экономических отношений.  На базе проведенных исследований были сделаны практические рекомендации и выводы.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Репутациология</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2071-9094</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.3-4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

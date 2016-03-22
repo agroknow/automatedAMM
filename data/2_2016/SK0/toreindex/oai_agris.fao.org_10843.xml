@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016010843">
+    <dc:title xml:lang="sk">Antioxidačná aktivita lucernovej múčky a kvalita kuracieho mäsa</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>The lucerne meal antioxidant activity and quality of chicken meat</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tkáčová Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Angelovičová Mária</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture in Nitra, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Nitra</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">compound feeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Medicago sativa</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">meal patterns</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2838</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1796</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4693</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4667</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12459</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Scientific monograph was focused on the finding of the lucerne meal antioxidant activity and its effect on the quality of chicken meat. in the experiments was verified the effect of addition of lucerne meal in the proportion of 2, 4 and 6 percent in the feed mixtures of final type chickens Ross 308 and Cobb 500, The aims of scientific monograph were to investigate and evaluate the effects of the lucerne meal biologically active substances, namely the ability of inhibiting 2.2-diphenyl-l- picrylhydrazyl (DPPH) radical, to determine of carotenoid, flavonoid and polyphenol contents, and to investigate and evaluate the effect of lucerne meal biologically active substances on the sustainability of chicken meat quality. It was verified the effective of lucerne meal biologically active substances in vivo with chickens for meat production. It was observed colonization of the intestinal microflora of chickens, dry matter and fat in chicken meat. It was monitored and evaluated sustainability of chicken meat quality by means of acid number of fat, peroxide number, and activity superoxide dismutase depending on the effects of lucerne meal biologically active substances, and the storage period O, 6, 9, 12 and 18 months at -18 degree C. For comparison, the control group was determined without lucerne meal. By the results of the present thesis was confirmed efficacy of lucerne meal biologically active substances in relation to the quality of chicken meat. A propartion of 4 percent lucerne meal in feed mixtures did not affect statistically significant (p more then 0.05) final body weight of chickens. By the results of acid number of fat was confirmed oxidation process of fat of meat depending on the effects of lucerne meal biologically active substances in the feed mixtures and length of storage of meat. At peroxide value was observed high variability of values. Efficiency of lucerne meal biologically active substances on chicken meat quality of was confirmed by statistically significant differences (p less then 0.05) of superoxide dismutase activity. Based on experimental results obtained in solving the present thesis was recommended further research, especial ly with regard to terms of production safety of the final product - meat chickens, and mechanism of the effects of other types of alfalfa biologically active substances. To feed companies were recommended to use a 4 percent lucerne meal in formulating feed mixtures of chickens for meat production and subsequent application in practice. In relation to consumer chicken meat was recommended to take legislative action to determine the maximum storage period of chicken meat 6 months at -18 degree C from killing chickens.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="ags:ISBN">978-80-552-1116-9</dc:identifier>
+    <dc:type>Book</dc:type>
+  </ags:resource>
+</ags:resources>

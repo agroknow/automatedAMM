@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08598">
+    <dc:title xml:lang="ru">ПОЛИМЕРНАЯ КОМПОЗИЦИЯ И ТЕХНОЛОГИЯ ПОЛУЧЕНИЯ ЗАЩИТНЫХ ДЕГРАДИРУЮЩИХ ПЛЕНОК СЕЗОННОГО ИСПОЛЬЗОВАНИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE TECHNOLOGY FOR ECOLOGICALLY SAFETY SPONTANEOUS DECOMPOSITION FILMS PRODUCTION ON THE BASE OF POLYMER COMPOSITION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>КУРОЧКИНА Г.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Учреждение Российской академии наук Институт физико-химических и биологических проблем почвоведения (ИФХиБПП РАН)</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P33</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">polymers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hydrolysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7156</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32041</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331025</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24940</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Разработаны составы полимерных композиций и способ получения на их основе защитных деградирующих пленок сезонного использования, гидролизующихся в почве после окончания вегетационного периода растений. Композиции саморазрушающихся пленок включают карбамидформальдегидную смолу, модифицирующую добавку, пластификатор, отвердитель и полимер. Составы наполненных полимерных композиций для получения конструкционного материала дополнительно включают наполнитель. Получаемые пленки оптимального состава обладают повышенной эластичностью (до 70 %) и достаточной прочностью 5-6 МПа в начальном состоянии.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The methods of spontaneous decomposition films production for season using on the base of specially development polymer composition was created. After vegetation period of plant growth this films can be spontaneous hydrolyze in soil. This films of optimal composition have a higher elasticity (to 70%), satisfied strength (5-6 MPa) in the initial state and regulated capacity to spontaneous decomposition. The covering of soils by this film can be made using of solution or preferably produced films, flexible tubes end other products. The films may by use in agriculture for different aims: safe of seeds from bacteria and light frost, for special vessels for seedlings, pipes for season’s subsoil irrigation. The products of decomposition after hydrolysis can be as additional nutrition for plants.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/12/11-1-18.pdf#page=40</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.11 (18)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

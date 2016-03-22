@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H11972">
+    <dc:title xml:lang="ru">ИЗУЧЕНИЕ ЗАВИСИМОСТИ РЕОЛОГИЧЕСКИХ СВОЙСТВ ГЕЛЕОБРАЗУЮЩИХ СОСТАВОВ ОТ РАСКРЫТОСТИ ТРЕЩИНЫ ПРИ МОДЕЛИРОВАНИИ ИХ ТЕЧЕНИЯ НА РОТАЦИОННОМ ВИСКОЗИМЕТРЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE RESEARCH OF THE DEPENDENCE OF RHEOLOGICAL PROPERTIES OF GELLING AGENT COMPOSITIONS FROM FRACTURE OPENING IN SIMULATION OF FLOW AT ROTATIONAL VISCOMETER</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Петраков Д.Г.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Шагиахметов А.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Рощин П.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Литвин В.Т.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Национальный минерально-сырьевой университет «Горный»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">B10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">water</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">geological process</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8309</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49893</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В данной работе представлены результаты исследований реологических свойств полимерного состава в
+зависимости от раскрытости трещины при имитации данных условий на ротационном вискозиметре. Установлено,
+что уменьшение зазора при определенных условиях течения заставляет гель активно сшиваться и увеличивать
+напряжение сдвига. Таким образом, доказана возможность выборочного проникновения в трещины призабойной
+зоны продуктивного пласта при ремонтно-изоляционных работах на скважинах.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">There are some results of experimental investigations of polymeric composition rheological properties versus fracture
+opening during the deposit parameters modelling at the rotational viscometer. It has been established that decrease in the gap
+under certain conditions causes cross-linked gel actively and to increase the shear stress. In this way, it has been proven the
+possibility of selective p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/9-3-40-.pdf#page=34</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.9-3(40)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

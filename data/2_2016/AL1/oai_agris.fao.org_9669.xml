@@ -1,0 +1,44 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016109669">
+    <dc:title xml:lang="en">Land Use Change in the Corridor Tirana-Durrës caused by Urban Development</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SULAJ ANILA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>THEMELKO HENRJETA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHUMELI ARJAN</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Foreign Languages, Faculty of Veterinary Medicine, Agriculture University of Tirana, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Land</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4172</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Urban development in the study area is associated with the change of land use. From the data obtained in our study it is
+shown that along the Tirana-Durres highway there has been noticed a change in the destination of the land use. Results
+of the survey show that: 21.7% of surveyed persons claim that land is used for the construction of private housing where
+many migrant families have had their pressing needs and social and economic interests that simultaneously created
+various commercial activities. 54.7% of respondents claim that the land is used for agricultural purposes. Agriculture
+remains one of the few important sectors of the economy despite the tendency of transformation of the whole area into
+an industrial corridor. 20.5% of the land is used for various business activities and industries. The evaluation of the
+residents for the land use shows more clearly the importance of this highway on the development of commerce and
+industry where there is growth in the number of commercial and industrial activities.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_2_2015_files/3_ANILA%20SULAJ_pp%2087-92.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

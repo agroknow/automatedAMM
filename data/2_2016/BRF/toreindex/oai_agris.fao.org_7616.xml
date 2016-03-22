@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F07616">
+    <dc:title xml:lang="en">Estimation of genetic parameters for postweaning growth traits in crossbred Angus x Zebu cattle</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Estimação de parâmetros genéticos de características de crescimento pós desmama de bovinos mestiços Angus X Zebu</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA, J. A. II V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MAIORANO, A. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BERNARDO JÚNIOR, F. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MARTINS, G. V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NOVAES, L. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA, D. C. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CURI,  R. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Genetic improvement</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">breeding value</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">growth period</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11119</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16117</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15981</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331025</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to verify the effect of individual heterozygosity on weights at 365 (W365) and 550 (W550) days of age, and to estimate the heritability of these traits and the breeding values of animals of different breed compositions involving Angus and Zebu breeds in order to evaluate the possible use of these traits as selection criteria in crossbreeding and genetic improvement programs. Records from 5,629 crossbred Angus x Zebu animals born between 1995 and 2004 were used. Univariate and bivariate analyses of the traits were performed using an animal model and Bayesian inference. The effects included in the model were contemporary group, individual heterozygosis, age of animal at recording, and random direct genetic effect of the animal and residual. The size of the chain requested, as well as the burn-in period and thinning interval, was sufficient to obtain convergence of the posterior estimates of the genetic parameters. The heritability estimates obtained in univariate and bivariate analysis were 0.38 and 0.30 for W365 and 0.32 and 0.30 for W550, respectively. The genetic correlation between traits was 0.98. Comparison of the rank of the 10 best sires based on the breeding values for W365 and W550 showed a small difference between the traits studied. The effect of heterozygosity has importance for crossings and for obtaining higher postweaning weights, indicating that the use of animals with maximum individual heterozygosity is advantageous. W365 and W550 were found to be appropriate selection criteria and should be included in breeding programs of crossbred Angus x Zebu cattle.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se com o trabalho verificar o efeito da heterozigose individual no peso aos 365 dias (P365) e peso aos 550 dias (P550) de idade, assim como estimar a herdabilidade das características em estudo e os valores genéticos de animais de diferentes composições raciais envolvendo a raça Angus e zebuínos, a fim de observar a possibilidade do uso destas características como critérios de seleção em programas de cruzamento e melhoramento genético. Foram utilizados registros de 5.629 animais mestiços Angus x Zebu, nascidos no período de 1995 a 2004. Foram realizadas análises univariadas e bivariadas das características por meio de modelo animal e inferência bayesiana. Os efeitos incluídos no modelo foram grupo contemporâneo, heterozigose individual, idade do animal na pesagem, efeito aleatório genético direto do animal e resíduo. O tamanho da cadeia solicitado, bem como o período e o intervalo amostral, foram suficientes para obter convergência das estimativas a posteriori dos parâmetros genéticos. As estimativas de herdabilidade obtidas nas análises univariadas e na análise bivariada foram 0,38 e 0,30, e 0,32 e 0,30, respectivamente para P365 e P550. A estimativa de correlação genética entre as características foi 0,98. Ao comparar a classificação dos 10 melhores touros com base nos valores genéticos para P365 e P550, observou-se pequena diferença nas classificações para as características estudadas. O efeito da heterozigose tem importância nos cruzamentos e na obtenção de maiores pesos pós desmama, indicando que a utilização de animais com heterozigose individual máxima é vantajosa. As características P365 e P550 apresentaram-se como apropriados critérios de seleção, sugerindo que devam ser incluídas em programas de melhoramento de bovinos cruzados Angus x Zebu.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1435674459.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

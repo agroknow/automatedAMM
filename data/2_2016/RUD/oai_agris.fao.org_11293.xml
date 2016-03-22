@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016D11293">
+    <dc:title xml:lang="ru">ИНТЕНСИФИКАЦИЯ ОЧИСТКИ СТОЧНОЙ ВОДЫ ОТ НЕФТЕПРОДУКТОВ С ПОМОЩЬЮ КАТАЛИЗАТОРОВ ТИПА «КАТАН» И ШТАММОВ БИОДЕСТРУКТОРОВ НЕФТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Intensification treatment of wastewater of oil pollution using the catalysts «Katan» and strains of biodegraders oil</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ponomareva A.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Stom D.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tolstoy M.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Somov Instite of Epidemiology and Microbiology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Irkutsk State University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Irkutsk National Research University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">environmental protection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">wastewater</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ACTIVATED SLUDGE</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15898</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8308</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8611</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">При развитии нефтеперерабатывающей промышленности проблема очистки сточных вод с высокой концентрацией нефти является достаточно актуальной. Сочетание химических и биологических методов очистки повышает эффективность очистки сточных вод. Повышение доли нефтеразрущающих микроорганизмов в активном иле и использование катализаторов типа «Катан» позволяет уменьшить количество нефтеперодуктов в модельной сточной воде более чем на 80%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The treatment wastewater with a high concentration of oil at development of the oil refining industry is issue of the day. The treatment of wastewater enhanced to combination of chemical and biological purification methods. Treatment of wastewater using strains of biodegraders oil that it mixed with the activated sludge and the use of the catalysts “Katan” reduces the amount oil in waste water in the model by more than 80%.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal-s.org/index.php/vmno/article/view/6857</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>В мире научных открытий</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2072-0831</ags:citationIdentifier>
+      <ags:citationNumber>v./n.8.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

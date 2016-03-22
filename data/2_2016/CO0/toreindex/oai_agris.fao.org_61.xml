@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="CO2016000061">
+    <dc:title xml:lang="es">Análisis experimental de la evaporación del jugo de caña de azúcar en película sobre una placa plana</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Experimental analysis of the evaporation of sugar cane juice by film on a flat plate</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mendieta Menjura Oscar Andrés</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">J10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sugarcane juice</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sugarcane</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Energy conservation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">postharvest technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32708</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7501</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2567</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6133</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>12 figs., 2 tabs., 41 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">En la producción de panela en Colombia, tradicionalmente se han utilizado pailas para la evaporación del jugo de caña de azúcar, las cuales presentan problemas de baja eficiencia energética. En este estudio se evaluó un evaporador de película en placa plana a escala piloto. La temperatura del jugo y la placa se midieron con termopares, y la concentración de sólidos solubles del jugo se midió con un refractómetro. El rendimiento del evaporador se determinó a través del coeficiente de transferencia de calor en el lado del líquido (h), el cual se relacionó con los parámetros de operación: flujo másico, temperatura de la superficie, y la temperatura y concentración del líquido alimentado. El coeficiente h se benefició por el aumento: de la temperatura de la superficie (de 140,8 a 181,2 °C), de la concentración del alimento (de 18 a 30 °Brix) y del flujo de alimento del jugo (de 5,7 a 38,4 kg/h)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">y por la disminución de la temperatura del alimento (de 90 a 60 °C). En la evaporación del jugo de caña de azúcar en el evaporador de película en placa plana se encontraron valores de h entre 140 y 380 W/m2K, los cuales muestran una mejora notable para el proceso de evaporación del jugo de caña de azúcar. Palabras claves: ahorro de combustible, evaporación en película, panela, transferencia de calor.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">In the production of “panela” (a block of unrefined whole cane sugar also known as piloncillo, raspadura, chancaca, jaggery) in Colombia, pans that have been traditionally used for evaporation of sugarcane juice have low energy efficiency problems. In the present study, a flat plate film evaporator was evaluated at a pilot scale. The temperature of the juice and the plate was measured with thermocouples, and the concentration of the soluble solids of the juice was measured with a refractometer. Evaporator performance was determined through the heat transfer coefficient on the side of liquid (h), which was related to the following operating parameters: mass flow, surface temperature, and the temperature and concentration of the fed liquid. The coefficient h profited by increasing: surface temperature (from 140.8 to 181.2 °C), feed concentration (from 18 to 30 °Brix), and juice feed flow (from 5.7 to 38.4 kg/h), and by decreasing feed temperature (from 90 to 60 °C). In the evaporation of sugarcane juice in a flat plate evaporator, h values ​​between 140 and 380 W/m2K were found, which show a marked improvement for evaporation process of sugarcane juice. Key words: fuel economy, film evaporation, jaggery, heat transfer.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.corpoica.org.co/SitioWeb/Archivos/Revista/RevCorpoicaVol14-2cap01.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Revista CORPOICA : Ciencia y Tecnología Agropecuaria</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">01228706</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

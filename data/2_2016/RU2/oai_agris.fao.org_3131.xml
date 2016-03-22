@@ -1,0 +1,96 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016203131">
+    <dc:title xml:lang="en">PRODUCTIVE QUALITIES OF BROILERS AT DIFFERENT MANAGEMENT SYSTEMS AND AMOUNT OF FLOOR SPACE PER BIRD</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Yaskova Е.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gaponova A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Buyarov V.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Orel State Agrarian University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L52</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Birds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Floors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Statistical methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Compound feeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Broiler chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cages</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Multiple births</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">domesticated birds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_935</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2982</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7377</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1796</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2843</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1540</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1184</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4985</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2359</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">To define rational amount of floor space per bird and study productive qualities of broilers of cross «Ross-308» depending on the rate of floor space per bird at growing, in cage batteries and on litter the investigations at broilers enterprises of the Orel region were carried out. Broilers were grown in cages KP-8L from the day age and to slaughter (tests 1 and 2) and on litter using floor equipment set of firm «Big Dutchman» (Germany). The number of chickens in the test groups was 90-108 heads. The basic technological parameters of chicken keeping (lighting program, microclimate, feeding program, and mixed feed nutrition) were the same for all groups and corresponded to «Maintenance of «Ross» broilers growing (2009)». At doing research and economic tests the zootechnic factors of broilers growing according to common methods were defined. Statistical analysis of the obtained data was done using personal computer with «Microsoft Excel» (2003) and «Statistica» software. It was proved that according to productive and zootechnic factors complex that rational amount of floor space per bird for broilers of cross «Ross-308» at duration of 38 days fattening to obtain 2,2 - 2,3 kg live weight is 25 birds/m 2 at growing chickens in cages, or 394,0 sm 2/bird</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">20 birds/m 2 at growing chickens on litter. Due to chicken intensive growing in the best test groups feed conversion (1,69-1,75 kg) and European Productivity Index (EPI) (335,73-346,65 units) have improved. Poultry population safety in the groups with optimal amount of floor space per bird was 98,0 - 98,1%. At selection of amount of floor space per bird of broilers first of all is necessary to consider the implied final poultry weight.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://elibrary.ru/item.asp?id=22014675</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Vestnik OrelGAU</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1990-3618</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.49</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,71 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08047">
+    <dc:title xml:lang="ru">КУЛЬТИВИРОВАНИЕ И ИЗУЧЕНИЕ МОРФОЛОГИЧЕСКИХ И БИОХИМИЧЕСКИХ ОСОБЕННОСТЕЙ СВЕТЯЩИХСЯ БАКТЕРИЙ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>CULTIVATION AND STUDY OF MORPHOLOGICAL AND BIOCHEMICAL FEATURES OF THE LUMINESCENT BACTERIAS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Цветкова Ю.Д.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Воропаева Д.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Поворова О.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Могилевский государственный университет им. А.А. Кулешова</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">bacteria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">swarms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chitinase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_765</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14719</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1562</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Предложены среды для роста и люминесценции бактерий. Определена способность выделенных микроорганизмов к
+консолидации в швермеры. Показаны особенности культивирования светящихся бактерий, синтезирующих хитиназу. При
+использовании культуры светящихся бактерий (наносили бактериальную смесь на крылья, добавляли при кормлении) отмечено
+истончение крыльев, стенок кишечника и быстрая гибель тараканов Blaberus craniifer.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the submitted article is given the proffer of the medium for bacterial growth and luminescence. Defined the ability of cultivated
+microorganisms to consolidate into swarmers. Displayed the features in cultivation of the luminiscent bacterias (which produce chitinase).
+By applying of the bacterial culture (the bacterial compound was platted on the wings, and added as nutrition ) was noted the thinning of the
+wings , intestine structure and fast death of the cockroach Blaberus craniifer.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/06/5-12-1.pdf#page=54</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.5 (12)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,44 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016E05465">
+    <dc:title xml:lang="ru">ОБ ОПТИМАЛЬНОМ СРОКЕ СПУТНИКОВОЙ СЪЕМКИ ДЛЯ КАРТОГРАФИРОВАНИЯ ПАХОТНЫХ ПОЧВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>About optimal dates of satellite images acquisition for arable soil mapping</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Савин И.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Прудникова Е.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Почвенный институт им. В.В. Докучаева</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P31</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil sciences</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7188</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Состояние открытой поверхности пахотных почв сильно варьирует во времени и зависит от вещественного состава верхнего горизонта почв, метеорологических условий, специфике и давности ее обработки. Изменение поверхности пахотных почв оказывает значительное влияние на особенности их отображения на данных дистанционного зондирования. Для максимального извлечения информации о неоднородностях почвенного покрова спутниковая съемка должна быть проведена перед первой обработкой поверхности пахотных почв весной.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The state of the exposed surface of arable soils strongly varies in time and depends on properties of the upper soil horizon, meteorological conditions, and specific character of its usage. A change of the arable soil surface has a significant effect on their image on remote sensing data. For the maximum extraction of information about the spatial heterogeneities of soil properties satellite survey must be carried out before the first treatment of the surface of arable soils in spring.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://esoil.dipintrip.ru/publications/bulletin/74-2014-ns/74-2014-ns-5.html</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Бюллетень Почвенного института им. В.В. Докучаева</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0136-1694</ags:citationIdentifier>
+      <ags:citationNumber>v.2014/n.74</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

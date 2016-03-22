@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01806">
+    <dc:title xml:lang="en">Physiological reactions in goat breeds maintained under shade, sun and partially shaded areas</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Reações fisiológicas de caprinos das raças Anglo-Nubiana e Saanen mantidos à sombra</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>ao sol e em ambiente parcialmente sombreado</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MEDEIROS,  L. F. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VIEIRA,  D. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA,  C. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MELLO,  M. R. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LOPES,  P. R. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SCHERER,  P. O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERREIRA,  M. C. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bioclimatology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rectal temperature</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Respiration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9260</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13770</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9421</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The experiment was carried out to measure effects of thermal stress on the rectal temperature (RT) and respiratory frequency (RF), in animals of Anglo-nubian and Saanen breeds, raised in a tropical humid climate. The goats were divided into three groups, each group consisting of four females from each breed group. Each group was submited to three experimental treatment: treatment A, with a sun protected enclosed area</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">treatment B, a sun exposed area without covering</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">and treatment C, area with 50% covered section and 50% sun exposed area, which permitted free circulation of the goats. A Balanced Latin Square design was used. The RT and RF of the goats, in the afternoon periods (l4h00), were higher, than in the morning periods (08h00). The animals kept in the sun presented much higher results, especially in the afternoon periods, than the animals in the other two areas. There were no differences in the RT and RF between groups maintained in the shade or in partially covered area but there were differences in the RT and RF measurements between the two breeds, in the morning periods and in the afternoon periods. Independently of treatment and daily (morning and afternoon) surrounding temperature variation, the average of RT and RF in the Anglo-nubian goats were lower than the Saanen goats, which showed to be more sensitive to thermic stress.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O experimento foi delineado para medir os efeitos do estresse térmico sobre a temperatura retal (TR) e a freqüência respiratória (FR) em cabras das raças Anglo-nubiana e Saanen, criadas em clima tropical úmido. As cabras foram alocadas em três grupos, cada um com quatro Anglo-nubianas e quatro Saanen. Cada grupo ficou em ambiente diferente, constituído de três tratamentos experimentais. O tratamento A, com instalações totalmente cobertas</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">o B, sem cobertura, com exposição direta ao sol</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">e o tratamento C, em ambiente parcialmente sombreado, com metade da área da instalação coberta, permitindo às cabras livre acesso à sombra ou ao sol. O delineamento experimental foi o Quadrado Latino Balanceado. A TR e FR das cabras, na parte da tarde (às 14:00 horas) foram mais elevadas que na parte da manhã (às 8:00 horas). As cabras mantidas ao sol apresentaram a TR e FR mais elevadas à tarde, quando comparadas às cabras mantidas à sombra ou em ambiente parcialmente sombreado. Não houve diferenças significativas na TR e FR das cabras mantidas à sombra ou em ambiente parcialmente sombreado. Houve diferença na TR e FR entre raças na parte da manhã e à tarde. Independente do tratamento e da variação da temperatura ambiente diurna (manhã e tarde), as médias da TR e FR nas cabras Anglo-nubianas foram mais baixas do que nas cabras Saanen, que se revelaram no presente estudo mais sensíveis ao estresse térmico.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1216214253.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

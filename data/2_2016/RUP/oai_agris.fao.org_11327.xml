@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P11327">
+    <dc:title xml:lang="ru">«КРИЗИСНЫЕ ПРОФИЛИ» ЛИЧНОСТИ ПЕДАГОГОВ СЕЛЬСКИХ ОБРАЗОВАТЕЛЬНЫХ УЧРЕЖДЕНИЙ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>"CRISIS PROFILES" OF THE TEACHERS IDENTITY OF RURAL EDUCATIONAL INSTITUTIONS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Dukhnovsky  S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dorofeyeva  A.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rechkalova  O.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rakhmansky  V.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rural sociology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6707</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: teacher of rural school, crisis, experience, crisis profile, index of situational reaction, psychological stability, anthropological ideal</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье, на основании проведенных исследований описываются кризисные профили учителей школ, работающих в сельской местности. В контексте исследования интегральной индивидуальности учителя сельской школы, содержательно раскрываются: профиль «деструктивное переживание острого кризиса с неблагоприятным прогнозом» и профиль «психологическое здоровье с благоприятным прогнозом». Показано что развитие антропологического идеала и входящих в него потенциалов здоровья является одним из факторов деструктивного переживания кризиса учителями, работающими в сельской местности.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">On the basis of the conducted researches crisis profiles of the school teachers that work in rural areas are described in the article. In the context of the research of an integrated identity of a rural school teacher, it is substantially revealed: "destructive experience of an acute crisis with the adverse forecast" and "psychological health with the favorable forecast" profiles. It is shown that development of an anthropological ideal and the potentials of health entering in it is one of factors of destructive experience of crisis by the teachers working in rural areas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_c17f1fe3d60b428e9faf26082c2e7dd6.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.№1, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

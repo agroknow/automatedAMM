@@ -1,0 +1,47 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13982">
+    <dc:title xml:lang="ru">РАЗВИТИЕ СЕЛЬСКОГО ХОЗЯЙСТВА И ПРОДОВОЛЬСТВЕННАЯ БЕЗОПАСНОСТЬ РОССИИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>DEVELOPMENT OF AGRICULTURE AND FOOD SECURITY OF RUSSIA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Fudina  E.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agricultural economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Policies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8672</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6062</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: food and economic security, food consumption, sustainment</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье раскрыты негативные тенденции, влияющие на продовольственную безопасность страны. Анализируются меры, предпринимаемые для развития сельского хозяйства и регулирования рынков сельскохозяйственной продукции, сырья и продовольствия. Внесены предложения, направленные на повышение эффективности мероприятий по снижению угрозы потери продовольственной безопасности
+страны.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article reveals the negative trends affecting the food security of the country. The measures taken for the development of agriculture and regulation of markets for agricultural products, raw materials and food are analyzed. Proposals aimed at improving the effectiveness of measures to reduce the threat of loss of food security are made.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_b3aaaad50ea1436192841e289aa4dd94.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

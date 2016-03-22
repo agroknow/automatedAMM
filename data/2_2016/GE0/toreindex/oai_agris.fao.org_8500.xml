@@ -1,0 +1,35 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="GE2016008500">
+    <dc:title xml:lang="en">Radiobiological methods for screening of resistant strains of beauveria bassiana</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Burjanadze M.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pesticides</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beauveria bassiana</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5739</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32273</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Industrial formulation of biopesticides is one of the actual problems at present. In this respect, entomopathogenic fungi Beauveria bassiana is one of promising candidate   for the control of pest insects. In addition, the issue of sustainability of strains of entomopathogenic fungi significantly limits their usage of application. For the increase, effectiveness of biotechnological processes of mass production entomopathogenic fungi is necessary to screening the various extreme physical and chemical factors resistant local strains. In this regard, in our study gamma-irra- diation as a powerful impact and damage mechanisms due to its universal factor was used. Various strains of ento- mopathogenic fungi Beauveria bassiana were treated by gamma-radiation within dose 5 kGy. By usage of 4 kGy doses of radiation, long lag-phase (1 month) and subsequently unit colonies development were observed. By using sub-cultivation methods of the unit colonies it is possible screening of   extremes resistant strains of B. bassiana and use them in order to increase the efficiency of technological processes for the production of biopesticides.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Annals of agrarian science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1512-1887</ags:citationIdentifier>
+      <ags:citationNumber>v.12/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

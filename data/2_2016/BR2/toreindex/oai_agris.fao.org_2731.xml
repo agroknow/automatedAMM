@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202731">
+    <dc:title xml:lang="en">Modulatory Effect of Green Tea against Genotoxicity Induced by Hydrocortisonein Mice</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito modulador do chá verde contra genotoxicidade induzida por Hydrocortisonein Ratos</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>A. Fahmy Maha</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>A. E. Diab Kawthar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>H. Hassan Nagwa</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>A. Farghaly Ayman</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Genetics and Cytology, National Research Center, Dokki, Giza, Egypt</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Genetics and Cytology, National Research Center, Dokki, Giza, Egypt</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Zoology, Faculty of Science,Ain Shams University,Cairo, Egypt</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Genetics and Cytology, National Research Center, Dokki, Giza, Egypt</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hydrocortisone</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mice</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36759</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4795</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">asthma, allergic and immune diseases. The widespread use of this drug is of great concern to human health problems. Therefore, the genotoxic potential of hydrocortisone was evaluated using different mutagenic endpoints including sister chromatid exchanges (SCEs) in bone marrow cells and chromosomal aberrations (CAs) in mouse spermatocytes. The modulatory effect of the methanol extract of green tea (MEGT) was also studied. Hydrocortisone was given intraperitoneally
+(i.p) at three doses 26, 39 and 52 mg/kg b.w. MEGT was given orally at dose 390 mg/kg. Mice were simultaneously treated with hydrocortisone and MEGT in single treatment and repeated treatment. The results showed that all doses of hydrocortisone induced significant increase in the frequency of SCE′s with a dose dependent manner. Both Single and repeated treatment of hydrocortisone induced a statistically significant in the incidence of chromosomal aberration in
+mouse spermatocytes excepting the dose 26 mg∕ kg b.w in single treatment regimen. These findings suggested that hydrocortisone has genotoxic activity in bone marrow and spermatocytes. On the other hand, MEGT suppressed the frequency of SCEs andCAs induced by hydrocortisone however such suppressionwasnot reached to the normal control values.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A hidrocortisona (corticosteróides, esteróides) é uma droga usada para o tratamento de uma variedade de doenças inflamatórias, asma, alergia e doenças imunológicas. O uso generalizado desta droga é de grande preocupação, para os problemas de saúde. Portanto, o potencial genotóxico da hidrocortisona foi avaliada utilizando diferentes “end points” mutagénicos incluindo trocas de cromátides irmãs (SCE) em células da medula óssea e aberrações cromossômicas (AC)
+em espermatócitos de mouse. O efeito modulador do extrato metanólico de chá verde (MEGT) também foi estudada. A hidrocortisona foi administrado por via intraperitoneal (ip) em três doses 26, 39 e 52 mg / kg pc MEGT foi dado oralmente na dose de 390 mg / kg. Os ratos foram tratados simultaneamente com hidrocortisona e MEGT em um tratamento único e tratamento repetido. Os resultados mostraram que todas as doses de hidrocortisona induziram aumento significativo na freqüência de SCE com uma forma dependente da dose. Tanto o tratamento única e repetida
+de hidrocortisona induziu um aumento estatisticamente significativo na incidência de aberrações cromossómicas em espermatócitos rato com exceção da dose de 26 mg / kg em regime único. Estes achados sugerem que a hidrocortisona tem atividade genotóxica na medula óssea e de
+espermatócitos. Por outro lado, a frequência suprimida MEGT da SCE e CAs induzidas pelo uso de hidrocortisona no entanto, a sua supressão não foi alcançado com os valores de controlo normais.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/378/272</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

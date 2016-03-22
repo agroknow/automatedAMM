@@ -1,0 +1,60 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012478">
+    <dc:title xml:lang="en">Comparison of selected sensory properties of wholemeal breads</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bednářová, M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ošťádalová Martina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Král Martin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tremlová, B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">meal patterns</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bread</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">breadmaking</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">organoleptic analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4667</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1071</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1072</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16006</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to compare textural (firmness) and sensory properties (surface colour, crumb colour, crumb texture, appearance, appearance and colour preferences) between whole breads made from conventional wheat (Triticum aestivum, L.) and whole breads made from unconventional wheat (Triticum aestivum, L., winter variety Skorpion, grains with blue aleuron). Wholemeal breads (control samples with marks C1, C2 and C3) were prepared of 100, 90 and 80 % amount of conventional wholemeal wheat flour to 0, 10 and 20% amount of smooth white flour made from conventional wheat using baker's experiment. Wholemeal breads (experimental samples with marks S1, S2 and S3) were prepared of unconventional wholemeal wheat flour to smooth white wheat flour in same ratio as control samples of breads. Our results showed, that negative evaluation of some sensory attributes of breads made from unconventional wheat correlated with increasing addition of wholemeal flour of this wheat. It was found that breads made from conventional wheat (100, 90 and 80% amount of conventional wholemeal flour) were more acceptable in surface colour, colour and appearance preferences than these sensory attributes of breads made from unconventional wheat (same amount of wholemeal flour). Appearance and crumb colour of breads made from conventional wheat (100 and 90% amount of wholemeal flour) were evaluated better than these attributes of breads made from blue coloured wheat (same amount of wholemeal flour). Appearance and crumb colour of both groups of whole wheat breads (80:20) was similarly evaluated. Crumb texture of breads made from conventional wheat (90% and 80% amount of wholemeal flour) was worse than crumb texture of breads produced of same ratio of flour, but made from unconventional wheat. Breads with addition of 80% of wholemeal flour milled of blue coloured wheat were most acceptable in all of sensory attributes for evaluators. Significant difference (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/454/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

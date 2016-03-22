@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13048">
+    <dc:title xml:lang="en">CRITERIA FOR EVALUATION OF STRESS IN SYNANTHROPIC BIRDS ON THE EXAMPLE OF COLUMBA LIVIA</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>КРИТЕРИИ ОЦЕНКИ СТРЕССА У  СИНАНТРОПНЫХ ПТИЦ НА ПРИМЕРЕ COLUMBA LIVIA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Кletikova L.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pronin V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bychkova E.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ivanovo SAA named after academician D.К. Belyayeva</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ivanovo state university</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pigeons</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood disorders</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5870</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_964</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>14 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Stress in birds is characterized by metabolic disorders that can be assessed by biochemical studies of blood serum. The studies were performed in Ivanovo in medical, laboratory and veterinary diagnostic center "Vetass" organized at the Department of obstetrics, surgery and non-communicable diseases, Ivanovo state agricultural Academy. The aim of the study was the search criteria for the evaluation of biological stress due to trauma of Columba livia. For this, clinical and special methods of research (content of uric acid, iron, magnesium, hormone T4) were applied. It was determined that 95% of the birds had a body weight of 270...310 g, temperature of 40,5...41,2ºС, hemoglobin 184,0±3,0 g/l, the content of leucocytes 4,94±0,17 (х109/l), erythrocyte 3,83±0,29(х1012/l), the ratio of heterophils and lymphocytes in the leukogram was 1:2, the uric acid level in the serum  806,4±7,12 µmol/l, iron (Fe) – 15,02±0,11, magnesium (Mg) – 1,16±0,02 mmol/l, hormone T4 11,22±0.34 nmol/L.  Depression, decreased activity, rumpleness and contamination of the plumage, the lack of a covering of feathers on the chest, lower body temperature to 38.7°C was detected in one individual from a random sample. The inspection found flippers on both legs between the first and second fingers. Palpation established the solution of continuity of keel bone, cyanosis and swelling of the tissues,  the content of erythrocytes and leukocytes in the blood is greater than in healthy birds by 1,63 and 2,01 times, respectively, up to 15% of erythrocytes had the shape and size of echinocytes,  in the leukocyte profile percentage concentration of heterophils is decreased by 5,2 times. The increase in the content of the hormone T4 in 2,4 times, reduction of uric acid in 2,3 times, iron and magnesium – by 32,0% and 12,9% respectively were established. It is proved that as a result of traumatic stress in Сolumba livia the lymphocytosis developed, the content of the hormone T4 increased, stocks of iron and magnesium in the blood decreased, the synthetic activity of the liver and kidneys decreased.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Стресс у птиц характеризуется нарушением обмена веществ, что можно оценить посредством биохимического исследования сыворотки крови. Исследования выполнены в г. Иваново в лечебно-профилактическом и лабораторно-диагностическом ветеринарном центре «Ветасс» организованном при кафедре акушерства, хирургии и незаразных болезней Ивановской ГСХА. Целью исследования явился поиск критериев оценки биологического стресса обусловленного травмами  у Columba livia. Для этого применены клинические и специальные методы исследования (содержание мочевой кислоты, железа, магния, гормона Т4). Определено, что 95% птиц имели массу тела 270…310 г, температуру 40,5…41,2ºС, гемоглобин 184,0±3,0 г/л, содержание лейкоцитов  4,94±0,17 (х109/л), эритроцитов 3,83±0,29(х1012/л), соотношение гетерофилов и лимфоцитов в лейкограмме составило 1:2, уровень мочевой кислоты в сыворотке крови 806,4±7,12 мкмоль/л, железа (Fe) – 15,02±0,11, магния (Mg) – 1,16±0,02 ммоль/л, гормона Т4 11,22±0,34 нмоль/л. У одной особи из случайной выборки выявлено угнетение, снижение активности, взъерошенность и загрязнение оперения, отсутствие перьевого покрова  на груди, снижение температуры тела до  38,7ºС. Осмотром обнаружены на обеих конечностях между первым и вторым пальцами плавательные перепонки. Пальпацией установлено  нарушение целостности грудной кости, синюшность и отек тканей, содержание эритроцитов и лейкоцитов в крови больше, чем у здоровых птиц в 1,63 и 2,01 раза соответственно, до 15% эритроцитов имели форму и размеры эхиноцитов, в лейкоцитарном профиле  снижена процентная концентрация гетерофилов в 5,2 раза. Установлено увеличение содержания гормона Т4 в 2,4 раза,  снижение  мочевой кислоты в 2,3 раза, железа и магния – на 32,0 и 12,9% соответственно. Доказано, что в результате травматического стресса у Сolumba livia развился лимфоцитоз,  увеличилось содержание гормона Т4, уменьшились запасы железа и магния в крови, снизились синтетическая активности печени и почек.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/3-15-Kletikova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

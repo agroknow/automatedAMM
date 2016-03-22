@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206518">
+    <dc:title xml:lang="en">Morphologic evaluations of Australian Cedar submitted to different doses of osmocote plus® fertilizer</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Avaliações morfológicas de mudas de Cedro australiano submetidas a diferentes doses do fertilizante osmocote plus®</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Somavilla André</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cantarelli Edison Bisognin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mariano Lilian Gonçalves</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ortigara Cicero</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Da Luz Felipe Bonini</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Toona</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forestry production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36114</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3061</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The Australian Cedar (Toona ciliata M. Roem) is an exotic specie that has been highlighting due its great potential in brazilian commercial silviculture for presenting high growing taxes. This work aimed evaluate the development of seedlights of Toona ciliata when submitted to differets doses of fertilizer. The experiment was developed in random blocks, being the respective doses of Osmocote Plus®: 0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">9</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">12 kg m-³ of substrate. The fertilizer of controlled solubilization Osmocote Plus® in formulation of 15-09-12, in all dosing, afforded the increase in morphologic characteristics evaluated. Thus, the fertilization of Australian Ceder with Osmocote Plus® provided the best parameters evaluated, in
+doses ranging of 7,5 to 8,5 kg m-³ of substrate. So it is porssible infer that an ideal dose of Osmocote Plus® fertilizer in formulation of 15-09-12 for fertilization of Australian Cedar seedlights, is of 8,0 kg m-³ of substrate.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/305/291</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

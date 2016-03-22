@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104910">
+    <dc:title xml:lang="es">CARACTERIZACIÓN DEL COMPONENTE PECUARIO DEL TRASPATIO EN LOCALIDADES DEL MUNICIPIO DE SAN LUCAS, CHIAPAS, MÉXICO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>BACKYARD LIVESTOCK COMPONENT CHARACTERIZATION IN RURAL COMMUNITIES IN THE MUNICIPALITY OF SAN LUCAS</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>CHIAPAS</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>MÉXICO</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mendoza María</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zaragoza Lourdes</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rodríguez Galván Guadalupe</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma de Chiapas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma de Chiapas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma de Chiapas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Indigenous knowledge</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35704</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Backyard livestock production in rural communities of San Lucas represents a supplying and self consumption strategy that provides animal protein and income their local communities and indigenous people. This research provide information about production dynamics and contribution of livestock component of rural backyard to improve the life quality for families. Fieldwork was conducted between 2013 and 2014 at three rural communities which concentrate 99.7% of municipal rural population. The data show that in 96% of cases are women who perform productive work concerning the animals, 75% of available germplasm is local. Production is summarized as follows</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">93.5% chickens, turkeys and 48.5%, 13.04% pork, special mention deserves the donkey (41.30%) because represents the primary means of transporting people and crops, their use distinguishes the inhabitants of the municipality. The complexity of backyard livestock component was visible through contact with communities and knowledge of their needs.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">La producción pecuaria del traspatio rural de San Lucas representa una estrategia de abasto y autoconsumo de proteína animal y generación de ingresos con arraigo y tradición bajo condiciones de muy alta marginación y alto rezago social. El objetivo es brindar información sobre la dinámica productiva y aportes del componente pecuario del traspatio que permiten elevar la calidad de vida de las familias. Esta investigación aprovecha el proceso metodológico propuesto por el CA-UNACH-133 SIVED, concebido bajo el enfoque cualitativo y que aprovecha la complementariedad de herramientas convencionales y participativas. El trabajo de campo se realizó entre 2013 y 2014 en tres localidades que concentran 99.7% de la población rural municipal. Se encuestó a 30% de las unidades de producción –92 productores– para generar información socioeconómica, familiar, inventario animal, infraestructura, medios de producción, prácticas de manejo, productos, comercialización y autoconsumo</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">posteriormente se aplicó una entrevista semi-estructurada a 10% de la población encuestada para conocer la percepción de los productores. Los datos obtenidos muestran que en 96% de los casos las mujeres desarrollan las labores productivas pecuarias y 75% del germoplasma es local. La producción se integra de la por 93.5% gallinas locales, 48.5% guajolotes nativos y 13.04% cerdo local, mención aparte merece el burro local (41.30%) que representa el principal medio de transporte de personas y cosechas, su uso otorga distinción. Se concluye que la producción pecuaria del traspatio rural de San Lucas es una práctica compleja con una estrecha interacción entre los saberes locales y el aprovechamiento de la biodiversidad.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo065_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

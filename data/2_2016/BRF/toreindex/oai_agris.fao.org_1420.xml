@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01420">
+    <dc:title xml:lang="en">Infestation by Rhipicephalus (Boophilus) microplus in heifers from different genetics groups</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Infestação por Rhipicephalus (Boophilus) microplus em novilhas de diferentes grupos genéticos</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MARINI, A. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOUTELLO,  R. V. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COSTA,  R. L. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NEVES,  J. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VACARI,  A. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BARRETO,  T. N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MONTE JUNIOR,  S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DEMARCHI,  J. J. A. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2010-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bovinae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Metastigmata</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1040</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7763</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">An assessment of the infestation of ticks Rhipicephalus (Boophilus) microplus in 59 heifers of three genetic groups was run: Nellore, Guzerá and ½ Angus x ½ Nellore, belonging to the roster APTA Regional Andradina / SP. Every 28 days held the count of ticks, where the left side of the animal, with evaluation of only engorged females with more than 4.5 mm in the period from June 2007 to May 2008. The genetic group (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Foi avaliada a infestação de carrapatos Rhipicephalus (Boophilus) microplus em 59 novilhas de três grupos genéticos: Nelore, Guzerá e ½ Angus x ½ Nelore, pertencentes ao plantel da Apta Regional de Andradina/SP. A cada 28 dias realizou-se a contagem de carrapatos, sempre do lado esquerdo do animal, com avaliação somente das fêmeas ingurgitadas com mais de 4,5 mm, no período de junho de 2007 a maio de 2008. O grupo genético (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1287403007.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.67/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

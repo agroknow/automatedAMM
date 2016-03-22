@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08024">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ ГЕСТАЦИОННОГО ДИАБЕТА НА ПРОЦЕСС ОБРАЗОВАНИЯ МОЛЕКУЛ СРЕДНЕЙ МАССЫ В СЫВОРОТКЕ КРОВИ, ГЕМОЛИЗАТЕ ЭРИТРОЦИТОВ И РОТОВОЙ ЖИДКОСТИ У БЕРЕМЕННЫХ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INFLUENCE OF GESTATIONAL DIABETES ON THE PROCESS OF FORMATION OF MOLECULES OF MIDDLE MASS IN BLOOD SERUM</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>HEMOLYSATE OF RED BLOOD CELLS AND MOUTH LIQUID OF PREGNANT WOMEN</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Никольская В.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Лукашова М.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Таврический национальный университет им. В.И. Вернадского</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">diabetes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood serum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">gestation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10361</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9323</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11139</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Работа направлена на исследование влияния гестационного диабета на отдельные показатели сыворотки крови, гемолизате
+эритроцитов и ротовой жидкости в организме. Результаты проведенных исследований свидетельствуют о достоверных
+изменениях уровня молекул средней массы в исследуемом материале. Показано расхождение уровня содержания молекул средней
+массы в сыворотке крои, гемолизате эритроцитов и ротовой жидкости беременных и небеременных женщин. Полученные
+результаты имеют большое значение в понимании механизма влияния гестационного диабета на функционирование организма в
+состоянии беременности. Проблема гестационного диабета актуальна не только для медицины, но и для наук биологического
+направления. Механизм возникновения этого заболевания известен, но современные методы лечения несовершенны, влекут за
+собой серьезные последствия, отражающиеся на здоровье матери и ребенка.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article is based on researches with respect to the influence of gestational diabetes on the several indexes of blood serum,
+hemolysate of red blood cells and mouth liquid in an organism. The results of the conducted researches show significant changes in the level
+of molecules of average mass in the material. Divergence in the level of maintenance of molecules of average mass is shown in the blood
+serum, hemolysate of red blood cells and in the mouth liquid of expectant and unpregnant mothers. The obtained results are very important
+in understanding the mechanism of influence of gestational diabetes on the functioning of an organism in the state of pregnancy. The
+problem of gestational diabetes is actual not only medicinal but also for biological sciences. The mechanism of origin of this disease is
+known, but the modern methods of treatment are inperfect, entail serious consequences and are reflected on a health of the mothers and the
+baby.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/06/5-12-1.pdf#page=45</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.5 (12)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

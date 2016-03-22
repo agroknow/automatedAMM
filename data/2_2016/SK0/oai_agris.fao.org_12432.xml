@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012432">
+    <dc:title xml:lang="en">Effect of rosemary in combination with yeast extract on microbiology quality, oxidative stability and color of non-fermented cooked salami “Inovec”</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kročko Miroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ďurík Martin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bučko Ondrej</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tkáčová Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Čanigová Viera</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ducková Viera</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat products</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Microbiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rosemary</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">yeast extracts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4680</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_118</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4800</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13963</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36892</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to determine antimicrobial and antioxidant effect of dried rosemary (1 g/kg) in combination with yeast extract 1 g/kg (1st experimental group) and 2 g/kg (2nd experimental group) in compare to control sample (without rosemary extract and treated with E316 and E621) in non-fermented heat-treated product Inovec salami. Inovec salami is a product produced all over the Slovakia. The similar product can be found in Polish (Polish salami) or in the Czech Republic (Vysocina salami). The samples were vacuum packaged and were kept at 4 °C for 30 days. Determination of psychrotrophic bacteria count (PBC), count of Enterobacteriaceae family (ETB), yeast and moulds, Lactobacillus spp. bacteria count (LAB) was done by cultivation methods. Oxidative stability was determined by TBARS value. Color spaces L*, a*, b* of Inovec salami was determined by CM 2600D spectrophotometer (Konica Minolta, Germany). It was found non-significant (p &gt;0.05) color loss (decrease in redness) over time, and the treatments had a non-significant impact (p &gt;0.05) on redness of the salami in compare to control sample. TBARS values of the rosemary treated cooked salami with different amount of yeasts extracts were significantly lower compare to control sample at the end of the shelf life. Also, lower value of TBARS was determined in salami with rosemary in combination with higher amount of yeast extract. The lowest count of PBC was determined in the second experimental group after 15 days. The rosemary extract in combination of yeast extract treatments were not able to influence the growth of the yeasts and moulds. It was found that rosemary extract in combination with yeast extract in the salami of the second experimental group after 15 days of storage significantly (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/464/pdfq</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

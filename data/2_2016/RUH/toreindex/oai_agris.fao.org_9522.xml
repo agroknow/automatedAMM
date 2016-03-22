@@ -1,0 +1,47 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09522">
+    <dc:title xml:lang="ru">РАЗРАБОТКА МЕТОДА ОТСЛЕЖИВАНИЯ ВНЕПЛАНОВЫХ ВСПЛЕСКОВ ЗНАЧЕНИЙ ПРОИЗВОДСТВЕННЫХ ХАРАКТЕРИСТИК В УСЛОВИЯХ ЖИВОТНОВОДЧЕСКОГО ПРОИЗВОДСТВА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>DEVELOPMENT OF METHOD FOR MONITORING THE SUDDEN SURGE VALUES ​​OF PRODUCTION CHARACTERISTICS ON LIVESTOCK PRODUCTION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>АНТОНОВ Л.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Владимирский государственный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">automation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">livestock farms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15855</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассматривается задача идентификации периодов внеплановых всплесков значений производственных характеристик животных молочного хозяйства. Решение данной задачи обеспечивается с помощью аппроксимации данных об активности животного с помощью метода наименьших квадратов и применения правила трех сигм к разности исходного временного ряда и ряда аппроксимации. Разработанный алгоритм получил экспериментальную оценку, представленную в работе.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Problem of identification periods of sudden surge values of production characteristics for dairy farming's animals is presented in the article. Solution of the problem is provided by data approximation of the activity animal and the application of the rules of three-sigma for the difference between of the original time series and approximation time series. The developed algorithm received experimental evaluation.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/11/10-2-29.pdf#page=4</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.10 (29)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

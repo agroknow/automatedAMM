@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016104980">
+    <dc:title xml:lang="en">Application of AM Fungi with Bradyrhizobium japonicum in improving growth, nutrient uptake and yield of Vigna radiata L. under saline soil</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kadian Nisha</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Yadav Kuldeep</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aggarwal Ashok</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vigna radiata</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bradyrhizobium japonicum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil salinity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Proline</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8242</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34485</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35317</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A pot experiment was conducted under polyhouse conditions, to evaluate the effect of two different arbuscular mycorrhizal fungi (G. mosseae and A. laevis) in combination with Bradyrhizobium japonicum on growth and nutrition of mungbean plant grown under different salt stress levels (4 dS m−1, 8dS m−1 and 12 dS m−1). It was found that under saline conditions, mycorrhizal fungi protect the host plant against the detrimental effect of salinity. The AM inoculated plants showed positive effects on plant growth, dry biomass production, chlorophyll content, mineral uptake, electrolyte leakage, proline, protein content and yield of mungbean plants in comparison to non-mycorrhizal ones but the extent of response varied with the increasing level of salinity. In general, the reduction in Na uptake along with associated increase in P, N, K, electrolyte leakage and high proline content were also found to be better in inoculated ones. The overall results demonstrate that the co-inoculation of microbes with AM fungi promotes salinity tolerance by enhancing nutrient acquisition especially phosphorus (P), producing plant growth hormones, improving rhizospheric and condition of soil by altering the physiological and biochemical properties of the mungbean plant.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N3/JSPB_2014_3_134-152.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

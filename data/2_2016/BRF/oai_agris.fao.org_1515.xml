@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01515">
+    <dc:title xml:lang="en">Ownership of fishing areas and use of fishing resources by artisanal fishermen in a pond in southern Brazil</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Apropriação de áreas de pesca e utilização dos recursos pesqueiros por pescadores artesanais em uma lagoa no sul do Brasil</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS, J. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TAVARES, R. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERNANDES, J. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOUZA,  D. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POUEY,  J. L. O. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PIEDRAS, S. R. N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fishing effort</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">artisanal fisheries</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproduction</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Economic viability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24027</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_644</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6507</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16098</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The Mangueira Lagoon located in southern Brazil, has its northern portion included in the Taim Ecological Station, a federal conservation unit. The fishing practice is among the activities at this region. It has its own characteristics due to environmental conditions and specific physiography of the area. A field protocol based on geographic information was used to characterize the occupation process and the use of fishing resources. Socio-economic information was collected through interviews of the fishermen and also based on fishing data. After compiling the data a statistical descriptive analyses was completed. The average catch per fisherman in the region is 4,766.5 kg per year. The Loricariichthys anus showed the highest catch volume, ensuring the economic viability of the local activity. The constant increase of the activity may be compromising the reproductive cycle of the local ichthyological fauna, thus compromising the fishery sustainability.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A Lagoa Mangueira localizada no sul do Brasil tem sua porção norte incluída na Estação Ecológica do Taim, unidade de conservação federal. Entre os usos dados a esta região, destaca-se a pesca artesanal, que apresenta características próprias devido as condições ambientais e fisiográficas da região. Com objetivo de caracterizar o processo de ocupação e uso dos recursos pesqueiros, foi usado um protocolo de campo e de informação geográfica. Dados de pesca foram coletados e entrevistas foram aplicadas para obter informações sócio-econômicas, que foram tabulados e submetidos à análise estatística descritiva. A captura média por pescador na região é de 4.766,5 kg/ano, sendo a viola Loricariichthys anus a espécie com maior volume de captura, garantindo a viabilidade econômica da pesca local. O aumento contínuo do esforço de pesca pode estar comprometendo o ciclo reprodutivo da fauna ictiológica local, comprometendo a sustentabilidade da pesca.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1396558428.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

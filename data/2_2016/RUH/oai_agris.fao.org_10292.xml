@@ -1,0 +1,59 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10292">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ ТЯЖЁЛЫХ МЕТАЛЛОВ НА ЗДОРОВЬЕ РЫБ В ОЗЕРЕ СЕВАН И ОТРАЖЕНИЕ РЕЗУЛЬТАТОВ НА ЗДОРОВЬЕ ЧЕЛОВЕКА КАК ИХ ПОТРЕБИТЕЛЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INFLUENCE OF HEAVY METALS ON HEALTH OF THE FISH IN LAKE SEVAN AND REFLECTION RESULTS ON HUMAN HEALTH AS THEIR CONSUMERS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ШАГИНЯН С.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>САРГСЯН М.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Национальный университет архитектуры и строительства Армении</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fish</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heavy metals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Статья посвящена воздействию тяжёлых металлов на здоровье человека, потребляющего рыбуозера Севан, которое загрязняется тяжёлыми металлами. Исследование основано на изучении результатов мониторинга химического качества воды в 2010, 2011, 2012,2013 и 2014 годах.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article is devoted to the effects of heavy metals on human health, consuming fish of lake Sevan, which is contaminated with heavy metals. The research is based on a study of the results of monitoring the chemical quality of water in 2010, 2011, 2012, 2013 and 2014.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/05/4-2-35.pdf#page=104</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.4 (35)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01225">
+    <dc:title xml:lang="en">Relation ships among biometric measurements, carcass traits and meat commercial cuts in Zebu and Caracu bulls</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Relações entre medidas biométricas</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>características de carcaça e cortes cárneos comerciais em bovinos Zebu e Caracu</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>CYRILLO,  J. N. S. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NARDON,   R. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MERCADANTE,  M. E. Z.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BONILHA,  S. F. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ARNANDES,  R. H. B</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beef cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Measurement</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carcasses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4668</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1310f6eee3d3</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">During three consecutive years a total of 144 bull records from the Zebu breeds Nellore, Guzerah and Caracu breed, selected for post-weaning weight, finished in feedlot and slaughtered at an average age of 19 months, with three different degrees of maturity, were analyzed. Multivariate procedure (MANOVA) was used to estimate the residual correlations between body measurements and carcass traits. The model fitted the effects of genetic groups, order of slaughter and year of birth. Correlation coefficient between hip height and carcass weight was 0.37, antagonistic to the amount of kidney fat (-0.14). High correlation coefficients were estimated between chest girth and carcass weight (0.77), blade (0.57), and chuck (0.67) and positive correlations were estimated between chest girth and kidney fat (0.38) and carcass fat (0.52). The estimated correlation coefficient between body length and carcass weight was 0.38. Correlation coefficients between dorsal line length, rump length and distance among pin bones and all the meat cuts of commercial interest analyzed ranged from 0.24 to 0.56. In addition to live body weight, chest girth and distances between hip bones can be considered an auxiliary tool for evaluation of carcass traits in Zebu and Caracu bulls. Other body measurements analyzed resulted in low or null relationship to carcass traits.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Em três anos consecutivos foram analisados registros de 144 bovinos machos das raças zebuínas Nelore, Guzerá e da raça Caracu, selecionados para peso pós-desmame, terminados em confinamento e abatidos com idade média de 19 meses, em três diferentes graus de maturidade. A análise multivariada (MANOVA) foi utilizada com o objetivo de estimar as correlações residuais entre medidas corporais e características de carcaça. O modelo de ajuste incluiu os efeitos de grupos genéticos, ordem de abate e ano de nascimento. O coeficiente de correlação entre a altura na garupa e peso de carcaça foi de 0,37, sendo antagônico à quantidade de gordura renal (-0,14). Altos coeficientes de correlação foram estimados entre perímetro torácico e peso de carcaça (0,77), paleta (0,57) e acém (0,67) e correlações positivas foram estimadas entre perímetro torácico e gordura renal (0,38) e gordura na carcaça (0,52). O coeficiente de correlação estimado entre comprimento do corpo e peso de carcaça foi 0,38. Os coeficientes de correlação estimados entre comprimento do dorso, comprimento da garupa e distância entre ísquios e todos os cortes cárneos comerciais analisados variaram de 0,24 a 0,56. Além de peso vivo, o perímetro torácico e a distância entre os íleos podem ser considerados auxiliares na avaliação de características de carcaça de bovinos Zebu e Caracu. As outras medidas corporais analisadas resultaram em baixa ou nula correlação com características de carcaça.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1355399368.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.69/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02361">
+    <dc:title xml:lang="en">Water microbiology quakity for anumal consumption</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Qualidade microbiológica da água para consumo animal</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DUARTE,  K. M. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GOMES,  L. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DOZZO,  A.D.P</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ROCHA, F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LIRA,  S.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DEMARCHI,  J. J. A. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Coliiformes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Consumption</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Escherichia coli</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pollutants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1752</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33700</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6076</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Water designed for human or animal consumption must attend to minimal quality standards in order to guarantee the ideal consumption, without injuries due to bad quality, such as microbiology or chemical contaminants. This work aimed to evaluate microbiology quality of water offered in the Institute of Animal Science and Pastures (IZ), for animal consumption. In 25 sampling sites, pH, total coliforms, Escherichia coli and heterotrophic bacteria were measured, using Colitest commercial kit for total and E.coli and, R2A and TSA media for heterotrophic bacteria counting. Total coliforms were presented at the Lake, at both sampling sites (boarder and inside the Lake) and in one of the paddocks, from Maracanã area. At IZ major area, total coliforms were observed at two sampling sites. In the Wellspring area (Manancial), no total coliforms were found. E.coli was presented at the lake edge, from Maracanã area and at the Planalto Stream, inside the Institute. From all 25 sampling sites, 28 % showed total coliforms and 8% presented E.coli. For heterotrophic bacteria, the maximum count indicated by official Governmental Agency (CETESB) designated to animal consumption must be under 1000 CFUmL -1. The R2A medium in comparison to TSA medium showed 293% more bacteria counting’s, confirming that rich–nutrient medium can fade the real count and biodiversity of a poor environment such as the water. Variance analysis showed significant difference at 1% by F test (1.781) for both R2A and TSA media, showing R2A was better for heterotrophic bacteria identification in water resources. Other studies must be continued in order to guarantee water quality given to livestock.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Água para consumo humano ou animal deve atender ao mínimo de exigências de padrões de qualidade para garantir consumo adequado, sem provocar injurias aos animais devido à má qualidade, como contaminação microbiológica ou química. Este trabalho avaliou a qualidade microbiológica da água oferecida aos animais de produção do Instituto de Zootecnia (IZ) e algumas instalações de pesquisa e administração. Nestas amostras, pH, coliformes totais, Escherichia coli e outras bactérias do grupo dasheterotróficas foram quantificados usando o kit comercial Colitest para coliformes totais e E.coli.Os meios R2A e TSA foram utilizados para contagem de bactérias heterotróficas. Coliformes totais foram encontrados no Lago do Maracanã, nas duas amostragens, da margem e do interior e em um dos piquetes. Na área central do IZ, coliformes totais foram encontrados no Riacho do Planalto, nas duas amostragens e no Bosque Isidoro Bordon, assim como no Lago. Na área do Manancial nenhum coliforme total foi encontrado. Destas áreas, E.coli estavam presentes em duas amostragens. Do total das 25 coletas, 28% apresentaram coliformes totais e 8% E.coli. Para bactérias heterotróficas, o máximo indicado pela CETESB para consumo animal é de 1000 UFC mL-1, e na comparação entre os dois meios para contagem de bactérias heterotróficas verificou-se que 68% das amostras apresentaram valores superiores no meio R2A e 32% no meio TSA. Na avaliação dos meios de cultura utilizados o R2A apresentou resultados 293% superiores aos do meio TSA mostrando que um meio rico em nutrientes pode mascarar a variabilidade microbiológica de um ecossistema naturalmente pobre (água). No teste estatístico de análise de variância o resultado obtido foi significativo a 1% de probabilidade pelo teste de F (1,781) mostrando a diferença entre os meios R2A e TSA utilizados, provando que o meio R2A foi melhor na identificação de bactérias heterotróficas presentes na água. Estudos devem continuar a serem conduzidos de forma a garantir água de qualidade aos animais de produção.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1403099553.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

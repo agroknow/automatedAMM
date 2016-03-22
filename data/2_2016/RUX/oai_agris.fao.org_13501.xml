@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13501">
+    <dc:title xml:lang="en">Impact of pesticides on yield and seed quality of soft spring wheat</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние пестицидов на урожайность и посевные качества семян пшеницы мягкой  яровой</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Suddenko V.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kalenskaya S.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Mironovsk Institute of wheat named after V.N.Remeslo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>National university of bioresource and environmental sciences</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fungicides</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Insecticides</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seed quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3146</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14172</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables, 11 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Assessment of the impact of chemicals on yield and seed quality of soft spring wheat was studied. The research was conducted in Kiev region, Mirotovsk district in 2012-2014 in field and laboratory conditions. Sown area of plots - 10 m2, randomly picked out in 4-fold repetition. From the obtained results we can say that the best pre-sowing treatment of seeds of spring wheat was drug of fungicide-insecticidal action Celeste Top 312,5 FS, (1.5 l/t) together with microfertilizers FettiFrait start (1l/t). He did not cause the decline of sowing qualities, stimulating effect was manifested in the growth of shoots, the elongation of the coleoptile (0,3 cm), the increase in the number of embryonic roots (0,2 PCs) and increasing the yield by 0,40 and 0,34 t/ha. When processing in the period spring-summer growing season of crops of spring bread wheat with fungicides Tilt Turbo 575 ES, k. e., (0,6 l/ha) and Falcon 460 ES, k. e., (0,5 l/ha) yield increased in the varieties Elegiya Mironovskaya and Simcoda Mironovskaya by 0,51-0,52 t /ha, and with insecticides Karate Zeon 0,50 CS, m. k. s. (0,15 l/ha) and Nurel d. k.e. (0,75 l/ha) by 0,41 -0,46 t /ha and 0,380,42 t /ha. The best results in average over 3 years were obtained by double application during the IV and VIII stages of organogenesis. On the basis of studies it can be noted that seed treatment and processing of vegetative plants of spring bread wheat by fungicides and insecticides is a reliable way to generate high and stable yields with high sowing qualities of seeds.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучена оценка влияния химических препаратов на урожайность и посевные качества семян пшеницы мягкой яровой. Исследования проводились в Киевской области, Мироновского района в 2012-2014 годах полевых и лабораторных условиях. Посевная площадь делянок 10 м2, размещение их рендомизированное в 4-кратной повторности. Из полученных результатов исследований можно сказать, что лучшая предпосевная обработка семян пшеницы яровой оказался препаратом фунгицидно-инсектицидного действия Селест ^п 312,5 FS, т.к.с., (1,5 л/т) совместно с микроудобрения Фентигрейн старт (1л/т). Он не вызывал снижение посевных качеств, стимулирующее действие проявлялось в росте побегов, удлинении колеоптиле (0,3 см), увеличении количества зародышевых корней (0,2 шт) и повышении урожайности на 0,40 и 0,34 т/га. При обработке в период весенне-летней вегетации посевов пшеницы мягкой яровой фунгицидами Tuлт Tурбо 575 EС, к.е., (0,6 л/га) и Фалькон 460 EС, к.е., (0,5 л/га) урожайность возрастала у сортов Элегия Мироновская и Симкода Мироновская на 0,51-0,52 т /га, и инсектицидами Карате Зеон 0,50 С5, м.к.с. (0,15 л/га) и Нурел д к.е. (0,75 л/га) на 0,41 -0,46 т /га и 0,38-0,42 т /га. Лучшие результаты в среднем за 3 года были получены при двукратном их применении на IV и VIII этапах органогенеза. На основе проведенных исследований отмечаем, что протравли-вання семян и обработка вегетирующих растений пшеницы мягкой яровой фунгицидами и инсектицидами является надежным приемом получения высоких и стабильных урожаев с высокими посевными качествами семян.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-15-Suddenko.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(30)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

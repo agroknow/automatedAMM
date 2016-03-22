@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104915">
+    <dc:title xml:lang="es">RED DE HUERTOS Y GANADERÍA ECOLÓGICA DE AUTOCONSUMO COMO MODELO EMPRESARIAL ALTERNATIVO EN UN CONTEXTO DE CRISIS</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ECOLOGICAL GARDEN AND LIVESTOCK NET AS AN ALTERNATIVE PRODUCTION MODEL IN A CRISIS ENVIRONMENT</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Navarro-Ríos María</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aznar Márquez Juana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Miguel Hernández de Elche (UMH)</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Miguel Hernández de Elche (UMH)</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Alternative agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Organic agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">unemployment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28792</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15911</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8061</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Since 2008, Spain is suffering the most relevant economic crisis in a century. The main problem derived of the economic contraction is the important increment in unemployment number. The social urban garden production model allow for an agricultural production system that offer products with label of quality. Taking these two facts into account, in the Animal Production Department (University Miguel Hernández de Elche, UMH), we start a research program about “social urban gardens in the net”. With this research, using an interdisciplinary concept, we pretend to create an entrepreneur initiative capable to create new job. The present work explains a particular I+D project developed in cooperation between UMH, Caritas (a Non-Governmental Organization) and different local Governments of the Vega Baja area (Alicante, Spain). The so named “Earth Project” started in 2012 and it focus on activities in social gardens as firms that allow their owners to avoid social exclusion. By the moment, it is taking place the period for human as well as material resources available organization. The present paper explains the methodological aspects needed in the research and the results obtained up to now.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Desde 2008 vivimos una crisis destacando como efecto más sangrante el desempleo. Conseguir igualdad de oportunidades de empleo de calidad tanto para hombres como para mujeres, genera efectos multiplicadores bienestar y desarrollo, equilibrando las relaciones de poder dentro de la familia. La  Vega Baja del Río Segura es una comarca de la Comunidad Valenciana, en España, situada en el extremo sur de la provincia de Alicante. Recientes estudios sobre la zona apuntan como sectores clave para salir de la crisis, la agricultura y el turismo rural. Hoy en día en España podemos comprobar  cómo van aumentando iniciativas de programas específicos dirigidos a formar personas desempleadas para que puedan encontrar una salida laboral en la agricultura ecológica mediante la explotación de huertos urbanos. El presente trabajo trata de explicar el proyecto de investigación y desarrollo que desde la UMH en coordinación con la ONG Cáritas y diversos ayuntamientos de la comarca, se viene desarrollando desde 2012 bajo la denominación: “Proyecto Tierra”. Red de huertos sociales como iniciativa  socio-empresarial  destinada a colectivos en riesgo de exclusión social.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo068_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

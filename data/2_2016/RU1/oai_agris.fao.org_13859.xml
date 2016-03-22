@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016113859">
+    <dc:title xml:lang="en">Effect of Temperature on Triticum aestivum L. Seedlings Growth and Phytohormone Balance</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kosakivska I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Voytenko L.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Likhnyovskiy R.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ABA</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The study aimed to determine the effect of short-term heat and cold stresses on growth, accumulation and distribution of abscisic acid (ABA) and indole-3-acetic acid (IAA) in 7 and 14-day-old Triticum aestivum L. seedlings of the frost resistant cultivar Volodarka. A high performance liquid chromatography method has been used to provide a qualitative and quantitative analysis of hormones in leaves and roots. Biometric analysis showed that at the early stage of vegetation (7 days) seedlings were more resistant to temperature stresses, especially to cold, than at the later ones (14 and 21 days), that correlates with the frost resistance of cultivar. The results indicated that at the early stages of growth, after a short-term cold stress (2 h., +20C), the amount of free ABA substantially increased in roots, while at the later ones, it occurred after a short-term heat stress (2 h., +400C) in leaves. After a heat stress the leaves of 7-day-old seedlings accumulated a conjugated form of IAA. Heat stress caused the accumulation of free IAA in roots of 14-day-old seedlings. Cross stress (cold+heat) caused some increase in the pool of endogenous ABA both in roots and leaves while the amount of free IAA increased only in leaves. Сhanges in the accumulation of the free and conjugated forms of ABA and IAA depended both on the organs and the age of seedlings, and the type of stress and correlated with frost resistance of the cultivar Volodarka.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2015/N4/JSPB_2015_4_91-99.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

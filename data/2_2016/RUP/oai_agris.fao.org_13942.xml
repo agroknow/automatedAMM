@@ -1,0 +1,53 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13942">
+    <dc:title xml:lang="ru">ПРОИЗВОДСТВО ЭКОЛОГИЧЕСКИ ЧИСТЫХ ПРОДУКТОВ ПИТАНИЯ – РАЗВИТИЕ ВАЖНЕЙШЕГО СЕКТОРА ЗЕЛЕНОЙ ЭКОНОМИКИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PRODUCTION OF ENVIRONMENTALLY FRIENDLY FOOD IS THE DEVELOPMENT OF THE MAJOR SECTOR OF GREEN ECONOMY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lipina  S.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Agapova  E.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lipina  A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food science</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">technology assessment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3027</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37914</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: sustainable development, green economy, greening of economy, green growth, production of environmentally friendly products, agrarian and industrial complex, agricultural production</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье раскрывается необходимость развития в России производства экологически чистых продуктов питания, основного направления экологизации экономики, важнейшего сектора зелѐной экономики. В работе поднимаются проблемы сертификации экологически чистого, органического, сельскохозяйственного производства, даются рекомендации и предложения по возможным путям развития данного
+сектора зелѐной экономики.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Necessity of development the production of environmentally friendly food, the main direction of greening of economy, the most important sector of green economy in Russia is revealed in the article. The problems of certification environmentally friendly, organic rise and agricultural production are raised in the work. Recommendations and offers on possible ways of development of this sector of green economy are made.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_bedd806123a94cdc9a668380d87d78ce.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

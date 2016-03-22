@@ -1,0 +1,60 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016010596">
+    <dc:title xml:lang="en">Staphylococcal enterotoxin production in model samples of milk and fresh cheese</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Janštová, B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Necidová, L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Skočková, A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Janštová, B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>University of Veterinary and Pharmaceutical Sciences Brno, Palackého 1-3, 612 42 Brno, Czech Republic. e-mail: bjanstova@vfu.cz</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Staphylococcus aureus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">raw milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pasteurized milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16429</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13132</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Goats’ milk, ewes’ milk, cows’ milk and fresh cheese made from different milk types was inoculated with a Staphylococcus aureus strain. Growth of Staph. aureus was quantified by plate method on Baird-Parker agar and staphylococcal enterotoxin C production was determined by enzyme-linked immunofluorescent assay (ELFA) using an automated miniVIDAS instrument (BioMérieux, Marcy l‘Étoile, France). The influence of inappropriate storage conditions (15 °C, 22 °C) and milk type on growth of Staph. aureus in dairy products were evaluated. Results of the model experiments linked the dependence of Staph. aureus multiplication and subsequent production of staphylococcal enterotoxins to the storage temperature and type of milk. In fresh cheese and in raw milk stored at 15 °C, no entero¬toxin production was detected during the entire storage period. It is noteworthy that, in raw milk and fresh cheese, Staph. aureus growth and production of enterotoxins can be suppressed by competitive microflora. With the other samples, enterotoxin was detected within the first 24 h or 48 h of storage. Results of our study underscore the importance of cold chain maintenance from production through the retail sale to ensure safety of dairy products.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

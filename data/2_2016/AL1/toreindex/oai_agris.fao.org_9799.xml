@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016109799">
+    <dc:title xml:lang="en">Accumulation of Heavy Metals in Vegetables from Agricultural Soils</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>KASA ELJAN</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CONTIN MARCO</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GJOKA FRAN</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Agroenvironment and Ecology, Agricultural University of Tirana, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>University of Udine, Italy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Agroenvironment and Ecology, Agricultural University of Tirana, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">irrigated soils</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_64627</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3953</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study analyzed the heavy metals in vegetables cultivated in private gardens in Bregu i Matit, an important
+agricultural area in the NW Albania.The plant and soil samples taken from irrigated and non-irrigated fields in
+this area were analyzed for the concentrations of Cd, Cu, Zn, Pb and Ni using atomic absorption spectroscopy
+(AAS), after extraction by HNO3 and H2O2.The transfer factors (TF) were used to evaluate the risk of metal
+transfer from soil to plant and the FAO/WHO safe limits to assess the potential hazards of heavy metals to
+human health. The ranges of heavy metal concentrations ± standard deviation in vegetable samples were (mg kg-
+1): Cu 2.98-12.90 (±3.08), Ni 4.82-35.79 (±7.68), Zn  Zn &gt; Cu &gt; Ni &gt; Pb.
+The TF values indicate that only Cd was accumulated in plants.The contents of Cd in three vegetable samples,
+Pb in four samples, and Cu in one sample were above the safe limits set by the FAO/WHO for heavy metals in
+foods and vegetables indicating that consumption of vegetables grown in the studied soils could be dangerous to
+human health.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_2_2015_files/13_Eljan%20pp%20169-175.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

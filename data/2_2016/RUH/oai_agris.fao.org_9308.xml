@@ -1,0 +1,68 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09308">
+    <dc:title xml:lang="ru">КАК ИЗБАВИТЬСЯ ОТ ГЛОБАЛЬНОГО ПОТЕПЛЕНИЯ?</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>HOW TO GET RID OF GLOBAL WARMING?</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>КУРНОСОВ А.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>НОСЕНКО В.Д.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>РЭА и АГН</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>МАНЭБ</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P06</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">global warming</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">renewable energy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">solar energy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Biofuels</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34836</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25719</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7222</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27465</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью настоящей статьи является прекращение глобального потепления, которое авторы считают антропогенным процессом и который может привести уже в обозримом будущем к катастрофическим последствиям, если незамедлительно не принять мер по противодействию. Хотя есть мнения, что это - естественный процесс. В любом случае необходимо регулировать концентрацию в атмосфере такого парникового газа как СО 2, что возможно при нынешнем уровне техники. Для полной замены традиционного ископаемого углеродсодержащего топлива возобновляемыми ресурсами предлагаются, главным образом, гелиоустановки, а для регулирования концентрации СО 2 в атмосфере необходимо производство и применение биотоплива, которое надо выращивать в платформах-бассейнах в акватории Мирового океана, и которому в этом смысле нет альтернативы. Но вначале биотопливо должно использоваться как топливно-энергетический ресурс, замещающий традиционное топливо и не увеличивающий концентрацию СО 2 в атмосфере. В последующем, когда традиционное топливо будет полностью заменено возобновляемыми ТЭР, биотопливо как изымающее из атмосферы СО 2 следует захоранивать, изолируя изъятый углерод от окисления. Дезавуируется вопрос о мнимой нерентабельности биотоплива. Для практического применения настоящего предложения нет никаких препятствий, требуется лишь решение о выполнении работ на самых высоких уровнях. Предлагается форсировать работы по строительству СЭС и платформ-бассейнов для выращивания биотоплива, что возможно при настоящем состоянии науки и техники, а задачей науки здесь является оптимизация решений.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The purpose of this article is to stop global warming, which the authors consider anthropogenic process and which may lead in the foreseeable future catastrophic consequences if immediate measures are not taken to counter. Although there are opinions that it is - a natural process. In any case it is necessary to adjust this concentration in the atmosphere as a greenhouse gas CO 2, it is possible with the present art. To completely replace traditional fossil fuels with renewable resources carbonaceous offered mainly solar, and for controlling the concentration of CO 2 in the atmosphere is necessary production and use of biofuels, which must be grown platforms-basins in the world's oceans, and that in this sense there is no alternative. But first biofuels to be used as fuel and energy resource, replacing traditional fuels and increasing the concentration of CO 2 in the atmosphere. Subsequently, when conventional fuels will be completely replaced in the renewable energy resources, energy is withdrawn from the atmosphere as CO 2 should be disposed of isolating carbon withdrawn from oxidation. Disavows the question of the alleged unprofitability biofuels. For practical application of this proposal no nick-FIR obstacles requires a decision on the execution of work at the highest levels. It is proposed to boost the construction of platforms and SES-basins for growing biofuels, which is possible in the present state of science and technology, science and the task here is to optimize decisions.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/6-2-25.pdf#page=79</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.6 (25)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

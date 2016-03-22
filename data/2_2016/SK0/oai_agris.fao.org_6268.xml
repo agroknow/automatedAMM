@@ -1,0 +1,39 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016006268">
+    <dc:title xml:lang="en">Diversity of flora in historical parks on example of Sokolow Podlaski Region in Poland</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Fornal-Pieniak Beata</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Warsaw University of Life Sciences – SGGW, Nowoursynowska Str.161, 02-787 Warsaw, Poland</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Flora</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Poland</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2983</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The paper is focused on diversity of flora in historical parks on example of Sokolow Podlaski Region. The research was done in 20 historical parks. Parks were established in XVIII–XIX centuries (landscape historic style) on oak-hornbeam habitat. Nowadays these parks are without anthropic pressure since II World War. The methodology included two research stages: field research and indoor studies. Research assumed flora and syntaxonomic analysis. The field research was done in years 2010–2012, including 70 phytosociological records on the area 500 m2. Plant species are represented by natural, semi-natural and synantropical vegetation. There was observed impact for migration species from surroundings areas in study areas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.40/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

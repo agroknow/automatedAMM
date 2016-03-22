@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016105064">
+    <dc:title xml:lang="es">DESEMPEÑO DE OVINOS DE LA RAZA SANTA INÊS ALIMENTADOS CON NOPAL Y RESTRICCIÓN DE AGUA</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PERFORMANCE OF THE SANTA INÊS SHEEP BREED FED SPINELESS CACTUS AND WATER RESTRICTION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Cordova-Torres Alma</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Costa Roberto</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Filho José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Alves Neymar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal da Paraiba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal da Paraiba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Alagoas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Alagoas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Semiarid conditions are a big challenge for ovine producers</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">variability in rainfall makes food and water limiting factors for animal performance. Given these difficulties, the spineless cactus has become a permanent ingredient in diets. The objective of this work was to evaluate the influence of spineless cactus inclusion (Nopalea cohenillifera Salm Dyck) and water restriction on the performance of Santa Inês sheep breed. Forty two males were used, with age and average weight of 100 days and 18.74 kg respectively. Animals were fed diets with 0, 30, 50 and 70% inclusion of cactus reaching 32 kg. The experimental design was a 3x2 factorial arrangement (spineless cactus: 30, 50, 70 and water levels: with and without water). Variables were analyzed using the Tukey test to 5% by the PROC GLM procedure of SAS. Water and its interaction with the treatments had no influence on the analyzed variables. The final weight was (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">La variabilidad en la precipitación pluvial, torna la alimentación y el agua en factores limitantes para el desempeño animal en las regiones semiaridas. Ante estas dificultades, el objetivo del trabajo fue evaluar la influencia de la inclusión de nopal (Nopalea cohenillifera Salm Dyck) y la restricción de agua sobre el desempeño productivo de ovinos Santa Inês. Fueron utilizados 42 ovinos machos, con edad y peso medio de 100 días y 18.74 kg respectivamente, fueron alimentados con dietas de 0, 30, 50 y 70% de inclusión de nopal hasta alcanzar 32 kg. El diseño experimental fue arreglo factorial 3x2 (inclusión de nopal y niveles  de agua: con agua y sin agua). Las variables fueron analizadas usando el  test de Tukey a 5%. El agua y su interacción con los tratamientos no tuvo influencia para las variables analizadas. El peso final fue (P&lt; 0.05) mayor para los tratamientos con 30 y 50% de inclusión, con medias de peso 31,78 y 31, 4 kg respectivamente vs 28,43 kg (control). La ganancia total y la ganancia diaria de peso, fueron mayores para los tratamientos con 30 y 50 % , con ganancia total de 13, 27 y 12,23 kg,  y 167 y 153g/día  respectivamente en comparación con 9,5 kg y 106g/día del tratamiento control. Los días en confinamiento no fueron significativos, siendo 83 dias en promedio.  Los niveles de 30 y 50% son los más recomendados, mejoran la ganancia diaria  y total de peso, siendo ampliamente recomendada su utilización en los sistemas de producción.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo120_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

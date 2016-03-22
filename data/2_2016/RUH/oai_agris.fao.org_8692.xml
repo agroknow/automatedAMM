@@ -1,0 +1,83 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08692">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ МЕТОДА СКРЕЩИВАНИЯ НА ПРОДУКТИВНОЕ ДОЛГОЛЕТИЕ ПОМЕСНЫХ КОРОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EFFECT OF THE METHOD OF CROSSING FOR PRODUCTIVE LONGEVITY CROSSBRED COWS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Карамаев С.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Китаев Е.А</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Карамаева А.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Фомина Л.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ФГБОУ ВПО &amp;quot</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Самарская государственная сельскохозяйственная академия&amp;quot</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate />
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rock</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Longevity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lactation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6628</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4428</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4140</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью данной работы является увеличение периода продуктивного использования помесных коров бестужевской породы,
+полученных разными методами скрещивания с голштинскими быками. Установлено, что у бестужево х голштинских помесей по
+мере увеличения доли крови голштинов сокращается период продуктивного использования на 84-402 дня (5,3-25,3%). Лучшие
+результаты молочной продуктивности и продуктивного долголетия коров получены при воспроизводительном скрещивании.
+Рекомендуется, для увеличения периода продуктивного использования коров, скрещивание проводить до получения помесей с долей
+крови голштинов 62,5% с последующим разведением «в себе».</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this work is to increase the productive use of crossbred cows bestuževskoj breeds, obtained by different methods of crossing
+the golštinskimi bulls. Found that bestuževo x holstein crossbred with increasing proportion of blood reduces the period of productive
+utilization of Holstein breeders at 84-402 (5,3%), the best results -25,3 milk productivity and productive longevity of cows received by
+vosproizvoditel′nom crossbred. it is recommended to increase the productive use of cows crossing a pending cross-breeds with blood 62,5%
+Holstein breeders and breeding "</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/02/1-2-20.pdf#page=58</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.1 (20)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13929">
+    <dc:title xml:lang="ru">О МОРФОГЕНЕЗЕ И ГЕНЕТИЧЕСКОЙ НЕСТАБИЛЬНОСТИ В КУЛЬТУРЕ РАСТИТЕЛЬНЫХ ТКАНЕЙ IN VITRO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ABOUT MORPHOGENESIS AND GENETIC INSTABILITY IN THE CULTURE OF IN VITRO PLANT TISSUES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Rozhanskaya  O.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shilova  T.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gorshkova  E.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Churakov  A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant genetics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">breeding methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49985</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1079</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: culture of fabrics of plants of in vitro, power activation, apoptosis, regeneration, morphogenesis, somaklonalny variability</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Процессу регенерации в культуре растительных тканей in vitro предшествует энергетическая активация инициали  соматического зародыша или адвентивного побега за счет программируемой смерти (апоптоза) соседних клеток. Фундаментальной причиной сомаклональной изменчивости дедифференцированных клеток является отсутствие контроля со стороны организма. В результате энергетической активации инициальной клетки возникает план развития растения-регенеранта, координирующий цитокинез, дифференцировку и работу систем репарации. С этого момента развитие организма идет в соответствии с геномом исходной инициали, какие бы изменения ни накопились в нѐм за время бесконтрольной пролиферации.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Energetic activation of the initial cells of somatic embryo or adventitious shoots, which occurs due to the programmed death (apoptosis) of neighboring cells, precedes the process of regeneration in the plant tissues culture in vitro. Lack of control of the integral organism is the fundamental cause of somaclonal variation of dedifferentiated cells. After power activation of the initial cells appears the plan for the development of a plant-regenerator that coordinates cytokinesis, differentiation and reparation systems work. Since then, the development of a new organism is in accordance with the genome of initial cells, whatever developments may have accumulated in it during uncontrolled proliferation.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_bedd806123a94cdc9a668380d87d78ce.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

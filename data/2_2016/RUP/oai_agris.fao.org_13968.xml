@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13968">
+    <dc:title xml:lang="ru">ГЕМАТОЛОГИЧЕСКИЕ И БИОХИМИЧЕСКИЕ ПОКАЗАТЕЛИ КРОВИ СИЗОЙ ЧАЙКИ (LARUS CANUS) В РАННЕМ ПОСТЭМБРИОНАЛЬНОМ ОНТОГЕНЕЗЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>HEMATOLOGIC AND BIOCHEMICAL INDICATORS OF BLOOD OF THE GREY SEAGULL (LARUS CANUS) IN EARLY POST-EMBRYONIC ONTOGENESIS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ponomarev  V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kletikova  L.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Yakimenko  N.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Martynov  A.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khozina  V.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hygiene</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3739</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: baby birds of a seagull, post-embryonal development, hematologic and biochemical researches</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">С увеличением возраста у птенцов происходит становление эритропоэза, повышение содержания лейкоцитов более чем в 2 раза, увеличение процентного содержание эозинофилов, псевдоэозинофилов и моноцитов соответственно на 59,35</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">13,11 и 198,37%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">отмечена тенденция к повышению альбу-
+миновой фракции белка, становлении энергетического и минерального обмена, снижении активности ГГТП и α-амилазы и высоком содержании гормонов кортизола и Т4.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">With increase in age baby birds have a formation of an eritropoez, increase of the maintenance of leukocytes
+more than twice, increase percentage of the maintenance of eosinophils, pseudo-eosinophils and monocytes respectively on 59,35</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">13,11 and 198,37%. The tendency to increase the albuminovy fraction of protein, formation of a power and mineral exchange, decrease of the activity of GGTP and α- amylases and the high maintenance of hormones of a cortisol and T4 is noted.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_bedd806123a94cdc9a668380d87d78ce.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

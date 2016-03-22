@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007841">
+    <dc:title xml:lang="en">Trophic preferences of Rossiulus kessleri (Diplopoda, Julidae) for the litter of various tree species</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Svyrydchenko  Anastasija O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Brygadyrenko Viktor V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Oles&amp;#039</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Honchar Dnipropetrovsk National University, pr. Gagarina, 72, 49010 Dnipropetrovsk, Ukraine</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Diplopoda</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forest litter</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2314</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3047</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This article analyses the results of a 10-day laboratory experiment investigating the consumption preferences of Rossiulus kessleri (Lohm.) when the leaf litter of 16 tree species was offered. During this experiment the rate of microbiological decay of the leaves of each tree species in the litter varied from 0.6 to 4.1% per day. The maximum rate of litter consumption by R. kessleri was found for Acer negundo L. (0.75 mg/mg of body weight per day), Quercus robur L. (0.50), Malus domestica Borkh. (0.36) and Cerasus vulgaris L. (0.35). For other tree species under investigation it did not exceed 0.11 mg/mg of body weight per day. In the dynamics of acclimation of R. kessleri to a new diet there are three main tendencies: 1) sharp increase in body weight on the first day of the experiment and stabilization thereof at a high level on the next day (for Fraxinus lanceolata Borkh. there was a 39% gain in weight, for Salix alba L. 29%, respectively)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2) decrease during the first three days of the experiment and further stabilization of body weight at a level not significantly different from the initial one (for Populus alba L., Acer platanoides L., Cerasus vulgaris L., Gleditsia triacanthos L. and Aesculus hippocastanum L.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3) long-term acclimation of about one-week's duration with return to initial (Quercus robur L., Ulmus laevis Pall.) or lower body weight (Populus nigra L. - 13% lower than initial weight, Acer negundo L. - 12% lower, A. pseudoplatanus L. - 9% lower, Pyrus communis L. - 8% lower, Pinus sylvestris L. - 7% lower). In the conditions of absence of food in the container, average body weight for 4 days decreased by 10%, while a 50% death rate of the starved millipedes was recorded on the 6th day. The maximum proportion of daily weight of faeces (dry weight) to live body weight was observed in R. kessleri fed on Pinus sylvestris L. (0.58%), Robinia pseudoacacia L. (0.57%), Pyrus communis L. (0.54%) and Populus alba L. (0.53%). The minimum average daily formation of faeces was recorded in millipedes fed on Acer pseudoplatanus L., Cerasus vulgaris L., Malus domestica Borkh. and Aesculus hippocastanum L. (0.20-0.23% of body weight). A discrepancy in rates of microbiological and zoogenic decomposition of litter was found for various tree species in the conditions of the laboratory experiment.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.41/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

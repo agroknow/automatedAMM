@@ -1,0 +1,71 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09963">
+    <dc:title xml:lang="ru">АНАЛИЗ РЕЗУЛЬТАТОВ МОДЕЛИРОВАНИЯ РАСПРОСТРАНЕНИЯ ЗАГРЯЗНЕНИЙ В ГРУНТАХ РАЗЛИЧНЫХ ТИПОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE ANALYSIS OF RESULTS OF MODELLING OF DISTRIBUTION OF POLLUTION IN SOIL OF VARIOUS TYPES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>СОКОЛОВ А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>СОКОЛОВА  О.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>СОКОЛОВА Е.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>КОЧИЕВ Г.Д.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Северо-кавказский горно-металлургический институт</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P33</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">T01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil pollution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">economic distribution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">filtration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49928</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7183</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2338</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2900c6c7cda5</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">При решении задач связанных с распространением вредных веществ подземными водами, а также вопросов касающихся надежности прогноза изменения окружающей среды с целью защиты и сохранения ее стабильности ученым приходиться сталкиваться с вопросом определения величины капиллярного поднятия жидкости. В работе предложен способ моделирования на основе универсального метода, при использовании которого в результате детализации получается сеточный вид участков промышленно-техногенной системы, который можно описывать математическими методами с использованием теории матриц и теории электрических цепей, предполагая, что участки подсистемы и их аналоги - участки электрической цепи характеризуются взаимно однозначными параметрами.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">At the solution of problems of the harmful substances connected with distribution by underground waters, and also the questions concerning reliability of the forecast of change of environment for the purpose of protection and preservation of its stability by the scientist to have to face a question of determination of size of a capillary raising of liquid. In work the way of modeling on the basis of a universal method at which use as a result of specification the net type of sites of industrial and technogenic system which can be described by mathematical methods with use of the theory of matrixes and theories of electric chains turns out is offered, assuming that sites of a subsystem and their analogs - sites of an electric chain are characterized by biunique parameters.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/01/12-1-31.pdf#page=77</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.12 (31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

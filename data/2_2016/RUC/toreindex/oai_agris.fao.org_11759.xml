@@ -1,0 +1,77 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C11759">
+    <dc:title xml:lang="ru">Применение механизма государственно-частного партнерства при создании объектов инфраструктуры в системе управления лесного хозяйства РФ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Public-private partnership using in the creation of infrastructure of the Russian Federation Forestry</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vasilyev O.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kornyl’eva Yu.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">partnerships</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Infrastructure</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Harvesting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">control systems</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5602</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26790</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3500</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_31862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Низкий уровень развития инфраструктуры является препятствием развития отраслей народного хозяйства. Правительство страны видит решение этой проблемы в реализации проектов инфраструктурного обеспечения через механизм государственно-частного партнерства (ГЧП), который в ряде развитых и развивающихся стран уже продемонстрировал свою эффективность в сфере решения инфраструктурных задач. Целью исследования является оценка целесообразности перехода на механизм государственно-частного партнерства при создании объектов инфраструктуры лесного хозяйства. Приведена схема реализации ГЧП в лесном секторе. Рассмотрены вклады каждого из участников партнерства в объект соглашения. На примере инфраструктуры лесовосстановления обоснована возможность государства обеспечивать постоянный спрос на продукцию объектов соглашения. Особое внимание в работе уделено роли научно-исследовательских институтов, подведомственных Рослесхозу, которые могут выступать как юридические лица со стороны публичного партнера и оказывать содействие в выполнении расчетов субсидий в проект, разработке операционных стандартов деятельности объектов соглашения, контроле над соблюдением этих стандартов и т. д. Также рассмотрены выгоды каждой из сторон соглашения. Установлено, что выгоды имеют не только участники этого партнерства, но и экономика страны в целом. Кроме того, благодаря повышению стандартов качества и эффективности управления объектами соглашения растет уровень качества производимой продукции, что положительно влияет на качество жизни населения страны в целом. Предложено через механизм ГЧП создавать предприятия по выпуску оборудования для инфраструктуры лесного хозяйства, решая при этом важную для страны задачу – импортозамещение. Также сделан вывод о целесообразности применение механизма ГЧП для целого комплекса работ по проектированию, строительству и эксплуатации объектов инфраструктуры лесного хозяйства.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Low level of infrastructure development is an obstacle of development of branches of the national economy. The Government sees the solution to this problem in the implementation of projects of infrastructural support through the mechanism of public-private partnerships, this mechanism in a number of developed and developing countries have already demonstrated its effectiveness in solving infrastructural problems. The aim of the study is to assess the feasibility of the transition to the mechanism of public-private partnership (PPP) infrastructure in Forestry. The scheme of implementation of PPP in the forestry sector is presented. The contributions of each member of the partnership in the facility agreement are considered. For example, on infrastructure of reforestation the possibility of the state to provide a steady demand for the products object of the agreement. Particular attention is paid to the role of scientific research institutes subordinated Rosleskhoz that can act as a legal entity by the public partner and assist in performing the calculations of subsidies to the project, the development of operational performance standards facilities agreements, monitoring of compliance with these standards, and so on. It is also considered the benefits of each of the parties to the agreement. It was found that the benefits are not only members of the partnership, but also the economy as a whole. In addition, by raising the standards of quality and efficiency of management of agreement objects, increasing the level of product quality, which has a positive effect on the quality of life of the population. It is offered through the PPP mechanism to create enterprises for the production of equipment for the forestry infrastructure, solving the important problem of the country - import substitution. It is also concluded that the feasibility of the use of PPPs for the whole complex of works on designing, construction and operation of infrastructure facilities of forestry.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal.spb-niilh.ru/pdf/3-2015/spbniilh-proceedings-3-2015-6-full.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Труды Санкт-Петербургского научно-исследовательского института лесного хозяйства</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2079-6080</ags:citationIdentifier>
+      <ags:citationNumber>v.12/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

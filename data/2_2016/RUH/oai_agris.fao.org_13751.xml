@@ -1,0 +1,69 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H13751">
+    <dc:title xml:lang="ru">ВАРИАНТ РЕШЕНИЯ УРАВНЕНИЙ ТЕПЛО И – ВЛАГООБМЕНА В ЗЕРНОВОМ СЛОЕ ПРИ СВЧ – КОНВЕКТИВНОМ ВОЗДЕЙСТВИИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>SOLVING EQUATIONS OF HEAT EXCHANGE AND MOISTURE EXCHANGE IN A GRAIN LAYER UNDER MICROWAVE-CONVECTIVE IMPACT</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Васильев А.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Будников  Д.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Васильев А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Всероссийский научно-исследовательский институт электрификации сельского хозяйства</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">J11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Grain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">heat exchange</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3346</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11482</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18454/IRJ.2015.42.205</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В предлагаемой статье рассматривается один из вариантов расчета процессов тепло и – влагообмена в слое
+зерна, когда он продувается агентом сушки и на него действует поле СВЧ. Показано, что при описании процесса
+дифференциальными уравнениями в частных производных первой степени иногда достаточно выполнить
+преобразование Лапласа и перейти к численному моделированию с использованием имитационных моделей
+передаточных функций.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Subject of the proposed article is a variant of calculation of heat exchange and moisture exchange in a layer of grain when
+a flow of drying agent blows through it, and microwave field creates an impact on it. It is shown that if to describe the process
+as a set of partial differential equations of the first order, it is sometimes enough to perform Laplace transform and proceed
+with numerical modelling using imitational models of transfer functions.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/12/11-6-42.pdf#page=53</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.11-6(42)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

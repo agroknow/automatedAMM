@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016111431">
+    <dc:title xml:lang="en">NADP-malate Dehydrogenase Isoforms of Wheat Leaves under Drought: Their Localization, and Some physicochemical and Kinetic Properties</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Babayev H.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mehvaliyeva U.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aliyeva M.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Guliyev N.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Feyziyev Y.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drought</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">enzyme</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2603</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Changes in sub-cellular localization, isoenzyme spectrum and kinetic characteristics of NADP-malate dehydrogenase (NADP-MDH, EC 1.1.1.82) in Triticum durum Desf. genotypes with contrasting drought tolerance have been studied. In chloroplast and cytosol fractions of mesophyll cells of wheat flag leaves 70-75% and 25-30% of the total NADP-MDH activity were found to be localized, respectively. Three isoforms of NADP-MDH with molecular weights of 66, 74 and 86 kDa were revealed in the chloroplast fraction, whereas in the cytosolic fraction molecular weights of the isoenzymes were found to be 42, 66 and 74 kDa. Drought caused the formation of a new 90 kDa isoform of the enzyme in the chloroplast fraction in anthesis phase of ontogenesis. In the drought-tolerant genotype the appearance of the new isoform in the chloroplast fraction was accompanied by a more rapid increase in Km and Vmax contrary to the chloroplast fraction of the drought-sensitive genotype manifesting a slight decrease in these parameters, suggesting one of the adaptive traits in forming drought tolerance in C3 plants.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2015/N3/JSPB_2015_3_13-25.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

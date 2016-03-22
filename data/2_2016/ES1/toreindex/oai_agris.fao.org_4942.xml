@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104942">
+    <dc:title xml:lang="es">RESPUESTA FISIOLÓGICA DE RAZAS LOCALES DE CABALLOS  EN VERACRUZ, MÉXICO, DURANTE LA EPOCA DE MAYOR CONFORT</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PHYSIOLOGICAL RESPONSE OF LOCAL BREED HORSES IN VERACRUZ</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>MEXICO</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>DURING THE TIME OF GREATER COMFORT</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Domínguez Carlos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hernández Antonio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cervantes Patricia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lopez de Buen Lorena</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Olmos Arely</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Canales  Amado</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">climatic change</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heat stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35367</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11488</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The variation of environmental parameters generates thermal stress and a constant state of discomfort in horses, forcing them to over exercise and to release an additional heat load. In the central coast of the Gulf of Mexico, results of the developed climate scenarios predict an increase in the environmental temperature for the coming decades. The aim of this study was to analyze the physiological response by analyzing changes in physiologic parameters and their association with animal comfort during the winter period during the morning and in the evening. A total of 22 local breed horses were monitored from January to March, 2014. They were 7.6±4.5 years-old, had average weight of 363±68kg, and a BSC 3.9±0.9. Average environmental temperature was 24°C and humidity was 64%. There were changes in the animal comfort, expressed as a significant increase (p</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">En los caballos, las variaciones en parámetros medioambientales y microclimáticos generan estrés térmico y una ausencia de confort, que les obliga a realizar un sobresfuerzo para liberar la carga térmica adicional.  En la región de la costa central del golfo de México desde la época de la colonia cuando fueron introducidos, se emplean los caballos de razas locales, los cuales prestan servicio para el desarrollo de actividades productivas, recreativas y aún culturales, a los habitantes de las comunidades rurales de esta región tropical del país, sobre la cual, los resultados de los escenarios climáticos elaborados indican un aumento en la temperatura ambiental para las próximas décadas. El objetivo del presente estudio fue analizar la respuesta fisiológica por medio del análisis de las variaciones de las constantes fisiológicas y su asociación con el confort animal durante el periodo invernal y seco, en los horarios matutino (7:00 – 9:00 hrs) y vespertino (13:00 – 15:00 hrs). Para esto, durante los meses de enero a marzo,  22 caballos criollos de trabajo con peso promedio de 363 ± 68kg, CC de 3.9 ± 0.9, edad 7.6 ± 4.5 años. Los sitios de trabajo presentaron una temperatura media de 24°C y humedad relativa de 64% y velocidad del viento 11.72 km/hr. Los resultados promedio obtenidos para las frecuencias cardiaca (Fr.C, lat./min), respiratoria (Fr. R, rpm) y la temperatura rectal (T.R., °C) fueron de 34 ± 4.69, 15 ± 8.18 y 36.96 ± 0.76, respectivamente. Existieron alteraciones al confort animal expresados como un aumento significativo (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo089_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

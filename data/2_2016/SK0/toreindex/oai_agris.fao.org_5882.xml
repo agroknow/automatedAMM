@@ -1,0 +1,60 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016005882">
+    <dc:title xml:lang="en">EFFECT OF GENOTYPE ON PRODUCTION TRAITS IN BROILER CHICKENS</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>HRISTAKIEVA P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MINCHEVA N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OBLAKOVA M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LALEV M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>IVANOVA I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Broiler chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">live weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">slaughter value</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35851</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The study was carried out on two broiler chicken genotypes Ross 308 and Cobb 500 in the nucleus poultry farm of the Institute of Agriculture – Stara Zagora between April and June 2012. For this purpose, 300 eggs of each genotype were set for incubation to compare the meat traits of two of the most popular broiler chicken hybrids: Cobb 500 and Ross 308 reared at the nucleus poultry farm of the Institute of Agriculture – Stara Zagora. The fertility rate, embryonic death rate, weight loss between incubation days 0 and 18, and the hatchability of set and fertilized eggs were determined. The number of chickens included in the study was 100 from each genotype (50 male and 50 female). Experimental birds were reared on wooden shavings bedded floor, with constant access to compound feed according to the age until 49 days of age. The live body weight was determined individually by weighing birds at 1, 14, 28, 42 and 49 days of age. By the end of the experiment, a slaughter analysis of three female and three male broilers with a live weight close to the group average was performed. For integral assessment of broiler combinations, the European Poultry efficiency factor (EPEF) was calculated. The results of the present experiments showed a number of differences in meat and slaughter traits between studied broiler chicken hybrids. The weight of hatchlings differed significantly according to the genotype (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.cvzv.sk/index.php/sk/rocnik-47-2014/cislo1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Slovak Journal of Animal Science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1337-9984</ags:citationIdentifier>
+      <ags:citationNumber>v.47/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

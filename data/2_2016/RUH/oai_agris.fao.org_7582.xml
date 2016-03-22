@@ -1,0 +1,68 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H07582">
+    <dc:title xml:lang="ru">УВЕЛИЧЕНИЕ МЯСНОЙ ПРОДУКТИВНОСТИ БЫЧКОВ ЗА СЧЕТ НОВЫХ КОРМОВЫХ ДОБАВОК</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>BULLS CALVES’ MEAT PRODUCTIVITY INCREASE USING NEW FEED ADDITIVES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Карпенко Е.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Кайдулина А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Нелепов Ю.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Поволжский научно-исследовательский институт производства и переработки мясомолочной продукции Россельхозакадемии</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">iodine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chemical composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2838</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4679</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3932</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1794</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью исследования являлось изучение возможности повышения мясной продуктивности бычков, выращиваемых на мясо за счет использования в рационах высокобелковую добавку «Тыксульфур» и комплексно балансирующей добавки «КБД – Йодум», содержащую в своем составе йод в органической форме. Для достижения поставленной цели решались следующие задачи: определить особенности формирования мясной продуктивности подопытного молодняка, провести анализ химического состава мяса. По результатам исследования установлено, что использование в кормлении новых кормовых добавок позволит увеличить мясную продуктивность крупного рогатого скота.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The purpose of the research was to investigate the possibility of increasing the productivity of meat bull calves raised for veal through the use of high-protein feed additive “Tyksulfur” and complex balancing additive “CBА – Yodum”, containing in its composition iodine in organic form. To achieve this goal the following objectives were set: to determine the features of the young bulls meat productivity formation and to analyze the chemical composition of meat. The study found that the use of new feed additives will increase the meat productivity of cattle.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/2-9.pdf#page=38</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2 (9)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

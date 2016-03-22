@@ -1,0 +1,33 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H06047">
+    <dc:title xml:lang="ru">ОСОБЕННОСТИ ВОЗОБНОВЛЕНИЯ ЕЛИ ЕВРОПЕЙСКОЙ В МУРМАНСКОЙ ОБЛАСТИ</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Беляева Н.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Под пологом чистых и смешанных древостоев черничного типа леса в условиях Мурманской области выполнен учет естественного возобновления ели европейской с целью выявить особенности появления подроста ели в условиях северной тайги. Полученные результаты исследования могут быть использованы при разработке рекомендаций по лесовосстановлению в указанной лесорастительной зоне.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/featured/agriculture/osobennosti-vozobnovleniya-eli-evropejskoj-v-murmanskoj-oblasti/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.6</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13318">
+    <dc:title xml:lang="en">Identifying places of concentration and transitions of wild boar in Vologda region under the  threat of introduction of african swine fever</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Выявление мест концентрации и переходов кабана в Вологодской области при угрозе  заноса африканской чумы свиней</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ryzhakov A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rusetsky S.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Vologda state milk Academy named after N.V. Vereshchagin</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wild boar</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">animal migration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">African swine fever virus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24131</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8649</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We have developed a set of measures to prevent the introduction and spread of African swine fever on the territory of Vologda region. The field work was performed using the methods of visual observation and analysis of traces of animals. We used the provisional guidelines on summer accounting of wild boar hunting farms of non-Chernozem zone. The records were held in early autumn, just before the opening of the field (hunting) season. The most typical habitats of wild boar in Vologda region include outlandish, large area arrays in sparsely populated areas. This is mainly coniferous and mixed forests, interspersed with swamps and ponds. The concentration of boar here depends on a number of factors: the protection of land, availability of feed, individual characteristics of the animals.  Habitat of wild boars in Vologda region shows a distinct distribution of habitats to anthropogenic landscape that enhances the level of varied spontaneous contacts and communication between wild boar, domestic pigs and humans in veterinary epidemiology. Localization of wild boar in the Vologda region is primarily due to food resources, and the high mobility of these animals allows them to find food to make long migratory visits to many hundreds of kilometers in Yaroslavl, Tver, Kostroma regions.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Разрабатывали комплекс мер по предотвращению заноса и распространения африканской чумы свиней на территории Вологодской области. Проведение полевых работ выполняли с использованием методов визуального наблюдения и анализа следов жизнедеятельности животных. Использовали временные методические рекомендации по летнему учёту кабана в охотничьих хозяйствах нечернозёмной зоны. Учет проводили в начале осени, непосредственно перед открытием промыслового (охотничьего) сезона. K наиболее типичным местам обитания кабана в Вологодской области следует отнести глухие, обширные по площади массивы в малонаселённых местах. В основном это хвойные и смешанные леса, перемежающиеся с болотами и водоёмами. Kонцентрация кабана здесь зависит от ряда факторов: защитности угодий, наличия доступных кормов, индивидуальных особенностей животных.  Обитание кабанов в Вологодской области проявляет выраженную приуроченность стаций к антропогенному ландшафту, что значительно повышает уровень разнообразных спонтанных контактов и общений между кабанами, домашними свиньями и человеком в ветеринарно-эпидемиологическом плане. Локализация кабана в Вологодской области обусловлена прежде всего пищевыми ресурсами, а высокая мобильность этих животных дает им возможность в поисках пищи совершать длительные миграционные заходы на многие сотни километров в Ярославскую, Tвeрскую, Костромскую области.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(29)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

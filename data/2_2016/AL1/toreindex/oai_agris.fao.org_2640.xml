@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102640">
+    <dc:title xml:lang="en">Virus symptoms and viruses associated with two cucurbit crops grown in a derived savannah agro-ecology in Nigeria</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>AYO- JOHN</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>EMILY  IBITAIYEWA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOHAMME D</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>WASIU ADEDAMOLA  AND OYAGBINRIN</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SAMUEL  TUNDE</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Crop Protection, Federal University of Agriculture, PMB 2240, Abeokuta Ogun State Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">virus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8262</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Five watermelon varieties, Sugar Baby, Charleston Grey, Kaolak, Crimson Sweet and Oranaise and three cucumber varieties, Poinsett, Ashley and Royal hybrid were grown on the field in two trials (i) late season between August and October 2008 and (ii) early season between April and June 2012 in Abeokuta, Ogun State to evaluate the cultivars for virus symptoms and viruses under natural tropical conditions. Symptomatic leaf samples were collected from each crop variety and indexed  for Cucumber mosaic virus (CMV), Melon necrotic spot virus (MNSV), Papaya ringspot  virus (PRSV), Watermelon mosaic virus (WMV), Zucchini yellow mosaic virus (ZYMV) and Cucumber green mottle mosaic virus (CGMMV) in Double Antibody Sandwich (DAS) Enzyme-linked immunosorbent assay (ELISA). The disease incidence was 100.0% at 6 weeks after planting (WAP) for all the cucurbits crops for both seasons while the highest symptom severity score at 10 WAP was 4 and 5 for watermelon and 3.6 and 4 for cucumber in the 1st and 2nd trials. The viruses detected in late season were CMV, CGMMV and MNSV which occurred in all the cucumber and watermelon varieties. In addition PRSV, WMV and ZYMV occurred in mixed infection in the cucumber varieties Pointsett and Royal Hybrid. In the early season, PRSV was the most prevalent virus infection in the cucumber and watermelon varieties. Also CMV+PRSV, PRSV+WMV, and MNSV+PRSV occurred in mixed infection in Charleston Grey, Oranaise and Sugar Baby respectively. The viruses detected are among the viruses reported to limit the production of cucurbit crops world-wide.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4Ojc5ZjA2ODM2MDQ0NjE5ZDg</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

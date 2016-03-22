@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100892">
+    <dc:title xml:lang="en">Soil Contamination With Heavy Metals and Its Effect on Growth, Yield and Physiological Responses of Vegetable Crop Plants (Turnip and Lettuce)</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hassanein Raifa Ahmed</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hashem Hanan Ahmed</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>El-Deep Mohamed Hashem</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shouman Ahmed</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Brassica napus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Flavonoids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lactuca sativa</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Polyamines</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1066</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_64627</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2964</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4149</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32517</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The  present  study  was  conducted  to  investigate  the  impact  of  irrigation  with  industrial wastewater on soil and plant. For these purpose turnip and lettuce plants were cultivated in soil irrigated with wastewater then heavy metals content of the soil, plant growth, yield and the subsequent changes in biochemical constituents of plant were examined. Irrigation with wastewater was found to load the soil with heavy metals (Pb, Co, Ni and Cd) that were not detected in soil before irrigation. The magnitude of Cd in soils after irrigation with industrial wastewater exceeds the maximum allowable limit (3 mg Kg-1). Both turnip and lettuce exhibited significant decreases in leaf area, fresh weight and dry weight of shoots and roots as well as all the  measured  yield  components  in  response  to  wastewater  irrigation.  The  magnitude  of decrease was positively correlated with the amounts of heavy metals detected in the soil and the inhibitory effect on turnip was much more pronounced than in lettuce. Furthermore, heavy metals accumulation in soil resulted in an oxidative damage to turnip and lettuce as indicated by the significant increase in lipid peroxidation and H2O2 levels in both plants comparing to control values. The significant increases in putrescine in lettuce and turnip shoots and roots and spermidine in lettuce roots as well as total phenolics and flavonoids in plants cultivated in soil enriched with heavy metals are believed to be defense mechanisms in turnip and lettuce plants to counteract the oxidative stress resulted from heavy metals contamination generated from irrigation with wastewater.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N4/JSPB_2013_4_145-162.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

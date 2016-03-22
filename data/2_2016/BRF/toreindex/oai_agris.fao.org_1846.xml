@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01846">
+    <dc:title xml:lang="en">Effect of recombinant bovine somatrotopina (rbST) in goats quantitative carcass characteristics from different breed groups</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito da somatrotopina bovina recombinante (rbST) nas características quantitativas da carcaça de caprinos de diferentes grupos genéticos</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>RODRIGUES, Luciana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GONÇALVES, Heraldo C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MENEZES, Jakilane J. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MEDEIROS, Brenda B. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2009-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Goats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carcasses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tissue analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dressing percentage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3324</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1310f6eee3d3</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7788</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32430</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Twenty-three male goats of three genetic groups were used: 8 Alpine (A), 4 ½ Boer + ½ Alpine (½ BA) and 11 ¾ Boer + ¼ Alpine (¾ BA), from which 11 animals were the control group (4 A, 2 ½ BA and 5 ¾ BA) and 12 received rbST (4 A, 2 ½ BA and 6 ¾ BA). Growth hormone used was recombinant bovine somatotropin (rbST) (T2) and animals from control group (T1) received 0.3 mg kg-1 of body weight of saline solution, from 45 days of life, adjusted at 14 days intervals. It was not detected the influence of rbST in carcass characteristics evaluated. Animals from Alpine breed showed higher values of carcass internal length and leg length in relation to ¾ BA animals. Alpine breed goat showed higher muscle/fat related to animals ¾ BA. It was not evident the superiority of half-breed Boer animals in relation to Alpine breed on goats carcass characteristics of growing. However, Alpine breed showed unfavorable characteristics, by higher carcass internal length and shoulder bone proportion.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Foram utilizados 23 machos inteiros de três grupos genéticos, sendo 8 da raça Alpina (A), 4 ½ Boer + ½ Alpina (½ BA) e 11 ¾ Boer + ¼ Alpina (¾ BA), dos quais 11 foram controle (4 A, 2 ½ BA e 5 ¾ BA) e 12 receberam rbST (4 A, 2 ½ BA e 6 ¾ BA). O hormônio de crescimento utilizado foi a somatotropina recombinante bovina (rbST) e os animais controle (T1) receberam solução salina na quantidade de 0,3 mg kg-1 de peso vivo, a partir dos 45 dias, ajustada em intervalos de 14 dias e os animais do tratamento 2 receberam o hormônio na mesma dosagem e intervalo. Não foi detectada nenhuma influência da rbST nas características de carcaça avaliadas. Os animais da raça Alpina apresentaram valores superiores para o comprimento interno da carcaça e comprimento da perna, em relação aos animais ¾ BA. Os cabritos da raça Alpina apresentaram uma maior relação músculo/gordura em relação aos animais ¾ BA. Não ficou evidenciada a superioridade nas características da carcaça de caprinos em crescimento dos animais mestiços Boer em relação aos da raça Alpina, entretanto estes apresentaram características desfavoráveis, pelo maior comprimento interno da carcaça e maior proporção de osso na paleta.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1278345460.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.66/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

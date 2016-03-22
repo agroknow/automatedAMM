@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08643">
+    <dc:title xml:lang="ru">ОЦЕНКА ПОЛОЖЕНИЯ ГАЛИЦКО-СЛОБОЖАНСКОГО ЭКОЛОГИЧЕСКОГО КОРИДОРА В БАССЕЙНЕ РЕКИ МЕРЛА С ТОЧКИ ЗРЕНИЯ ФРАГМЕНТИРОВАННОСТИ ТЕРРИТОРИИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ASSESSMENT OF THE SITUATION IN THE GALICIA-SLOBOZHANSCHINA ECOLOGICAL CORRIDOR IN THE RIVER BASIN MERLOT RELATIVELY FRAGMENTED TERRITORY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>БИАТОВ А.П.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>УКРАИНСКИЙ П.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>НАРОЖНЯЯ А.Г.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Национальный природный парк Слобожанский</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>НИУ «БелГУ»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">B10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ukraine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rivers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Landscape</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15070</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6617</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4185</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрено положение галицко-слобожанского экологического коридора национальной экосети Украины в бассейне реки Мерла. Исследование сфокусировано на выявлении объектов фрагментирующих экокоридор и оценке общей фрагментированности бассейна Мерлы. При помощи методов ГИС-анализа выявлены участки проблемные участки экокоридора, в которых затруднено перемещение животных.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article discussed the situation of the Galician-Slobozhansky ecological corridor of national ecological network of Ukraine in the basin Merla. Research is focused on the identification of objects and fragmenting ecocorridors assessing the overall fragmentation pool Merlot. Through the use of GIS analysis identified areas ecocorridors problem areas in which hindered the movement of animals.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/12/11-2-18.pdf#page=110</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.11 (18)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

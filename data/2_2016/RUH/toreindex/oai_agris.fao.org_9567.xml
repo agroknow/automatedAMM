@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09567">
+    <dc:title xml:lang="ru">МЕТОДОЛОГИЯ НАТУРНЫХ ИССЛЕДОВАНИЙ МАССООБМЕНА ТЯЖЁЛЫХ МЕТАЛЛОВ В СИСТЕМЕ «ВОДА-ДОННЫЕ ОТЛОЖЕНИЯ»</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>METHODOLOGY OF STUDYING IN NATURE THE MASS EXCHANGE OF HEAVY METALS IN THE “WATER - BOTTOM SEDIMENTS” SYSTEM</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ТОЛКАЧЁВ Г.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Институт водных проблем Российской академии наук</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">T01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heavy metals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pollution control</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Water pollution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6078</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8321</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Одним из важнейших показателей качества воды является содержание тяжёлых металлов (ТМ) и их соединений. Поступая в речную сеть и откладываясь в донных отложениях, эти соединения начинают играть весьма активную роль в процессах биогеохимической миграции, могут в определённых условиях переходить в поровые растворы и далее в придонные воды. Распределение и миграция металлов в водных системах контролируются в основном характером взаимодействия донных отложений, водной массы и биоты. Направленность потока массообмена в системе «вода-донные отложения» определяет опасность вторичного загрязнения водных масс водоёма.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Bottom sediments reveal a considerable accumulation of different pollutants, including heavy metals and their compounds as most dangerous for the water quality. Under definite conditions the heavy metals being accumulated in bottom sediments can transfer into the water again. Their mass exchange in the “water - bottom sediments” system is largely dependent on the heavy metal forms, in which they are present in bottom sediments. The problem relating to translocation of heavy metals in the water - bottom sediments system and quantification of their intensive mass exchange in different seasons of the year becomes very acute and allows judging about unwanted hazardous second water contamination.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/11/10-3-29.pdf#page=104</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.10 (29)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

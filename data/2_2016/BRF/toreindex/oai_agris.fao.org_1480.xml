@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01480">
+    <dc:title xml:lang="en">Profitability analysis of beef cattle under extensive pasture in low-technology production system in the south of Minas Gerais State</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Análise de rentabilidade de sistema de produção de gado de corte em regime extensivo com baixa tecnologia no sul do estado de Minas Gerais</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LOPES M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FRANCO NETO, A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BARBOSA, G. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS,  G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beef cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production costs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Manpower</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">profitability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6202</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4590</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this research was to study the profitability of the beef cattle raising business of production systems with a complete production cycle (breeding, rearing and fattening) under grazing regime of low technology in the region of Carrancas, south of the State of Minas Gerais. It was intended, to identify the components which exercised the greatest influence upon the final costs of the business, identify the break-even point and study the feasibility of the partnership in which the cattle raiser does posses any expenditure for pay of the worker who receives for the work of management of the animals in area to develop that livestock raising business. The data used was collected from the period of May of 2008 to September of 2009 (16 months). The profitability analysis was conducted by the software Custo Bovino Corte® (Beef Cattle Cost), taking into account the gross margin, net margin and the result (profit or loss) as indicators of economic efficiency. The positive gross and net margins points out that the beef cattle business of complete cycle, under extensive grazing regime, developed in the studied production system, has conditions to survive on the short and long run</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">but on the long run, the stockman is decapitalizing, once the result was negative. The component items of the total cost which had most influence upon the costs of the business were, in a decreasing order: purchase of the animals, remuneration of the land, depreciation, remuneration on the invested capital, feeding and health.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O objetivo desta pesquisa foi estudar a rentabilidade da atividade pecuária de corte de um sistema de produção com ciclo completo (cria, recria e engorda), em regime de pastejo, com baixa tecnologia, na região de Carrancas, sul do Estado de Minas Gerais. Pretendeu-se, ainda, identificar os componentes que exerceram maior influência sobre os custos finais da atividade, identificar o ponto de equilíbrio e analisar a viabilidade da parceria na qual o pecuarista não possui dispêndio para pagamento da mão-de-obra, que recebe, pelo trabalho de manejo dos animais, uma determinada área para desenvolver uma atividade agropecuária. Os dados utilizados foram coletados no período de maio de 2008 a setembro de 2009 (16 meses). A análise de rentabilidade foi realizada pelo software Custo Bovino Corte®, considerando a margem bruta, a margem líquida e o resultado (lucro ou prejuízo) como indicadores de eficiência econômica. As margens bruta e líquida positivas indicam que a atividade de pecuária de corte de ciclo completo, em regime de pastejo extensivo, desenvolvida no sistema de produção analisado, tem condições de sobreviver no curto e médio prazo</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">já no longo prazo, o pecuarista está se descapitalizando, pois o resultado foi negativo. Os itens componentes do custo total que exerceram maior influência sobre os custos da atividade foram, em ordem decrescente, aquisição de animais, remuneração da terra, depreciação, remuneração sobre o capital investido, alimentação e sanidade.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1340909757.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.68/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

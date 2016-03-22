@@ -1,0 +1,38 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102311">
+    <dc:title xml:lang="en">Lipid oxidation degree and antioxidant activity of several polyphenolic extracts in porcine meat during storage</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LLOHA ILIR</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MARA VLASH</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculty of Biotechnology and Food, Agricultural University of Tirana, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oxidation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">polyphenol</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5472</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Extracts of vegetable origin are used widely nowdays in the food industry in the role of antioxidants, especially in the meat processing industry and in the industry of its byproducts. Subject of this study have been porcine meat samples, which have been subjected to polyphenolic extracts, such as those from: tea, rosemary and oregano conserved in a timeframe of 1, 4, 7 and 10 days. TBA (thiobarbituric acid) assay show that polyphenolic extracts tend to increase oxidative endurance of meat sample, while DPPH assay shows an increased level of antioxidant activity. Lipids oxidation degree and antioxidant activity of the samples of porcine meat treated with rosemary, oregano and tea polyphenolic extracts is lower than the control samples either in treated or not treated in 85°C samples. The samples which have been subjected to tea polyphenolic extract show a lower lipid oxidation degree and a higher antioxidant activity compared not only to control samples, but also to the samples treated with other polyphenolic extracts. Lipid oxidation degree and antioxidant activity result are greater in temperature treated samples compared to those in raw state.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

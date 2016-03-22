@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007835">
+    <dc:title xml:lang="en">Using noninvasive DNA sampling to estimate abundance and some genetic properties of the Brown bear (Ursus arctos) in the Western Carpathians</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pepich1,2, Pavol</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Krajmerová3, Diana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Saniga4, Miroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Institute of High Mountain Biology, University of Žilina, Tatranská Javorina 7, SK-059 56 Tatranská Javorina, Slovak Republic, e-mail: pavol.pepieh@uej.uniza.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2Institute of Foreign Languages, University of Žilina, Univerzitná 8215/1, SK-010 26 Žilina, Slovak Republic, e-mail: pavol.pepich@ucj.uniza.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>3Department of Phytology, Faculty of Forestry, Technical University in Zvolen, T. G. Masaryka 24, SK-960 53 Zvolen, Slovak Republic, e-mail: diana.krajmerova@tuzvo.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>4Institute of Forest Ecology of the Slovak Academy of Sciences, Research Station, SK-976 02 Staré Hory, Slovak Republic, e-mail: miro.saniga@gmail.com</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">population</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sex ratio</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1326100802878</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7014</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1328521785568</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In Slovakia, there is a constant need for scientifically based information to manage its bear population after it has been allowed to increase in size and range. In this study we assessed population size, sex structure and genetic variability of a local brown bear population in Strážovské vrchy Mts (North-western Slovakia). This goal has been achieved by using noninvasive method of genetic sampling in 2011-2012. Brown bear DNA for analysis was obtained from 94 out of 232 samples (41%), among which 24 unique genotypes were identified. Average observed heterozygosity was 0.56 in 2011 and 0.63 in 2012. Minimum population size was determined from the number of unique genotypes and population size estimates were calculated via Lincoln-Peterson CMR method (n = 38) and Rarefaction models according Kohn method (n = 36), Eggert method (n = 25) and Chessel's equation (n = 19). Additionally, relative spatial activity and movement pattern of some individuals have been inferred from the distribution of typed samples.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.41/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

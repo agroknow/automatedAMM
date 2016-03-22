@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016105058">
+    <dc:title xml:lang="es">ALTERNATIVAS FITOTERAPÉUTICAS PARA EL CONTROL DE PARÁSITOS DE ANIMALES DE PEQUEÑOS PRODUCTORES</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PHYTOTHERAPEUTIC ALTERNATIVES TO PARASITES CONTROL IN ANIMALS IN SMALLHOLDER PRODUCTION SYSTEMS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hernández Villegas Manuel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pérez Claudia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bolio Gloria</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Burelo Patricia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pérez del Villar María</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bolio Gloria</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Popular de la Chontalpa</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Popular de la Chontalpa</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Popular de la Chontalpa</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Popular de la Chontalpa</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Popular de la Chontalpa</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Centro de Investigación Científica de Yucatán</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Gliricidia sepium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">small ruminants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3278</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32579</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The use of local resources for food and health care of animals is a highly profitable and sustainable strategy. Among these resources are native trees and shrubs which in addition to providing good quality nutrients, produce secondary metabolites with anthelmintic (AH) effect. Therefore the aim of this study was to evaluate the in vitro AH effect of Gliricidia sepium leaves methanol extract (ME), through the egg hatch inhibition assay (EHA). Three concentrations of the extracts were tested: 125, 250 and 500 μg/mL. Also a negative control (distilled water) and a positive control (levamisole 2 mg/mL) were included. The ME showed significant differences P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">El uso de recursos locales para la alimentación y el cuidado de la salud de los animales es una estrategia altamente rentable y sostenible. Entre tales recursos se encuentran los árboles y arbustos forrajeros nativos, que además de aportar nutrientes de buena calidad, producen metabolitos secundarios que pueden tener efecto sobre los parásitos gastrointestinales. El objetivo del presente estudio fue evaluar el efecto antihelmíntico in vitro del extracto metanólico de hojas de Gliricidia sepium (EMHGs), a través de la prueba de eclosión de huevos. Se colectó el material vegetal y se procesó a través del secado, macerado, filtrado y concentrado. Los huevos de nematodos fueron obtenidos de un ovino infectado naturalmente y la infección fue comprobada por medio de un examen coproparasitoscópico a través de la técnica McMaster. Se probaron tres concentraciones del extracto: 125, 250 y 500 μg/mL, un control negativo (agua destilada) y un control positivo (levamisol 2 mg/mL). El EMHGs mostró efectos significativos (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo115_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

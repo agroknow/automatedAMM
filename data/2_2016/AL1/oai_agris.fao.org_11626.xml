@@ -1,0 +1,36 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016111626">
+    <dc:title xml:lang="en">Effect of Partial Root Drying (PRD) and Potassium Fertilizer on Water Use Efficiency and Agronomical Characteristics of Canola (Brassica Napus L.)</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>RAHIMI MOHAMMAD</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Agriculture, Yasooj Branch, Islamic Azad University, Yasooj, Iran</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In order to evaluate the interaction of the Partial root-zone drying (PRD) and potassium fertilizer on the water
+consumption efficiency and agronomical characteristics of canola, an experiment was conducted during 2012-13
+in Semirom, Isfahan province, Iran. Factorial testing was carried out in split plot, randomized complete design
+(RCD) in four replications. The irrigation had the main plot with three factors, control (irrigation), intermittent
+irrigation Partial root-zone drying (PRD), constant irrigation Partial root-zone drying (PRD) at one side of the
+roots, and potassium fertilizer in subplots in three levels: 0, 50, 100 kg/ha. The study specifications include:
+number of pods per plant, number of seeds in pod, weight of thousand grains, biological yield, yield, harvest
+index, and water consumption efficiency after data analysis, the results of the experiment showed that the
+irrigation effect on all specifications was significant at 1% probability. Finding showed The highest yield was
+observed at 79/3 %, which was equal to 47,330 kg/ha with consumption of water 53% in interaction of
+intermittent Partial Root Drying (PRD) and 100 kg/ha potassium fertilizer treatment. Based on the results, in
+order to Efficiency in irrigation using of intermittent Partial Root Drying (PRD) and 100 kg/ha potassium
+fertilizer treatment is recommended for cultivation in areas that climatic conditions similar to Semirom.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_3_2015_file/2_RAHIMI%20MM_N3_pp%20214-221.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

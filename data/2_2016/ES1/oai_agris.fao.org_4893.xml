@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104893">
+    <dc:title xml:lang="es">EFICIENCIA DE UTILIZACIÓN DE LA RACIÓN EN CRUCES DE PORCINO DUROC X CELTA</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EFFICIENCY OF FEED RATION IN THE DUROC PIG CROSSBRED WITH CELTA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Iglesias Antonio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Carril Jose</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fernández  Miguel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Franco Daniel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rodríguez Iván Manuel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lorenzo  José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Departamento de Anatomía y Producción Animal. Facultad de Veterinaria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ASOPORCEL</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Fundación Centro Tecnológico de la Carne</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Fundación Centro Tecnológico de la Carne</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ASOPORCEL</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Fundación Centro Tecnológico de la Carne</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed conversion efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16125</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The major variable cost in the pig production is the feed, hence the need to optimize the supply of nutrients in animal husbandry. The aim of this work was to study the efficiency of feed ration in the Duroc pig crossbred with Celta. A total of 16 pigs of Duroc x Celta were employed. Feeding rations that were provided to the animals were those conventionally used in the area, and they were formulated according to the nutrient requirements for each of the phases of growth and finishing of animals. Pigs were weighed individually each month with the respective feed consumptions to determine, among other parameters, the average daily gain, conversion index and feed efficiency. Average daily gain in kg was 0.40 with minimum and maximum values of 0.30 and 0.46 respectively. The residual feed consumption represents an alternative for measuring feed efficiency and is currently being incorporated into breeding programs. The results obtained for this parameter had a value of 0.00 ± 0.14, which means that the consumption observed was the same as the estimated. It can be concluded that the feeding and rearing system used for the Duroc pig crossbred with Celta was efficient.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">El coste variable más importante en la producción de cerdo es la alimentación, de ahí la necesidad de optimizar el suministro de nutrientes en la cría de animales. El objetivo de este trabajo fue estudiar la eficiencia de utilización de la ración en cruces de cerdo Duroc con Celta. Un total de 16 cerdos de raza Celta cruzados con Duroc fueron empleados. Las raciones que se les proporcionaron a los animales fueron las utilizadas tradicionalmente en la zona, siendo formuladas según los requerimientos en nutrientes para cada una de las fases de crecimiento y acabado de los animales. Los cerdos fueron pesados individualmente en báscula cada mes, siendo computados los respectivos consumos de ración para determinar, entre otros parámetros, la ganancia media diaria, el índice de conversión y la eficiencia alimentaria. La ganancia media diaria expresada en kg resultó de 0,40 con valores mínimos y máximos de 0,30 y 0,46 respectivamente. El consumo alimentario residual representa una alternativa para medir la eficiencia de la alimentación y se está incorporando actualmente en los programas de cría. Los resultados obtenidos para  este parámetro presentaron un valor de 0,00±0,14, lo que quiere decir que el consumo observado fue el mismo que el estimado. Se puede concluir que el sistema de alimentación y cría empleado para el cruce Duroc con Celta resultó eficiente.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo044_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

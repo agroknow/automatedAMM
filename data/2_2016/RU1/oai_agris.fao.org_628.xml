@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100628">
+    <dc:title xml:lang="en">Agrobacterium Mediated Transformation of Fld and GUS Genes into Canola for Salinity Stress</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Niapour Nazila</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Baghizadeh Amin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tohidfar Masoud</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pourseyedi Shahram</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Salinity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">transformation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Agrobacterium tumefaciens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Commonwealth of Independent States</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6751</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_00b9a702f554</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27444</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33249</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Salinity is one of the major abiotic stress which limits wide spread canola cultivation. One way to overcome this problem could be transfection, to produce tolerable species. Cotyledonary and hypocotyls explants obtained from 4 and 7 days old seedling of Elite and RJS003 varieties were utilized in this study. Genetic transformation was implemented through Agrobacterium tumefaciens LBA4404 containing PBI121 plasmid and Agrobacterium tumefaciens C58, LBA4404, AGL0 and EHA 101 strains which contain P6u- ubi- fvt1 construct. The T-DNA region of P6u- Ubi- Fvt1 plasmid included HPT (Hygromycin phosphotransferase) plant selectable marker and Fld (flavodoxin) gene. PBI121 plasmid had NptII (Neomycin phosphotransferase) plant Selectable marker and β-glucuronidase (GUS) reporter genes. Transfected explants were analyzed by PCR and histochemical assay for Fld and Gus genes, respectively. Our data indicated that the cotyledonary explants of both cultivars were incompetent to be infected with Fld gens. However, the transformation in Elite hypocotyls explants with Agrobacterium tumefaciens C58 and LBA 4404 strains were confirmed through PCR product and histochemical evaluation for Fld and GUS genes, respectively. Therefore, the result of this manuscript may to certain degree fulfill the endeavor appointed to this oilseed.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N2/JSPB_2013_2_74-85.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

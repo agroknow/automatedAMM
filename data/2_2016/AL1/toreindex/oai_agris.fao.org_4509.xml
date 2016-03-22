@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016104509">
+    <dc:title xml:lang="en">Knowledge and Practices on Eggplant Fruit and Shoot Borer, Leucinodes orbonalis Guenee Management in Dhading and Bara Districts of Nepal</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>RAM PRASAD  MAINALI</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RESHAM BAHADUR  THAPA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TIWARI SUNDAR</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POKHREL PADMA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ANISUR RAHMAN  ANSARI</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Entomology Division, Nepal Agricultural Research Council, Khumaltar, Lalitpur, Nepal</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Institute of Agriculture and Animal Sciences/Tribhuvan University, Kirtipur, Kathmandu, Nepal</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Entomology, Agriculture and Forestry University, Rampur, Chitwan, Nepal</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Indigenous knowledge</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35704</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A field survey was conducted to study knowledge and practices of eggplant growers on eggplant fruit and shoot borer, Leucinodes orbonalis Guenee management in Dhading and Bara districts of Nepal in 2012. Information was collected from 80 eggplant growers, 40 from each district using semi-structured questionnaires. Field survey revealed that eggplant occupied an imperative place in commercial vegetable production. All eggplant growers relied on indiscriminate use of chemical pesticides of different groups. However, 35 percent growers adopted some indigenous knowledge regarding use of non-chemical practices, like urine fermented botanicals</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">cow urine</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ash</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">chinaberry fruit extract</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">tobacco leaf extract</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">mixture of shampoo, lemon juice, kerosene and sakhkhar</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Tagetes border cropping and coriander intercropping. The little knowledge and practices on safety precautions for pesticide use has created negative impacts on farmers health. Hence, the indigenous knowledge and practices needs validation and promotion along with farmer awareness for public health.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_2014/2_Mainali_pp%206_13.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

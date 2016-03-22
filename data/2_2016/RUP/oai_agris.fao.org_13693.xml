@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13693">
+    <dc:title xml:lang="ru">ПРОДУКТИВНОСТЬ ПРОПАШНЫХ КУЛЬТУР В ЗАВИСИМОСТИ ОТ ЭЛЕМЕНТОВ ТЕХНОЛОГИИ ВОЗДЕЛЫВАНИЯ В УСЛОВИЯХ РОСТОВСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PRODUCTIVITY OF SUNFLOWER AND CORN DEPENDING ON THE ELEMENTS IN THE CONDITIONS OF CULTIVATION TECHNOLOGY OF THE ROSTOV REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Avdeenko  А.Р.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Chernenko  V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: sunflower, Helianthus annuus, corn, Zea mays, leaf area, crop husbandry, crop yield</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведены результаты исследований пропашных культур (подсолнечник, кукуруза на зерно) в условиях Ростовской области. Установлено, что обработка почвы оказывает влияние на показатели плотности почвы, количество водопрочных агрегатов, засорѐнность посевов. В условиях Ростовской области при выращивании пропашных культур (подсолнечник, кукуруза на зерно) необходимо проводить
+отвальную обработку почвы, способствующую снижению засорѐнности посевов, повышению оптимизации
+условий роста и развития растений пропашных культур, урожайности кукурузы и подсолнечника в
+Ростовской области до 24,2 и 38,2 ц/га.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Results of studies of tilled crops (sunflower, maize for grain) in the Rostov region are given here. It is determined that processing of the soil affects the density of the soil, the number of water-stable aggregates, and the crop cultivation. In the midst of the Rostov region for growing row crops (sunflower, maize for grain), it is necessary to carry out the plowing conducive to reduce the infestation of crops, improve optimization of conditions of growth and development of plants cultivated crops, yields of maize and sunflower in the Rostov region to 24,2  and 38,2 с/ha.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_b3aaaad50ea1436192841e289aa4dd94.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

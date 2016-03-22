@@ -1,0 +1,47 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102588">
+    <dc:title xml:lang="en">Determination of the pluviometric deficit as a base for the climate classification in Albania</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BARDHI AZEM 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GJONGECAJ BESNIK 2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LEKAJ PASHK 3</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Department of Plant Production, Agricultural University of Tirana and department of Climate and Environment, Institute of Geoscience, Energy, Water and Environment (IGEWE), Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2Department of Agri-environment and Ecology, Agricultural University of Tirana,  Koder Kamez,Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate />
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>3Department of Mathematics and Informatics, Agricultural University of Tirana, Koder Kamez, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The sum of all climatic parameters known until now, in a strict understanding, cannot be the same as climate itself. The climate is the parameters we know plus potential evapotranspiration. The purpose of this paper is first, to quantify the potential evapotranspiration and then, combining it with the rainfall values, to quantify the pluviometric deficit all over Albania as a substantial precondition for climate classification. The functions of both, potential evapotranspiration and rainfall over time, resulted to be polynomial ones, because the highest regression coefficients were found comparing with other types of functions. A correlation coefficient significant for high probability values was found between the magnitude and the duration of pluviometric deficits. The entire country, based on the findings showed, could be divided into three main areas extended from the aridity to the humidity scale. However, this preliminary basic conclusion is supposed to be verified when the pluviometric deficit quantified already, as it will be shown in this article, is going to be used for the moisture index determination, as it is indicated in the Thornthwaite’s research work.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4OjM3NTg2NTBhMTAyNzI5MjY</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,37 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100310">
+    <dc:title xml:lang="en">THE EXPERIENCE OF THE TRANSFORMATION OF SOME  CULTIVATED PLANTS WITH THE GENE UGT ENCODING THE  SYNTHESIS OF UDPG-TRANSFERASE IN ORDER TO CHANGE THE  HORMONAL STATUS</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Rekoslavskaya N.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pepper</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25495</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The gene ugt/iaglu was isolated from cDNA library obtained from seedlings of Zea mays L. Positive clones prepared by Lambda ZAPII (Stratagene, USA) procedure were screened via western blot with antibodies to UDPG-transferase from corn endosperm raised in rabbit serum. The plasmid pBluescript harboring the gene ugt/iaglu was placed into Escherichia coli (E.coli) DH5a under T7/T3 promoter. The gene ugt/iaglu was sequenced and the size was determined as much as 1740 bp. The UDPG-transferase or by trivial name Indoleacetic acid (IAA) - glucose synthase (IAGlu-synthase) binds IAA with glucose from UDPG thereby making the temporary inactivation and storing of this phytohormone which is capable to be released after the demand from cells. Several cultivated plants were used for transfromation with the gene ugt/iaglu from corn: tomato, potato, lettuce, egg-plant, pepper, strawberry, cucumber, squash, aspen, poplar, pine and others. All plants transformed with the gene ugt/iaglu showed fast growth, better flowering and harvest. The insertion and expression of the gene ugt/iaglu was confirmed in transformed tomato, potato and aspen with PCR, RT-PCR, southern and northern blottings. The contents of free IAA and its bound form IAGlu were higher as much as twice in tomato, potato and aspen transformed with the gene ugt/iaglu. The harvest of tomato was 3-4 times higher in transgenic tomato. The amount of potato tubers and their whole masses were 1.5 - 2 times higher in transgenic potato of several varieties in comparison to control.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S27.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

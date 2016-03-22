@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13292">
+    <dc:title xml:lang="en">CHARACTERISTICS OF MILK YIELD OF COWS WITH DIFFERENT GENOTYPES OF GENES IN THE MAMMARY DURING LACTATION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ХАРАКТЕРИСТИКА УДОЯ КОРОВ С РАЗНЫМИ ГЕНОТИПАМИ МОЛОЧНЫХ ГЕНОВ В ТЕЧЕНИЕ ЛАКТАЦИИ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Shaydullin R.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ganiyev A.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sibagatullin F.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Kazan state agrarian university</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Milk yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genotypes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">alleles</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1939</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15998</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8724</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>4 tables, 14 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Presents the results of investigating the effect of different genotypes of a gene Kappa-casein and diacetyl glycerol O-acetyltransferase on the size of the milking fresh cows during lactation. Heifers with genotype gene Kappa-casein AB and BB maximum milk yield falls on the 3rd month of lactation (632 and 655 kg) and in animals with the AA genotype productivity peak observed at the 4th month (590 kg). The productivity of cows with BB genotype exceeds the monthly average yields of other animal groups in the early (1st to 3rd month), the middle (5th month) and late lactation (from 8th to 10th month). According to DGAT gene higher average milk yield of heifers was the third month in homozygous genotypes – AA (603 kg) and KK (590 kg). Animals with heterozygous genotype AK exceeds the yield of other groups during all months of lactation. Lactation curves of experimental animals belong to 1 type classification of A. S. Emelyanov, characterized by high sustainable lactation. The value of the index milkiness and milk yield depending on the live weight of cows, heifers cows with different genotypes of Kappa-casein and DGAT is studied. High yield and index milkiness of a cow with average (471-500 kg) and high (more than 501 kg) live weight having the genotype gene Kappa-casein AB. Cows with allelic variant of the AK DGAT gene have a high level of milk yield and coefficient of milkiness in all three groups of live weight.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Представлены результаты исследований по выявлению влияния различных генотипов гена каппа-казеина и диацетил глицерин О-ацетил трансферазы на величину удоя коров-первотелок в течении лактации. Первотелки, имеющие генотип гена каппа-казеина АВ и ВВ максимальный удой приходится на 3-й месяц лактации (632 и 655 кг), а у животных с генотипом АА пик продуктивности отмечен на 4-м месяце (590 кг). Продуктивность коров с генотипом ВВ превышает среднемесячные удои других групп животных в начале (с 1 по 3-й месяц), середине (5-й месяц) и в конце лактации (с 8 по 10-й месяц). По гену DGAT наивысший среднемесячный удой первотелок был на третьем месяце у гомозиготных генотипов – АА (603 кг) и КК (590 кг). Животные с гетерозиготным генотипом АК превышают удой других групп на протяжении всех месяцев лактации. Лактационные кривые опытных животных относятся к 1 типу по классификации Емельянова А.С., характеризующиеся высокой устойчивой лактацией. Изучена величина индекса молочности и удоя в зависимости от живой массы коров-первотелок коров с разными генотипами каппа-казеина и DGAT. Высокие удои и индекс молочности получают от коров с средней (471-500 кг) и высокой (более 501 кг) живой массе имеющие генотип по гену каппа-казеина АВ. Коровы с аллельным вариантом АК гена DGAT имеют высокий уровень удоя и коэффициента молочности по всем трем группам живой массы.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/3-15-22Shaydullin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

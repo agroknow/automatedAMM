@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01498">
+    <dc:title xml:lang="en">Urea in diets for dairy cattle: in take of nutrients and body development</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Uréia em dietas para bovinos de origem leiteira em crescimento: Consumo de nutrientes e desenvolvimento corporal</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SIGNORETTI, R. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GARCIA, T. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DIB, V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOUZA,  F. H. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, E. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PESSIM, B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">silage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">animal nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food consumption</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sugarcane</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7060</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27925</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3016</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7501</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective was to evaluate the use of urea as a replacement to soybean meal in diets based on silage sugar cane intake of nutrients and body development of twelve dairy crossbred cattle, bulls, with initial weight of 184.79 ± 6.6 kg and average age of 9.5 ± 1.9 months, distributed in randomized block design with two treatments (with and without urea), six replicates each. The DM, OM, CP, NDF, ADF, TDN, expressed in kg / animal / day and feed:gain ratio of DM and CP decreased with the replacement of soybean meal by urea in the diets of animals. The body measurements were not affected by the replacement of soybean meal by urea, but reduced (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se avaliar a utilização de uréia como substituto ao farelo de soja em dietas a base de silagem de cana-de-açúcar sobre o consumo de nutrientes e o desenvolvimento corporal de doze bovinos mestiços leiteiros, castrados, com peso inicial de 184,79 ± 6,6 kg e idade média de 9,5 ± 1,9 meses, distribuídos em delineamento em blocos casualizados com dois tratamentos (sem e com uréia) com seis repetições cada. Os consumos de MS, MO, PB, FDN, FDA, NDT, expressos em kg/animal/dia e a conversão alimentar da MS e da PB foram piores com a substituição do farelo de soja pela uréia nas dietas dos animais. As mensurações corporais não foram afetadas pela substituição do farelo de soja por uréia, porém houve redução (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1340910446.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.68/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

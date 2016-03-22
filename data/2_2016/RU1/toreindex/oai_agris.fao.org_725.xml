@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100725">
+    <dc:title xml:lang="en">In Vitro Screening for Drought Tolerance in Different Sorghum (Sorghum bicolor (L.) Moench) Varieties</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tsago Yohannes</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Andargie Mebeaselassie</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Takele Abuhay</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Callus culture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sorghum bicolor</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9550</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Drought is one of the complex environmental factors affecting growth and yield of sorghum in arid and semi-arid areas of the world. Sixteen elite sorghum  (Sorghum bicolor  (L) Moench) genotypes were evaluated for their genetic potential to drought tolerance at callus induction and  plant  regeneration  stage  for  drought  tolerance.  The  non-ionic  water soluble  polymer polyethylene glycol (PEG) of molecular weight 6000 was used as osmoticum to simulate water stress.  The  factorial  experiment was  laid down  in a  completely  randomized  design which comprised of a combination of two factors (genotypes and five PEG stress level</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0, 0.5, 1.0, 1.5, and 2.0% (w/v)  treatments).  Data were recorded for callus induction efficiency, callus fresh weight,  embryogenic  callus  percentage  and  plant  regeneration  percentage.  Significant differences were observed among the genotypes, treatments and their interactions for the evaluated  plant  traits  suggesting  a  great  amount  of  variability  for  drought  tolerance  in sorghum.  The correlation analysis also revealed strong and significant association between embryogenic callus percent and plant regeneration percent as well as between embryogenic callus percent and plant regeneration percent. By taking into consideration all the measured traits, Mann Whitney rank sum test revealed that  76T1#23 and Teshale followed by Meko, Gambella-1107  and  Melkam  showed  better  drought  stress  tolerance. Therefore  they  are recommended to be used as parents for genetic analysis, gene mapping and improvement of drought tolerance while Chelenko, Hormat and Raya appear to be drought sensitive.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N3/JSPB_2013_3_72-83.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

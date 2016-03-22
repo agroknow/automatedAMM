@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02917">
+    <dc:title xml:lang="en">Repeated measures in the study of growth and ultrasound carcass traits in cross heifers</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Medidas repetidas no estudo de características de crescimento e carcaça avaliadas por ultrassom em novilhas de corte cruzadas</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>YOKKO,  M.J.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ORTELAN, A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SARMENTO, J.L.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ROSA, G.J.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CARDOSO, F.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALBUQUERQUE, L.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carcasses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bayesian theory</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic variation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ultrasonics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">development indicators</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1310f6eee3d3</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28840</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8349</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15975</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8044</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29170</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this paper was to study the development of carcass traits obtained by ultrasound, weight, chest circumference and hip height by longitudinal data of two genetic groups of heifers. These data were analyzed by different structures of residual (co)variance consider homogeneity or heterogeneity of (co)variances to better represent the variability between and within individual observations over the time. The traits were obtained in 60 animals ½ Braunvieh x ¼ Santa Gertrudes x ¼ Nelore and 60 animals ½ Santa Gertrudes x ½ Nelore. The traits were evaluated at intervals of 28 days. The comparison was done with several models, based on the criterion SBC (Schwarz’s Bayesian Criterion) with the goal of identifying structures of residual (co)variance more appropriate to best represent the variation of the measures within individuals. Later, as the animals were measured at different ages, it was evaluated the most appropriate model to regress these traits as a function of age, using ordinary polynomials and verifying the need for different curves for each genetic group. The results indicated that it should consider different structures of residual (co)variance to better represent the variability between and within individualobservations. For weight, hip height, chest circumference and longissimus muscle area traits there are differences in the genetic group over the time.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Com o objetivo de estudar o desenvolvimento de características de carcaça obtidas por ultrassom, peso vivo, perímetro torácico e altura do posterior, dados longitudinais foram analisados por diferentes estruturas de (co)variâncias residuais que consideram homogeneidade ou heterogeneidade de (co)variâncias, para melhor representar a variabilidade entre observações e dentro de indivíduo, ao longo do tempo. As medidas foram obtidas em 120 novilhas, sendo 60 ½ Braunvieh x ¼ Santa Gertrudes ¼ x Nelore e 60 ½ Santa Gertrudes x ½ Nelore. As características foram avaliadas em intervalos de 28 dias, totalizando até cinco medidas em cada grupo. Foram comparados diversos modelos com o intuito de identificar estruturas de (co)variâncias residuais adequadas para melhor representar a variação das medidas dentro de indivíduos, com base no critério Schwarz’s Bayesian Criterion. Posteriormente, avaliou-se o modelo mais adequado para regredir as características em função da idade, usando polinômios ordinários e verificando a necessidade de diferentes curvas para cada grupo genético. Diferentes estruturas de (co)variância residual devem ser consideradas em análise de dados longitunais, visando melhor representar a variabilidade entre observações e dentro de indivíduo. Os grupos genéticos estudados diferem entre si, ao longo do tempo, para as características peso, altura do posterior, perímetro torácico e área de olho de lombo.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1412018301.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

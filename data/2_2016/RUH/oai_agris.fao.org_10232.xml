@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10232">
+    <dc:title xml:lang="ru">ОХОТНИЧЬИ И РЫБНЫЕ РЕСУРСЫ В ЗОНЕ БАМ (ЗАБАЙКАЛЬСКИЙ КРАЙ)</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>HUNTING AND FISHING RESERVES IN THE AREA OF BAM (TRANS-BAIKAL TERRITORY)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>МИХЕЕВ И.Е.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Институт природных ресурсов, экологии и криологии СО РАН</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hunting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fishing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3697</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26950</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Оценено современное состояние охотничье-промысловых животных и рыбных ресурсов в зоне Байкало-Амурской магистрали в территориальных границах Забайкальского края. По данным зимних маршрутных учетов, проанализирована динамика численности охотничье-промысловых животных за последние девять лет. Предложены необходимые меры охраны и перспективы создания особо охраняемых природных территорий.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Evaluate the current state of game animals and fish resources in the area of ​​the Baikal-Amur Mainline in the territorial boundaries of Trans-Baikal Territory. According to the winter routing accounts, analyzed the dynamics of the number of game animals in the last nine years. Offered the necessary protection measures and the prospect of creating Protected Areas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/04/3-2-34.pdf#page=7</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.3 (34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

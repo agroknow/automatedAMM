@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01813">
+    <dc:title xml:lang="en">Proteic-energetic supplementation for crossbred dairy heifers submitted to alimentary restriction before dry season</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Suplementação protéico-energética pra novilhas mestiças leiteiras submetidas ou não à restrição alimentar antes do período seco</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>VALENTE,  T. N. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MALAFAIA,  P. A. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LIZIEIRE,  R. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERREIRA,  S. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GONÇALVES,  J. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PEREIRA,  D. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Compensatory growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dairying</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">supplements</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34810</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10274</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1327314434778</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33996</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Daily weight gain, costs and nutritional aspects were evaluated in two groups of 11 dairy heifers (Holstein/Zebu) weighing 177.6±6kg and with 15.7±4 months of age. In the pre-experimental period, for 49 days (April 7 to May 26), 11 heifers were kept in a stall and submitted to forced restriction in their daily dry matter intake, which resulted in weight loss of 2.9kg, related to their initial weight. Eleven other heifers were maintained free on the pasture, where they gained 30.2kg during the period. After this pre-experimental period, both groups were kept on the same grazing area and received a proteic-energetic supplement containing 30% urea, 30% NaCl and 40% of wheat middlings. Both groups were weighed every 21 days</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">on the same data, only the group of forced alimentary restriction was evaluated for its body condition score (BCS). The animals under alimentary restriction had higher daily weight gain throughout the dry season. At the end of the experimental period, the difference between the two groups was 15.6kg and the values of the BCS were different in the period of body weight loss and in the re-growth phase</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">i.e. for a loss of 14.3kg of body weight the heifers had -0.68 units in their BCS. For a gain of 48.2kg of body weight, during the proteic-energetic supplementary phase, the same heifers had a surplus of 0.31 units of BCS.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O desempenho ponderal, o escore da condição corporal e as despesas com a suplementação protéico-energética foram avaliados em dois grupos de 11 novilhas mestiças leiteiras, com idade de 15,7±4 meses e peso médio de 177,6±6kg. O objetivo foi avaliar essas variáveis em novilhas que passaram ou não por restrição alimentar antes do período seco e que foram submetidas posteriormente à suplementação protéico-energética durante a fase de estiagem. O período pré-experimental teve duração de 49 dias (07/04 a 26/05/05) onde um grupo de novilhas permaneceu preso no curral recebendo alimentação volumosa limitada e de baixa qualidade e o outro grupo (controle) permaneceu manejado livremente em pastos de capim-tanzânia. A restrição alimentar gerou uma diferença de peso entre os dois grupos de 31,5kg. Após o período de restrição alimentar os dois grupos foram conduzidos aos piquetes constituídos por grama-batatais (Paspalum notatum) e capim-belém (Sporubulus poiretii) e receberam um suplemento protéico-energético que continha 30% de uréia, 30% NaCl e 40% de farelo de trigo. As novilhas que foram submetidas à restrição alimentar antes do período seco tiveram um ganho de peso superior ao grupo controle, indicando que há um possível crescimento compensatório, mesmo no período desfavorável do ano. A diferença média entre os dois grupos foi reduzida de 31,5 para 15,6kg ao final do estudo. Os escores da condição corporal foram diferentes para o emagrecimento e a engorda</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">isto é, para uma perda de 14,3kg de peso vivo, as novilhas perderam 0,68 unidades de escore corporal e para um ganho de peso de 48,2kg as mesmas novilhas ganharam 0,31 unidades. Do presente estudo pode se concluir que, durante o período seco do ano, a utilização de suplemento protéico-energético resulta em maior ganho de peso diário para animais que passam por restrição alimentar em comparação aqueles que não sofreram tal restrição e as novilhas produzem respostas diferentes para o escore corporal em períodos de perda e recuperação de peso</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">isto é, durante a perda de peso, a queda na condição corporal é rápida e progressiva e, na fase de ganho de peso, esta aumenta discretamente para um rápido ganho de peso.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1216214056.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01449">
+    <dc:title xml:lang="en">Tiller diversity on Brachiaria decumbens pasture managed under continuos stocking</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Diversidade de perfilhos em pasto de Brachiaria decumbens manejado em regime de lotação contínua</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS,  M. E. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FONSECA,  D. M</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GOMES, V. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CASTRO,  M. R. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALBINO,  R. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Grazing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Aeration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tillering</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vegetative period</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25243</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_154</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7773</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16095</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The experiment was carried out aiming to classify and quantify tiller categories of Brachiaria decumbens cv. Basilisk from different heights found on the same pasture. Four different plant heights (10</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">20</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">30 and 40 cm) living at the same pasture were evaluated. Randomized block design with three replications was used. Tillers were classified according to their stage of development, growth origin, defoliation level and size. The number of vegetative tillers reduced linearly, while the number of reproductive tillers and dead tillers increased linearly according to the plant height. The number of aerial tillers showed a quadratic response in relation to the plant height. The pastures having grasses of 10, 20, 30 and 40 cm in height had respectively 292, 408, 496 and 344 aerial tillers/m2. The population density of defoliated tillers reduced linearly according to the plant height. The population density of tillers without the apical shoot showed quadratic response to the signal grass height, being the smallest values found for places having grasses of 10 cm (176 tillers/m2) and 40 cm (180 tillers/m2) in height. The number of tillers without defoliation quadratic responded to the plant height, being the highest values found for places having grasses extremely high. The areas with the highest grasses also showed the highest numbers of tallest tillers. There is indeed a spatial variability of the vegetation and a high morphological diversity of tillers on Brachiaria decumbens cv. Basilisk pastures managed under the continuous stocking system.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O experimento foi conduzido com o objetivo de classificar e quantificar as categorias de perfilhos deBrachiaria decumbens cv. Basilisk existentes em locais com alturas variáveis em um mesmo pasto. Os tratamentos foram quatro alturas de plantas (10, 20, 30 e 40 cm) avaliadas dentro de uma mesma pastagem. O delineamento experimental foi em blocos casualizados, com três repetições. Os perfilhos foram classificados quanto ao estádio de desenvolvimento, à origem de crescimento, ao nível de desfolhação e ao tamanho. O número de perfilho vegetativo reduziu linearmente, enquanto que os números de perfilhos reprodutivos e mortos incrementaram linearmente com a altura da planta no mesmo. O número de perfilho aéreo apresentou padrão de resposta quadrático em função da altura da planta, sendo que os locais do pasto com 10, 20, 30 e 40 cm de altura possuíram, respectivamente, 292, 408, 496 e 344 perfilhos aéreos/m2. A densidade populacional de perfilhos desfolhados reduziu de forma linear com a altura da planta. A densidade populacional de perfilhos sem o meristema apical apresentou resposta quadrática à altura da planta de capim-braquiária, observando-se os menores valores nos locais com 10 cm (176 perfilhos/m2) e com 40 cm (180 perfilhos/m2) de altura. O número de perfilhos sem desfolhação respondeu de forma quadrática à altura da planta, com maiores valores nos locais do pasto com as alturas extremas. Os locais mais altos do pasto possuíram maior participação de perfilhos mais compridos. Em pasto de Brachiaria decumbens cv. Basilisk manejada em lotação contínua existe variabilidade espacial da vegetação e grande diversidade morfológica de perfilhos.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1326988369.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.68/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

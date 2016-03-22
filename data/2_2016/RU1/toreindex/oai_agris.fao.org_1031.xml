@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101031">
+    <dc:title xml:lang="en">The Effect of Salicylic Acid and Gibberellin on Seed Reserve Utilization, Germination and Enzyme Activity of Sorghum (Sorghum bicolor L.) Seeds Under Drought Stress</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sheykhbaglou Roghayyeh</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rahimzadeh Saeede</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ansari Omid</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sedghi Mohammad</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sorghum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7244</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Seed priming methods have been used to increases germination characteristics under stress conditions. The study aimed was to determine the effect of salicylic acid and gibberellin on seed reserve utilization, germination and enzyme activity of sorghum (Sorghum bicolor L.) seeds under drought stress. Factorial experiment was carried out in completely randomized design with three replications. The first factor was the seed treatments (unpriming, salicylic acid and gibberellin) and the second factor was drought stress (0, -4, -8 and -12 bar). The results indicated that for these traits: germination percentage, germination index, weight of utilized (mobilized) seed, seed reserve utilization efficiency, seedling dry weight and seed reserve depletion percentage was a significant treatment Ч drought interaction. Thus priming improved study traits in Sorghum (Sorghum bicolor L.) seeds under drought stress. Also, priming improves enzyme activity as compared to the unprimed seeds.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_05-13.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

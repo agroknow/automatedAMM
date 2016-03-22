@@ -1,0 +1,47 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08977">
+    <dc:title xml:lang="ru">ЗАКОНОМЕРНОСТИ ФОРМИРОВАНИЯ ПРОДУКТИВНЫХ ТОЛЩ КРУПНЫХ ЗАПОЛНИТЕЛЕЙ В БЕТОНЫ В ПРИБАЙКАЛЬЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>FORMATION PRODUCTIVE STRATA OF COARSE AGGREGATE OF THE CONCRETE IN THE PRIBAYKALIE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>КОЛОМИЕЦ В.Л.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Геологический институт СО РАН</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genotypes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9001017</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В качестве крупных заполнителей в бетоны наиболее значимыми являются ледниковые, флювиогляциальные, пролювиальные и аллювиально-пролювиальные отложения. Среди аллювиальных отложений практический интерес представляют отдельные толщи пойм и низкого террасового комплекса межгорных впадин Прибайкалья.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">As coarse aggregate in concrete are the most significant glacial, glacial-fluvial, proluvial and alluvial-proluvial deposits. Alluvial deposits of practical interest are separate strata floodplains and low terraces complex of intermountain basins of the Baikal region.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/04/3-1-22.pdf#page=73</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.3 (22)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016010585">
+    <dc:title xml:lang="en">Technological systems for layer housing and their influence on products quality</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gálik, Roman</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Boďo, Štefan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fryč, Jiří</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Nitra</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">poultry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">poultry housing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">layer chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6145</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6146</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12109</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Enriched cages have been developed in attempt to improve conventional cages with the natural behaviour for the animals. Enriched cages are similar to conventional one, but they further contain a nest, roost, dust bath and have a greater height. Although they allow to the hens greater opportunity for natural
+behaviour, they are not able to ensure freedom of movement and enough space for them to achieve acceptable level of welfare. Compared with rearing in aviary or in free range, are enriched cages inadequate. The amount of space in horizontal as well as in vertical dimension, restrict movement and thereby it limits the important natural behaviour. Also the. limitation in the shape of
+enriched cage prevents hen s in their motion, what leads to the pathology of the liver, osteoporosis and weakening of bones. The last mentioned can result in the collection of fractures, when carrying out the hen from cage. In conventional cages, the area per hen is slightly smaller than a sheet of A4 paper. But the span
+of their wings is nearly one meter. Low height in this. cage avoid them their natural movement of the head. Hens inside it does not suffer from lack of exercise, but also the cage does not allow them to fullfil their natural needs. Inside the enriched cage was added to each of hen an area about the size of postcard, cage height was increased by 50 mm and each: cage is now compulsorily fitted with enriching elements. For many authors, it is clear that the suffering of laying hen s in those cage system is at least mitigate by the increase of mentioned cage dimensions and that the whole change is more - less symbolic. Enriching elements cannot replace natural environment - according to studies, the behavioural disorders have not been removed. Since the EU directive does not address the issue of quality eggs, but only condition in the quality of rearing, we focused our work to compare some indicators of egg quality laid in conventional and enriched cages. The research was conducted in the temporary period,· when it was still possible to use both methods of housing (till 31th of December 2011). Indicators of quality of consume eggs were compared to eggs from hens housed in conventional and enriched cages in laboratory conditions (variant A), as well as in terms of condition at selected farm (variant B) for laying hens of the same hybrid ISA BROWN. As the main criteria for research were selected following variables: egg weight, shell weight, shell thickness, egg shape index (further
+ESI), the force required to destroy shell (destruction force) and shell deflection. The measured results were processed and evaluated by statistical methods. In the analysis, we have used: testing the significance of differences between quantitative indicators of shell eggs for consumption in two ways housing by
+usage of the Studenťs t-test (significance level a was on the level
+0.05 respectively 0.01), identifying the dependences of egg shell quantitative indicators in compare to age of hen by regression and correlation analysis, multiple addiction, dependency matrix and pair wise correlation. Causal relationship between the values of the dependent variable values (shell weight in grams, respectively shell deformation in mm) from a number of independent ones (ESI, shell thickness, egg weight, respectively the force needed to destroy the egg shells), we consider the method of multiple dependences. The basic shape of the model equation was: y = bo + b.x, + b2x2 + b3x3• By assessing the intensity of regression relationship between the dependent and independent variables, as well as to assess the suitability of the model we took into account the correlation coefficient R. To further assess the characteristics and intensity of the relationship between selected files we had apply a simple non-linear regression method using a parabolic function y = bo + b.x + b2x2 and assessment of suitability by the coefficient of determination (R2 ). Calculations was performed in Microsoft Excel, version 2010. Those methods were chosen because they are suitable for this type of analysis and evaluation of obtained data. From gained results follow, that between keeping the hens in conventional and enriched cages are not recorded in either variant (A, B) statistically significant differences between indicators: egg weight, shell weight, shell thickness, ESI and shell thickness (P &gt; 0.05). Statistically significant difference, confirmed in both scenarios was only by the force required to destroy eggs (P = 0.023 - variant A, P = 0.015 - variant B).The results of multiple regression analysis show that the deflection of the shell (dependent variable ) and the force required for its destruction
+(independent variable) in both variants confirmed dependence.
+The correlation coefficient R (0.731 respectively 0.538) confirms an high statistical dependence. Evaluation of multiple correlation between the shell weight (the dependent variable) to ESI, shell thickness and egg weight (independent variables) in both versions, and both types of cage system, confirmed the relationship between shell weight and egg weight. Equation of regression model show, that an increase in egg weight by 1 g increase the shell weight by 0.097 g in conventional cage respectively 0.085 g in enriched one -
+variant A. For variant B it was 0.061 g for both types of cages.
+The correlation coefficient R (0.993 respectively 0.953) confirms an very high statistical dependence. From pair wise addictions it is clear to see the effect of hens age on egg weight, the destruction force and ESI in both scenarios and type of cages. The correlation coefficient (R &gt; 0.6) in all cases show an strong statistical dependence. The linear equation model interprets for example, that if the hen get older by 1 day, the destruction force will get lower by 0.03 N. The matrix from correlation coefficients shows between cage area and monitored indicators only very weak correlation (R &lt; 0.3) in both scenarios. We believe that the authors results of years of research will be beneficial for both, farm practices as well as for students of the Slovak Agricultural University in Nitra, resp. Mendel University in Brno.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="ags:ISBN">978-80-552-1167-1</dc:identifier>
+    <dc:type>Book</dc:type>
+  </ags:resource>
+</ags:resources>

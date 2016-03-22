@@ -1,0 +1,81 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202126">
+    <dc:title xml:lang="en">Optimal size experimental plots for the selection of genotypes of bean</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Tamanho de parcelas experimentais para a seleção de genótipos na cultura do feijoeiro</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Smiderle Éder</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Botelho Flávia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Guilherme Scheila</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Arantes Sayonara</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Botelh Rodrigo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Arantes Kelte</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Mato Grosso,</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Mato Grosso,</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Lavras</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Mato Grosso,</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Mato Grosso,</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Mato Grosso,</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Phaseolus vulgaris</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">breeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5767</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49902</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">The determination of plot size in breeding programs is of great importance for the experiment can be conducted accurately. Thus, the objective of this study was to determine the optimum plot size for the bean crop. We evaluated four bean lines: BRS Pérola, BRS Valente, BRS Requinte and BRS Radiante in two crops (off-season and winter crop) in 2010 in Sinop-MT. The experiments were conducted in a randomized block design with three replications and plots with three rows
+of two meters. We used the method of high curvature to evaluate the optimal size of the plot. The character was rated the weight of grain produced per plant. The basic unit used as a basis for calculation was 15 plants. It was observed that the optimal size of the plot, according to the method of Maximum Curvature, did not exceed 3m2. The behavior of the coefficient of variation (CV) was almost constant for all cultivars in both seasons. There was a tendency to stabilize CV (%), from plots of size of approximately 7.5 m2.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A determinação do tamanho da parcela experimental em programas de melhoramento genético é de grande importância para que o experimento possa ser conduzido de maneira precisa. Dessa forma, o objetivo deste trabalho foi verificar o tamanho ótimo da parcela experimental para a cultura do feijoeiro. Foram avaliadas quatro linhagens de feijoeiro: BRS Pérola, BRS Valente, BRS Requinte e BRS Radiante, em duas safras (safrinha e safra de inverno) em 2010 no município de
+Sinop-MT. Os experimentos foram conduzidos no delineamento de blocos ao acaso com três repetições e parcelas compostas por três linhas de dois metros. Utilizou-se o método da Máxima Curvatura para avaliar o tamanho ótimo da parcela experimental. O caráter avaliado foi o peso
+de grãos produzidos por cada planta. A unidade básica tomada como base de cálculo foi de 15 plantas. Observou-se que o tamanho ótimo da parcela experimental, segundo o método da Máxima Curvatura, não ultrapassou 3m2. O comportamento do coeficiente de variação (CV) foi
+praticamente constante para todas as cultivares, em ambas as safras. Verificou-se tendência de estabilização do CV(%), a partir de parcelas com tamanho de aproximadamente 7,5 m2.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/218/233</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

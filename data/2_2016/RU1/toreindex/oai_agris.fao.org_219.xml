@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100219">
+    <dc:title xml:lang="en">GENETIC VARIABILITY OF CULTURED PLANT TISSUES UNDER NORMAL CONDITIONS AND UNDER STRESS</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Dolgikh Yu.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Osipova E.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Solov’eva A.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lysenko E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vysotskaya O.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">in vitro</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic variation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Somaclonal variation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37563</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15975</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34127</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The genetic variability induced by in vitro conditions known as somaclonal variation is of practical interest due to its potential uses in plant breeding but, on the other hand, if clonal propagation or transformation ismain goal, it becomes an unwelcome phenomenon. Thus, it is important to know frequency, the genomic distribution, the mechanisms and factors influencing somaclonal variation. We studied variability of PCR-based DNA markers of cultured tissues and regenerated plants of maize and bread wheat. The original A188 line of maize and the somaclones obtained were tested using 38 RAPD and 10 ISSR primers. None of the A188 plants showed variation in the RAPD and ISSR spectra for any of the primers used. However, the PCR spectra obtained from the somaclones demonstrated some variations, i.e., 22 RAPD primers and 6 ISSR primers differentiated at least one somaclonal variant from the progenitor line. Six SCAR markers were developed based on several RAPD and ISSR fragments. The inheritance of these SCAR markers was verified in the selfing progeny of each somaclone in the R1–R4 generations and in the hybrids, with A188 as the parental line in the F1 and F2 generations. These markers were sequenced and bioinformatic searches were performed to understand the molecular events that may underlie the variability observed in the somaclones. All changes were found in noncoding sequences and were induced by different molecular events, such as the insertion of long terminal repeat transposon, precise miniature inverted repeat transposable element (MITE) excision, microdeletion, recombination, and a change in the pool of mitochondrial DNA. In two groups of independently produced somaclones, the same features (morphological, molecular) were variable, which confirms the theory of ‘hot spots’ occurring in the genome. The presence of the same molecular markers in the somaclones and in different non-somaclonal maize variants suggests that in some cases, the same mechanisms determine both in vitro and in vivo variability. Stress during tissue culture can induce somaclonal variation. For example during cryopreservation the callus cells experience stress caused by exposure to a complex of various factors, which may induce free radical formation and provide conditions for the appearance of genetic changes. ISSR and retrotransposon- microsatellite amplified polymorphism (REMAP) markers were applied to study the influence of individual steps of dehydration cryopreservation technique on DNA in calli and regenerated plants of bread wheat. The precultivation with sucrose and freezing had no influence on the genetic stability of plant material. After the dehydration step, a new fragment appeared in the REMAP profiles for one DNA sample in calli of one line. The most likely cause of the this change is triggered by the stress experienced by cells during dehydration, insertion of a new copy of retrotransposon close to the microsatellite sequence complementary to the ISSR primer.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S11.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

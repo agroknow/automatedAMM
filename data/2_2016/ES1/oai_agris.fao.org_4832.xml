@@ -1,0 +1,115 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104832">
+    <dc:title xml:lang="es">COTOS DE RESERVA GENÉTICA EN ECOSISTEMAS NATURALES PARA LA CONSERVACIÓN DEL CERDO CRIOLLO CUBANO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>BREEDING SITE RESERVOIR IN NATURAL ECOSYSTEM FOR CUBAN CREOLE PIG CONSERVATION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Santana Isabel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abeledo  Carlos M</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sánchez Harol</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto de Investigaciones Porcinas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto de Investigaciones Porcinas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Empresa Nacional Genetica Porcina</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Habitat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3456</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Sites of genetic reservoir (CRG) in Cuba are small herds under natural breeding with basic control and management to ensure pure conservation. Monitoring was conducted in the western and central regions, through interviews and surveys. Multivariate analysis technique was applied, variables: Region</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Habitat</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Piglets born alive (NV)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Weaned pigs (CD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Effectiveness of mating (EC)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Pigs per sow per year (PPA)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Food self (Autog.). Proportion analysis of these and other variables were also doing. In 2013, were reported 48 CRG,   500 sows and 82 boars, representing 2.5% of all Creole pigs. Overall means for NV, CD, CD and PPA were: 6.8</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">5.8</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">85.5 and 1.8 respectively. Variation coefficients were 34.3-47.8%. Correlations: Regions- EC</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">NV - EC</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">CD –EC and CD and CD- PPA (r = -0.43 -0, 65) 0.65). Positive: NV -CD (r = 0.77). Three major components were formed, which accounted 76.99% of the total variability. In first Region, NV and CD are highlighted</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">in second PPA and Autog and in third region was Habitat.  Central regions CRG were the best, and also in Plains habitat. Mountain and premountain, partial food self without food production had least results. 52.4% of the CRG were located in the Midwest, 23.8% in premountain, and 38.1% for both. 52.4% of them produce young sows and sires. Partial food was 66.7%. There are handbooks of CRG partial applications, with difficulties in individual information and young reproducers productions principally sires. CRG is a satisfactory rescue strategy for Cuban Creole pigs</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Los cotos de reserva genética (CRG) en Cuba, son pequeños rebaños, en condiciones de crianza natural con control y manejo básicos que garanticen su conservación pura. Se realizó un monitoreo en las regiones occidental y central, para evaluar su desempeño, así como la aplicación de las recomendaciones del Manual para los Cotos de Reserva Genética (Santana, 2010). Dicho monitoreo se efectuó a través de entrevistas y encuestas. Se aplicó una técnica multivariada  al análisis de las variables: Región</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Hábitat</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Nacidos vivos (NV)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Crías destetadas (CD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Efectividad de las cubriciones (EC)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Partos por puerca por año (PPA)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Autogestión alimentaria (Autog.) o de gestión de autoalimentación de los cerdos y  se realizó un análisis de proporciones de éstas y otras variables. Al concluir el 2013, se reportaron 48 CRG, estimándose en 500 cerdas y 82 sementales, que representan el 2,5 %, de todos los cerdos de  biotipo Criollo. Las medias generales para NV, CD, EC y PPA, fueron: 6,8</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">5,8</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">85,5 y 1,8 respectivamente. Los coeficientes de variación mostraron variabilidad entre 34,3 y 47,8%. Las correlaciones  fueron negativas entre  Región y EC</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">NV y EC</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">CD y EC y CD y PPA (r= -0,43-0,65) y positiva NV y CD (r=0,77). Se  formaron 3 componentes principales,  que explicaron el 76,99 % de la variabilidad total. En el primer componente se resaltan  Región, NV y CD, en el segundo  PPA y Autog., y en el tercero  Región y Hábitat. Los CRG más favorecidos, resultaron ser  de la región central, y del hábitat en el Llano, Los menos, los de montaña y premontaña con autogestión alimentaria parcial sin producción de alimentos.  El 52,4 % de los CRG estaban ubicados en la Región central, en Premontaña el 23,8%, y el 38,1% tanto para el llano como en la montaña. El 52,4 % producen cerdos de reemplazo. La autogestión alimentaria parcial 66,7%. Las recomendaciones del Manual, se aplican de forma parcial, con dificultades en el control de la información individual y la producción de pies de cría, principalmente machos. Es satisfactoria la formación de los CRG, Los indicadores de fertilidad, supervivencia y eficiencia reproductiva acorde a lo esperado. Se trabaja  en subsanar las dificultades por los grupos provinciales de protección de los cerdos Criollo.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo028_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

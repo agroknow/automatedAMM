@@ -1,0 +1,32 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102645">
+    <dc:title xml:lang="en">Ampelographic evaluation of wild grapevine characters VitisVinifera G. ssp Sylvestris in Vlora’s river valley</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>FERRAJ BARDHOSH</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHUMELI ARJAN</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SUSAJ LUSH</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Agricultural University of Tirana, Department of Horticulture and Landscape Architecture, Tirana, Albania.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The wild grapevine (Vitisvitifera G. ssp Sylvestris) has been growing spontaneously for thousands of years in Vlora’s river valley. It has been growing in the forests and the villages located along this river, starting from the low hills and ending with villages, located at approximately 600 - 700 m above the sea level such as Mesaplik, Brataj, Tërbaç, Vranisht, Kuç, Sevaster, ect. Observing the flower’s characteristics we concluded that 13% of the flowers are hermaphrodites, 41% of the individuals have a functioning male flower and 46 % of the individuals have a functional female flower. The leaf has different dimensions starting from small to medium, it has 5 lobes, a pentagon form and a smaller petiole than the length of the grown leaf. Above the main venations there are no signs of anthocyanin pigmentation. The average length of the blade above the venation N2 is 10.1\ 9.6=1.05. The grains contain 2-4 seeds with an average length of 4.85 mm and an average width of 4.5mm, the ratio length\width of the seed is 4.5\4.85 = 0.92. The pulp of the grain contains 44.5% must, 21% sugar and 13.1% acidity in total. In the forests and the villages of Vlora’s river valley, the wild grapevine is usually accompanied with other plants like, A.unedo L., C.siliquastrum L., C. mas L., E. arboreaL., I.aquifolium L., Q.cerris L., P.alba L., Q.frainetto Ten., P.spina-christi M., O. vulgare L., W. pear, J. oxycedrus L., W.plum, Blackberries, W. rose, etc, and some herbaceous plants that typically grow in this area such as: M.camomila, strawberry, trefoil, rosemary , lavender, B. perennis L., ect.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4OjZjNDYwZmU2MDQyOTUwNmI</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

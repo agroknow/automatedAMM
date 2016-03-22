@@ -1,0 +1,74 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09617">
+    <dc:title xml:lang="ru">ИСХОДНЫЙ МАТЕРИАЛ В СЕЛЕКЦИИ ЯРОВОЙ ПШЕНИЦЫ НА УСТОЙЧИВОСТЬ К БУРОЙ РЖАВЧИНЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE INITIAL MATERIAL IN BREEDING SPRING WHEAT FOR RESISTANCE TO LEAF RUST</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Малокостова Е.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Научно-исследовательский институт сельского хозяйства Центрально-Черноземной полосы имени В.В. Докучаева</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wheats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">STABILITY</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rusts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">breeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8373</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36930</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6710</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49902</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучено 634 сортообразца яровой мягкой пшеницы мировой коллекции ВИР. Выделено 68 источников по устойчивости к
+листовой бурой ржавчине. Создан новый селекционный материал, сохраняющий устойчивость к бурой ржавчине в сочетании с
+высокой урожайностью и с хорошим качеством зерна. В конкурсном сортоиспытании изучаются 6 линий, которые достоверно
+превышают стандарт по урожайности, размножаются с целью передачи их на Государственное сортоиспытание в 2015,
+2016гг. В 2013,2014 гг. в ЦЧЗ, Волго-Вятском и Средне - Волжском регионах РФ районирован новый сорт яровой мягкой пшеницы
+Черноземноуральская 2. Он устойчив к корневым гнилям, бурой ржавчине, твердой головне и мучнистой росе</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Studied 634 accessions of spring wheat world collection of VIR. Allocated 68 sources of resistance to leaf brown rust. Created new
+breeding material that retains resistance to leaf rust in combination with high yield and good grain quality. In the competitive strain testing
+are studied 6 lines, which significantly exceeds the standard for productivity, breed with the aim of transferring them to State variety testing
+in 2015, 2016. In 2013,2014, CCZ, Volga-Vyatka and Middle Volga regions of Russia released a new variety of spring wheat
+Chernozemelskaya 2. It is resistant to root rot, leaf rust, solid smut and powdery mildew</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/05/4-1-35.pdf#page=116</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.1 (35)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

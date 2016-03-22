@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012780">
+    <dc:title xml:lang="en">Innovation and economic growth: the case of Slovakia</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Braha Kushtrim</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Qineti Artan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Serenčéš Roman</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E13</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">investment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">innovation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Economic growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3930</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27560</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2474</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The role of innovation in the economic growth is becoming a crucial aspect of the future economic development. Building of the innovativedriven economy requires establishment of supportive macroeconomic environment. It involves interplay among three main factors of innovation: education system, entrepreneurship and governmental institutions. Establishment of the integrated national innovation system is a key priority that assures sustainable economic growth. Slovakia is mobilizing its resources in order to shift its economic growth from efficiency-driven to innovation-driven economic growth. The inflow of the foreign investments and attractive entrepreneurial environment are identified as the main resources of economic growth during the observed period. Additional input in accelerating economic growth brought the accession of the country into the EU. On the other hand, R &amp; D activities remain weakly supported by the public and private funding. As the result, productivity of the Slovak innovators remains low as well. Over the last decade, only 70 patents annually were granted to the Slovak innovators. Despite  the significant improvement of the innovative environment, there is a low share of enterprises applying innovation in their business activities.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vua.uniag.sk/sites/default/files/VUA_01_15_Braha.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Visegrad journal on bioeconomy and sustainable development</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1338-8339</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

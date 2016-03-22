@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F04456">
+    <dc:title xml:lang="en">Evaluation of reactor anaerobic sludge blanket in the treatment of wastewater slaughterhouse</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Avaliação de reator anaeróbio de manta de lodo no tratamento de efluentes de frigorífico</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>RODRIGUES, L.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SPELTA, A.C.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS,  R.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LIMA, C.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DUTRA, J.C.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA, I.J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Anaerobic treatment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Agroindustry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Environmental impact</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34990</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28831</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24420</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study aimed to evaluate the efficiency of a full-scale treatment system effluent slaughterhouse. The full-scale Sewage Treatment Station was designed for a daily flow of 60 m³/d, corresponding to a slaughter of 60 cattle per day. The treatment system consists of a Parshall flume for flow measurement, followed by static sieve, gravimetric fat, sedimentation and anaerobic sludge blanket (UASB) box and it was monitored weekly from January to August. The following parameters were analyzed: pH, alkalinity, biochemical oxygen demand (BOD), chemical oxygen demand (COD), total solids (TS), total suspended solids (TSS), ammonia nitrogen, and total nitrogen kjedhall. The average pH, COD and TSS in the UASB reactor effluent values were 6.96, 660 mg/L and 188 mg/L , respectively. The system proved to be efficient, with average removal of 96.40% to 89.92% for COD and TSS. The UASB reactor showed high performance in removing solids and organic load. Thus, this reactor becomes a viable alternative for treating wastewater slaughterhouse, offering good removal results and low cost of deployment.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O presente trabalho objetivou avaliar a eficiência em escala real de um sistema de tratamento de efluentes de frigorífico. A estação de tratamento de efluentes em escala real foi projetada para uma vazão diária de 60 m³/d, correspondente a um abate de 60 bovinos por dia. O sistema de tratamento composto de uma calha parshall, para medição de vazão, seguida de peneira estática, caixa de gordura gravimétrica, decantador e reator anaeróbio de manta de lodo (UASB) foi monitorado semanalmente entre janeiro e agosto de 2012. Foram analisados os seguintes parâmetros: pH, alcalinidade, demanda bioquímica de oxigênio (DBO), demanda química de oxigênio (DQO), sólidos totais (ST), sólidos suspensos totais (SST), nitrogênio amoniacal e nitrogênio total Kjedhall. Os valores efluentes médios de pH, DQO e SST no reator UASB foram de 6,96</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">660 mg/L e 188 mg/L, respectivamente. O sistema mostrou-se eficiente, com remoção média de 96,40% para DQO e 89,92% para SST. O reator UASB apresentou alta performance na remoção de sólidos e carga orgânica. Dessa forma, esse reator torna-se uma alternativa viável para o tratamento de águas residuárias de frigoríficos, já que oferece bons resultados de remoção e baixo custo de implantação.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://iz.sp.gov.br/pdfsbia/1418315680.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

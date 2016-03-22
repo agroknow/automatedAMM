@@ -1,0 +1,36 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102730">
+    <dc:title xml:lang="en">State of Macrozoobenthic Community in the Adriatic Rocky Shores of Albania in Spring Season</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>RUCI STELA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KASEMI DENADA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BEQIRAJ SAJMIR</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Department of Biology, Faculty of Natural Sciences, University of Tirana, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2Departament of Biology, Faculty of Technical Scinces, University of Vlora “Ismail Qemali”, Vlora, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-09</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present study aims to assess and analyze the species composition, abundance and environmental state of the macrozoobenthic community in the shallow rocky areas along the Adriatic coast of Albania. Benthic samples have been taken during April – May 2011 in four rocky coastal areas: Shën Pjetër, Kallm, Spille and Triport. Standard replicated quantitative samples have been taken in the supralittoral, mediolittoral and upper limit of infralittoral, by using a reticulated frame. A total of 106 taxa of benthic macroinvertebrates has been recorded. The groups with the highest abundance and presence were mollusks of the families Patellidae and Trochidae in all sites. A considerable difference in species composition between the four sites has been recorded. Two alien gastropods for the Mediterranean, Rapana venosa and Cellana rota, were found in the studied area. From a preliminary assessment, the benthic community in the studied area seems to have a relatively low stability and unfavorable environmental state.
+The species composition and abundance of benthic macroinvertebrates seem to be effected by macroalgal cover at the sites, exposal level of the coast and human impact in the studied areas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_2014_3_file/7_RUCI%20-%20AJAS%20N3_2014%20pp%2042-49.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

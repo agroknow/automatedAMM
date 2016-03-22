@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016211167">
+    <dc:title xml:lang="en">Quality harvesting in the basement cut of sugarcane soil management systems</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Qualidade do corte basal na colheita mecanizada de cana-de-açúcar em dois tipos de manejo do solo</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Reis Gustavo Naves dos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Voltarelli  Murilo Aparecido</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Silva Rouverson Pereira da</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Toledo Anderson de</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lopes Afonso</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual Paulista, Jaboticabal, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual Paulista, Jaboticabal, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual Paulista, Jaboticabal, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual Paulista, Jaboticabal, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual Paulista, Jaboticabal, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F08</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farming systems</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2807</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The mechanized harvesting of sugarcane has relevance across the crop production process and can be influence the cutting quality base for soil management systems. This study aimed to assess the damage caused to the mechanical harvesting of ratoon sugarcane raw relative wear of the base shear knives and soil management. The experimental design was completely randomized, factorial divided into two schemes which are: 2 different soil tillage (moldboard plow + average grade and heavy harrow + average grade) x 4 times of use of knives (0-2, 2-4 , 4-6 , 2-6(1)) and 10 repetitions , and 2 soil tillage (moldboard plow + harrow heavy, and heavy harrow + average grade) x 2 cutting discs (left and right ) x 20 repetitions, forming meshes regularly spaced 27 x 23 m,
+amounting to 100 repeats, or 50 replicates for each treatment in order to standardize the location of the samples taken. The variables evaluated were the mass loss of the knives of the base shear mechanism and the degree of damage to brass knuckles. The quality of mechanized harvesting of cane sugar is influenced by the soil management systems. Soil management with heavy grade + average grade has the highest quality of the harvesting operation in relation to the degree of
+damage to brass knuckles</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A colheita mecanizada da cana-de-açúcar tem relevância em todo processo produtivo da cultura, podendo ser influência a qualidade do corte de base pelos sistemas de manejo do solo. Objetivouse
+avaliar os danos ocasionados às soqueiras na colheita mecanizada de cana-de-açúcar crua em relação do desgaste das facas do corte basal e do manejo do solo. O delineamento experimental utilizado foi inteiramente casualizado, dividido em dois esquemas fatoriais sendo eles: 2 manejos do solo (arado de aivecas + grade média</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">e grade pesada + grade média) x 4 tempos de uso das facas (0–2</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2–4</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4–6</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2-6(1)) e 10 repetições, e 2 manejos do solo (arado de aivecas + grade
+pesada</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">e grade pesada + grade média) x 2 discos de corte (esquerdo e direito) x 20 repetições, formando malhas regulares espaçados por 27 x 23 m, totalizando 100 repetições, ou seja, 50 repetições para cada tratamento, padronizando-se o local das amostras realizadas. As variáveis avaliadas foram à perda de massa das facas do mecanismo de corte basal e o grau de danos às soqueiras. A qualidade da colheita mecanizada de cana-de-açúcar é influenciada pelos sistemas
+de manejos do solo. O manejo do solo com GP+GM (grade pesada + grade média) apresenta a maior qualidade da operação de colheita em relação ao grau de danos às soqueiras.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.comunicatascientiae.com.br/comunicata/article/download/784/313</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

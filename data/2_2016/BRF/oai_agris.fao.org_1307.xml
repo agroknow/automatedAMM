@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01307">
+    <dc:title xml:lang="en">Metabolic profile of santa inês ewes whith low body condition score during peripartum</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Perfil metabólico em ovelhas Santa Inês</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>com baixo escore de condição corporal</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>no periparto</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>NASCIUTTI,  N. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TSURUTA,  S. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA,  R. S. B. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BISINOTO,  M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HEADLEY,  S. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MUNDIM,  A. V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NOLETO,  P. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SAUT,  J. P. E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">energy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Calcium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sheep</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Parturition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2565</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1196</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49892</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5604</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to analyse the variations in the metabolic profile of protein, energy enzyme and mineral of Santa Inês ewes with low body condition score (BCS) during peripartum. Blood samples were collected from 12 animals by jugular venipuncture to determine the serum biochemical profiles of protein, energy, mineral and enzyme metabolisms. Samples were collected on the following days: days 28, 21, 14, and 7 before lambing, at birth and, at days 2, 4, 7, 14, 21, and 28 postpartum (dpp). The samples were centrifuged and the serum analysed by Automated-Analyser. There was no alteration of the BCS during the 28 dpp, between 0.6 and 2.1 ± 2.4 ± 0.5, and was considered, as lean. The values of the total serum protein, globulin, albumin, and albumin/globulin ratio were reduced effective from the period before birth until 28dpp. The values of beta-hydroxybutyrate, calcium, phosphorus and magnesium remained below those of reference values. The concentrations of alanin aminotransferase (ALT) were decreased particularly during the weeks before delivery. It was concluded that Santa Inês sheep with low body condition score demonstrated a reduction in the metabolism of proteins, energy, mineral and enzyme during peripartum.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Com o objetivo de estudar a variação do perfil metabólico protéico, energético, enzimático e mineral em ovelhas da raça Santa Inês com baixo escore de condição corporal no periparto (ECC), foram coletadas amostras de sangue de 12 animais por venopunção jugular para a realização do perfil bioquímico sérico dos metabólitos, protéico, energético, enzimático e mineral no 28, 21, 14 e 7 dias,pré-parto, no dia do parto e aos 2, 4, 7, 14, 21 e 28 dias pós-parto (dpp). As amostras foram centrifugadas e o soro analisado em Analisador automático. O ECC não variou durante os 28 dpp e permaneceu entre 2,1±0,6 e 2,4±0,5 considerado magro. Os valores séricos das proteínas totais, globulina, albumina e relação albumina/globulina mantiveram-se menores desde o período que antecedeu o parto até os 28 dpp. O beta-hidroxibutirato se manteve abaixo dos valores de referência. Os minerais cálcio, fósforo e magnésio mantiveram-se inferiores aos valores de referência. Os valores da alanina aminotransferase (ALT) estavam baixos principalmente nas semanas que antecederam o parto. Concluiu-se que ovelhas Santa Inês com baixo escore de condição corporal apresentam diminuição nos metabolismos protéico, energético, mineral e enzimático no periparto.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1366027738.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.69/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

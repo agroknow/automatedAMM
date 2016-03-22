@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A04880">
+    <dc:title xml:lang="en">ASSESSMENT OF THE REINFORCED COMPOSITE PLYWOOD STRENGTH</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ОЦЕНКА ПРОЧНОСТИ АРМИРОВАННОЙ КОМПОЗИЦИОННОЙ ФАНЕРЫ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>UGRYUMOV Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHEIN Andrey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Kostroma State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plywood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">veneers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6033</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8184</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Introduction. Composite plywood is of good performance characteristics. However, its strength characteristics are inferior to plywood for general purposes, because of weak internal layer of wood-adhesive composition. In order to harden the material, a reinforcement layer (fiberglass, for instance) should be used in the outer layers. An assessment of the strength characteristics of composite plywood with the introduction in its structure of reinforcing layers of fiberglass is of practical interest. The purpose of the work: evaluation of strength characteristics of composite plywood on the basis of veneer, reinforced with fiberglass, and an inner filling on the basis of wood-adhesive composition depending on the schemes of the assembly. Methodology for experiments conducting. The samples of reinforced composite plywood were manufactured in laboratory conditions. The tensile strength in bending was determined according to GOST 9625-87, tensile strength at separation perpendicular to the layer was determined according to GOST 10636-90. The adhesion strength at the boundary of contact with the glass was determined by the method of estimation of the adhesion strength at the margin of the veneer sheets according to GOST 27325-87 with a margin of the outer side of the veneer sheet. Experiment results. Under the action of bending efforts on composite plywood without reinforcing layers, a complex destruction from the normal stress and interlaminar shear, induced by shear stresses, takes place. In reinforced plywood the destruction of the samples, caused by a dominant normal stresses, takes place but the effects of shear stresses on the boundary layers of veneer, a reinforcing layer and a wood-adhesive composition are not observed. Destruction at separation perpendicular to the layer occurs mainly on wood-adhesive layer or at the boundary layers of the reinforcement layer and the wood-adhesive compositions with significant digs wood particles. When the adhesive margin of the outer layer of veneer, cohesive nature of destruction with the capture of veneer or wood-adhesive composition, which indicates the high strength of bonding a reinforcing layer of veneer sheets and wood-adhesive composition, is observed. Interpretation of the experiment results. Under the action of bending efforts on composite plywood, reinforced fiberglass, destruction caused by the dominant normal stresses (surface layers are not destroyed) takes place. When the adhesive margin of the surface layers of veneer on the border with a reinforcing layer, cohesive destruction of the wood-adhesive compositions, indicating a high strength at the boundaries of the phases, is mainly observed. Thus, the presence of the reinforcing layer leads to a significant strengthening of the material. Conclusion. High strength characteristics, high interfacial interaction at the interface between the veneer layers, the reinforcement layer and the wood-adhesive compositions testify to the reliability and sufficient bearing capacity of the reinforced composite plywood, which can be effectively used as a structural material in various fields.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучены прочностные характеристики композиционной фанеры на основе шпона и древесно-клеевой композиции с армированием поверхностных слоёв стеклотканью. Оценен характер разрушения армированной фанеры при изгибе и перпендикулярном отрыве, оценена адгезионная прочность по границам армированных слоёв.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/68/45</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.24/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

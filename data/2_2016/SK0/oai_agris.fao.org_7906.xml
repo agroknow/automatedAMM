@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007906">
+    <dc:title xml:lang="en">Characterization of flours made from peach palm (Bactris gasipaes Kunth) by-products as a new food ingredient</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bolanho, B. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Danesi, E. D. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Beléia, A. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Technology, Maringa State University, Avenue Ângelo Moreira da Fonseca, 1800 CEP: 87506-370, Umuarama, Paraná, Brazil. Tel: +55 44 3621 9342, fax: + 55 44 3621 9326, e-mail: beatrizbolanho@yahoo.com.br</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chemical composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">FLOURS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dietary fibres</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chemicophysical properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1794</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2988</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28386</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1521</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Flours production from unused parts of peach palm rods harvested for heart-of-palm is an alternative to add value to the canning industry. The aim of this work was to evaluate the composition, physicochemical and antioxidant properties, as well as water sorption isotherms of flours produced from median sheath (MSF) and unused stem part (SF) of peach palm. The main component of the flours was dietary fibre, especially insoluble fibre. SF had higher content of ashes (50.61 g•kg-1), proteins (98.40 g•kg-1), lipids (23.22 g•kg-1) and saccharides (157.07 g•kg-1) than MSF. There was higher carotenoid content in MSF and higher content of phenolic compounds in SF. This flour also had the highest antioxidant activity as measured by ABTS, DPPH and FRAP methods. SF standed out due to the physicochemical properties: water solubility, water absorption, swelling and viscosity. The isotherm indicated that MSF was more hygroscopic than SF for relative humidity of equilibrium lower than 50% and the contrary is valid for values higher than 50% with final moisture content of 268 g•kg-1 and 325 g•kg-1 of water, respectively.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

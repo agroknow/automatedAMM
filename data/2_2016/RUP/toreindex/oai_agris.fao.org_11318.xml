@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P11318">
+    <dc:title xml:lang="ru">ПОВЫШЕНИЕ ГЕНЕТИЧЕСКОГО ПОТЕНЦИАЛА РЕМОНТНОГО  МОЛОДНЯКА ГОЛШТИНСКОЙ ПОРОДЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INCREASING OF THE GENETIC POTENTIAL OF REPAIR YOUNG GROWTH OF HOLSTEIN BREED</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Baymishev  H.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Perfilov  A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Uhtverov  A.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Baymishev  M.H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal Husbandry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8532</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: breeding, breed, productivity, startup, fertility, insemination index, rut, childbirth</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье приведены данные репродуктивных качеств коров в зависимости от уровня их мо-лочной продуктивности. Установлено, что оптимальное соотношение молочной продуктивности и воспро-изводительной способности коров обеспечивает получение жизнеспособного приплода, характеризующе-гося повышенной энергией роста, развитием и лучшей реализацией своего генетического потенциала.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Reproductive data qualities of cows depending on the level of their dairy efficiency are provided in the article. It is established that the optimum ratio of dairy efficiency and reproductive ability of cows provides a viable litter, characterized by the increasing energy of growth, development and the best realization of their genetic potential.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_c17f1fe3d60b428e9faf26082c2e7dd6.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.№1, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

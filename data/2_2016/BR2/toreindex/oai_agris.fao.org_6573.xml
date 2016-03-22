@@ -1,0 +1,71 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206573">
+    <dc:title xml:lang="en">Gurguéia nut: a new and potential fruit crop</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Castanha do Gurguéia: uma nova e potencial frutífera</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Cavalcante Ítalo Herbert Lucena</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Osajima Josy Antevelli</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Neto Raimundo Falcão</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Silva Roberto Lustosa</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Federal University of São Francisco Valley, Petrolina, PE, Brazil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Federal University of Piauí, Campus Prof. Cinobelina Elvas, Bom Jesus, PI, Brazil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Federal University of Piauí, Campus Prof. Cinobelina Elvas, Bom Jesus, PI, Brazil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Federal University of Piauí, Campus Prof. Cinobelina Elvas, Bom Jesus, PI, Brazil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Almonds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">indigenous organisms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8734</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34268</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Still practically unknown in the world fruit market, Gurguéia nut (Dipteryx lacunifera Ducke) is leguminous fruit species native to Brazilian Mid-North region) whose almond is very appreciated by native people. Nevertheless, these species are not very well known. The aims of our work were first to
+evaluate thoroughly the literature currently available on Gurguéia nut and secondly to supplement this review by agronomic works published about it. Origin and distribution. The study includes a presentation of the origin, geographical distribution and phenotypic variability of Gurguéia nut.
+Botanical classification and taxonomy. The study includes a presentation of the botany, morphology and floral biology of Gurguéia nut. Plant propagation. The methods available for plant propagation of Gurguéia nut are focused and properly described, with examples of published manuscripts.
+Compositions and uses. The many uses of Gugrguéia nut plant parts are presented with especial consideration for its almond composition in relation to nutrients, vitamins, proteins and fatty acids, as well as the various possibilities of processing. Conclusion. Our review highlights the fact that the interest shown in Gurguéia nut is recent and, for these reasons, more detailed knowledge on these species is required (agronomic, genetic and technological).</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Ainda praticamente desconhecida no mercado de frutas do mundo, a castanha do Gurguéia (Dipteryx lacunifera Ducke) é uma espécie de fruta leguminosa nativa para a região Meio-Norte do Brasil ), cuja amêndoa é muito apreciada pelos nativos. Contudo, essa espécie não é bem conhecida. Os objetivos do nosso trabalho foram, avaliar cuidadosamente a literatura atualmente disponível sobre a castanha do Gurguéia, e complementar trabalhos agronomicos publicados
+sobre o assunto. Origem e distribuição. O estudo inclui uma apresentação da origem , distribuição geográfica e variabilidade fenotípica da castanha do Gurguéia. Classificação botânica e taxonomia. O estudo inclui uma apresentação da botânica, morfologia e biologia floral da castanha do Gurguéia. Propagação da planta. Os métodos disponíveis para a propagação da planta da castanha do Gurguéia estão focados e devidamente descritos, com exemplos de manuscritos publicados. Composições e usos. As várias utilizações da castanha do Gugrguéia são apresentados com especial consideração à sua composição de amêndoa em relação aos nutrientes, vitaminas,
+proteínas e ácidos graxos, assim como as várias possibilidades de processamento. Conclusão. Nossa
+revisão destaca o fato de que o interesse demonstrado na castanha do Gurguéia é recente e, por estas razões, o conhecimento mais detalhado sobre estas espécies é necessário (agronômica, genética e tecnológica ).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/634/296</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

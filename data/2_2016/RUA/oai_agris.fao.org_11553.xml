@@ -1,0 +1,44 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A11553">
+    <dc:title xml:lang="en">IMPROVEMENT OF MECHANICAL PURIFICATION OF SEWAGE WATER</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>УСОВЕРШЕНСТВОВАНИЕ МЕХАНИЧЕСКОЙ ОЧИСТКИ СТОЧНЫХ ВОД</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ZHURKIN Nikolay</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALIBEKOV Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">wastewater treatment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25312</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">At present there are few highly hazardous and hazardous contaminants in Yoshkar-Ola sewage waters. The effluent contains mainly moderately hazardous and low-hazardous contaminants. The mechanical methods are generally used for purification of sewage water on the territory of Mari El Republic – they are based on procedures of screening, filtering, clarification and inertial separation. Being very cheap, these methods enable to separate insoluble contaminants. Mechanical pre-treatment can greatly influence the degree of purification of sewage waters. The aim of this work is the development of design and description of operating principal of the equipment for mechanical purification of sewage water based on improvement the degree of mechanical purification of sewage water, increase of reliability and durability of the equipment of preliminary and, subsequent treatment of sewage water, energy cost reduction. The authors developed and made open gravity high capacity filter of non-agitated type. It represents the construction with stainless steel step plates. Plate filter for preliminary treatment of sewage water is installed immediately in front of mechanical dewatering equipment of treatment facilities of municipal unitary enterprise of Yoshkar-Ola. The operating principle of the step screen is filtration of sewage water using a set of step plates. The advantage of these mechanical filters is their simplicity, clog resistance, durability, low maintenance efforts, there is no need to install clarifiers or additional tanks in front of filters in treatment facilities. They can be installed in all existing sewage plants, preferably, in front of existing granular-bed filters. It increases the degree of sewage water treatment by 2–4 times and the durability of granular-bed filters, installed behind plate filters by 2–3 times. Mechanically purified sewage water flows to the next treatment stages, namely to aerotanks for further biological purification. Developed plate filter of mechanical purification of sewage water enables to intensify the mechanical treatment process. Due to the space between plates 2 mm in size, filter blade is not clogged and efficiently removes mechanical pollution from sewage water. Developed design of cranking mechanism of the drive enables to reduce energy demands, noise, labour requirement and increases reliability and durability of mechanical plate filter by 2-4 times. Mechanical plate filter enables to reduce purification duration by 20–30 %, to save materials for granular-bed filters and to lower floor space of treatment facilities.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проанализирована специфика условий работы фильтров для предвари
+тельной очистки сточных вод. Предложена новая конструкция механического ступенчатого фильтра, описан принцип его работы, преимущества и недостатки.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/98/84</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

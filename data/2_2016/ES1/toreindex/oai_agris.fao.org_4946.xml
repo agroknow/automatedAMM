@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104946">
+    <dc:title xml:lang="en">INCORPORACIÓN DE RAZAS CRIOLLAS VENEZOLANAS EN UN REBAÑO BOVINO DOBLE PROPÓSITO II. CRECIMIENTO Y REPRODUCCIÓN EN NOVILLAS</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INCORPORATION OF VENEZUELAN CREOLE BREED IN A DUAL PURPOSE CATTLE HERD. II. GROWTH AND REPRODUCTION IN HEIFERS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gómez Mayra</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ronquillo Javier</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Delgado Juan Vicente</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Chirinos Zuleima</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Faría Mármol  Jesus</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Unión Española de Ganaderos de Pura Raza Hispano</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>La Universidad del Zulia. Facultad de Agronomía. Maracaibo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>La Universidad del Zulia. Facultad de Agronomía. Maracaibo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Birth weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16115</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">On a dual-purpose cattle herd (crossbred of Brown Swiss, BS</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">or Brahman, BR) was initiated the crossbreeding program incorporating Venezuelan creole breeds (Criollo Limonero, CL and Carora, CA). The objective is to generate a composite population, and provide information of adaptation, production and reproduction in an environment of high temperature and humidity. Variables were: birth weight, weaning weight adjusted to 244 days (BW, and WW244, n=181), daily gain at weaning (DWG, n=119), age at first service (AFS, n=70) and first calving (AFC, n=53), number of services per conception (NSC, n=70). The model include breed of sire (BS), year of birth, weaning, service or calving (2009-2013), season of birth, weaning, service or calving (January-April, May-August, September-December), and as covariates number of calving (1,2,3,4,5,6 and&gt; 7) and total milk production of the mother. There were effect (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Sobre un rebaño bovino doble propósito (mestizos Pardo Suizo, PS</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Brahman, BR) de la Universidad del Zulia, Venezuela</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">se inició un programa de cruzamientos incorporando razas criollas (Criollo Limonero, CL y Carora, CA) para generar una población compuesta, y aportar información de adaptación, producción y reproducción en  ambiente de altas temperaturas y humedad. Evaluando peso al nacer y ajustado a 244 días (PN, PD244, n= 181), ganancia de peso entre nacimiento y destete (GDP, n=119), edad al primer servicio (ED1S, n=70), edad al primer parto (ED1P, n=53) y servicios por concepción (NSC, n=70). Según la variable se consideró raza del padre, año de nacimiento, destete, servicio o de parto, época de nacimiento, destete, servicio o parto,  y como covariables número de partos y producción de la madre. Utilizando  GLM del SAS®. Sólo fue significativo (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo093_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

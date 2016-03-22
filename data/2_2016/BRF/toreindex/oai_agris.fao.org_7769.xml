@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F07769">
+    <dc:title xml:lang="en">Supplementation of laying japanese quail with amylase, phytase and protease</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Suplementação de enzimas amilase</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>fitase e protease para codornas japonesas em postura</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>RIBEIRO, J. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FASSANI, E. J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MAKIYAMA, L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CLEMENTE, A. H. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">aviculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Coturnix coturnix</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">egg production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed intake</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dietary components</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Digestibility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_742</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10137</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2498</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16126</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10370</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2266</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the effects of supplementation of diets for laying Japanese quail with amylase, phytase and protease alone or in combination. Three-hundred quail were assigned to a completely randomized design consisting of five treatments and six repetitions, with 10 animals per experimental unit. The treatments were: a control diet and diets supplemented with 300 ppm amylase, 300 ppm protease and 500 phytase units (FTU)/kg and the combination of these enzymes. In the diets containing the enzymes, the nutritional requirements of one or more of the following components were reduced: protein, digestible amino acids, energy, calcium and phosphorus, giving priority to the use of enzymes. The evaluations were performed over four periods of 21 days each. Performance (mean egg production, feed intake, mean egg weight, and feed conversion), egg quality (proportion of egg constituents and specific egg weight), and dietary nutrient digestibility (apparent digestibility coefficient of dry matter and crude protein) were evaluated. There was no significant effect of the treatments on the variables analyzed (P&gt;0.05), indicating that the enzymes, alone or in combination, have beneficial effects, maintaining performance and egg quality of Japanese quail.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo deste trabalho foi avaliar os efeitos da suplementação das enzimas amilase, fitase e protease de formas isoladas e em associação, em dietas para codornas japonesas em postura. Foram utilizadas 300 codornas, distribuídas em um delineamento inteiramente ao acaso, com cinco tratamentos e seis repetições de dez aves por unidade experimental. Os tratamentos foram: uma dieta controle e dietas formuladas com a suplementação de 300 ppm de amilase, 300 ppm de protease e 500 FTU/kg de fitase e com a associação de enzimas. Nas fórmulas com inclusão de enzimas houve aplicação de redução na exigência nutricional de um ou mais dos seguintes componentes: proteína, aminoácidos digestíveis, energia, cálcio e fósforo, valorizando o uso das enzimas. As avaliações foram realizadas em quatro períodos de 21 dias cada. Foram avaliados desempenho (produção média de ovos, consumo de ração, peso médio dos ovos e conversão alimentar), qualidade dos ovos (proporção dos constituintes do ovo e peso específico dos ovos) e digestibilidade dos nutrientes da ração (coeficiente de metabolizabilidade aparente da matéria seca e da proteína bruta). Não houve efeito significativo dos tratamentos nas variáveis analisadas (P&gt;0,05), indicando que as enzimas têm efeito benéfico, isoladamente ou em associação, mantendo o desempenho e qualidade dos ovos de codornas japonesas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1435672265.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

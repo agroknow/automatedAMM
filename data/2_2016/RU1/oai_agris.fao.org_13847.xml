@@ -1,0 +1,47 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016113847">
+    <dc:title xml:lang="en">Phenotypic Traits of Arabidopsis Plants Deficient in RpoTmp RNA Polymerase</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tarasenko V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Garnik E.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Koulintchenko M.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Konstantinov Yu.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Arabidopsis thaliana</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cell culture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33292</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7178</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In Arabidopsis, three nuclear-encoded RNA polymerases participate in the transcription of organellar genes. RpoTmp is a RNA polymerase that localizes both in mitochondria and chloroplasts, but is involved predominantly in the control of gene expression in mitochondria. Insertion mutant rpotmp is characterized by a number of phenotypic and molecular-biological peculiarities including decreased activities of the mitochondrial respiratory complexes I and IV. In the present study we compared growth characteristics of the rpotmp mutant and fro1 mutant which is characterized by the absence of functional complex I. We showed that in spite of the similar molecular defects and phenotypic appearance, the investigated mutants can be distinguished by the growth rate under different photoperiod as well as by the age of leaf senescence onset. Moreover, the growth rate of suspension cell culture of the rpotmp line is extremely retarded which clearly distinguished it from the fro1 suspension cell culture. We propose that unique properties of the rpotmp mutant are associated with the decreased level of respiratory complex IV activity.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2015/N4/JSPB_2015_4_43-50.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

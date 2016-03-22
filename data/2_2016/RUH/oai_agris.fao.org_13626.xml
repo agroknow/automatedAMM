@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H13626">
+    <dc:title xml:lang="ru">ОПТИМАЛЬНОЕ СОЧЕТАНИЕ СПОСОБОВ ОБОГАЩЕНИЯ СУЛЬФИДНЫХ МЕДНО-НИКЕЛЕВЫХ РУД ТЕХНОГЕННОГО ОБЪЕКТА «ОТВАЛЫ АЛЛАРЕЧЕНСКОГО МЕСТОРОЖДЕНИЯ»</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>OPTIMAL COMBINATION OF METHODS OF ENRICHMENT OF SULFIDE COPPER-NICKEL ORES OF TECHNOGENIC OBJECT «DUMPS OF ALLARECHENSKOE DEPOSIT»</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Болтыров  В.Б.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Селезнев  С.Г.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Стороженко  Л.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Уральский государственный горный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Горнорудная компания «Монолит»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fields</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">minerals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">leaching</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2894</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4857</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15591</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18454/IRJ.2015.42.136</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">На примере техногенного месторождения «Отвалы Аллареченского месторождения» рассмотрено оптимальное
+сочетание различных способов обогащения сульфидных медно-никелевых руд: магнитной сепарации и биологического
+выщелачивания, обеспечивающих рентабельную эксплуатацию и инвестиционную привлекательность техногенных
+образований</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">On the example of man-made deposit «Heaps of Allarechenskoe field» the alternative existing schemes of the classical
+methods of extracting minerals from the rock mass pile are considered. The article proposes the method of magnetic
+separation, that wasn’t previously used for the enrichment of sulphide copper-nickel ores, it is simple and allows you to
+receive high-quality concentrate without the use of expensive equipment, and using of it determines the investment efficiency of
+field development</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/12/11-3-42.pdf#page=113</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.11-3(42)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

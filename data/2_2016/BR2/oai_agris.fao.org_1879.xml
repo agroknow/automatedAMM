@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016201879">
+    <dc:title xml:lang="en">Geoprocessing applied for determination of the subclasses soil use capacity for conservationist planning</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Geoprocessamento aplicado na determinação das subclasses de capacidade de uso do solo para o planejamento conservacionista</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Silveira Gabriel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Campos Sérgio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Garcia Yara</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Silva Hugo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Campos Mariana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nardini Rafael</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Felipe Andrea</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>UNESP-Universidade Estadual Paulista</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P36</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Genetic soil types</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3219</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This work aimed at the determination of the subclasses of capacity of soil use of the Stream São Caetano watershed – Botucatu, São Paulo, seeking the planning of practices of conservation of the soil in the area through System of Geographical Information Idrisi Selva. The study area is located among the geographical coordinates: 48o 26’ 25” W, 48o 29’ 27” W, 22o 46’ 21” S and 22o 52’ 32” S, presenting an area of 3316.95ha. The capacity chart of soil use of the basin was obtained starting from the crossing of the letters of steepness and of soils with the table of judgment of the capacity classes of soil use and of the constant recommendations in the utilitarian rising of the physical middle
+and classification of the lands in the system of use capacity. The results allowed to infer that the subclasses IIIs,e, IVs and VIe are constituted in more than 70% of the area and for almost 100% of the units of soils Latossolo Vermelho distrófico and Neossolo Eutrophico litólico. GIS-IDRISI allowed quickly through their modules the discrimination, the mapping and the quantification of the areas of the subclasses of capacity of soil use of the watershed.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Este trabalho objetivou a determinação das subclasses de capacidade de uso da terra da microbacia do Córrego São Caetano, Botucatu, São Paulo, visando o planejamento de uso e de práticas de conservação do solo na área através de Sistema de Informações Geográficas Idrisi Selva. A área de estudo localiza-se entre as coordenadas geográficas: 48º 26’ 25” W, 48º 29’ 27” W, 22º 46’ 21” S e 22º 52’ 32” S, apresentando uma área de 3316,95ha. A carta de capacidade de uso da terra da bacia foi obtida a partir do cruzamento das cartas de declividade e de solos com a tabela de julgamento das classes de capacidade de uso do solo e das recomendações constantes no levantamento utilitário do meio físico e classificação das terras no sistema de capacidade de
+uso. Os resultados permitiram inferir que as subclasses IIIs,e, IVs e VIe constituem-se em mais de 70% da área e por quase 100% das unidades de solos Latossolo Vermelho Distrófico e Neossolo Litólico eutrófico. O SIG-IDRISI permitiu através de seus módulos a discriminação, o mapeamento e a quantificação das áreas das subclasses de capacidade de uso das terras da microbacia com rapidez.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/view/223/202</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

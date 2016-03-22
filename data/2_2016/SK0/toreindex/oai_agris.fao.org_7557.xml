@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007557">
+    <dc:title xml:lang="en">Influence of soil moisture on litter invertebrate community structure of pine forests of the steppe zone of Ukraine</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Brygadyrenko Viktor V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Oles&amp;#039</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Honchar Dnipropetrovsk National University, pr. Gagarina, 72, 49010 Dnipropetrovsk, Ukraine</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biological diversity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">invertebrates</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">moisture content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pine forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33950</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3929</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4886</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25260</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">An analysis of litter invertebrate community structure of 141 pine forest ecosystems in the steppe zone of Ukraine in five moisture gradations has been carried out. The absolute number of macrofauna individuals in the pine forests of the steppe zone of Ukraine is on average 5 times lower than in the corresponding moisture conditions of deciduous forests. The average number of species and the Shannon-Weaver diversity index increases from mesoxerophilous to hygromesophilous conditions. The relative number of saprophages increases when the degree of moisture increases from mesoxerophilous through to mesohygrophilous conditions. Zoophages do not change their number with optimisation of moisture conditions</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">only the number of their species increases. The relative number of polyphages decreases as the soil humidity increases. It is possible to observe significant deviations in the size structure of pine forest macrofauna in comparison with that of steppe zone deciduous forests: the share of 4–7 mm size group increases and the number of individuals with &gt;20 mm body length decreases in most moisture gradations. In pine forest litter, Formicidae occupy the first place among dominants, in hygromesophilous and mesohygrophilous forest types Porcellionidae make up more than a quarter of macrofauna, while Lycosidae and Carabidae dominate in all moisture gradations. The results of the studies allow us to assess the importance of pine forests in the steppe zone as low for preserving biological diversity of litter macrofauna.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.41/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

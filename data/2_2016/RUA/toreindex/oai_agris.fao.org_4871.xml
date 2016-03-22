@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A04871">
+    <dc:title xml:lang="en">STANDS ECOLOGICAL AND RESOURCE POTENTIAL OF FOREST FORMING SPECIES IN THE MIDDLE VOLGA REGION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЭКОЛОГО-РЕСУРСНЫЙ ПОТЕНЦИАЛ ДРЕВОСТОЕВ ЛЕСООБРАЗУЮЩИХ ПОРОД СРЕДНЕГО ПОВОЛЖЬЯ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DEMAKOV Yuriy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ISAEV Alexander</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CHERNYKH Valeriy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>State Natural Reserve «Bolshaya Kokshaga»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crop modelling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9000024</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The goal of the research is to make a comparative assessment of parameters of potential productivity of stands of the main forest forming species in the Middle Volga region</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">development and analysis of mathematical model, allowing to compare, rationally manage and improve ecological and resource potential of forests, depending on the purposes of forest management and sites. In accordance with the printed sources and e-database of mensurational description of plantations in the Mari El Republic, a comparative assessment of potential productivity of stands of forest forming species of the Middle Volga region was carried out, trees height represents most parameters accurately and adequately. The height of trees is functionally connected with the parameters and it determines most variation of the values. Corresponding mathematical models were selected. The models allow to carry out an assessment and simulation of stands productivity with the aim to rationally manage and improve their ecological and resource potential by means of optimization of species composition, which corresponds best to the purposes of forest management and natural environment. Results. It was shown that in assessment of ecological and resource potential of stands it is desirable to operate with absolute values, not the specific ones, i.е. the values which are referred to 1 m2 of the basal area of stems, which show effectiveness of roots functioning in supply of water and nutrients to the aerial portion of a tree. It was determined that Oak groves take the 1st place in specific phytomass of stem timber and branches but they have the least specific weight of roots. Birch, Sticky Alder and Pine forests take the second place in specific phytomass of stem timber. However, a vast difference in figures is observed between the first and second place. Lime forests have the least specific phytomass of stem timber, but they surpass by far all the other stands in specific weight of roots. Fir forests have the largest specific weight of assimilatory system. Asp and Birch forests take the last place in this parameter. Conclusion. The developed mathematical models are mainly meant for simulation of ecological and resource potential of stands, but they may be used in its assessment by the data of mensurational description of plantations.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Проведена сравнительная оценка потенциальной производительности древостоев лесообразующих пород Среднего Поволжья, большинство параметров которой довольно точно и адекватно отображает высота деревьев, функционально связанная с ними и определяющая основную долю варьирования значений. Подобраны соответствующие математические модели, позволяющие проводить оценку и имитационное моделирование производительности древостоев с целью рационального использования и повышения их эколого-ресурсного потенциала путём оптимизации породного состава, наилучшим образом соответствующего целям ведения хозяйства и лесорастительным условиям.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/65/42</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.24/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

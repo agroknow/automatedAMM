@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P12628">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ НОРМЫ ВЫСЕВА НА ПРОДУКТИВНОСТЬ ГОРОХА В УСЛОВИЯХ РОСТОВСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EFFECT OF SEEDING RATE ON PRODUCTIVITY OF PEAS IN TERMS OF THE ROSTOV REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Avdeenko  А.Р.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">developmental physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25189</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25231</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: peas, Pisum sativum, seeding rates, productivity, plant protein</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приводятся результаты исследований влияния нормы высева на рост и развитие растений гороха сорта Аксайский усатый 7 в условиях Ростовской области. Установлена зависимость полевой всхожести и выживаемости растений гороха от нормы высева, проведѐн анализ динамики накопления сухого вещества растениями гороха в течение вегетационного периода, выявлено влияние нормы высева на показатели структуры и урожайность гороха. Посев гороха после ярового ячменя нормой 1,2 млн.шт/га
+способствует получению большей урожайности и выходу белка с гектара.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Results of research of influence of seeding rate on growth and development of plants pea varieties Aksai moustached 7 in terms of the Rostov region. Field dependence of germination and survival of plants of peas from seeding rate, the analysis of the dynamics of dry matter accumulation of pea plants during the growing season,
+it is revealed the impact of seeding rate on the performance of the structure and productivity of peas. Sowing peas after spring barley norm 1.2 million units/HA encourages greater productivity and output of protein per hectare</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_60fd80d1243849019f1ac86891d5fdb7.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№3, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

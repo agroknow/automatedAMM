@@ -1,0 +1,38 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102570">
+    <dc:title xml:lang="en">The Impact of Various Types of Tillage on the Soil Water Availability</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>GJONGECAJ BESNIK 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VEIZI PIRRO 2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Full Professor, PhD, Research Field: “Water in Soil-Plant-Atmosphere Continuum”,  Department of Agro-environment and Ecology, Agricultural University of Tirana, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2Ass. Professor, PhD,  Research Field: “Tillage and its effects on soil and vegetation”, Department of Plant Production, Section of Agriculture Mechanization, Agricultural University of Tirana, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">conventional tillage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34250</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present study is focused on the role that various ways of soil tillage may have on the increase of soil water availability to the plant roots. The research was carried out in Tirana, Albania, and the experiment was established in a vineyard field. The soil was cultivated in three different ways (three treatments): conventional (plowing plus surface cultivation), conservative (subsoiling plus surface cultivation), conservative (chisel plowing plus surface cultivation). In order to quantify the available soil water to plants, the pF-soil moisture curves were determined. The determined pF-soil moisture curves belong to two layers: 0-25 cm and 25-50 cm, taken into consideration for each treatment. The soil water content between the field capacity (FWC) and the permanent wilting point (PWP) was considered as potentially available to plant roots. The results showed clearly that the way the tillage was applied has a significant effect on soil water capacity potentially available to plant roots. Loosening the soil by breaking up the impermeable layers, the conservative tillage makes possible the increase of the amount of water held by soil particles in the range between FWC and PWP, in comparison with the conventional tillage. This increase of available soil water capacity is due to the soil loosening in deeper layers of soil profile as well, which leads to the situation where the plant roots can penetrate deeper and occupy more space, consequently, drawing more water to meet their needs. Within the conservative tillage versions, sub soiling seems to be more effective in the increase of available soil water capacity comparing with the chisel plowing. The study contributes, as well, to the determination of the pF-soil moisture curves in a way that is theoretically well based. The founded curves fit with the exponential form of functions and the coefficients of determinations, for each case under study, are significant in high probability levels.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4OjIyOTI3ODc3NzM1YTk4ZmM</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

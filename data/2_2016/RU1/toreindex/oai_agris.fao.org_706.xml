@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100706">
+    <dc:title xml:lang="en">Does Glycine Betaine and Salicylic Acid Ameliorate the Negative Effect of Drought on Wheat by Regulating Osmotic Adjustment through Solutes Accumulation?</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Aldesuquy Heshmat S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abbas Mohmed A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abo-Hamed S.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Elhakem Abeer H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drought</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A  pot  experiment was  conducted to evaluate  the  beneficial  effect of  foliar application of glycine betaine (10mM), grain presoaking in salicylic acid (0.05 M) and their interaction on drought  tolerance  of  two  wheat  (Triticum  aestivum L.)  cultivars  (sensitive,  Sakha  94  and resistant, Sakha 93). Osmotic pressure, some osmolytes concentration and grain yield were determined.  Water  stress  caused  an  increase  in  osmotic  pressure,  proline,  total  soluble nitrogen, total soluble sugars, organic acids, ions (Na+, K+, Ca+2, Mg+2 and Cl-) content as well as Na+/K+ ratio in cell sap flag leaves of both wheat cultivars. The resistant variety had higher values of osmotic pressure, proline, organic acids and ions content than the sensitive one. On the other hand, water stress induced marked decrease (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N3/JSPB_2013_3_05-22.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

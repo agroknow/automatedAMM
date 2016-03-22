@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01840">
+    <dc:title xml:lang="en">Favorable and unfavorable points, pportunities and threats to sheep production in the state of São Paulo</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Pontos fracos e fortes</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>oportunidades e ameaças para a ovinocultura no Estado de São Paulo</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SOUZA,  Francisco A. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LOPES, Marco A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DEMEU, Fabiana A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2009-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agroindustrial sector</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sheep</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Productivity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_208</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331371</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6210</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Nota Científica</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this work was to identify the strong points, weak points, opportunities and the threats of Sao Paulo's sheep production and from this knowledge, to propose short, medium and long term strategies in order that it establishes adequately in the Sao Paulo agribusiness. A qualitative, semi-structured questionnaire containing five questions was utilized, applied in April of 2005. The answers of 48 questionnaires answered by three retail dealers, three raisers, 14 raising technicians (agronomists, veterinary physicians, animal scientists) and 28 technicians (agronomists, veterinary physicians, animal scientists) acting in the area of sheep production were analyzed. As to the strong points, weak points, threats and opportunities and challenges to the establishment of Sao Paulo sheep production, the results showed that there is a lack of coordination among links of the productive chain. The sectorial camera of the sheep production from Sao Paulo should take the responsibility of the coordination and to arbitrate, when is needed, all the links of the ovine chain production.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo desta pesquisa foi identificar os pontos fortes, os pontos fracos, as oportunidades e as ameaças da ovinocultura paulista e, a partir destes conhecimentos, proporem estratégias de curto, médio e longo prazo, a fim de que ela se estabeleça no agronegócio paulista. Utilizou-se um questionário qualitativo semiestruturado contendo cinco questões, aplicados em abril de 2005. Foram analisadas as respostas de 48 questionários respondidos por três varejistas, três produtores, 14 técnicos criadores (agrônomos, médicos veterinários e zootecnistas) e 28 técnicos (agrônomos, médicos veterinários e zootecnistas) atuantes na área da ovinocultura. A análise dos pontos fortes e fracos, das ameaças, oportunidades e desafios para o estabelecimento da ovinocultura paulista, mostrou haver falta de coordenação entre os elos da cadeia produtiva. A câmara setorial da ovinocultura paulista deve chamar para si a responsabilidade de coordenar e arbitrar, quando houver necessidade, todos os elos da cadeia produtiva.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1277308647.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.66/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

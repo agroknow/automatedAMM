@@ -1,0 +1,34 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100178">
+    <dc:title xml:lang="en">HVP10 (V-PPase), A CANDIDATE GENE FOR HvNax3 CONTROLLING SODIUM EXCLUSION AND SALINITY TOLERANCE IN BARLEY: MAPPING, SEQUENCE ANALYSIS AND GENE EXPRESSION</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Shavrukov Yuri</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Salinity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Barley</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6751</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_823</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Salinity is a major abiotic stress limiting the production of agricultural plants in Australia and in other countries across the world. Wild relatives of cultivated barley have wider diversity in tolerance to salinity. We previously reported the identification of a major QTL for sodium exclusion (HvNax3) on chromosome 7HS, in a barley mapping population originating from a cross between the Australian feed barley Barque-73 and a Hordeum spontaneum accession, CPI-71284. Initial analysis of an AB-QTL population and F2 recombinants reduced the interval containing HvNax3 from 15.0 cM to 1.3 cM. For fine mapping of this region, four F3 progenies (60-100 individuals in each) with different recombination events were genotyped with various CAPS markers and phenotyped for sodium exclusion. The interval was further reduced to 0.4 cM, limiting the number of candidate genes based on rice-barley synteny to five, with the most promising candidate encoding a vacuolar pyrophosphatase proton pump, V-PPase (HVP10 gene). The protein  by this gene has been shown to be responsible for establishing an electrochemical gradient across the tonoplast that allows other transporters such as Na+/H+ antiporters to transport sodium into the vacuole, thereby reducing toxic effects of excess Na+ in the cytosol. BLAST analysis of sequences of the complete HVP10 gene from both parents indicated the presence of eight exons and seven introns, with an open reading frame of 4,356 bp. The eight exons were well-conserved with only seven SNPs in the coding regions identified between the two parents but none of the SNPs altered the amino-acid sequence. The differences in Na+ accumulation between the two parents is, therefore, not related to the coding sequence of the HVP10 gene. However, Q-PCR experiments showed that expression of the gene in shoots and in roots of CPI-71284 was two-fold and 24%, respectively, higher than in Barque-73 on the third day following exposure to salt stress. The HVP10 gene may be related to differences in the promoter region. To clone the promoter of the HVP10, a barley BAC clone library (cv. Morex) was screened using the HVP10-specific primers to identify positive clones. Sequencing of one positive BAC clone (0262-H05) has allowed primers to be designed approximately 2 – 2.5 kb upstream of the start codon of the HVP10, so that the promoter from both Barque-73 and CPI-71284 can be isolated. In combining these data, we expect to obtain a complete picture of the sequence and functional differences in the HVP10 gene between the two parents, lines from AB-QTL population and in the segregating progenies in the response to salt stress. This will help us to better understand the sequence structure and role of the favourable allele of the HVP10 gene originating from wild barley, H. spontaneum, with an introgression of the gene into commercial cultivated barley for improvement of salinity tolerance.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S4.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

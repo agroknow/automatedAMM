@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104936">
+    <dc:title xml:lang="es">ESTANDARIZACIÓN DE LA TÉCNICA DE PRODUCCIÓN DE GAS IN VITRO CON HECES CAPRINAS EN LA DEGRADACIÓN DE MATERIA SECA EN FORRAJES TROPICALES</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STANDARDIZATION OF THE IN VITRO GAS PRODUCTION TECHNIQUE WITH GOAT FECES IN THE DRY MATTER DEGRADABILITY IN TROPICAL FORAGES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vargas Javier</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Martínez Daniel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Morales  Estefania</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Melgarejo Lina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Estudiante Maestría en Ciencias en Producción Agropecuaria Tropical</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Grupo de investigación en Ciencias Animales, Facultad Medicina Veterinaria y Zootecnia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Estudiantes Medicina Veterinaria y Zootecnia. Grupo de investigación en Ciencias Animales, Facultad Medicina Veterinaria y Zootecnia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Estudiantes Medicina Veterinaria y Zootecnia. Grupo de investigación en Ciencias Animales, Facultad Medicina Veterinaria y Zootecnia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">evaluation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49892</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2736</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It was standardized an In Vitro gas production technique using goat feces, to evaluate the dry matter digestibility of American native forages. Metabolic cages housed two adult male goats, fed ad libitum during 72 hours with every one of the forages. At the end of the 72 hours, feces were collected during 4 hours, and they were mixed with buffer solution in dilution 3:1 or 5:1, constituting inoculum deposed in 125 ml glass flasks containing 1 or 0.5 g of dried and milled forage at 1 mm, with 25, 50 or 75 ml of inoculum, under CO2 atmosphere. Flasks were incubated at 39° C in forced ventilation oven, recording the gas volume produced during 72 hours. Dilution 3:1 produced greater gas production than 5:1 dilution. One gram of substrate produced more gas than 0.5 g. Zanthoxylum microcarpum produced the greatest amount of gas, followed by Bursera simaruba. Gliricidia sepium produced the least gas production. The technique showed a great possibility to make nutritional evaluation of American native forages, given the flexibility and low cost.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Se estandarizo la técnica de producción de gas In Vitro usando heces caprinas, para evaluar la digestibilidad de la materia seca de forrajes nativos americanos. Dos caprinos machos adultos de la raza Santandereana fueron alojados en jaulas metabólicas y alimentados a libre disposición en períodos de 72 horas con cada forraje. Al final de las 72 horas, las heces fueron colectadas durante un período de 4 horas, y fueron mezcladas con buffer solución en proporción 3:1 o 5:1, para constituir inóculos, depositados en frascos de 125 ml con forraje desecado y molido a 1 mm, con 25, 50 y 75 ml de inóculo, bajo una atmosfera de CO2. Los frascos fueron incubados a 39°C en horno de ventilación forzada, y se registró el volumen de gas producido durante 72 horas. La dilución 3:1 produjo más gas que la dilución 5:1. Zanthoxylum microcarpum produjo más gas, y el que menos produjo fue Gliricidia sepium. La técnica muestra una gran posibilidad para hacer evaluación nutricional de forrajes nativos americanos, con gran flexibilidad y bajo costo.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo086_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

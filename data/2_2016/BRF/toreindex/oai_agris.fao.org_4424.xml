@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F04424">
+    <dc:title xml:lang="en">Productive and reproductive performance of crossbred Holstein x Gir cows</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Avaliação de desempenho produtivo e reprodutivo de animais mestiços do cruzamento Holandês x Gir</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BALANCIN JÚNIOR, A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PRATA, M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOREIRA,  E. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VERCESI FILHO,  A. E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CARDOSO,  V. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FARO,  L. E</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dairy cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lactation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">breeding methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Reproductive performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4140</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1079</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study aimed to evaluate the productive and reproductive performance of Holtein-Frisian x Gir crossbred cows. The traits evaluated were: milk production up to 305 days (P305), total milk production (PTL), production per day of calving interval (PIP), age at first calving (IPP), calving interval (IDP), service period (PS) and gestation length (PG), which were analyzed using mixed linear models. The Incomplete gamma function was used to estimate the parameters of lactation curves for each genetic group. The animals of genetic groups (GG) 3/4H, 7/8H and pure by crosses (PC) achieved higher performances for productive traits, and animals from the GG 1/2H achieved better performance for reproductive traits. The Holstein-Frisian PC animals presented the lactation curves with higher production levels and higher productions at the peak of the lactation but with less persistence. The 1/2H animals had slightly lower persistence in comparison to genetic groups 3/4H and 7/8H. Milk production in function of gestation length varied according to each group and Holstein-Frisian (PC) presented greater decrease in milk yield after conception.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Este estudo teve como objetivo avaliar o desempenho produtivo e reprodutivo de fêmeas mestiças do cruzamento Holandês x Gir. As características avaliadas foram: produção de leite acumulada até 305 dias (P305), produção total de leite (PTL), produção por dia de intervalo de partos (PIP), idade ao primeiro parto (IPP), intervalo de partos (IDP), período de serviço (PS) e período de gestação (PG), que foram analisadas utilizando-se modelos lineares mistos. A função Gama Incompleta foi utilizada para estimação dos parâmetros das curvas de lactação para cada composição racial. Os animais dos grupos genéticos (GG) 3/4H, 7/8H e puros por cruza (PC) obtiveram melhores desempenhos para as características produtivas, e os animais do GG 1/2H obtiveram melhor desempenho para as características reprodutivas. Os animais PC Holandês apresentaram as curvas com maiores níveis de produção e maiores produções no pico da lactação, mas em contrapartida menores persistências. Os animais 1/2H apresentaram persistência um pouco inferior aos GG 3/4H e 7/8H. A produção de leite no decorrer da lactação em função do período de gestação variou de acordo com cada GG, sendo que o grupo PC apresentou queda mais acentuada na produção após a concepção.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://iz.sp.gov.br/pdfsbia/1418317198.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016104754">
+    <dc:title xml:lang="en">Socio-Economic Factors Influencing Broiler Marketing in Benin City Metropolis, Edo State, Nigeria</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PETER A. EKUNWE</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FIONA O.  OGBEIDE</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Agricultural Economics and Extension Services, Faculty of Agriculture and Agricultural Technology, Benson Idahosa University, Benin City, Nigeria.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Broiler chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">marketing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nigeria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4620</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5182</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study examined the socio-economic factors influencing broiler marketing in Benin City metropolis, Edo State, Nigeria. Purpose sampling of the three major markets (Oba, Oliha and New Benin markets) in the study area was carried out. Twenty broiler marketers were randomly selected from each of three markets from the sampling frame, making a total of 60 marketers. Questionnaire were administered and scheduled interview conducted to collect all the relevant information from the respondents. Analytical techniques used were percentages, frequency counts, gross margin,profitability and multiple regression analysis. The results of the data analysis showed that majority (93%) of the broiler marketers werefemale. The average age of the respondents was 42 years and the mean number of schooling years of the respondents was 8 years. The mean marketing margin per week was N350 ($2.17) while the mean gross margin per week was N5, 150 ($32). However, the average net returns per week for the entire markets were N4, 600 ($28.6). The result of the multiple regression analysis showed that the semi-log model gave the best fit with an adjusted R2 of 0.857 (85.7%) and a F-ratio of 70.245. The age of broiler marketers, level of education and marketers income had positive coefficients. Thus, increase in these variables will increase the number of broilers handled per purchase. Major problems faced were loss of weight of broilers and mortality of broilers. Finance and processing were minor constraints faced by the marketer. The study recommended adequate feeding of broilers to maintain market weight, proper weighing of broiler chicken during sales, increase awareness about the need to purchase live broilers instead of frozen chicken and encouraging marketers into backward integration to increase profitability of the business. These recommendations would help to develop the poultry industry and increase marketing efficiency.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_2014/15b_Peter_AJAS-Formated%202014%20pp%2078-82.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

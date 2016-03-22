@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13121">
+    <dc:title xml:lang="en">Α2-MACROGLOBULIN – KEY PATHOGENETIC LINK WHEN MAMMARY TUMORS IN DOGS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Α2-МАКРОГЛОБУЛИНЫ – КЛЮЧЕВОЕ ПАТОГЕНЕТИЧЕСКОЕ ЗВЕНО ПРИ ОПУХОЛЯХ МОЛОЧНОЙ ЖЕЛЕЗЫ У СОБАК</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bely D.D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Dnepropetrovsk state agrarian and economical University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dogs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mammary glands</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">neoplasms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Enzyme inhibitors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2352</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4562</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5122</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2599</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The active involvement of the hemostatic system in the pathogenetic mechanisms of carcinogenesis in the background of the lack of knowledge of this issue in veterinary medicine is the basis for research in this direction. The results indicate pronounced changes in the level of α2-macroglobulin in dogs with neoplastic lesions of the mammary gland when compared to the concentration of this marker with clinically healthy animals. It is established that the increase in the contents of the specified protein was recorded with a malignant process in 62,5%, benign - 42,11 % of patients on the background of no change respectively in 6,25 and 26,31 % of cases. It is established that the average level of α2-macroglobulin in dogs is, respectively, 2,94±0,57/2,53±0,57 g/l and 0.91±0,32 g/l/0,83±0.31 g/l. Taking into account the importance of dynamic changes, we can say that the concentration of this protein in the preoperative period reflects the extent of damage and malignancy of breast cancer tumors in dogs and allows it to be used as a prognostic factor and in combination with other indicators of hemostatic status – for early diagnosis of neoplastic lesions.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Активное участие системы гемостаза в патогенетических механизмах онкогенеза на фоне недостаточной изученности данного вопроса  в ветеринарной медицине является основанием для проведения исследований в этом направлении. Полученные результаты указывают на выраженные изменения уровня α2-макроглобулина у собак с опухолевыми поражениями молочной железы при сравнении концентрации данного маркера с клинически здоровыми животными. Установлено, что увеличение содержания указанного белка регистрировали при злокачественном течение процесса в 62,5 %, доброкачественном  - 42,11 % пациентов на фоне отсутствия изменений соответственно у 6,25 и 26,31 % случаев. Установлено, что средний уровень α2-макроглобулина у собак  составлял соответственно 2,94±0,57/2,53±0,57 г/л и 0,91±0,32 г/л/0,83±0,31 г/л. Принимая во внимание важность динамических изменений, можно говорить о том, что концентрация данного белка в предоперационный период отражает степень повреждения и злокачественности новообразований молочной железы у собак и позволяет использовать его в качестве прогностического фактора, а также в комплексе с другими показателями гемостазиологического статусу – с целью ранней диагностики неопластических поражений.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/3-15-Bely.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

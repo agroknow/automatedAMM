@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100805">
+    <dc:title xml:lang="en">Changes of body mass and thermogenesis in Apodemus chevrieri during cold exposure and rewarming</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zhu Wan-long</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zheng Jia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zhang Di</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zhang Lin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Wang Zheng-kun</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Environmental cues, such as temperature, play important roles in the regulation of physiology and behavior in small mammals. The aim of the present study was to test the hypothesis that ambient temperature was a cue to induce adjustments in body mass and thermogenic capacity in Apodemus chevrieri. It showed that A. chevrieri increased resting metabolic rate (RMR), nonshivering thermogenesis (NST) and energy intake and decreased body mass and body temperature when exposed to the cold while showed a significant increase in body mass and body temperature after rewarming. The decrease of body temperature can reduce the difference in temperature in environment, save energy consumption. The increase in body mass after rewarming was associated with the higher energy intake. Together, these data supported our hypothesis that ambient temperature was a cue to induce changes in body mass and metabolism in A. chevrieri.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N3/JSPB_2013_3_272-281.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

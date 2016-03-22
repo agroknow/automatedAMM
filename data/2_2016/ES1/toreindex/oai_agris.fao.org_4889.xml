@@ -1,0 +1,97 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104889">
+    <dc:title xml:lang="es">FACTORES GENÉTICOS Y AMBIENTALES QUE AFECTAN LOS PARÁMETROS ANDROLÓGICOS EN TOROS CEBÚ Y F1 EN UN HATO DE CRÍA</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>GENETIC AND ENVIRONMENTAL FACTORS AFFECTING ANDROLOGICAL PARAMETERS IN BULLS F1 IN A BREEDING HERD.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Carreño Arcesio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aguirre Duver</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Colmenares Jamil</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sarmiento Yeferzon</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Cooperativa de Colombia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Cooperativa de Colombia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Cooperativa de Colombia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Cooperativa de Colombia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spermatozoa</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7287</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the present research information from a breeding herd was analyzed flooded savanna. The data corresponded to 111 bulls andrological records (98 Brahman and 13 Brahman by Holstein F1) born during the years 2006 to 2011. It was considered the scrotal circumference (SC) andrological variable, and seminal variables: ejaculate´s volume (EV), pH of the ejaculate (PH), gross motility (GM), sperm´s concentration (SPC) and abnormalities (AN). The bull´s racial group (RG) was taken into account as a genetic factor, while the age of the bull (AB) as an environmental factor. Data were analyzed by the procedures Generalized Linear Model (GLM) following the least squares methodology. The estimated average SC, EV, PH, SPC and GM was 33.34 (cm)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">4.16 (ml)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7.92 (PH)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">227861 (mill / ml) and 3.43 (0 to 5) for Brahman bulls. While, the estimate for F1 bulls mean was 32.52 (cm)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2.23 (ml)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7.15 (PH)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">191726 (mill / ml) and 2.23 (0 to 5) respectively. The AB and RG had significant effects on the andrological parameters SC, EV and GM (p  0.05). The ANs were affected by the AB (p  0.05). The following study concluded that environmental factors, age of the bull, and genetic breed bull influenced SC, EV and GM in Brahman bulls and Holstein by Brahman F1</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">in addition, the AB should be considered as the main parameter to select bulls for their andrological values.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">La evaluación andrológica de los toros toma gran importancia en los programas reproductivos, ya que el toro representa el 50% del hato.  En la presente investigación se analizó la información de un hato de cría en sabana inundable, con un sistema de monta estacional durante los cuatro primeros meses del año. Los datos correspondieron a los registros andrológicos de 111 toros (98 Brahman y 13 F1 Holstein x Brahmán) nacidos durante los años 2006 a 2011. La estimulación del toro se realizó con electro eyaculador y para la colecta de semen se utilizó vagina artificial. Se consideró la variable andrológica circunferencia escrotal (CE), y las variables seminales: volumen del eyaculado (VE), pH del eyaculado (PH), motilidad masal (MM), concentración espermática (CES) y anormalidades (AN). El grupo racial (GR) del toro se contempló como factor genético, mientras que la edad del toro (ET) como factor ambiental. Los datos se analizaron por los procedimientos lineales generalizados (GLM) siguiendo la metodología de mínimos cuadrados y se efectúo la prueba Duncan cuando los datos difirieron estadísticamente. La media estimada para CE, VE, PH, CES y MM fue de 33,34 (cm)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4,16 (ml)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7,92 (PH)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">227861 (mill/ml) y 3,43 (de 0 a 5) para los toros Brahman. La media estimada para los toros F1 fue de 32,52 (cm)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2,23 (ml)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7,15 (PH)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">191726 (mill/ml) y 2,23(de 0 a 5) respectivamente. La ET y GR tuvieron efectos significativos sobre los parámetros andrológicos CE, VE y  MM (p0.05). Las AN se vieron afectadas por la ET (p0.05). En el siguiente estudio se concluye que los factores ambientales, edad del toro, y genéticos, raza del toro  influyeron sobre CE, VE y MM en toros Brahmán y F1 Holstein x Brahman</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">además, la ET se debe considerar como el principal parámetro al seleccionar toros por sus valores andrológicos.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo042_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,53 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08465">
+    <dc:title xml:lang="ru">ПРОБЛЕМЫ СОЗДАНИЯ ЭФФЕКТИВНОЙ СИСТЕМЫ ГОСУДАРСТВЕННОГО РЕГУЛИРОВАНИЯ ЛИЗИНГА И ПУТИ ИХ РЕШЕНИЯ В АПК РФ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PROBLEMS IN CREATING AN EFFECTIVE SYSTEM OF STATE REGULATION OF LEASING AND SOLUTIONS IN THE AGRO-INDUSTRIAL COMPLEX OF RUSSIA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>КЛИМИН А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Марийский государственный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2481</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331049</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Главная цель работы заключается в выработке предложений и рекомендаций совершенствования организационных, нормативно-правовых и экономических механизмов государственного регулирования и развития лизинга. В соответствии с поставленной целью определены следующие задачи: определить сущность проблем применения лизинговых форм инвестирования сельскохозяйственной деятельности</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">установить причины недостаточного масштаба лизинговой деятельности</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">разработать основы и рекомендации совершенствования государственной политики, направленной на развитие лизинговой деятельности в АПК.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">The main objective of the work is to develop proposals and recommendations to improve the organizational, legal and economic mechanisms of state regulation and the development of leasing. In accordance with the intended purpose of the following objectives: to determine the nature of the problems of application forms of investment leasing of agricultural activities, to establish the causes of insufficient scale leasing activities and to develop the framework and recommendations to improve public policies aimed at the development of leasing activity in the agro-industrial complex.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/10/9-2-16.pdf#page=31</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.9 (16)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

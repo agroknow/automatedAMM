@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A01529">
+    <dc:title xml:lang="en">FORMING OF EXPERIMENTAL SITES FOR STANIONARY RESEARCHES OF FOREST REGENERATION PROCESSES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ФОРМИРОВАНИЕ БАЗЫ ОБЪЕКТОВ СТАЦИОНАРНЫХ ИССЛЕДОВАНИЙ ЛЕСОВОССТАНОВИТЕЛЬНЫХ ПРОЦЕССОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>RODIN Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PROKAZIN Nikolay</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Russian Research Institute for Silviculture and Mechanization</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reforestation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13802</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In 1960-2000 Russian Research Institute for Silviculture and Mechanization of Forestry and its subsidiaries in collaboration with forestries established experimental sites for constant research and development operations. The Institute applied the findings to develop forest regeneration recommendations on the zonal and typology basis. Nowadays due to the problems with timely silvicultural operations, there is a risk to lose these sites. The goal of the operations was inventory and certification of experimental sites, determination of the follow-up silvicultural operations, assessment of the findings and opportunities to use them to establish research database and to demonstrate research results on-site in the long run. Description of 44 high productivity softwood and hardwood stands (15-60 years) that have research and practical value has been prepared. Young spruce plantations established under efficient technologies with growing stock amounting to 300 м3/hа have been identified. Research and experimental programs for all the sites have been elaborated.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проведена инвентаризация и паспортизация опытных объектов лесовосстановления. Подготовлено описание 44-х высокопродуктивных насаждений хвойных и лиственных пород в возрасте 15–60 лет, которые имеют научную и практическую значимость. Выявлены молодняки ели искусственного происхождения, созданные по эффективным технологиям, достигающие запаса 300 м3/га. Для всех объектов разработаны программы продолжения научно-исследовательских и опытно-производственных работ.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/111/97</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.20/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

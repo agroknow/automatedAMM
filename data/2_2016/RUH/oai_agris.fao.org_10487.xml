@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10487">
+    <dc:title xml:lang="ru">ИССЛЕДОВАНИЯ ЗАВИСИМОСТИ РАВНОВЕСНОЙ ВЛАЖНОСТИ ОТ ПРОДУВАЕМОГО ВОЗДУХА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STUDY OF THE DEPENDENCE OF THE EQUILIBRIUM HUMIDITY OF THE BLOWN AIR.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Тюрин И.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ФГБОУ ВПО «Саратовский государственный аграрный университет им. Н.И. Вавилова»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F06</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">humidity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drying</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3689</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2402</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Технологический процесс сушки должен опираться на закономерности отдачи влаги срезанными растениями и
+изменения качества высушиваемой массы на отдельных этапах сушки в зависимости от свойств самих растений и
+способов их сушки. Знание этих закономерностей позволяет выбрать наилучший режим сушки, а также
+технологические средства применительно к различным климатическим условиям, различным видам трав.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Drying process must be based on impact patterns moisture cut plants and changes in the quality of the dried mass at
+different stages, depending on the drying properties of the plants and methods of drying. Knowledge of these laws allows you
+to choose the best mode of drying, as well as technological tools for different weather conditions, different types of herbs</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/7-2-38.pdf#page=131</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.2 (38)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

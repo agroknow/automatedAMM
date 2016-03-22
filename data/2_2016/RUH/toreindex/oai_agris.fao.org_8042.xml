@@ -1,0 +1,59 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08042">
+    <dc:title xml:lang="ru">ЛИПИДНЫЙ СПЕКТР ЭРИТРОЦИТОВ ПРИ ОТДЕЛЬНЫХ ГЕМАТОЛОГИЧЕСКИХ ЗАБОЛЕВАНИЯХ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>LIPID PROFILE OF ERYTHROCYTES IN SOME HEMATOLOGICAL DISEASES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Коношенко С.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Тюфикова Э.Р.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Таврический национальный университет им. В.И. Вернадского</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lipids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anemia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4362</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_380</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Показано, что липидный спектр гемолизатов эритроцитов практически здоровых людей, а также больных эритремией и
+апластической анемией представлен: фосфолипидами, неидентифицированными липидами, холестеролом, моноглицеридами,
+диглицеридами, свободными высшими жирными кислотами, триглицеридами и стеридами.
+По сравнению с контрольной группой в эритроцитах больных эритремией и апластической анемией наблюдалось более низкое
+количественное содержание всех идентифицированных липидных фракций.
+Полученные данные могут быть использованы в клинической практике</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It has been shown that the lipid profile of hemolysates of erythrocytes of practically healthy people, as well as of patients with
+erythremia and aplastic anemia contains: phospholipids, unidentified lipids, cholesterol, monoglycerides, diglycerides, free higher fatty
+acids, triglycerides and steroids.
+Compared with the control group in erythrocytes of patients with erythremia and with aplactic anemia, lower quantitative components
+of all identified lipid fractions were observed. The data obtained can be used in clinical practice.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/06/5-12-1.pdf#page=52</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.5 (12)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

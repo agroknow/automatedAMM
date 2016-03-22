@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P11101">
+    <dc:title xml:lang="ru">ЗНАЧЕНИЕ КАЧЕСТВА БЕЛКА В ЗЕРНЕ ПЩЕНИЦЫ ПРИ ОЦЕНКЕ ТЕХНОЛОГИЧЕСКИХ СВОЙСТВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>IMPORTANCE OF PROTEIN QUALITY IN WHEAT GRAIN UNDER TECHNOLOGICAL  FEATURES EVALUATION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Huseynov  S.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">development plans</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25189</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2227</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: grade, soft wheat, protein, grain quality, productivity</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью проделанной работы являлось сравнительное изучение физиолого-биохимических особенностей формирования качества зерна пшеницы, выращенных в различных почвенно-климатических условиях Азербайджана, и в связи с этим, выяснение возможности использования этих данных в селекционном процессе. Были засеяны разные сорта мягкой и твердой пшеницы, взятые из Международного се-лекционного центра СИММИТ и ИКАРДА и выбранные из местного генофонда. Исследована устойчивость к засухе, болезням, вредителям, а также качество зерна и урожайность взятых сортов.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the work was the comparing studing of physiological and biochemical characteristics of wheat grains quality formation grown in different soil and climatic conditions of Azerbaijan and, in this connection clarification of the using possibility these characteristics in the selection process. Different grades of soft and durum wheat taken from the International selection center of CIMMYT and ICARDA and chosen from a local gene pool were sowed. Resistance to drought, diseases, wreckers, also grain quality and productivity of the taken grades are investigated.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_ec0c27850b29472582032eae8b8a7134.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№2, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

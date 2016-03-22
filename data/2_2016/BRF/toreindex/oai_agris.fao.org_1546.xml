@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01546">
+    <dc:title xml:lang="en">Survey on the chief difficulties found by government accredited certifiers for implementation of catlle traceability</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Levantamento das dificuldades encontradas pelas certificadoras na implantação da rastreabilidade bovina no Brasil</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LOPES, M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERRAZZA,  R. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DEMEU,  A. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRUHN, F. R. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2010-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">foods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">safety</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">traceability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beef cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3032</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6732</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_92367</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The main purpose of this research was to survey the chief fifficulties found by MAPA in the implementation of traceability, also aiming to elaborate indicators, suggest proposals to solve such difficulties and contribute for the formulation of national policies. A semi-structured qualitative questionnaire, containing multiple choice questions, both open and mixed, was used. That questionnaire was sent to the certifying firms accredited by MAPA. The data obtained were tabulated by utilizing the EpiData® 3.1 software, with automatic control of range and consistency of data and afterward, analyzed by means of means of descriptive statistics, making use of the statistical software SPSS for Windows®- version 17.0. The frequent changes in the norms of new SISBOV, the disinterest and the lack of awareness of the cattle raisers for traceability were the main difficulties faced by the certifiers. Transformations on the part of MAPA summed to the mobilization of the raisers through the spread and explanations are needed to solve such difficulties. The need for adequacies inherent to incoherence and outdating of the data bank of the certifiers accredited in MAPA is stressed further.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Esta pesquisa teve como objetivo realizar o levantamento das principais dificuldades encontradas pelas certificadoras credenciadas pelo Ministério da Agricultura Pecuária e Abastecimento (MAPA) na implantação da rastreabilidade, visando elaborar indicadores, sugerir propostas para sanar tais dificuldades e contribuir na formulação de políticas nacionais. Foi formulado um questionário qualitativo semi-estruturado, contendo vinte e seis questões de múltipla escolha, abertas e mistas. Este questionário foi enviado às empresas certificadoras credenciadas pelo MAPA. Os dados obtidos foram tabulados utilizando-se o programa EpiData® 3.1, com controle automático de amplitude e consistência de dados, e, posteriormente, analisados por meio de estatísticas descritivas, utilizando-se o programa estatístico SPSS for Windows®- versão 17.0. As mudanças frequentes nas normas do SISBOV, o desinteresse e a falta de conscientização dos pecuaristas para a rastreabilidade foram as principais dificuldades enfrentadas pelas certificadoras. Transformações por parte do MAPA, somadas a mobilização dos pecuaristas através de divulgação e esclarecimentos são necessários para sanar tais dificuldades. Ressalta-se ainda, a necessidade de adequações inerentes à incoerência e desatualização do banco de dados das certificadoras credenciadas no MAPA.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1302292905.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.67/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104913">
+    <dc:title xml:lang="es">PERFIL DA CAPRINOCULTURA DE SUBSISTÊNCIA E QUALIDADE DE VIDA DO PEQUENO CRIADOR NO MUNICÍPIO DE SUMÉ-PB</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE GOAT RAISING PROFILE OF SUBSISTENCE AND LIFE QUALITY OF THE SMALL CREATOR IN THE MUNICIPALITY FROM SUMÉ-PB</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Silva Ana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Alves  Admir</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>De Lima Paulo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Soares Filho  Paulo Henrique</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Fedral de Campina Grande</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Fedral de Campina Grande</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Fedral de Campina Grande</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Fedral de Campina Grande</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this work was to survey the profile of goat raising of subsistence and quality of life of the creator of small properties of the Municipality of Sumé, state of Paraíba. Data were collected through individual interviews in each property, using a questionnaire twenty-Seven Questions. The choice of properties was made with the help of company technical assistance and rural extension of Paraíba. Were analyzed Age, sex, marital status, education level, family income, general management, with emphasis on health with both indicative of worms that kill goats the following socioeconomic factors. The producers are characterized for being family-based practices with rustic and handmade, little guidance and zootechnical properties averaged 40 hectares, ranking small producer with its various creations such as: goats for meat and milk, pork, chicken, duck, beef and ass for the fieldwork, all for subsistence. As a result of this research, we identified that the small farmer today has a better quality of life which comes from support from the state and federal government through the family purse and some credit facilities that ensures rearing animals production.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">O objetivo do presente trabalho foi fazer um levantamento do perfil da caprinocultura de subsistência e da qualidade de vida do pequeno criador das propriedades do Município de Sumé, estado da Paraíba. Dados foram coletados através de entrevista individual em cada propriedade, utilizando um questionário com vinte e sete perguntas. A escolha das propriedades foi feita com a ajuda da empresa de assistência técnica e extensão rural da Paraíba. Foram analisados os seguintes aspectos socioeconômicos: idade, sexo, estado civil, grau de escolaridade, renda familiar, manejo geral, com ênfase na sanidade com os indicativos de verminose que tanto matam os caprinos. Os produtores se caracterizam por ser de base familiar com práticas rústicas e artesanais, pouca orientação zootécnica e propriedades em média de 40 hectares, classificando-se de pequeno produtor com suas diversas criações, tais como: caprinos de corte e leite, porco, galinha, pato, bovino e jumento para o trabalho de campo, todos para subsistência. Como resultado dessa pesquisa, identificamos que o pequeno produtor rural tem hoje uma melhor condição de vida que vem de apoio do governo estadual e federal, através de bolsa família e algumas linhas de crédito que garante a criação de animais de produção.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo066_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

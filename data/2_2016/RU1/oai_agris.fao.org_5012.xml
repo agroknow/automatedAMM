@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016105012">
+    <dc:title xml:lang="en">Molecular Diversity of Antagonistic Streptomyces spp. against Botrytis allii, the agent of onion gray mold using Random Amplified Polymorphic DNA (RAPD) Markers</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Jorjandi M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Baghizadeh Amin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Biological control</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Streptomyces</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Botrytis allii</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_918</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7450</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26412</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">As an aim in sustainable agriculture, biological control of plant diseases has received intensive attention mainly as a response to public concern about the use of chemical fungicides in the environment. Soil Actinomycetes particularly Streptomyces spp. enhance soil fertility and have antagonistic activity against wide range of plant pathogens. To investigate for biocontrol means against the pathogen, 30 isolates of Actinomycetes have been isolated from agricultural soils of Kerman province of Iran and assayed for antagonistic activity against Botrytis allii, the agent of onion gray mold. RAPD DNA analysis has been used to determine the relatedness of active and non-active isolates based on their RAPD-PCR fingerprints. PCR amplifiable DNA samples have been isolated using the CTAB method and amplified fragments have been obtained from 5 random 10-mer primers. Different DNA fingerprinting patterns have been obtained for all of the isolates. Electrophoretic and cluster analysis of the amplification products has revealed incidence of polymorphism among the isolates. A total of 138 bands, ranging in size from 150-2800 bp, have been amplified from primers which 63.7% of the observed bands have been polymorphic. Genetic distances among different varieties have been analyzed with a UPGMA (Unweighted pair-group method, arithmetic average)-derived dendrogram. Resulting dendrogram has showed from 0.65 to 0.91 similarities among varieties and divided the isolates into five major groups. Isolates which haven’t had any antagonistic activity against B. allii have been separated into a group and other isolates classified into four groups. The results indicate that RAPD is an efficient method for discriminating and studying genetic diversity of Streptomyces isolates.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N3/JSPB_2014_3_273-280.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

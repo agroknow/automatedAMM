@@ -1,0 +1,48 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101054">
+    <dc:title xml:lang="en">Effect of Short Term NaCl Stress on Cultivars of S. lycopersicum: A Comparative Biochemical Approach</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Roy Chaitali</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sengupta D.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genotypes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">осмотический стресс</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">resistance to salinity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35750</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27000</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Tomato is a crop plant with high fruit nutritive value and other useful properties. The cultivation of this species is dependent on many environmental factors, e.g. temperature, salinity, nutrients etc, affecting the yield and reproductive potential of the plant. Salinity in soil or water is of increasing importance to agriculture because it causes stress to crop plants. Plants exposed to an excess amount of salts such as NaCl undergo osmotic stress, water deficit and ionic imbalances and can increase production of reactive oxygen species(ROS). Higher plants possess very efficient enzymatic and non-enzymatic antioxidative defense mechanisms that allow the scavenging of ROS and protection of cellular components from oxidative damage. 
+Studies were conducted to investigate the effect of short term salinity stress on some physiological alterations in three tomato cultivars Pusa Ruby(PR), Punjab Keshari (PK) and Ailsa Craig(AC). Some biochemical parameters (anthocyanin and carotenoeid content, polyamines, proline, cysteine, peroxidase and malondialdehyde) were set and applied at two month old stage of tomato plants. Three tomato cultivars were grown in 0.5xMS for 2 months and at this stage, they were treated with 0 and 200mM NaCl for a short period of six hours in hydroponic conditions. The genotypes exhibited different responses in terms of different osmoprotectant, antioxidant, and pigment level. The relationships among the salinity and accumulation of these compounds in leaf were then determined. 
+It was concluded that, tomato cultivars under study responded differently showing their sensitivity or tolerance to salinity stress. Among three cultivars PK appeared to be more tolerant genotype than the other two cultivars PR and AC. PK could rapidly evolve physiological and antioxidant mechanisms to adapt to salt and manage the oxidative stress. The research was conducted in a completely randomized design with three replications.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_59-81.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

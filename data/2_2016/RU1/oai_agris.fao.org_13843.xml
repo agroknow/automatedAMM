@@ -1,0 +1,59 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016113843">
+    <dc:title xml:lang="en">Comparative Analysis of Some Hsps Synthesis in Leaves of Transgenic Potato Plants with Gene gox at High Temperature</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Borovskii G.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lyubushkina I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Borovik O.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Grabelnych O.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sauchyn D.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Urbanovich O.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">glucose oxidase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hydrogen peroxide</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">heat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27535</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3725</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3519</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Analysis of control and transgenic plants of potato, grade Skarb, transformed by vector constructions pBI-L-GOX (LP line) и pBI-F-GOX (F line) with native gene of glucose oxidase gox and pBI-GOX-mod (MOD line) with modified gene gox-mod has been carried out. It has been shown that transgenic potato plants with genes gox and gox-mod did not have fenotypic differences with control plants. It has been confirmed that there was an increase of level of hydrogen peroxide produced by reaction, which catalized by glucose oxidase in leaves of transgenic plants. Using antibodies against some heat shock proteins (Hsp101, Hsp70/Hsc70, Hsp60, Hsp17.6C-1, Hsp17.6C-2) we revealed an increased content of Hsp17.6C-2 in leaves of LP line and Hsp60 in leaves of LP and F in the morning. It has been shown that rise in temperature in the daytime (from 18-23°С to 35-43°С) led to intensification of all studied Hsps synthesis both in control and in transformed lines.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2015/N4/JSPB_2015_4_05-10.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

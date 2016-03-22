@@ -1,0 +1,77 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206529">
+    <dc:title xml:lang="en">Water depletion on substrate and Osmocote fertilizer dose in the papaya seedlings formation</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Depleção de água no substrato e doses de fertilizante Osmocote® na formação de mudas de mamoeiro</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Júnior Júlio César Ferreira de Melo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>N. Lima Augusto Miguel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Teixeira Max Venicius</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Conceição Glaucianne Cavalcante da</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Santos Leane Rodrigues dos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Vale do São Francisco, Petrolina, PE, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Vale do São Francisco, Petrolina, PE, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Vale do São Francisco, Petrolina, PE, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Vale do São Francisco, Petrolina, PE, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Vale do São Francisco, Petrolina, PE, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F08</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Carica papaya</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertilization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1323</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2863</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The successful of fruit production depends on the high quality seedlings use, given that the initial growth of papaya seedlings is related to the precocity and quality of the fruit production. In this context, the aim of this study was to evaluate the different water depletion levels in substrate defined as a mass fraction of container capacity (MFCC) as well as Osmocote® fertilizer dose (14-14-14) in the formation of papaya seedlings in containers. The experimental design was in randomized block in split plot with four replications, defined as plot the water depletion level of substrate (5, 15, 25 and 35% of MCC) and subplot as the fertilizer dose (0, 3, 6, 9, 12 and 15 kg m-3). The shoot height, stem diameter, number of leaves, dry fitomassas of shoot, root and total, the dry mass relation between shoots and roots, and the Dickson quality index were determined. All caracteristics were subjected
+to variance analysis, and Scott-Knott test and regression analysis for water level depletion and
+fertilizer dose. The interaction between treatments that provided the best responses of seedlings
+was that subjected to depletion of 15% of the MCC and the fertilizer dose of 8.5 kg m-3.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O sucesso da implantação da fruticultura depende do emprego de mudas de boa qualidade,tendo em vista que o crescimento inicial das mudas de mamoeiro tem relação com a precocidade e a qualidade na produção dos frutos. Neste contexto, objetivou-se avaliar diferentes níveis de depleção de água no substrato definidos como uma fração da massa da capacidade de container (MCC), bem como doses de fertilizante Osmocote® (14-14-14) na formação de mudas
+de mamoeiro formosa em tubetes. O delineamento experimental foi em blocos casualizados em esquema de parcelas subdivididas com quatro repetições, sendo definido como parcela o fator nível de depleção de água no substrato (5, 15, 25 e 35% da MCC) e como subparcela o fator dose
+de fertilizante (0, 3, 6, 9, 12 e 15 kg m-3). Foram determinados altura da parte aérea, diâmetro do caule, número de folhas, fitomassas secas da parte aérea, do sistema radicular e total, relação das fitomassas secas da parte aérea e radicular e o índice qualidade de Dickson. Todas essas características foram submetidas à análise de variância, e ao teste Scott-Knott e a análise de regressão, para os fatores nível de depleção e dose de fertilizante. A interação entre tratamentos
+que proporcionaram as melhores respostas das mudas foi aquela submetida à depleção de 15% da MCC, e a dose de fertilizante de 9 kg m-3.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/1084/292</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

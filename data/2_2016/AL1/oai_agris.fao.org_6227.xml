@@ -1,0 +1,42 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016106227">
+    <dc:title xml:lang="en">The Effects of Endogenous Mycorrhiza (Glomus spp.) on Stand Establishment Rate and Yield of Open Field Tomato Crop</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>VUKSANI ANGJELINA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SALLAKU GLENDA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BALLIU ASTRIT</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Horticulture and Landscape Architecture, Agricultural University of Tirana, Tirana, Albania.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">transplanting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth rate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7873</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16130</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Graded seeds of a tomato commercial cultivar (Suta F1) were sown in plugged (30 cm3) foam trays filled with vermiculate. For the half of seeds the substrate was homogenously mixed (10% vol/vol) with broken expanded clay biologically activated by immobilized propagules of naturally occurring AM-fungi (Glomus intradadices, Glomus etunicatum, Glomus mosseae, Glomus geosporum, Glomus clarum), supplied by BioSym B.V. For the next half, it was homogenously mixed with free clay particles of the same size with the previous one (10% vol/vol). Thirty days after sowing, tomato seedlings were transplanted in to 200 cm3 plastic pots filled with vermiculite. Either AMF non pre inoculated seedlings (non AMF), or AMF pre inoculated (AMF), were equally divided in three subgroups based on the level of salinity applied in the nutrient solution (0, 50 and 100 mM sodium chlorate). On the day of transplanting and 7 days after transplanting, 10 plants were randomly selected for each experimental plot. For each of them, the dry weight of root (RW), leaf (LA), steam (SW) and the whole plant (W) was determined and based on that, the relative growth rates (RGR) and root relative growth rate (RRGR) were calculated and used as the parameters assessing the stand establishment rate of tomato seedlings after transplanting. Additionally, stomata conductance and leaf temperature were measured to assess AMF effects on physiological performance of transplanted seedlings. In order to assess the effect of AM fungi pre inoculation on total yield, parallel with pot transplanting, a field experiment was conducted according to a three replication randomized block design. It was proved that the production of open field tomato can be enhanced by the pre inoculation of AM fungi to tomato transplants at the nursery stage. Due to the pre inoculation of AM fungi, the tomato seedlings can subsequently benefit a faster stand establishment rate and higher vigor which is further reflected to a prolonged harvesting period and higher yield.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://drive.google.com/file/d/0B_i7_HlsPT6HQ3FRdjYzWDBtM1k/view?usp=sharing</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

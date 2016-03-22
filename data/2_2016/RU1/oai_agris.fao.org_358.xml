@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100358">
+    <dc:title xml:lang="en">Seasonal variations of thermoregulatory and thermogenic properties in Eothenomys miletus and Apodemus chevrieri</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zhu Wan-long</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Wang Zheng-kun</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">thermoregulation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">thermogenesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7722</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35611</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Eothenomys miletus and Apodemus chevrieri are typical species of small mammals inhabiting in Hengduan mountains region. The characteristics of thermoregulation and thermogenesis of two mammals were measured to search their physiological and ecological characteristics of adaptations to this region in different seasons. All results indicated: the body weight of E. miletus and A. chevrieri in summer was separately 47.29±0.73g, 32.74±0.54g, and their body weight in winter was separately 39.28±0.61g, 31.70±0.76g</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">the thermal neutral zones (TNZ) of E. miletus and A. chevrieri in summer were separately 25 ～32.5 oC and 25 ～30 oC, and their TNZ in winter were all of 22.5 ～ 27.5 oC</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">their basal metabolic rates (BMR) in summer were respectively 3.76± 0.07 ml O2/g.h, 4.58±0.09 ml O2/g.h, and their BMR in winter were respectively 4.46±0.04 ml O2/g.h, 5.23±0.01 ml O2/g.h</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">their maximum nonoshivering thermogenesis (NST) in summer was respectively 5.70±0.18 ml O2/g.h, 7.12±0.31 ml O2/g.h, and their NST in winter was respectively 6.67±0.05 ml O2/g.h, 7.42±0.04 ml O2/g.h</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">their NST scope (NST/BMR) in summer was separately 1.52±0.05, 1.46±0.04, and their NST scope in winter was separately 1.49±0.01, 1.42±0.01. Their thermogenic characteristics and thermoregulatory styles possibly reflected features of small rodents in Hengduan mountains region which have lower body temperatures and NST scope, higher BMR, Cm and NST and could keep their body temperatures stable in narrower ambient temperatures comparing with other rodents. Body temperature, Cm BMR and NST of  A. chevrieri were higher than these of E. miletus. A. chevrieri could keep body temperature stable in a wider range of ambient temperatures than E. miletus. NST scope of E. miletus was higher than it of A. chevrieri. Their TNZ and the ambient temperature range in which they could keep C stable in winter were narrower than these indexes in summer. The body temperature and body weight in winter were lower comparing with the summer. The BMR, F-value and NST maxin winter were significantly higher than the summer. The TNZ in winter was shifted to the lower ambient temperature comparing with the summer.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N4/JSPB_2012_4_36-46.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

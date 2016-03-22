@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016103018">
+    <dc:title xml:lang="en">Evaluation of Qualitative and Quantitative Traits of Maize (cv. 604) Under Drought Stress and Plant Density</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vafa Parvaneh</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Naseri Rahim</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Moradi Meysam</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Jafarian Taiebeh</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drought stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">spacing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">yield components</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24993</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7272</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24419</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In order to study the effects of drought stress and plant density on yield and yields Components of maize (cv. 604), an experiment was conducted as a split plot based on randomized complete block design with four replications in Ilam station, Iran during 2007-2008 growing season. The treatment were three levels of irrigation (90, 120 and 150 evaporation (mm) from pan (Class A)) as main plots, four planting densities (90000, 100000, 110000 and 125000 plants ha-1) as sub plot. The results showed that different levels of irrigation on the most of measured traits were significant at 1% probability level. Level of irrigation 90 mm evaporation (mm) from pan had a highest a number grain per row, 1000 kernel weight, grain yield and biologic yield other than traits. Between plating density the most of measured traits were significant. The highest grain yield, row per ear, number grain per row, biologic yield and harvest index obtained in 110000 plants ha-1. Interaction effect of irrigation Ч plant density was effect on grain yield. The highest grain yield from 90 mm evaporationЧ110000 plants ha-1 and the lowest grain yield from 150 mm evaporationЧ90000 plants ha-1.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N2/JSPB_2014_2_144-154.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

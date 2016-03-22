@@ -1,0 +1,95 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206466">
+    <dc:title xml:lang="en">Induction of tolerance to water stress in the cowpea seed germination</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Indução de tolerância ao estresse hídrico na germinação de sementes de feijão-caupi</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Colman Bruno Agostini</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nunes Cássio Miranda</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Masson Gabrielle de Lima</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Barbosa Rogério Hidalgo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nunes Anísio da Silva</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual de Mato Grosso do Sul, Aquidauana, MS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Master Tecnologia, Dourados, MS Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculdade Anhanguera de Dourados, Dourados, MS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal da Grande Dourados, Dourados, MS, Brasi</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculdade Anhanguera de Dourados, Dourados, MS, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Manitol</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vigna unguiculata</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4588</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Studies in several species have been conducted under conditions of water stress. However, the germination and young seedlings, there are few studies aimed at developing techniques that seek a future tolerance and acclimation of plants to water stress. Given the above, the objective of this
+study was to simulate drought stress on seed germination of cowpea and evaluate the thermal shock applied during hydration can lead to culture to acquire stress tolerance. Seeds were subjected to the process of soaking and remained in BOD at 25ºC for 24 hours. After this part has been kept at this temperature part and transferred to the thermal shock to 7°C for 24 hours. Both plots that have gone through shock, as the others were transferred to the substrate moistened with mannitol at concentrations of 0, 22.29, 44.58, 66.87 and 89.17 g L-1, simulating the osmotic potential of 0, -0.3, -0.6, -0.9 and -1.2 MPa in BOD at 25ºC. Were evaluated: germination, speed of germination,abnormal seedlings, shoot length, primary root length, total length and relative seedling root/shoot.The best performance in germination was obtained by the seeds that passed hrough the thermal shock to 7ºC for 24 hours, which allows us to affirm that there was an induction of cross-tolerance
+and that this can be activated at the beginning of the imbibition in seeds of cowpea.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Estudos com diversas espécies têm sido realizados sob condições de deficiência hídrica. Entretanto, no processo germinativo e em plântulas jovens, há poucos trabalhos visando o desenvolvimento de técnicas que buscam uma futura tolerância e aclimatação das plantas ao estresse hídrico. Diante do exposto, o objetivo deste trabalho foi simular a deficiência hídrica na germinação de sementes
+de feijão-caupi e avaliar se o choque térmico aplicado durante a embebição pode levar a cultura à adquirir tolerância ao estresse. As sementes foram submetidas ao processo de embebição e permaneceram em B.O.D. à 25ºC por 24 horas. Posteriormente, parte foi mantida nessa temperatura
+e parte transferida para o choque térmico à 7ºC por mais 24 horas. Tanto as parcelas que passaram pelo choque, quanto as demais, foram transferidas para substrato umedecido com soluções de manitol, nas concentrações: 0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">22,29</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">44,58</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">66,87 e 89,17g L-1, simulando os potenciais osmóticos de
+0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">-0,3</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">-0,6</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">-0,9 e -1,2 Mpa em B.O.D. à 25ºC. Foram avaliados: germinação, índice de velocidade de germinação, plântulas anormais, comprimento da parte aérea, comprimento de raiz primária, comprimento total de plântula e relação raiz/parte aérea. O melhor desempenho na germinação
+foi obtido pelas sementes que passaram pelo choque térmico à 7ºC por 24 horas, o que permite afirmar que ocorreu uma indução de tolerância cruzada e que esta pode ser ativada no início do processo de embebição em sementes de feijão-caupi.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/276/285</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

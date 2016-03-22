@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A03365">
+    <dc:title xml:lang="en">PECULIARITIES OF STRUCTURE OF SCOTCH PINE YOUNG GROWTHS IN THE CONDITIONS OF VIRGIN AND LIGHTLY DISTURBED FOREST COMMUNITIES IN MIDDLE URALS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ОСОБЕННОСТИ СТРУКТУРЫ ПОДРОСТА СОСНЫ В УСЛОВИЯХ НЕНАРУШЕННЫХ И СЛАБОНАРУШЕННЫХ ЛЕСНЫХ ФИТОЦЕНОЗОВ СРЕДНЕГО УРАЛА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>YERMAKOVA Maria</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Botanical garden of Ural Department of Russian Academy of Sciences</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Undergrowth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pinus sylvestris</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24414</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5912</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results of the researches of the injured trees functioning (young trees of Scotch pine) are presented. The objects of the researches are located in Sverdlovsk oblast (Zauralskiy hilly area). Assessment of the recreational digression stages was carried out in accordance with the requirements of an additional division into 4 categories depending on grass layer condition. Distribution of the specimen of young growths of Scotch pine was made by rank classes and morphology structure of a trunk in line with an original technique which includes three morphological groups: 1. no infringement (H)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2. infringement of monopodial feature in preservation of one-trunk structure in the bottom, middle and (or) top part or individual infringement of one-trunk structure with preservation of monopodial feature in the bottom or top part of a trunk (Ns)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3. infringement of one-trunk structure with preservation of monopodial feature in the middle part of a trunk often in combination with infringement of monopodial feature and one-trunk structure in different parts of a trunk (Аn). The analysis of the conjugate distribution in rank classes and morphological groups was carried out. It was determined that with the increase of young growths of Scotch pine, morphological infringement of a trunk grows little by little and a share of such trees presence among leaders and sub-leaders in diameter and height also grows. However, the structure of young growths of Scotch pine in the conditions of virgin and lightly disturbed forest communities is, first of all, defined by the peculiarities of natural young growths formation and it does not directly depend on the number of trees of different morphological groups. Thus, it was determined that in the conditions of virgin and lightly disturbed forest communities regenerative processes may provide maintenance of natural structure of young growths after damage of trees.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/51/212</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.22/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

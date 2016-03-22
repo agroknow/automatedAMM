@@ -1,0 +1,44 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102601">
+    <dc:title xml:lang="en">Anthocyanin content in dried berry skins and wine produced from dried grapes</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PEÇULI  ANISA1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MANE  ERANDA2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RIESEN  ROLAND3</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Department Agroalimentary Biotechnology, Faculty of Biotechnology and Food, Agricultural University of Tirana.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2Food Research Center, Faculty of Biotechnology and Food, Agricultural University of Tirana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>3University of Applied Sciences of Western Switzerland, Changins Engineering School, 1260 Nyon, Switzerland.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drying</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2402</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Anthocyanin, are the substances which are biosynthesized in the grape skin, extracted during the maceration and vinification and which contribute in wine color. During the aging of wines these substances are converted in their derivates, contributing in wine quality. For this reasons in nowadays there is a big attention of studies in these components. Wines from two grapes variety, a French variety, Cabernet Sauvignon and the other an autochthonous variety of Albania Kallmet were observed. The role of drying in concentration of anthocyanin in skins berry and if this technique is reflected in wine produced from this dried grape, was studied. The results shown that the quantity of anthocyanins from dried skins varied from 136 mg/100gr fresh product to 468 mg/100gr. The dried skins had the higher quantity, but this result was more significant for Cabernet Sauvignon wine than Kallmet wine. Measurement of phenolic content showed no significant changes between wines from dried and non-dried grapes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4OjMzMTE1MzI4ZDQ4N2U5YTA</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

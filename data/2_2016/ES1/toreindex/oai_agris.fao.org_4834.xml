@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104834">
+    <dc:title xml:lang="es">CONTRIBUIÇÃO RELATIVA DAS CARACTERÍSTICAS BIOMÉTRICAS DA CARCAÇA NA DIVERSIDADE FENOTÍPICA ENTRE FRANGOS NATIVOS PELOCO E GENÓTIPOS COMERCIAIS</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>RELATIVE CONTRIBUTION OF CARCASS BIOMETRIC CHARACTERISTICS PHENOTYPIC  IN DIVERSITY AMONG NATIVE CHICKENS PELOCO AND GENOTYPES COMMERCIAL</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Jesus   Eva</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Carneiro Paulo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Malhado Carlos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pereira  Aysllan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Campos Bárbara</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Filho Ronaldo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Silva Olímpia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal da Bahia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual do Sudoeste da Bahia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual do Sudoeste da Bahia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual do Sudoeste da Bahia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual do Sudoeste da Bahia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual do Sudoeste da Bahia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Federal de Educação, Ciência e Tecnologia Baiano</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Genetic resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">domesticated birds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3218</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2359</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the relative importance of biometric characteristics measured on the carcass for the study of phenotypic diversity among chickens Peloco breed and commercial lines of alternative chicken. We used data of carcass of 157 broiler from four genetics groups. The traits measured were: carcass weight (PCA), breast weight (PPT), thigh weight (PCX), drumstick weight (PSC), breast width (LPT), thigh length (CCX), drumstick length (CSC). The method of Singh was used to obtain the relative importance of the traits to the total variation it's used as criteria for to eliminate variables. The highest dissimilarity was observed between the groups Peloco and commercial line L3 (D2 = 18,712). The values of the relative contribution of traits to the overall variation were in order of lowest contribution CCX = 0.06, APT = 1.88 and CPT = 1.29. Peloco native chickens have large divergence of commercial genotypes and the traits of lowest contribution are subject to eliminate.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Objetivou-se com esse estudo avaliar importância relativa de características biométricas mensuradas na carcaça para o estudo da diversidade fenotípica entre frangos da raça Peloco e linhagens comerciais de frango caipira. Foram utilizados dados de carcaça de 157 aves, machos e fêmeas, provenientes de quatro grupos genéticos. Foram mensuradas: peso da carcaça (PCA), peso do peito (PPT), peso da coxa (PCX), peso da sobrecoxa (PSC), comprimento do peito (CPT), altura do peito (APT), largura do peito (LPT), comprimento da coxa (CCX), comprimento da sobrecoxa (CSC). A metodologia de Singh foi utilizada para obtenção da importância relativa das características para a variação total e usada como critério de descarte de variáveis. O maior valor de dissimilaridade foi observado entre os grupos Peloco e a linha comercial L3 (D2 = 18,712). Os valores da contribuição relativa das características para a variação global foram em ordem de menor contribuição CCX = 0,06, APT = 1,88 e CPT = 1,29. As galinhas nativas Peloco possuem grande divergência dos genótipos comerciais e as características de menor contribuição são passíveis de descarte.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo030_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

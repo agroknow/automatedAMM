@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P12579">
+    <dc:title xml:lang="ru">КОГДА ОБЩИНА ПЕРЕСТАЛА БЫТЬ МИРОМ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>WHEN THE COMMUNITY STOPPED BEING THE WORLD</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lurye  S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E51</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rural population</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6705</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: peasant community, self-governing world, church parish, collectivization</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Статья посвящена исследованию вопроса о функционировании русской крестьянской об-
+щины как церковного прихода, истории духовенства в русской деревне и его связи с крестьянами. Рассмат-
+ривается упадок духовной жизни русской деревни в XIX – начале XX века. С этой точки зрения исследует-
+ся процесс отхода крестьян от религии в 20-ые годы, духовный слом и отсутствие сопротивления коллекти-
+визации. Делается вывод, что хотя крестьянская община переживала в эти годы расцвет как трудовой кол-
+лектив, она теряла свой идеальный смысл, и потому не могла выйти из периода смуты, теряя свой статус
+самоуправляющегося ''мира''. Результаты исследования могут быть использованы для разработки политики
+по отношению к российской деревне в духовной и культурной сферах.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article is devoted to the study the functioning of the Russian peasant community as the Church
+parish, the history of the clergy in the Russian countryside and its relationship with the peasants. The spiritual life
+decline of the Russian village in XIX – the beginning of the XX century is considered. From this point of view the
+process of peasants’ withdrawal from religion in the 20th years, spiritual demolition and lack of resistance of collectivization
+are investigated. It is concluded that though the peasant community endured these years blossoming as
+a labor collective, it lost its ideal meaning and therefore it couldn't leave the distemper period, also losing the status
+of the self-governing ''world''. Results of the research can be used for the development of policy relation to the Russian
+village in spiritual and cultural spheres.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_60fd80d1243849019f1ac86891d5fdb7.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.№3, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

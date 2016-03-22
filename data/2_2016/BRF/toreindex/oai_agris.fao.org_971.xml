@@ -1,0 +1,74 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F00971">
+    <dc:title xml:lang="en">Cry1Ab protein quantification in leaves, stems and grains, and effectiveness to control Spodoptera frugiperda and Helicoverpa zea on two hybrids of genetically modified corn</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Quantificação da proteína Cry1Ab em folhas</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>caules e grãos de dois híbridos de milho Bt e controle das pragas Spodoptera frugiperda e Helicoverpa zea</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BALIEIRO NETO, G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CIVIDANES,  T. M. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRANCO,  R. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FELIX,  M. R. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>REI, F. M. C. T</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NOGUEIRA, J. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">proteins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Helicoverpa zea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spodoptera frugiperda</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Transgenic plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6259</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_30256</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27619</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A study was carried out to evaluate the infestation and associated damages to the presence of the Spodoptera frugiperda and Helicoverpa zea caterpillars, in two genetically modified (GM) corn, Dekalb DKB390 and Agroceres AG8088, expressing the cry1Ab protein. For this objective, an split-splot design with two factors (hybrid x gene) was carried out. Negative controls were made with the same corn hybrids without the gene cry1Ab (NoGM). The concentration of the protein Cry1Ab was determined by the ELISA (enzyme linked immuno sorbent assay) technique in previously dehydrated stems, leaves and grains of GM corns. Caterpillars sampling of S. frugiperda and associated damage survey were accomplished at 15, 22, 29, 36 and 42 days after the sowing, according to a damage scale with 5 levels (0- pest absence to 5- dead plant). Countings of H. zea caterpillars and associated damage were assessed at 57, 71, 78 and 85 days after the sowing, according to a damage scale with 4 levels (0-pest absence curse to 4-gallery in the corn cob minor than 3cm). Sampled caterpillars were divided in two groups, smaller or equal to 15mm and bigger than 15mm. No insecticide application was accomplished in the GM blocks while NoGM blocks were sprayed with deltametrina (2,8%), 42 days after the sowing. The infestation level and associated damage due to S. frugiperda presence was significantly smaller (p &lt; 0,05) in the GM corns in comparison to NoGM corns. Nevertheless, the number and associated damage of S. frugiperda caterpillars, smaller than 15 mm, were superior in the GM DKB390 corn when compared to the GM AG8088 corn. Differences were not observed in the S. frugiperda infestation and associated damage between GM corns and between NoGM corns. On average, the concentration of Cry1Ab protein was significantly superior in leaves and stems in comparison to the grain and, usually, superior in the GM AG8088 corn comparatively to GM DKB390 corn. No differences were found on level damages caused by caterpillars of H. zea in GM and NoGM AG8088 corns, after 71, 78 and 85 days of sowing. In conclusion, GM corns were more efficient in the limitation of S. frugiperda in comparison with H. zea, a result that can be associated to the largest Cry1Ab protein concentration observed in leafs (8.062 ug/g fresh tissue) and stems (5.626 ug/g fresh tissue) in comparison to the existent in the grain (0.372 ug/g fresh tissue). Also, ELISA technique proved to be very efficient in Cry1Ab protein quantification on corn.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Procedeu-se à avaliação do nível de infestação e respectivos danos associados à presença das lagartas Spodoptera frugiperda eHelicoverpa zea, em dois milhos híbridos geneticamente modificados (OGM), Dekalb DKB390 e Agroceres AG8088, que expressam a proteína Cry1Ab. Foi estabelecido em blocos casualizados, com dois fatores (hibrido e gene cry1Ab), sendo utilizadas como controles os mesmos híbridos sem a proteína Cry1Ab (NOGM). A concentração da proteína Cry1Ab foi determinada pela técnica ELISA em caules, folhas e grãos dos milhos OGM, previamente desidratados por liofilização. A contabilização do número de lagartas de S. frugiperda e danos associados foi realizada aos 15, 22, 29, 36 e 42 dias após a semeadura, segundo uma escala com 5 níveis (0-ausência praga</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">5-planta morta). A contabilização do número de lagartas de H. zea e danos associados foi realizada aos 57, 71, 78 e 85 dias após a semeadura, segundo uma escala com 4 níveis (0-ausência praga</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4- o inseto penetrou até o sabugo, não se aprofundando mais que 3 cm). O número de larvas foi contabilizado segundo dois níveis, menores ou iguais a 15mm e maiores de 15mm. Nenhuma aplicação inseticida foi realizada nos talhões com milhos OGM enquanto os talhões com milhos NOGM foram pulverizados com uma aplicação de deltametrina (2,8%) 42 dias após a semeadura. O nível de infestação e danos associados a S. frugiperda foram significativamente menores (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1371731167.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationNumber>v.70/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

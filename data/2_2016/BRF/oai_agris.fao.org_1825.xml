@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01825">
+    <dc:title xml:lang="en">Application of nonlinear models in growth adjustment curves of sheep raised in the North Fluminense area</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Aplicação de modelos não lineares no ajuste de curvas de crescimento em fêmeas ovinas (Ovis aries) da raça Santa Inês criadas na região Norte Fluminense/RJ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>AFONSO,  V. A. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>QUIRINO, Célia R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COSTA, Ricardo L. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA, Roberto M. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2009-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">growth control</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Age</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sheep</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15980</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_186</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8349</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this work was to adjust growth curves of Santa Inês females raised in the North Fluminense area, to determine the model wich best describes the growth of the females sheep, and to evaluate the maturing rate precocity of those animals. The data were collected in São João da Barra city, Rio de Janeiro State. The results of the animal from birth to maturity were weights and ages. The animal ages were divided into groups: of 0, 5, 15, 20, 30, 45, 55, 70, 95, 150, 180, 270, 365 and 740 days. Animal's body weight of each age group was used to adjust growth curves and to estimate the curve parameter by nonlinear regression, using NLIN procedure (SAS, 1999). There were used Brody, Logistic, Gompertz, Von Bertalanffy and Richards functions to adjust the data. The function of Gompertz was the one that best described Santa Inês growth. It showed a good adjustment and closer estimative from the region reality, computational minimizing the difficulties.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Foram ajustadas funções não-lineares às curvas de crescimento de fêmeas ovinas da raça Santa Inês criadas na região Norte Fluminense, identificando o modelo que melhor descreve o crescimento dos ovinos e verificando a precocidade de crescimento desses animais. O trabalho foi realizado no município de São João da Barra, Estado do Rio de Janeiro. Foram registrados os pesos e as idades dos animais desde o nascimento até a idade adulta. Posteriormente as idades foram utilizadas para categorizar a faixa etária dos animais: de 0, 5, 15, 20, 30, 45, 55, 70, 95, 150, 180, 270, 365 e 740 dias. Ajustaram-se aos dados diferentes curvas de crescimento e estimaram-se os parâmetros das mesmas por regressão não-linear, pelo procedimento NLIN do SAS (1999). Dentre as funções não-lineares de Brody, Logística, Gompertz, Von Bertalanffy e Richards, a função de Gompertz foi a que melhor descreveu o crescimento das fêmeas da raça Santa Inês. Esse bom ajuste e estimativas próximas com a realidade da região minimizaram as dificuldades computacionais.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1277307186.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.66/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

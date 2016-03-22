@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A04878">
+    <dc:title xml:lang="en">CHANGE OF SPECIES COMPOSITION AND POPULATION STRUCTURE OF SOIL MESOFAUNA CAUSED BY CREEPING FIRES AND TIMBER FELLING</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ИЗМЕНЕНИЕ ВИДОВОГО СОСТАВА И ПОПУЛЯЦИОННОЙ СТРУКТУРЫ ПОЧВЕННОЙ МЕЗОФАУНЫ В РЕЗУЛЬТАТЕ НИЗОВЫХ ПОЖАРОВ И РУБОК ЛЕСА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DOROKHOV Kirill</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHELUKHO Vasiliy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Bryansk State Engineering and Technological Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anthropogenic factors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Deforestation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fires</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34996</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15590</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2915</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Biological diversity is a key element, determining stability and equilibrium of natural systems. Biodiversity provides development of communities</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">thus, self-regeneration and interchangeability of its elements become possible. Formation of species diversity of fauna under the influence of different environmental factors has important theoretical and practical value. The purpose of this research was to study the influence of different anthropogenic impacts, including forest management, on the dynamics of species composition and trophic structure of soil mesofauna in pine forests. The record of mesofauna was carried out by the method of layer-by-layer manual development of soil samples in the under-crown space of trees. All the recorded invertebrates were divided into three taxonomic groups and three trophic classes according to the methods of feed (zoophages, phytophages and saprophages). Results. The obtained data make it possible to state that creeping fires and cuttings of different intensity in the pine forests lead to the following changes of soil mesofauna: retrogradation of the species, reduction of taxonomic diversity, changes of species diversity, as well as violation of the trophic structure of the complex. The studies showed that in the test forest areas zoophages dominate over saprophages (almost in two times). As a result fellings of different intensity as well as result of fires of medium intensity there occurs a decrease of saprophages fractions. After strong fires, a fraction of saprophages decreases, whereas the fraction of zoophages increases (in 2-5 years after fires). 10...15 groups of mesofauna were fixed in the test sample areas. For medium intensity fires, the presence of representatives of 11…12 groups is typical (in 3 years after fires),  14 groups - in 4 years after fires. 7…11 taxonomic groups were observed in the test areas after 2...5 years after strong  fires.10...12 groups were marked in places where clear and selective felling operations of 15...20% intensity were held. Recommendations. It is suggested to use the ratio of mesofauna trophic groups and certain types of background soil invertebrates as a diagnosticians of forest communities conditions and the extent of their change (Selatosomus Latus among click beetles, Diptera of the genus Lasiopogon Lw., bedding worm Dendrobaena octaedra Sav.,chafer Melolontha hippocastani F.) in predicting the effects of management activities consequences and some other effects on forest.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Изучено влияние устойчивых низовых пожаров различной давности и интенсивности, а также рубок леса различной интенсивности на компоненты лесного биогеоценоза в лесном фонде Калужской области. Произведён анализ видового состава и трофической структуры комплексов почвенной мезофауны, установлены её изменения в связи со степенью и направленностью воздействия изучаемых факторов. Рекомендованы виды-индикаторы степени изменения лесных сообществ антропогенными воздействиями.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/67/44</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.24/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

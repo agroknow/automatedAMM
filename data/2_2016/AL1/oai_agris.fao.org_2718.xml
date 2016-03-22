@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102718">
+    <dc:title xml:lang="en">Adaptation Strategies to Combating Climate Variability and Extremity among Farmers in Selected Farm Settlements in Oyo State, Nigeria</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>1BOROKINI   T.I</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>2OSEWA  S.O</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>3,4BABALOLA  F.D</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>5ALAMU  O</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>6OLUBIYI  M.R</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Plant Genetic Resources Unit, National Centre for Genetic Resources and Biotechnology (NACGRAB), Moor Plantation, Ibadan, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2 Genetic Resources Unit, National Centre for Genetic Resources and Biotechnology (NACGRAB), Moor Plantation, Ibadan, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>3Centre for Environmental Economics and Policy in Africa, University of Pretoria, South Africa</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>4Department of Forest Resources and Management, University of Ilorin, Ilorin, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>5Plant Genetic Resources Unit, National Centre for Genetic Resources and Biotechnology (NACGRAB), Moor Plantation, Ibadan, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>6Plant Genetic Resources Unit, National Centre for Genetic Resources and Biotechnology (NACGRAB), Moor Plantation, Ibadan, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-09</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nigeria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5182</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The adverse effects of climate variability and extremities on agriculture in Africa have been widely reported.  This calls for adaptive strategies in farming so as to reduce vulnerability and ensure food security. This study was therefore conducted to evaluate the awareness of farmers to climate variability and their adaptation strategies in four selected farm settlements in Oyo State, Nigeria. . Structured questionnaires were administered to 120 farmers using a stratified random sampling method. The results showed very high awareness of climate variability among the farmers. However, majority of the farmers acquired their land by lease, while local farm tools are still used by most of the farmers. Sole cropping, mixed cropping and crop rotation were mostly practiced by the farmers. The farmers reported prevalence of crops pests and diseases, flooding, disappearance of bi-modal rainfall, increased temperature and drought in their farmlands, leading to increase in poverty, higher production costs and poor crop harvests as evidences of harsh climatic conditions. Adaptation strategies used by the farmers were changing planting dates, planting new varieties, intercropping and alternative income generating activities. The farmers are encouraged to acquire more efficient farming system and equipment, while they should strongly consider other adaptation strategies such as agricultural insurance, agroforestry, water conservation methods, soil conservation farming, irrigation farming, organic farming and mechanized farming. Furthermore, land tenure policy that could constrain the farmers should be reviewed, while they should be given proper training</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_2014_3_file/6_BOROKINI%20-%20AJAS%20N3_32-41.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

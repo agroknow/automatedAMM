@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02399">
+    <dc:title xml:lang="en">In vitro activity of commercial disinfectant in control of two species bacteria of poultry interest</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Atividade in vitro de desinfetantes comerciais no controle de duas espécies de bactérias de interesse avícola</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SCUR, M.C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PINTO, F.G.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BONA, E.A.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PANDINI, J.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>WEBER, L.D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTANA, C.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOUZA, J.G.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">domesticated birds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">disinfection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">microorganisms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Escherichia coli</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Staphylococcus aureus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2359</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10397</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4807</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33700</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16429</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to compare the antimicrobial activity of disinfectants used in poultry industry against microorganisms of importance in the control of avian Escherichia coli and Staphylococcus aureus at different concentrations and in the absence and presence of organic matter. Six commercial disinfectants (based on glutaraldehyde, quaternary ammonium, sodium hypochlorite, iodine, organic acid and peracetic acid) in 3 concentrations (half the concentration recommended by the manufacturer, concentration recommended and twice the recommended concentration) in the absence and presence of organic matter were compared. The experimental design was factorial (6 x 3 x 2). In the data analysis the average scores of Colony Forming Units (CFU) was used and evaluated by Tukey test. The disinfectants and concentrations had a significant effect on the CFU counts in both presence and absence of organic matter ahead E. coli and S. aureus. Disinfectants based on organic acids, peracetic acid, sodium hypochlorite and glutaraldehyde in the absence of organic material showed lowest CFU counts. In the presence of organic matter, the disinfectants evaluated had decreased effectiveness and organic acids slowed lowest CFU counts. Regarding concentrations, we observed a reduction in the overall bacterial population counts when increased concentration of the disinfectant was used. Disinfectants based on organic acids, peracetic acid, sodium hypochlorite and glutaraldehyde are the most effective in the control of E. coli and S. aureus in the absence of organic matter. With presence of organic matter, disinfectant based on organic acids has better efficacy in the control of those microorganisms.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo desse trabalho foi comparar a atividade antimicrobiana entre desinfetantes utilizados no setor avícola no controle dos microrganismos de importância avícola, Escherichia coli e Staphylococcus aureus em diferentes concentrações, e na ausência e presença de matéria orgânica. Foram utilizados 6 desinfetantes comerciais (à base de glutaraldeído, amônia quaternária, hipoclorito de sódio, iodo, ácidos orgânicos e ácido peracético), em 3 concentrações (metade da concentração recomendada pelo fabricante, a concentração recomendada e o dobro da concentração recomendada) na ausência e na presença de matéria orgânica. O delineamento experimental adotado foi em esquema fatorial (6 x 3 x 2). Na análise dos dados foram utilizadas as médias das contagens de Unidades Formadoras de Colônia (UFC), comparadas por meio do teste de Tukey. Verificou-se que os desinfetantes e as concentrações apresentaram efeito significativo em relação às contagens de UFC, tanto na presença quanto ausência de matéria orgânica frente E. coli e S. aureus. Os desinfetantes a base de ácidos orgânicos, ácido peracético, hipoclorito de sódio e glutaraldeído na ausência de matéria orgânica apresentaram as menores contagens de UFC. Na presença de matéria orgânica, os produtos avaliados apresentaram eficácia diminuída, sendo os ácidos orgânicos o produto que apresentou as menores contagens de UFC. Quanto às concentrações, observou-se em geral redução nas contagens das populações bacterianas à medida que as concentrações dos desinfetantes aumentavam. Os desinfetantes a base de ácidos orgânicos, ácido peracético, hipoclorito de sódio e glutaraldeído são os mais eficazes no controle de E. coli e S. aureus na ausência de matéria orgânica. Na presença de matéria orgânica, o desinfetante a base de ácidos orgânicos apresenta a melhor eficácia no controle destes microrganismos.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1403617684.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

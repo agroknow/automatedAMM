@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016008072">
+    <dc:title xml:lang="en">Effect of roasting on antioxidant and anticholinesterase capacities of coffee</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Yilmaz, P. K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hacibekiroğlu, I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kolak, U.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Analytical Chemistry, Faculty of Pharmacy, Istanbul University, Beyazit 56, 34116 Istanbul, Turkey. E-mail: ufukkolak@yahoo.com, tel.: +90 212 4400258</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>fax: +90 212 4400254</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">coffee</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">caffeine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">HPLC</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">roasting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1731</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1183</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24469</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6623</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the study was to investigate the effect of the roasting degree on total phenolic and flavonoid contents, antioxidant and anticholinesterase activities of the hexane, acetone, ethanol and water extracts of coffee. The antioxidant capacity of the water extracts prepared according to the brewing procedure of Turkish coffee was measured for the first time by 2,2-diphenyl-1-picrylhydrazyl (DPPH) free radical scavenging and cupric ion reducing antioxidant capacity (CUPRAC) assays. The in vitro anticholinesterase activity of the coffee extracts and caffeine was determined for the first time. Water extracts of the coffee samples exhibited the highest 2,2’-azino-bis(3-ethylbenzothiazoline-6-sulphonic acid) (ABTS) cation radical scavenging, DPPH free radical scavenging and CUPRAC effects. The hexane extract of coffee roasted for 25 min showed the highest acetylcholinesterase inhibitory activity among the tested extracts. Caffeine, which is known to have therapeutic effect against Alzheimer’s disease, was found to possess almost the same anticholinesterase activity as galanthamine. The roasting degree had an irregular effect on the antioxidant and anticholinesterase activities of the coffee extracts. The caffeine contents in extracts of coffee roasted for 25 min, which had strong anticholinesterase effect, were determined by HPLC, and the water extract was found to possess the highest caffeine content.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

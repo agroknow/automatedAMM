@@ -1,0 +1,91 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H12366">
+    <dc:title xml:lang="ru">ИСПОЛЬЗОВАНИЕ СВИНЫХ СТОКОВ В КАЧЕСТВЕ ОРГАНИЧЕСКИХ УДОБРЕНИЙ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE USE OF SWINE EFFLUENT AS AN ORGANIC FERTILIZER</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Тютюнов С.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Соловиченко В.Д.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Навольнева Е.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ФГБНУ Белгородский НИИСХ</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P35</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Effluents</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Swine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">organic fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24455</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7555</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4592</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI 10.18454/IRJ.2015.41.028</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">На территории Белгородской области функционирует много животноводческих комплексов, где скапливаются
+миллионы тонн животноводческих отходов, в т.ч. и свиных стоков, которые при умелом использовании могут быть
+ценным органическим удобрением. Необходимо их научно-обосновано, рационально вносить в почвы с целью
+повышения их плодородия, роста продуктивности сельскохозяйственных культур и охраны окружающей среды.
+Остро стоит задача проведения мониторинговых работ на землях, где вносятся животноводческие отходы. В
+статье обобщены материалы по использованию свиных стоков в качестве органических удобрений на территории
+области. Собраны и проанализированы данные по химическому составу свиных стоков, условия и возможности их
+применения, определены нормы внесения, проведение мониторинга по сохранению, повышению плодородия почв,
+росту урожайности сельскохозяйственных культур и охране окружающей среды. Разработан агротехнологический регламент внесения свиных стоков в качестве органических удобрений.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the territory of the Belgorod region there are many th livestock farms where they congregate millions of tons of bellynowoczesnych
+waste, including swine effluent that with skillful use of can be a valuable organic fertilizer. They must be
+scientific and reasonable, rationally to amend the soil in order to increase their fruit and rhodium, growth, crop productivity
+and protection of the environment. The acute problem of monitoring on land where you make animal waste. The article
+summarizes materials on the use of swine effluent as organic fertilizer in the region. Collected and analyzed data on the
+chemical composition of swine waste, the conditions and possibilities of their application, defined application rates,
+monitoring for conservation, to improve areas of dorodiya soils, increase crop yields and environmental protection. Developed agro-technological regulations making swine effluent as organic fertilizer.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/10-3-41.pdf#page=76</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.10-3(41)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

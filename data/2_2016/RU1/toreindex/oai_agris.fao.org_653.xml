@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100653">
+    <dc:title xml:lang="en">Protective Role of Sodium Selenite on Mercuric Chloride Induced Oxidative and Renal Stress in Rats</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Necib Youcef</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bahi Ahlem</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zerizer Sakina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lipid peroxidation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mercury</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34043</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4751</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Backgroud: Reactive oxygen species are known to play a major role in mercuric chloride induced oxidative and renal stress. Sodium selenite as an exogenous source of selenium is used for endogenous selenoprotein synthesis to scavenge the free radicals. The study was designed to investigate the possible protective role of sodium selenite in mercuric chloride induced renal stress, by using biochemical approaches. Adult male Albinos Wistar rats were randomly divided into four groups. The first group was served as the control, the second group was given sodium selenite (0.25 mg/kg b.w), while the third group was given mercuric chloride (0.25 mg/kg), finally, the fourth group was given combined treatment of sodium selenite and mercuric chloride for 3 weeks.
+Results: The effects of sodium selenite on mercuric chloride induced oxidative and renal stress were evaluated by serum creatinine, urea, uric acid, billirubin levels and LDH activity, kidney tissue lipid peroxidation, GSH levels, GSH-Px, GST and catalase activities and hematological parameters. Administration of mercuric chloride induced significant increase in serum: creatinine, urea, uric acid and billirubin concentration showing renal stress. Mercuric chloride also induced oxidative stress, as indicate by decreased kidney tissue of GSH level, GSH-Px, GST, and catalase activities along with increase the level of lipid peroxidation. Furthermore, treatment with mercuric chloride caused a marked elevation of kidney weight and decreased body weight and erythrocytes, hemoglobin, hematocrit levels. Sodium selenite treatment markedly reduced elevated serum: creatinine, urea, uric acid and billirubin levels, and LDH activity and conteracted the deterious effects of mercuric chloride on oxidative stress markers and hematological parameters and atteneuated histopathological changes caused by HgCl2 in kidney.
+Conclusion: Our results indicate that sodium selenite could have a beneficial role against mercuric chloride induced nephrotoxicity and oxidative stress in rat.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N2/JSPB_2013_2_159-172.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

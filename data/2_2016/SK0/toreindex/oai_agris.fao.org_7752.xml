@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007752">
+    <dc:title xml:lang="en">Selected biotic vectors transmitting beech bark necrotic disease in Central and South-Eastern Europe</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mihál Ivan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cicák Alojz</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tsakov Hristo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Institute of Forest Ecology of the Slovak Academy of Sciences, Akademická 2, 949 01 Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Forest Research Institute, Bulgarian Academy of Sciences, 132 St. Kliment Ohridski Blvd. 1756 Sofia, Bulgaria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bark</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">diseases</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Europe</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fagus sylvatica</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Insecta</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_820</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49879</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2724</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24637</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3890</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The authors mapped occurrence of three biotic vectors of beech (Fagus sylvatica L.) bark necrotic disease: beech lice Cryptococcus fagi Bärensp. and moths Bucculatrix ulmella Zeller and Ectoedemia liebwerdella Zim. in several countries in Central and South-Eastern Europe. The role of these species in European beech pathology is discussed. We have found a massive occurrence of C. fagi in all the localities, with frequency values reaching up to 100%. The occurrence of beech lice was not limited by the locality altitude. The butterfly E. liebwerdella generally occurred in most localities, with exception of Poland and Romania. In contrast to C. fagi, occurrence of E. liebwerdella was limited by altitude. The upper occurrence limit in Slovakia was 800 m a.s.l., in Bulgaria it was 1,220 m a.s.l. (32%) and infrequent in 1,380 m a.s.l. (only 4%). The butterfly B. ulmella occurred everywhere, apart from Poland. Its frequency was always lower than that of C. fagi and E. liebwerdella. The maximum value (91%) was found in Slovakia in a beech stand strongly affected with airborne pollutants in the past. Our results show that the upper occurrence limit for this species was 900 m a.s.l. in Slovakia and 1,250 m a.s.l. (4%) in Bulgaria.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.41/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016010855">
+    <dc:title xml:lang=" ">Aspekty informačných technológií v sektore prvovýroby a spracovania mlieka na Slovensku</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Aspects of the information technology in the primary production and milk processing sectors in Slovakia</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Neománi Juraj</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Popelka Vladimír</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Nitrae</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">information technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4829</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36660</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Information technology is part of everyday life for nearly all business units not only in the dairy industry in Slovakia. The situation today is unflattering and the future of dairy industry in our country is unclear. From this reason, the managements of dairy enterprises go back to streamlining business processes in organizations through cost reductions particularly in IT. The aim of thesis is to highlightl the selected economic and management aspects associated  with this topic. To achieve objectives was conducted research through which we obtained the necessary data and then were drawn conclusions from them. In the thesis is evaluated the status of IT use in enterprises of the dairy industry in Slovakia, information systems are described that are currently using by companies in the dairy industry. Not only employees but also managers are using information systems that are essential for modern operating businesses. Their contribution is in technical time considerable and therefore is needed to have an organization established primarily an information system to support management. Furthermore, an attention is examining the managerial approaches in the implementation of IT in the reporting enterprises. One of the most commonly used management approach in the field of IT is currently outsourcing, which represents a transfer of responsibility to an external organization. This organization will ensure the implementation of IT in business, with which it is contracted. In the thesis is evaluated status of IT use in enterprises of the dairy industry in Slovakia, described are information systems which are currently used in routine work by ernployccs of these enterprises. Finally, the obtained source data were forrnulated a theoretical but especially practical advice.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="ags:ISBN">978-80-552-0964-7</dc:identifier>
+    <dc:type>Book</dc:type>
+  </ags:resource>
+</ags:resources>

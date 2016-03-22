@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="UA2016002355">
+    <dc:title xml:lang="uk">Фізико-хімічні властивості еолових відкладів та едафотопів лісових культурбіогеоценозів  Асканії-Нова</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Physicochemical properties of eolian deposits and forest artificial biogeocenosis edaphotopes of Askania-Nova</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Физико-химические свойства эоловых отложений и эдафотопов  лесных культурбиогеоценозов Аскании-Нова</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gorban V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F07</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ukraine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tillage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil chemicophysical properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil morphology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Edaphic factors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15070</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7771</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7182</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15699</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15617</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Summaries (En,Ru,Uk)
+12 ref.; 6 tables</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Physicochemical properties (adsorptive capacity, hydrolytic acidity, degree of saturation, exchangeable cation structure and sum) of eolian deposits and forest artificial biogeocenosis edaphotopes in Askania-Nova were examined. The research findings are presented in the paper. It is determined that eolian deposits and forest artificial biogeocenosis edaphotopes are characterized by considerable quantity of adsorptive capacity (32,0–40,3 mg eq.) and high degree of saturation (91,9–96,4 %). Among exchangeable cations of eolian deposits and edaphotopes bivalent cations Ca2+ and Mg2+ prevail, univalent cations K+ и Na+ appear insignificantly. Eolian deposits and edaphotopes are characterized by considerable quantity of adsorptive capacity, sum of exchangeable cations and degree of saturation in comparison with zonal dark brown soils. In the large eolian deposits and forest artificial biogeocenosis edaphotopes, zonal dark brown soils are characterized by favourable physicochemical properties.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="uk">Наведено результати дослідження фізико-хімічних властивостей (ємність поглинання, гідролітична кислотність, ступінь насиченості, склад обмінних катіонів та їх сума) еолових відкладів та едафотопів лісових культурбіогеоценозів в умовах Асканії-Нова. Встановлено, що еолові відклади та едафотопи характеризуються значними величинами ємності поглинання (32,0–40,3 мг-екв.) та високим ступенем насиченості (91,9–96,4 %). Серед обмінних катіонів еолових відкладів та едафотопів домінують двовалентні катіони Ca2+ та Mg2+, а одновалентні катіони K+ та Na+ містяться в незначній кількості. Еолові відклади та едафотопи характеризуються більшими величинами ємності поглинання, суми обмінних катіонів та ступеня насиченості порівняно з зональними темно-каштановими ґрунтами. В цілому еолові відклади та едафотопи лісових культурбіогеоценозів та зональні темно-каштанові ґрунти характеризуються сприятливими фізико-хімічними властивостями.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Представлены результаты исследования физико-химических свойств (емкость поглощения, гидролитическая кислотность, степень насыщенности, состав обменных катионов и их сумма) эоловых отложений и эдафотопов лесных культурбиогеоценозов в условиях Аскании-Нова. Установлено, что эоловые отложения и эдафотопы характеризуются значительными величинами емкости поглощения (32,0–40,3 мг-экв.) и высокой степенью насыщенности (91,9–96,4 %). Среди обменных катионов эоловых отложений и эдафотопов доминируют двухвалентные катионы Ca2+ и Mg2+, а одновалентные катионы K+ и Na+ содержатся в незначительном количестве. Эоловые отложения и эдафотопы характеризуются большими величинами емкости поглощения, суммы обменных катионов и степени насыщенности по сравнению с зональными темно-каштановыми почвами. В целом эоловые отложения и эдафотопы лесных культурбиогеоценозов, зональные темно-каштановые почвы характеризуются благоприятными физико-химическими свойствами.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.nbuv.gov.ua/ujrn/Chem_Biol/Grunt/2012_3-4/Gorban.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">uk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Ґрунтознавство</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1684-9094</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3-4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

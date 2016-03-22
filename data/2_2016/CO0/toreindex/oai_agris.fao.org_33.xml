@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="CO2016000033">
+    <dc:title xml:lang="es">Viabilidad financiera para la producción y exportación de gulupa (Passiflora edulis Sims) hacia el mercado español</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Financial viability for the production of gulupa (Passiflora edulis Sims) and for its exportation to the Spanish market</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sierra Cárdenas Juan Carlos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gómez Rodríguez Carolina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sánchez Buendía Edgar Emilio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pinilla Rivera Maribel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E16</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feasibility studies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">commercialization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">World markets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26781</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_21547</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8450</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>7 tabs., 2 figs., 6 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Se determinó la viabilidad financiera para la producción y exportación de gulupa (Passiflora edulis Sims) hacia el mercado español, involucrando aspectos ambientales, técnicos y económicos. Se presentan las diferentes alternativas de producción de la gulupa, el proceso de comercialización y la exportación a España, fundamentadas en métodos de tipo descriptivo y exploratorio que implicaron la caracterización, identificación y diagnóstico situacional. Adicionalmente, se analizaron los comportamientos del mercado, los hábitos de consumo de los españoles, importaciones y exportaciones, y las relaciones económicas y políticas entre los dos países. De esta forma se encontraron las potencialidades de la gulupa, los costos que implican la construcción del cultivo y los beneficios financieros que tendría el productor al cosechar gulupa de calidad exportable, que satisfagan la demanda del mercado español. Lo anterior sustentado por la viabilidad financiera que alcanza después de recuperar el capital invertido y cubrir el costo de oportunidad, así como su recuperación de la inversión inicial en el sexto año . Palabras claves: comercialización, exportaciones, estudios de factibilidad, frutales, mercados mundiales.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This article establishes the financial viability for the production and export of gulupa (Passiflora edulis Sims) to the Spanish market, including environmental, technical and economic elements. Several alternatives are presented for gulupa production, the marketing process and export to Spain, based on descriptive and exploratory methods that involved the characterization, identification and situational analysis. Additionally, we analyzed the behavior of the market, the consumption habits in Spanish, imports and exports, and economic and political relations between the two countries. By this approach it was possible to find the potential of gulupa production, the costs involved in crop development and the financial benefits it obtain by the gulupa producer to export quality products that meet Spanish market demand. This financial viability is met by reaching the invested capital recovering and to cover the opportunity cost as well as recovery of the initial investment in the sixth year. Key words: marketing, exportation, feasibility studies, fruits, global markets.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.corpoica.org.co/SitioWeb/Archivos/Revista/Articulo2_REVISTACORPOICAVol14No1-2013.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Revista CORPOICA : Ciencia y Tecnología Agropecuaria</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">01228706</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

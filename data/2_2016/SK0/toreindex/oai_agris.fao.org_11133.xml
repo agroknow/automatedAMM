@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016011133">
+    <dc:title xml:lang="sk">Vplyv hnojiva Ensin na úrodu semena kapusty repkovej pravej (Brassica napus L.) a obsah dusičnanov v pôde</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Effect of Ensin fertilizer on the seed yield of oil rape and content of nitrates in soil</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Slamka Pavol</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ložek Otto</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Brassica napus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nitrates</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7156</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1066</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2867c82c5e5a</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5187</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Two-year field small-plot experiment with winter rape (variety Regis) was established in vegetation period 2012/2013 and 2013/2014, respectively on medium- heavy degraded brownsoil with slightly acid soíl reaction (pH = 5.85). Pre-seeding fertilization was not realized. Early regenerational, second regenerational, productional and late qualitative fertilizing of rape was done during spring period, respectively. Four split applications were realized with fertilizer LAD and DA SA, and fertilizer ENSIN was applied by one shot at the sa me total dose of nitrogen (210 kg.ha). Each applied fertilizer increased grain yield of winter rate statistically significantly in comparison with unfertilized control. On the average of two experimental years the highest yield of seed was achieved in treatment fertilized by ENSIN (4,64 t.ha) under the best coefficient of economical effectiveness KEE = 2,70 and the highest profit per hectare (446 €). Application of ENSIN insignificantly decreased content of all in winter rape grain, but oíJ production per hectare was maximized in this treatment. All aplied fertilizers increased uptake of macronutrients by plants, but ENSIN the most (excepting sulphur). Content of nitrate in soil was reduce after application of ENSIN, fertilizer containing inhibitors of nitrification, in comparison with two other testing fertilizers.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationNumber>v.19/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

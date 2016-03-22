@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104945">
+    <dc:title xml:lang="es">CONTRIBUCIÓN A LA IDENTIFICACIÓN DEL Mallophaga EN GUAJOLOTES NATIVOS DEL ESTADO DE YUCATÁN</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>CONTRIBUTION TO THE IDENTIFICATION OF Mallophaga TURKEYS IN NATIVES OF THE STATE OF YUCATÁN</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gómez Mayra</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ronquillo Javier</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Delgado Juan Vicente</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Canul Maricela</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sierra Angel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Azcorra Gabriel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nava  Francisco</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Amaya Shirley</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Unión Española de Ganaderos de Pura Raza Hispano</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Tecnológico de Conkal (ITC)</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Tecnológico de Conkal (ITC)</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Tecnológico de Conkal (ITC)</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Tecnológico de Conkal (ITC)</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Tecnológico de Conkal (ITC)</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ectoparasites</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal health</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10532</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_431</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A of the main characteristics that are recognized the native turkey (Meleagris gallopavo), is its ability to withstand unfavorable environmental conditions. The ectoparasites play an important role in population dynamics, genetic diversity and natural resistance of many species, its distribution is cosmopolitan type ie that are in all biogeographic regions where their hosts live. The sanitary state of the native turkeys is an important public health topic because they are raised primarily for the consumption of its meat and eggs. This study was performed Conkal Technological Institute, with the aim of contributing to the knowledge of ectoparasites of Meleagris gallopavo in the state of Yucatán. The collection of the parasites was performed in 2011 in four municipalities of the state of Yucatán, (Motul, Maní, Cepeda, Timucuy) preserving the samples in 70% alcohol, were identified for Yucatán three species  Chelopistes meleagridis, Lipeurus caponis and Menacanthus stramineus.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Una de las principales características que se reconocen en el guajolote nativo (Meleagris gallopavo), es su capacidad de resistir condiciones ambientales poco favorables. Los ectoparásitos juegan un papel importante en la dinámica poblacional, diversidad genética y resistencia natural de muchas especies, su distribución es de tipo cosmopolita, es decir, que se encuentran en todas las regiones biogeográficas en las que viven sus hospedadores. El estado sanitario de los guajolotes nativos, es un tema importante de salud pública, debido a que son criados principalmente para el consumo de su carne y huevos. El presente estudio, se realizó en el Instituto Tecnológico de Conkal, con la finalidad de contribuir al conocimiento de ectoparásitos de Meleagris gallopavo en el estado de Yucatán. La colecta de los parásitos se realizó en el 2011 en cuatro municipios del estado de Yucatán, (Motul, Maní, Cepeda, Timucuy) conservando las muestras en alcohol al 70%, Se identificaron para Yucatán tres especies, Chelopistes meleagridis, Lipeurus caponis y Menacanthus stramineus.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo092_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

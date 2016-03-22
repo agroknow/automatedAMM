@@ -1,0 +1,38 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016104495">
+    <dc:title xml:lang="en">The Impact of Task-Based Language Teaching in ESP Education in the Agricultural University of Tirana</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>NEPRAVISHTA ARIANA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ROSENI EMILDA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Foreign Languages Department, Agricultural University of Tirana, Tirana-Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>English Language Department, University of Tirana, Tirana-Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">curriculum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16173</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">English for Specific Purposes (ESP) education is required to play an important role in teaching students of the Agricultural University of Tirana (AUT) to be more open-minded, so improving English proficiency has become an important educational goal in higher education curricula.This article aims to put into evidence the problems faced in ESP teaching in AUT nowadays and for the benefit of the learner to take up all the challenges in an integrated way and to strive for the creation of a new style in the educational system in which learners’ attempts to systematize behaviour and knowledge is the point of departure rather than the rigid systems of scientific knowledge and educational organization of teachers. The implementation of task-based ESP teaching has better chances of success when is taken up by the whole high education system. The teachers should be those who set the pace and decide upon the content of the task-based programme. Our experience in the Agricultural University of Tirana has proved that task-based ESP teaching can be a reality and its success depends on the communication among ESP teachers and the construction of a common and coherent view on how the programme can be adapted to the learning needs of the students to promote their personal development and success in the future.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_2014/1_NEPRAVISHTA_pp%201_5.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

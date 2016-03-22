@@ -1,0 +1,69 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012598">
+    <dc:title xml:lang="en">Dietary patterns and lifestyle of patients with myocardial infarction</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lorková Marta</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kopčeková Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gažarová Martina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Habánová Marta</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Chlebo Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Magula Daniel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mrázová Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">S01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dietary guidelines</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">patients</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Myocardium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">infarction</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35725</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_50139</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11765</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Civilization diseases, including cardiovascular, are major health problems in current modern society. Numerous studies provided sufficient evidence that variety of risk factors are involved in cardiovascular diseases formation. Of the most important is the lifestyle that largely contributes to our health, up to 50 - 60%. Lifestyle includes all modifiable risk factors that together affect the development of these diseases. In our study we searched and evaluated the nutritional parameters and lifestyle of patients hospitalized in Cardiocentre Nitra. In order to obtain the necessary information we chose the questionnaire method. In our survey 194 patients were included, of which 155 were men (79.89%) and 39 (20.11%) women. These patients were hospitalized with acute myocardial infarction diagnosis. The vast majority of patients had overweight and obesity caused by improper eating habits. The high prevalence of overweight, BMI in the range 25 - 30 kg/m2, was also confirmed as statistically significant, p 0.05) when evaluating dietary habits. But we can confirm too frequent consumption of chicken at the expense of other types of meat and relatively frequent consumption of fish (once a week). We recorded the preference of semi-skimmed dairy products, but also high and inappropriate consumption of full-fat dairy products in men and women (37% and 17.8%, respectively). Daily intake of fruits and vegetables was in 85.9% of women and 64.7% of men. Everyday intake of bread and pastries was confirmed by 100% of respondents. Lifestyle was evaluated according to the presence of smoking, excessive alcohol consumption, and physical activity. Up to 60.5% of men and 26.4% of women admitted smoking, while 34.6% of men and 7.5% women ended up with the habit after myocardial infarction. The excessive alcohol consumption was not detected in the study group. Approximately 67% of men and 56% of women carry out an easier walking and moderate physical activity while taking into account their health status</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/490/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

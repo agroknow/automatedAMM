@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012810">
+    <dc:title xml:lang="en">Lepidoptera in the soil samples from submountane beech forest</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Motýle (Lepidoptera) v pôdnych vzorkách z podhorskej bučiny</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Stašiov Slavomír</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kulfan Ján</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email: stasiov@tuzvo.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lepidoptera</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fagus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4268</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3062</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2779</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The paper brings results of study on Lepidoptera assemblages in submontane beech forest situated in the Kováčovská dolina valley (near Zvolen town, central Slovakia). Research was focused on a comparison of two methods (pitfall trapping and method of squares) that are most commonly used in research of epigeon. In total, 30 individuals belonging to 12 species of 4 families were obtained during 2 years (1997, 1998) of the study. Material of Lepidoptera obtained by both methods was poor in terms of the number of individuals as well as number of recorded taxa and it does not represent Lepidoptera assemblages of studied habitats sufficiently. Our results confirmed assumption, that the detailed study of moths as a part  of the temporary edaphon requires use of specialized field trapping methods.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/FEE/fakulta_fee/afe/afe_29.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta Facultatis Ecologiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-300X</ags:citationIdentifier>
+      <ags:citationNumber>v.29/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

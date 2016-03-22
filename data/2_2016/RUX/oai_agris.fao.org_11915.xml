@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X11915">
+    <dc:title xml:lang="en">Dynamics of mineral elements in tissues of cows when including zeolite raw material in their  diet</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Динамика минеральных элементов в тканях коров при включении в их рацион цеолитового сырья</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Dezhatkina S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lyubin N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dezhatkin M.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">zeolites</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Supplementary feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1939</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15928</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6461</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7522</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2 tables,12 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The research was conducted on dairy cows of dairy-trade farm of v. Oktyabrsky of Cherdakly district of Ulyanovsk region. Cows were formed in groups by a method of mini herds, the control (200) and experimental (100). The first group received the basic diet (BD) and the second BD + 2% of marl from the ration of dry matter. The results of the research showed that the addition of zeolite containing marl in the diet of dairy cows increases the intensity of mineral metabolism in their body, normalizing the level of macroelements (Ca, P, Mg) in their blood and enhancing the efficiency of Fe and trace elements (Cu and Zn) in the metabolic processes of the body. Positive changes in physiological and biochemical status of the cows under the influence of marl helped increase their milk production by reducing the cost of production of milk. The model of the feed mixer is developed and proposed. Thus, the use of zeolite containing marl as a mineral supplement for lactating cows enhances the efficiency of dairy cattle.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучали влияния энтеросорбента - цеолитсодержащего мергеля Сиуч-Юшанского месторождения на концентрацию минеральных элементов в тканях у коров, вели учет молочной продуктивности. 
+ Исследования проводились на молочных коровах молочно-товарной фермы п. Октябрьский Чердаклинского района Ульяновской области. Коров формировали в группы по методу мини стада, контроль (200 голов) и опыт (100 голов). Первая группа получала основной рацион хозяйства (ОР), а вторая - ОР + 2% мергеля от сухого вещества рациона. Результаты исследования показали, что добавление цеолитсодержащего мергеля в рацион молочных коров повышает интенсивность минерального обмена в их организме, нормализуя уровень макроэлементов (Ca, Р, Mg) в их крови и повышая эффективность использования Fe и микроэлементов (Cu и Zn) в метаболических процессах организма. Положительные изменения физиолого-биохимического статуса коров под влиянием мергеля способствовали увеличению их молочной продуктивности при снижении затрат на производство молока. Разработана и предложена модель смесителя кормов при подготовки их к скармливанию. Таким образом, использование цеолитсодержащего мергеля в качестве минеральной добавки для лактирующих коров способствует повышению эффективности ведения молочного скотоводства.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-15-Dezhatkina.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(30)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

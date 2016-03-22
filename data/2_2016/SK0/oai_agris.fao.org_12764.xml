@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012764">
+    <dc:title xml:lang="en">Study of antioxidant and antimicrobial properties of grapevine seeds, grape and rosehip pressings</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Jakubcová Zuzana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Horký Pavel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dostálová Lenka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sochor Jiří</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tomášková Lenka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Baron Mojmír</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kalhotka Libor</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zeman Ladislav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">grapes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rose hips</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antimicrobial properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3359</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_50142</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26756</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In our experiment, we studied the antimicrobial and antioxidative effect of phytogenic additives. Three additives (grapevine seeds, grape and rosehip pressings) were selected to be monitored. The extracts about concentrati ons of 1:3 and 1:5 were prepared from them. The monitoring of antimicrobial properties was focused on the pathogenic bacteria Clostridium perfringens and Escherichia coli causing a serious disease in avian species. The bacteria were prepared in the dilutions of 102, 104 and 106. The antimicrobial effect was observed in the inhibition zones. The antioxidant activity was determined using DPPH method within the antioxidant analysis. Furthermore, the content of flavanols, hydroxy cinnamic acids and the total content of polyphenolic  compounds was also determined. In the monitoring of the antimicrobial effect of grapevine seeds, grape and rosehip pressings at E. coli, a reduced growth of KTJ (colony forming units) was observed in the disk area during  the dilution of 106 and  104. Reduced growth of C. perfringens at a dilution of 106 was  noticed using the extracts of grapevine seeds and grape pressings. Low reduced growth of C. perfringens at a dilution of 106 was  found out using rosehip pressings. In a dilution of 102 and  104 in C. perfringens and 102 in E. Coli,a very low increase of KTJ was observed  therefore  the zones of inhibition were not possible to measure. In all monitored additives, the antimicrobial effect was proved. The additives reduced  the growth of pathogenic  E. coli and C.perfringens.Within the antioxidant analysis,the highest antioxidant activity was  found out in grapevine seeds (7.021 g.L-1GAE), which also contained the highest content of  flavanols (3000 times higher than the rosehip pressings and 300 times higher than grapevine seeds pressings), hydroxycinnamic acids(1000  times higher than in grape pressings and 7600 times higher than in rosehip pressings) and the total content of polyphenolic  compounds (580 times higher  than grape pressings and 2000 times higher  than the rosehip pressings) of the monitored additives</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/503/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

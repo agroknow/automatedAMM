@@ -1,0 +1,71 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09399">
+    <dc:title xml:lang="ru">ГОСУДАРСТВЕННАЯ ПОДДЕРЖКА СЕЛЬСКОХОЗЯЙСТВЕННОГО ПРОИЗВОДСТВА В РЕГИОНАХ СЕВЕРА РОССИИ: БЮДЖЕТНАЯ ЭФФЕКТИВНОСТЬ МЕР В СВЕТЕ СТРАТЕГИЧЕСКИХ ЦЕЛЕЙ РАЗВИТИЯ СТРАНЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STATE SUPPORT OF AGRICULTURAL PRODUCTION IN REGIONS OF THE NORTH OF RUSSIA: THE BUDGETARY EFFICIENCY OF MEASURES IN THE LIGHT OF STRATEGIC OBJECTIVES OF DEVELOPMENT OF THE COUNTRY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>КАБИР Л.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ЛУЖКИНА И.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>КУДРЯВЦЕВА Л.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Научно-исследовательский финансовый институт</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E14</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">budgets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">strategies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">development policies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1134</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330991</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2481</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2228</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14003</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье в центре внимания находится институт госпрограмм. Рассмотрены отдельные меры Государственной поддержки сельскохозяйственного производства в регионах Севера России, выявлены тенденции, характерные для современного состояния и развития отрасли и определены проблемные зоны. Цель - продемонстрировать трудности в оценке обоснованности и эффективности мер господдержки в рамках отдельно взятой госпрограммы, влекущие за собой риски неэффективного расходования бюджетных средств. Обосновывается необходимость совершенствования принципов государственного управления. Формулируются предложения, способствующие повышению эффективности бюджетной политики.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In article in the center of attention there is an institute of state programs. Separate measures of the State support of agricultural production in regions of the North of Russia are considered, tendencies are revealed, characteristic for a current state and developments of branch and are defined problem zones. The purpose - to show difficulties in an assessment of validity and efficiency of measures of state support within separately taken state program, involving risks of an inefficient expenditure of budgetary funds. Need of improvement of the principles of public administration locates. The offers promoting increase of efficiency of the budgetary policy are formulated.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/09/27-%D0%A7%D0%B0%D1%81%D1%82%D1%8C-2.pdf#page=23</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.8 (27)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012510">
+    <dc:title xml:lang="en">The effect of drying on antioxidant activity of selected lamiaceae herbs</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Adámková Anna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kouřimská Lenka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kadlecová Barbora</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">food processing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">drying</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37969</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2402</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Antioxidant activity and total phenolics content of selected fresh and dried herbs from the Lamiaceae family were compared. The analysed herbs included Thymus vulgaris, Origanum vulgare, Satureja hortensis, Origanum majorana, and Origanum heracleoticum from the 1st and the 2nd harvests. The antioxidant activity was determined using DPPH method and the total content of phenols was analysed using the Folin-Ciocalteu reagent. Ascorbic and gallic acids were used as reference standards. All the analysed herbs had the reasonable potential to reduce the DPPH radical. The dried herbs from the 2nd harvest had the highest antioxidant activity. Oregano exhibited the highest antioxidant activity from the analyzed samples of both harvests together. The descending order of the samples was oregano ˃ Greek oregano ˃ marjoram ˃ summer savory ˃ thyme. Marjoram from the 2nd harvest had the highest antioxidant activity from the fresh samples. The lowest activity was observed in thyme from the 2nd harvest. In case of dried samples, the highest antioxidant activity was measured in sample of Greek oregano from the 2nd harwest. The lowest activity was observed in thyme from the 1st and 2nd harvest again. The descending order of total phenolics content for both harvests together was oregano ˃ Greek oregano ˃ marjoram ˃ summer savory ˃ thyme. In case of fresh herbs the highest total phenolics content was measured in oregano from the 1st harvest, the lowest content was measured in summer savory from the 2nd harvest. Greek oregano from the 2nd harvest had the highest values from dried herbs. Dried thyme from the second harvest had the lowest total phenolics content. The correlation between the DPPH values and the total content of phenols was determined (for fresh herbs: 0.4917</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">for dried herbs: 0.8698). According to the total content of phenols a statistically significant difference between the fresh and dried herbs from the 2nd harvest (p = 0.0185) was found.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/474/pdfq</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

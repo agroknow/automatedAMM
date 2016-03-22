@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08778">
+    <dc:title xml:lang="ru">ЭВОЛЮЦИЯ НАУЧНЫХ ВЗГЛЯДОВ НА РОЛЬ ГЕОГРАФИЧЕСКОГО (ПРИРОДНОГО) ФАКТОРА В РАЗВИТИИ ОБЩЕСТВА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EVOLUTION OF SCIENTIFIC VIEWS ON THE ROLE OF THE GEOGRAPHICAL FACTOR IN THE DEVELOPMENT OF A SOCIETY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>МАЦА К.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ЛОГВИН М.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ЛИТОВЧЕНКО И.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Полтавский университет экономики и торговли</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">B10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">C10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sociology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7142</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье показана эволюция научных взглядов на роль географического (природного) фактора в развитии общества. Анализируются научные воззрения на роль географического (природного) фактора в организации общества и общественного производства от античности до настоящего времени. Рассматриваются современные тенденции в оценках роли географического (природного) фактора в развитии общества.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present article is concerned with the evolution of scientific views on the role of the geographical factor. Scientific views on the role of the geographical factor. Scientific views on the role of the geographical factor in the formation of a society and social production from antiquity till present are explores modern tendencies in the assessment of the geographical factor in the development of a society are examined.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/02/1-3-20.pdf#page=90</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.1 (20)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,93 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202079">
+    <dc:title xml:lang="en">Water restriction and seed coating in the microbiolization of maize seeds with Trichoderma spp.</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Restrição hídrica e peliculização na microbiolização de sementes de milho com Trichoderma spp.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Junges Emanuele</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bastos Bruna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Toebe Marcos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Muller Juceli</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pedroso Daniele</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Muniz Marlove</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Santa Maria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Zea mays</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Osmoconditioning</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Germination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Biological control</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8504</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35311</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_918</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to evaluate the effect of seed microbiolization with Trichoderma spp. techniques associated with water restriction and film coating on the physiological performance of maize seed. The treatments were: T1 - Spore suspension: we used the commercial product Agrotrich
+® plus (0.1 g in 1 ml water/100 seeds), T2 - Water restriction: it was performed on PDA + mannitol (- 0, 7 MPa) on which was grown and sporulated Trichoderma spp. disinfected seeds were distributed 100 on each plate. When was the first seed root protrusion, the others were removed and dried in a
+laboratory environment for 48 h, T3 - Pelliculation: performed with the addition of the polymer Color Seed (50 mL kg-1) to the pesticide treatment containing Trichoderma spp. The seeds were dried for 48 h in a laboratory environment. T4 - Water restriction and film coating: after the seeds were primed in the presence of the fungus was made with polymer coverage</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">T5 - Untreated seeds. The use of water restriction provided efficient microbiolization seeds with Trichoderma spp. with increased control of fungi. The association of water restriction and film coating provided control of fungi and
+kept the vigor of maize seedlings. The use of Trichoderma spp. promoted an increase in seedling vigor of maize, regardless of technique used microbiolization, demonstrating the benefits of this fungus when applied to corn seeds.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Objetivou-se avaliar o efeito da microbiolização de sementes com Trichoderma spp. associada às técnicas de restrição hídrica e peliculização sobre o desempenho fisiológico de sementes de milho. Os tratamentos utilizados foram: T1 - Suspensão de esporos: foi utilizado o produto comercial
+Agrotrich® plus (0,1 g em 1 mL de água/100 sementes)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">T2 – Restrição hídrica: foi realizada em meio BDA + manitol (- 0,7 MPa) sobre o qual estava crescido e esporulado o fungo Trichoderma spp., foram distribuídas 100 sementes desinfestadas em cada placa. Quando houve protrusão
+radicular na primeira semente, as demais foram retiradas e secas em ambiente de laboratório por 48 h</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">T3 – Peliculização: foi realizada com a adição do polímero Color Seed (50 mL kg-1) à calda de tratamento contendo Trichoderma spp. As sementes foram secas por 48 h em ambiente de laboratório. T4 – Restrição hídrica e peliculização: após as sementes terem sido condicionadas na presença do fungo foi realizada uma cobertura com polímero</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">T5 – Sementes sem tratamento.
+O uso da restrição hídrica proporcionou eficiente microbiolização de sementes com Trichoderma spp. com aumento do controle de fungos associados. A associação da restrição hídrica e da peliculização proporcionou controle de fungos associados e manteve o vigor das plântulas de milho.
+O uso de Trichoderma spp. promoveu aumento no vigor das plântulas de milho, independente da técnica de microbiolização utilizada, demonstrando os benefícios deste fungo quando aplicado às sementes de milho.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/386/230</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

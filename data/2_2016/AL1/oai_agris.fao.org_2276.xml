@@ -1,0 +1,32 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102276">
+    <dc:title xml:lang="en">Effect of essential oils on Penicillim digitatum growth</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mamoci Erjon</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kapidani Myzafer</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Agricultural University of Tirana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">citrus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1637</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Penicillium digitatum (green mould) is one of the main pathogens of citrus fruits causing great losses during storage. Different technologies and methods are used to maintain the quality of stored citrus fruits and reduce the losses caused by green mould. Application of fungicides in pre- and postharvest is the main method to reduce losses from this pathogen. Nowadays, application of synthetic fungicides is becoming debatable because of the residues in final product and the development of resistant strains of the pathogen due to their continuous application. Natural products, such as essential oils could be used as an alternative to these fungicides aiming at partial or total replacement without having any of the above mentioned problems. In this study, different commercial essential oils from Albanian medicinal plants were tested for their activity in volatile phase against P. digitatum. Under in vitro experiments the essential oils were used at 0.28g/L air, to test the inhibition of mycelial growth. Under in vivo experiments the essential oils were used at 0.52g/L air to test the incidence and diameter of the lesion on artificially inoculated orange fruits. In vitro experiments demonstrated that essential oils of Thymus spp., Origanum vulgare and Satureja montana inhibited the mycelial growth of the pathogen after seven days at 24°C (total inhibition), while Salvia officinalis, Laurus nobilis and Juniperus communis oils promoted the growth of the fungus compared to control. The activity of all essential oils was fungistatic. In in vivo conditions, the tested oils of Thymus spp., O. vulgare, S. montana did not show inhibitory activity. However, other methods of application (contact), better oil volatization or higher doses are needed to determine their inhibitory activity. A chemical characterization of oils is also necessary to correlate it with the activity.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

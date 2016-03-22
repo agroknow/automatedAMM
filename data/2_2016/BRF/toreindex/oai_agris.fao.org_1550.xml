@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01550">
+    <dc:title xml:lang="en">Correlations between hematological, parasitological patterns and animal performance of sheep supplemented with protected fat</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Correlações entre padrões hematológicos</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>parasitológicos e desempenho animal de ovelhas suplementadas com gordura protegida</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>AFONSO,  V. A. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COSTA,  R. L. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOARES FILHO,  C. V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CUNHA,  E. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PERRI,  S. H. V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BONELLO,  F. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DAVID,  C. M. G</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2010-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Polyunsaturated fatty acids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Gentianales</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Helminths</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sheep</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29254</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11124</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3549</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The development of populations of gastrointestinal parasites resistant to antihelmintics has led to seeks new alternatives its control. Stimulation of natural immunity by means of animal nutrition has shown promising results in controlling nematodes in sheep. The addition of protected fat sources, containing essential fatty acids, may be an alternative due to many effects, among them, regulation of immunity expression and regulation of the inflammatory response by immune effectors. The aim of this study was to estimate correlations between haematological and parasitological patterns, animal performance through weight and body condition, under the influence of protected fat in ewes. Fifty Santa Ines sheep, in the final third of pregnancy or postpartum, in paddocks of Panicum maximum, received, individually, 200 g per day of concentrate, isonitrogenous and isocaloric diets, with or without the addition of protected fat. In general, except for total leukocytes and eosinophils, almost all of Pearson correlation coefficients of other variables were significant. However, the protected fat, in the amount offered, had no antihelmintic effect.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O desenvolvimento de populações de parasitas gastrintestinais resistentes aos anti-helmínticos, tem como conseqüência a realização de pesquisas que identifiquem novas alternativas de controle. A estimulação da imunidade natural em ovinos, por meios nutricionais tem mostrado resultados bastante promissores no controle dos nematoides em ovinos. A adição de fontes de gordura protegida, contendo ácidos graxos essenciais, pode ser uma alternativa, por seus muitos efeitos, entre eles, a regulação da expressão da imunidade e regulação da resposta inflamatória pelos imuno-efetores. O objetivo desse trabalho foi estimar as correlações entre padrões hematológicos, parasitológicos e o desempenho animal através do peso e condição corporal de ovelhas, sob a influência da gordura protegida em ovelhas. Cinquenta ovelhas da raça Santa Inês, no terço final de gestação ou no periparto, em piquetes de Panicum maximum, receberam, individualmente, 200 g por dia de concentrado, com dietas isoproteicas e isoenergéticas, com ou sem adição de gordura protegida. De modo geral, com exceção dos leucócitos totais e eosinófilos, quase todos os coeficientes de correlação de Pearson das outras variáveis foram significativos. No entanto, a gordura protegida, na quantidade oferecida, não teve efeito anti-helmíntico.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1302293069.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.67/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

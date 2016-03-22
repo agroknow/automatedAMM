@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016109732">
+    <dc:title xml:lang="en">Molecular Diversity and Genetic Structure of Durum Wheat Landraces</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SHIKHSEYIDOVA GULNAR</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>AKHUNDOVA ELLADA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>QULIYEV RAUF</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ESHGHI ROHAM</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SALAYEVA SAMIRA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OJAGHI JAVID</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Biotechnology, Genetic Resources Institute of Azerbaijan National Academy of Sciences, Baku, Azerbaijan</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">To determine the genetic diversity of durum wheat, 41 accessions from Morocco, Ethiopia, Turkey, Lebanon,
+Kazakhstan, China, and Mongolia were analyzed through Inter-Simple Sequence Repeats (ISSR) molecular
+markers. Out of the used twenty primers, 15 primers that included a considerable polymorphism were selected for
+the analyses. Among the genotypes under study, 163 fragments (73.7%) were polymorph. Several indexes were
+used to determine the most appropriate primers. While UBC812, UBC864, UBC840, and UBC808 primers were
+among those markers which produced the highest number of bands and polymorphic bands, they also dedicated the
+highest rate of polymorphic index content (PIC). These primers also possessed the highest amounts of effective
+multiplex ratio (EMR) and marker index (MI). Therefore, these primers can be recommended for genetic evaluation
+of the durum wheat. The results of cluster analysis and principle component analysis indicated that the observed
+genetic diversity in wheat materials under study is geographically structured. The results also indicated that the
+genetic diversity index based on ISSR markers was higher for Turkey, Lebanon, Morocco, and Ethiopia accessions
+than for other countries. The high level of polymorphism in this collections durum wheat would agree with the
+suggestion that Fertile Crescent and parts of Africa are first possible diversity center of this crop.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_2_2015_files/6_GULNAR%20pp%20112-120.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10816">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ УДОБРЕНИЙ И СТИМУЛЯТОРОВ РОСТА НА ВЛАГООБЕСПЕЧЕННОСТЬ ПОСЕВОВ И ПРОДУКТИВНОСТЬ СОРТОВ ОЗИМОЙ ПШЕНИЦЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INFLUENCE OF FERTILIZERS AND GROWTH FACTORS ON WATER SECURITY OF CROPS AND EFFICIENCY OF GRADES OF WINTER WHEAT</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Авдеенко А.П.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ФГБОУ ВПО «Донской Государственный аграрный университет»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Winter wheat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth factors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biological activity in soil</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8412</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36557</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9264</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрены результаты исследований по влиянию минеральных удобрений и стимуляторов роста на
+влагообеспеченность посевов, биологическую активность почвы и урожайность сортов озимой пшеницы в условиях
+Ростовской области. Установлено влияние совместного применения удобрений и стимуляторов роста на увеличение
+суммарного водопотребления растениями озимой пшеницы до 242-244 мм, на снижение коэффициента
+водопотребления до 50,1-51,9. Применение только стимуляторов роста повышает урожайность озимой пшеницы в
+зависимости от сорта с 3,05-3,52 т/га до 3,76-4,28 т/га, совместное применение минеральных удобрений и
+стимуляторов роста – до 4,71-4,83 т/га. Подобран наиболее эффективный стимулятор роста для повышения
+биологической активности почвы. Результаты исследований рекомендуются для использования хозяйствами
+Ростовской области при выращивании озимой пшеницы.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In article results of researches on influence of mineral fertilizers and growth factors on water security of crops, biological
+activity of the soil and productivity of grades of winter wheat in the conditions of the Rostov region are considered. Influence
+of combined use of fertilizers and growth factors on increase in total water consumption by plants of winter wheat to 242-244
+mm, on decrease in coefficient of water consumption to 50,1-51,9 is established. Application only of growth factors increases
+productivity of winter wheat depending on a grade from 3,05-3,52 t/hectare to 3,76-4,28 t/hectare, combined use of mineral
+fertilizers and growth factors – to 4,71-4,83 t/hectare. The most effective growth factor for increase of biological activity of the
+soil is picked up. Results of researches are recommended for use by farms of the Rostov region at cultivation of winter wheat.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/09/8-4-39.pdf#page=6</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4 (39)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

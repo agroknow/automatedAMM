@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102705">
+    <dc:title xml:lang="en">A Seroepidemiological Survey of Crimean Congo Hemorrhagic Fever among Goats and Sheep in Lezhe Torovica Province, Albania</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LUGAJ ARTA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KONI MYNYR</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SCHUSTER ISOLDE</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BËRXHOLI KRISTAQ</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Biology, University of Vlora “Ismail Qemali”, Vlora, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Biology, University of Tirana, Tirana, Albania3</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Friedrich-Loeffler-Institut, Greifswald, Germany</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Veterinary Public Health, Agricultural University of Tirana, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-09</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nairovirus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bunyaviridae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35642</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1150</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Crimean-Congo hemorrhagic fever (CCHF) is a zoonotic vector-born viral disease with a case fatality rate of 2-50% in human. CCHFV is classified within the Nairovirus genus in the Bunyaviridae family. The virus is endemic in over 30 countries, including Albanian. Animals can infect by virus without clinical symptoms.. The virus can be transmitted mainly through direct contact with blood or tissues from infected livestock or through bites of Hyalomma ticks. The aim of this study was to examine the distribution of CCHFV among sheep and goats in Lezha-Torovica region of Albania. This survey was carried out in 2013. In all, 50 blood samples were taken from the jugular veins of the sheep, and 50 blood samples were taken from the jugular veins of the goats. The samples were immediately taken to the laboratory and their serum extracted, separated by a centrifuge with 3500 rpm in 10 minutes. They were kept in the Faculty of Veterinary Medicine, Agricultural University of Tirana, at a temperature below 20°C until analysis and tested with immunological methods using indirect ELISA assay in Friedrich-Loeffler Institute (FLI), Greifswald Germany. Through this technique it was possible to identified IgG antibodies in infected serum samples. The prevalence of this infection in animals is obviously different, in goats is higher than in sheep, respectively 90% and 24%. It is recommended that further studies be carried out on additional livestock, high-risk groups of humans, and ticks, to determine the CCHF disease status in Lezha-Torovica.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_2014_3_file/5_ARTA%20LUGAJ%20%20AJAS_N3_pp%2028-31.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

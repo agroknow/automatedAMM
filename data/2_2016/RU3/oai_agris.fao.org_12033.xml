@@ -1,0 +1,26 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016312033">
+    <dc:title xml:lang="ru">Направления повышения конкурентоспособности зернопроизводства в регионе</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Панов А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Малофеев А.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E21</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье представлены результаты исследования конкурентной стратегии зернопроизводителей Волгоградской области, дана характеристика фактического состояния производства зерна в регионе, классифицированы затраты зернопроизводителей, представлен анализ использования навоза в качестве органического удобрения, как одного из вариантов повышения урожайности, рекомендованы направления повышения конкурентоспособности, реализация которых, будет способствовать усилению конкурентных преимуществ зернопроизводства региона. Анализ данных в статье произведен с использованием системного подхода Результаты анализа могут быть использованы при разработке практических рекомендаций повышения конкурентоспособности зернопроизводства региона.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Экономика и предпринимательство</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1999-2300</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.9-2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

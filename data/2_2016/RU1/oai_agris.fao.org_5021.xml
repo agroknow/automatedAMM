@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016105021">
+    <dc:title xml:lang="en">Physiology and ion relations in response to salinity in Trifolium isthmocarpum Brot. and Lotus  ornithopodioides L.</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bennani Kawtar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bendaou Najib</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">resistance to salinity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25189</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27000</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Salt tolerance in Moroccan ecotypes of Trifolium isthmocarpum Brot. and Lotus ornithopodioides L. were evaluated in greenhouse and compared with Australian cultivar : Trifolium michelianum Savi. Paradana. Plants were submitted to three irrigation treatments using concentrations 0 mM, 80 mM and 200 mM of NaCl, during 3 months. The effects of salinity on growth, dry matter production, shoot and root ion relations, leaf water relation and gas exchange were determined. Under stressed conditions, T. isthmocarpum was more salt tolerant (p &lt; 0.001) with a greater survival rate and good dry matter production, than L. ornithopodioides and T. michelianum. To tolerate salinity, T. isthmocarpum and T. michelianum developed a Cl- exclusion mechanism. However, the Cl- exclusion was more important in T. isthmocarpum than T. michelianum. On the other hand, T. isthmocarpum accumulated more K+ in shoots than other species, when exposed to moderate and high levels of salinity. At 200 mM of NaCl, the stress promoted a substantial degree of stomatal regulation</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">but, in spite of this, L. ornithopodioides showed signs of leaf tissue dehydration, decreases in relative water content and osmotic potential values.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N4/JSPB_2014_4_25-41.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

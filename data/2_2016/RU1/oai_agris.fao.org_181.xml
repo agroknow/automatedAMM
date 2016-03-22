@@ -1,0 +1,44 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100181">
+    <dc:title xml:lang="en">FUNCTIONAL SPECIALIZATION OF DUPLICATED FLAVONOID BIOSYNTHESIS GENES IN WHEAT</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Khlestkina E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tereshchenko O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Anthocyanins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8840</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Gene duplication followed by subfunctionalization and neofunctionalization is of a great evolutionary importance. In plant genomes, duplicated genes may result from either polyploidization (homoeologous genes) or segmental chromosome duplications (paralogous genes). In allohexaploid wheat Triticum aestivum L. (2n=6x=42, genome BBAADD), both homoeologous and paralogous copies were found for the regulatory gene Myc encoding MYC-like transcriptional factor in the biosynthesis of flavonoid pigments, anthocyanins, and for the structural gene F3h encoding one of the key enzymes of flavonoid biosynthesis, flavanone 3-hydroxylase. From the 5 copies (3 homoeologous and 2 paralogous) of the Myc gene found in T. aestivum , only one plays a regulatory role in anthocyanin biosynthesis, interacting complementary with another transcriptional factor (MYB-like) to confer purple pigmentation of grain pericarp in wheat. The role and functionality of the other 4 copies of the Myc gene remain unknown. From the 4 functional copies of the F3h gene in T. aestivum , three homoeologues have similar function. They are expressed in wheat organs colored with anthocyanins or in the endosperm, participating there in biosynthesis of uncolored flavonoid substances. The fourth copy (the B-genomic paralogue) is transcribed neither in wheat organs colored with anthocyanins nor in seeds, however, it’s expression has been noticed in roots of aluminium-stressed plants, where the three homoeologous copies are not active. Functional diversification of the duplicated flavonoid biosynthesis genes in wheat may be a reason for maintenance of the duplicated copies and preventing them from pseudogenization.
+The study was supported by RFBR (11-04-92707). We also thank Ms. Galina Generalova for technical assistance.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S5.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

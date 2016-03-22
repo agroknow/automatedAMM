@@ -1,0 +1,35 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016308804">
+    <dc:title xml:lang=" ">Analysis and prospects of development of small business sector in agrarian sphere of economy of the Volgograd region</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Popova L.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Skiter N.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Korobeinikov D.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Donskova О.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bogdanov A.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Analysis of small enterprises in rural areas in the Volgograd region, conducted in this article. In agricultural production small forms of management play an important role not only in the manufacturing sector, but also in the preservation and development of rural areas. Today subjects of small farms agrarian sector of Russian’s economy are faced with a number of organizational problems, economic and social nature. The authors proved the need for increased state support measures for small businesses in rural areas, proposed additional measures, which should provide government funding: grants for the establishment and development of pro-cessing facilities for agricultural products on the basis of co-operatives, reimbursement of expenses related to non-agricultural activities in rural areas, support for non-profit partnership "Volgograd agrifood market" to work with small forms of management of agriculture and other.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.1-2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

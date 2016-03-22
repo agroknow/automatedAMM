@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01489">
+    <dc:title xml:lang="en">Nutritional value of peanut hay at different cutting ages</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Valor nutritivo do feno de amendoim forrageiro em diferentes idades de corte</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>FERNANDES, G. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POSSENTI,  R. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERRARI JÚNIOR,  E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PAULINO,  V. T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Arachis pintoi</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">animal nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33617</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27925</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the dry matter content in related to the time of dehydration in the shed, the crude protein content, mineral matter, neutral detergent fiber and acid andin vitro digestibility of the legume Arachis pintoi cv. Belmonte, in three cut. The experiment was installed in an area of 0,5 ha-1, already deployed with Arachis pintoi cv. Belmonte at Institute of Animal Science Pastures, Nova Odessa, São Paulo. The experimental design was randomized block design with three replications. The treatments were three cut (30, 60 and 75 days of growth). We evaluated the dry matter content of Arachis pintoi cv. Belmonte, with samples collected at 0, 2, 4, 6, 8, 24 and 30 hours of dehydration in the shed. Variables neutral detergent fiber and acid detergent fiber increased with advancing age of the plant. There was a decrease in crude protein and mineral matter. The age cut-off had no effect on digestibility in vitro. Increases in dry matter content with increasing age of the cuts, and water loss was more speed in the early hours of dehydration. The legume hay presented great nutritional characteristics, with high crude protein and fiber contents appropriate, being an excellent choice of forage for ruminants, even in the most advanced cutting ages.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Realizou-se este trabalho visando à avaliação do teor de matéria seca em relação ao tempo de desidratação em galpão, o teor de proteína bruta, de matéria mineral, de fibra em detergente neutro e ácido e a digestibilidadein vitro da leguminosa Arachis pintoi cv. Belmonte, em três idades de corte. O experimento foi instalado em área de 0,5 ha-1, já implantado com Arachis pintoi cv. Belmonte no Instituto de Zootecnia, Nova Odessa, São Paulo. O delineamento experimental utilizado foi de blocos ao acaso, com seis repetições. Os tratamentos avaliados foram três idades de corte (30, 60 e 75 dias de crescimento). Avaliou-se o teor de matéria seca do Arachis pintoi cv. Belmonte, com amostras coletadas nos tempos 0, 2, 4, 6, 8, 24 e 30 horas de desidratação em galpão. As características da forragem avaliadas foram fibra em detergente neutro e fibra em detergente ácido que se elevaram com o avanço da idade da planta. Houve decréscimo nos teores de proteína bruta e de matéria mineral. As idades de corte não tiveram efeito sobre a digestibilidade in vitro. Houve aumento no teor de matéria seca com o avanço na idade dos cortes, sendo que a perda de água ocorreu com maior velocidade nas primeiras horas de desidratação. O feno da leguminosa apresentou ótimas características nutricionais, com elevados teores de proteína bruta e teores de fibra adequados, sendo uma excelente opção de forrageira para ruminantes, mesmo nas idades de corte mais avançadas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1340909506.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.68/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

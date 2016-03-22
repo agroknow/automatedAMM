@@ -1,0 +1,113 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F00581">
+    <dc:title xml:lang="en">Degradability of dry matter and crude protein of dry grains and wet grain silages from different processing corn hybrids (Zea mays)</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Degradabilidade da matéria seca e da proteína bruta de grãos secos e de silagens de grãos úmidos de híbridos de milho (Zea mays)</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>submetidos a diferentes processamentos.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>REIS, W.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COSTA, C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MEIRELLES,  P. R. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA,  M.G. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FACTORI,  M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HADLICH,  J. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTANA,  E. A. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PARIZ,  C. M</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA, J. A. V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">silage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ruminants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">degradation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nutritive value</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7060</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6695</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2159</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1326100966995</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5278</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this work was to evaluate the effect of processing two corn hybrids
+conserved, dry and humid grains, the dry matter (DM) and crude protein (CP) degradability in
+situ. The particle size was determined and difference was verified in MGD (Medium Geometric
+Diameter) of processed ingredients. Three sheep were used with rumen canulated, in a completely
+randomized design, using a factorial outline 2 x 2 x 3, being two corn hybrid, two conservation
+methods and three processing forms (whole, coarsely and finely ground), with five times of
+incubation (3, 6, 12, 24 and 48 hours). The fraction A in SDC (silage of dent corn) of DM was
+superior to GDC (grain of dent corn) in all of the particles size. The ensiling process increased the
+DM solubility, reducing the fraction B in comparison to dry grain. The values regarding the
+fractions DP and DE the 5% per hour of the protein, were larger for SDC and GDC, it presents a
+decreasing when the incubation time advances. The fermentation rate was superior for SDC and
+GDC. The ensiling process has positive effect in the decreasing of DM and CP in comparison to
+GDC</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Este trabalho avaliou o efeito do processamento em dois híbridos de milho secos e
+ensilados úmidos, sobre a degradabilidade in situ da matéria seca (MS) e da proteína bruta (PB). A
+granulometria apresentou diferença no DGM (Diâmetro Geométrico Médio) dos ingredientes
+submetidos à moagem. Foram utilizados três ovinos fistulados no rúmen, em delineamento
+inteiramente casualizado, em esquema fatorial 2 x 2 x 3, sendo dois híbridos de milho (textura
+dura e mole), dois métodos de conservação e três processamentos (moído grosso, médio e fino),
+com cinco tempos de incubação (3, 6, 12, 24 e 48 horas). Os valores da fração A na SMM (silagem de
+milho mole) da MS foram superiores ao GMM (grão de milho mole) em todas as granulometrias.
+A ensilagem aumentou a solubilidade da MS dos ingredientes, diminuindo a fração B comparada
+ao grão seco. Os valores das frações DP e DE a 5%/h da proteína foram maiores para SMM e GMM,
+apresentando maior desaparecimento com avanço do tempo de incubação. Para a MS a ensilagem
+aumentou a degradabilidade do milho textura mole. A taxa de fermentação foi superior para
+SMM e GMM. A ensilagem influencia positivamente no desaparecimento da MS e PB comparada
+com o GMM</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1389723086.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

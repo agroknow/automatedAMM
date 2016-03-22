@@ -1,0 +1,37 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016104543">
+    <dc:title xml:lang="en">The Inventory of Phytoseiid Mite on Apple Orchards in Durrës, Albania</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SUPARAKU AURELA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HUQI ARIS</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HAKA (DURAJ) NATASHA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Departament of Plant Protection, Faculty of Agriculture and Environment, Agricultural University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Albania</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_241</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A survey to determine the presence and abundance of phytoseiid mite on apple orchards has been conducted in Durres (Shena-Vlash), Albania. Leaf samples were taken from five apple varieties: Pink Lady, Golden, Starking, Fuji, Gala and the phytoseiid were then extracted. As the result of the survey, two species belonging to the Phytoseiidae family were identified: Amblyseius andersoni (Chant) and Typhlodromus pyri (Scheuten). Amblyseius andersoni was found in all apple varieties analyzed in this study whereas Typhlodromus pyri was found in two apple varieties: Fuji and Gala. Differences in abundance of the phytoseiid mite among apple varieties and months on study were observed. Phytoseiids were more abundant in June with population declining in the middle of summer and remaining at very low levels through the fall. The most populated apple varieties with phytoseiids was Starking. Amblyseius andersoni was the dominant species whereas Typhlodromus pyri was found in lower numbers. In total through the whole investigation period we found 685 phytoseiids (92%) belonging to Amblyseius andersoni and 62 phytoseiids (8%) belonging to Typhlodromus pyri.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_2014/6_Aurela%20Suparaku_pp%2031-34.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

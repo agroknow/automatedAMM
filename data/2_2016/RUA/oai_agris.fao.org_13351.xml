@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A13351">
+    <dc:title xml:lang="en">STUDY OF THE FORCES IN THE RIGGING OF A FLOATY BILEVEL RAFTING UNIT</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ИССЛЕДОВАНИЕ УСИЛИЙ В ТАКЕЛАЖНОЙ ОСНАСТКЕ ПЛАВАЮЩЕЙ ДВУХЯРУСНОЙ ПАКЕТНОЙ СПЛОТОЧНОЙ ЕДИНИЦЫ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>POSYPANOV Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Northern (Arctic) Federal University named after M.V. Lomonosov</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">J12</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Usage of bilevel rafting units creates new possibilities and advantages in round wood transportation, which is proved in practice. Research was carried out with the aim to maintain the integrity of raft units when transportation. The problems on derivation of the formula and recommendations grounding to define rated force in rigging of raft units were solved in order to achieve the goal of the research. Research technique is theoretical. The tested method based on the theory of elastics and loose medium was used. Results. The concept “relative typical height” was introduced, and dependence of relative typical height of lower packages on their coefficient of form was shown. The equation, approximating this dependence, was obtained. Thus, the position of low piezometric plane, corresponding to the zero pressure in the loose medium of underbody of bundle was determined. Based on the idea of pressure balance in the loose medium of above and under water, the position of the very similar piezometric plane for the above water portion of bundle was calculated. The expressions to calculate vertical and lateral pressure of the loose medium in the  characteristic points of high longitudinal cross section of bundle was obtained. Dependences to determine the power of thrust in the packages above and under water were offered. As a result, the general formula for calculation of the force in upper and lower branches of bundles of packages (the concept of the rate of tension of the branch of packet bundle) was obtained. The mode of influence of the determining factors on the amount of efforts in the bundles of packages was defined. It was revealed that lower part of bundle in the upper package was the most loaded but still afloat. Recommended for practical calculations dependency graphs of ratio of tension of the branches of package bundles on determining factors were given. Recommendation on selection of dimensioning of external bundle binding when rafting was grounded. Conclusion. Use of the materials is required both in selection of rigging and assessment of of capacity of floating package bundles to resist longitudinal deformations of relative shift.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">С целью обеспечения необходимой прочности плавающих двухярусных пакетных сплоточных единиц получены расчётные зависимости для определения усилий в ветвях их пакетных обвязок. Выявлены наиболее нагруженные ветви пакетных обвязок. Приведены графические материалы для упрощения соответствующих практических расчётов. Обоснована рекомендация подбора сечения внешних пучковых обвязок  по усилию их утяжки при сплотке.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/284/288</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.27/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016006038">
+    <dc:title xml:lang="en">SEMEN CHARACTERISTICS AND SPERMIOGRAM OF THE AFRICAN GREATER CANE RAT (Thryonomys swinderianus, Temminick)</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>OLUKOLE S. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OYEYEMI M.O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OKE B. O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>University of Ibadan, Ibadan, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L53</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spermatozoa</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spermatozoa</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Testes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">epididymis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7287</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7287</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7682</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10635</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6464</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Semen characteristics and spermatozoa morphological analysis were determined in twenty sexually matured domesticated African greater cane rats (Thryonomys swinderianus, Temminick). Semen was collected from the cane rats using the electroejaculation method followed by orchidectomy using open castration. The testis and epididymis were retrieved for sperm morphological studies. The semen of the rats was characteristically in coagulated form, opalescent in colour, gelatinously thick with no liquid fraction. The average volume of the ejaculates was 0.3 ± 0.04 ml. The total number of normal spermatozoa in the left and right testes was 308.5 x 109.ml and 330.1 x 109.ml, respectively. The percentage of abnormal spermatozoa observed in left and right testes were 9.8 % and 9.6 %, respectively. The percentages of abnormal spermatozoa observed in left and right epididymes were 10.6 % and 10.4 %, respectively. There was no significant difference (P&gt;0.05) between the percentages of abnormal spermatozoa found in both the left and right testes and epididymes. The spermatozoa head was ovoid in shape with its surface flat, whilst its acrosome lacked any hook. This absence of the acrosomal hook, typical for the sperm head of rodents, is therefore the first of its kind in the body of literature on the spermatozoa of rodents. It is, therefore, named the African greater cane rat “hookless sperm head” (by Olukole). This study presents base-line data on the semen characteristics and sperm morphology of the African greater cane rat and is expected to be useful in artificial insemination, comparative morphology of the spermatozoa of rodents and to improve breeding of the animal.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.cvzv.sk/index.php/sk/rocnik-47-2014/cislo-3</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Slovak Journal of Animal Science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1337-9984</ags:citationIdentifier>
+      <ags:citationNumber>v.47/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

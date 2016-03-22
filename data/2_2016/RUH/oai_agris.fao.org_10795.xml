@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10795">
+    <dc:title xml:lang="en">CLUSTERS AS A TOOL FOR THE RESTRUCTURING OF AGRICULTURE (THE EXPERIENS OF RUSSIA)</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>КЛАСТЕРЫ КАК ИНСТРУМЕНТ РЕСТРУКТУРИЗАЦИИ СЕЛЬСКОГО ХОЗЯЙСТВА (ОПЫТ РОССИИ)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Naydenov N.D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Novokshonova E.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Syktyvkar State University named after P. Sorokin</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E14</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">technological changes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cooperatives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7643</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10090</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Russian Federation, the European Community and certain regions of the Russian Federation.
+The planned deployment of management and subsidizing agricultural production on the basis of cluster approach provides
+a more efficient and sustainable agricultural production.
+The cluster approach to structuring territorial agribusiness in the region involves the allocation of areas in which the
+competitiveness of enterprises are based, which allows a more consistent support to these enterprises from the state, business
+and social organizations, including the promotion of production specialization of the region to the world market.
+Methods: Statistical analysis, deduction, induction, group, factor analysis, economic-mathematical methods, historical
+analysis, spatial analysis.
+The article analyzes the main instruments in the implementation of the cluster approach: allocation of seats specialization,
+places of economic growth of agriculture, profitability places, places of which is exported and exported specialized products,
+placement of investment and government subsidies</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье обобщен опыт кластерного формы организации и размещения сельскохозяйственного производства в
+Российской Федерации, Европейском сообществе и отдельных регионах Российской Федерации.
+Плановое управление размещением и субсидированием сельскохозяйственного производства на основе
+кластерного подхода обеспечивает повышение эффективности и устойчивость сельскохозяйственного
+производства.
+Кластерный подход к территориальному структурированию АПК региона предполагает выделение зон, в
+которых базируются конкурентоспособные предприятии, что позволяет более последовательно оказывать
+поддержку этим предприятиям со стороны государства, бизнеса и общественных организациям, в том числе в
+продвижении продукции специализации региона на мировой рынок.
+Методы исследования: статистический анализ, дедукция, индукция, группировка, факторный анализ,
+экономико-математические методы, исторический анализ, пространственный анализ.
+В статье проведен анализ основных инструментов в реализации кластерного подхода: выделение мест
+специализации, мест роста экономики сельского хозяйства, мест рентабельности, мест из которых вывозится и
+экспортируется специализированная продукция, мест размещения инвестиций и государственных субсидий.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/09/8-1-39.pdf#page=52</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.1 (39)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

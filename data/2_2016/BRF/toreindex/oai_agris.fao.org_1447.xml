@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01447">
+    <dc:title xml:lang="en">Effect of Nitrogen fertilization on available forage and chemical composition of a Brachiaria decumbens stapf cv. Basilisk pasture</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito da adubação nitrogenada na disponibilidade de forragem e composição bromatológica de um pasto de Brachiaria decumbens Stapf cv. Basilisk</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>VITOR, C. M. T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COSTA, P. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VILELLA,  S. B. J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LEONEL, F. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALBUQUERQUE, J. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COELHO,  R. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Brachiaria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Surfactants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crude protein</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1042</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7529</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24013</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study was conducted to evaluate dry matter production, crude protein, neutral detergent fiber and acid detergent fiber of Brachiaria decumbens Stapf cv. Basilisk, subjected to increasing nitrogen doses (0, 100, 200 and 400 kg ha-1). The experiment design used was a completely randomized with three replications. Dry matter production and crude protein content increased linearly with nitrogen doses. The neutral detergent fiber and acid detergent fiber content was not affected by N doses. Thus, nitrogen fertilization is recommended as a management option to the evaluated grass.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Este trabalho foi conduzido com o objetivo avaliar a disponibilidade de forragem, e os teores de proteína bruta, fibra em detergente neutro e fibra em detergente ácido da Brachiaria decumbens Stapf cv. Basilisk submetida a doses crescente de nitrogênio (0, 100, 200 e 400 kg ha-1 de N). O delineamento experimental utilizado foi o inteiramente casualizado, com três repetições. A disponibilidade de forragem e o teor de proteína bruta foram aumentados de forma linear com o aumento das doses de N. Já os teores de fibra em detergente neutro e fibra em detergente ácido não foram influenciados pela adubação nitrogenada. Assim, a adubação nitrogenada é recomendada como opção de manejo para a gramínea avaliada.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1326988102.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.68/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

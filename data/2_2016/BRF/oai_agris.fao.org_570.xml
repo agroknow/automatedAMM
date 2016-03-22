@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F00570">
+    <dc:title xml:lang="en">Insect damages on structural, morphologic and composition of Bt maize hybrids to silage.</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Danos causados por pragas na estrutura</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>morfologia e composição de híbridos de milho Bt para silagem.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BALIEIRO NETO,  G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CIVIDANES,  T. M. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRANCO,  R. B. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BUENO, M. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POSSENTI,  R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NOGUEIRA, J. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bacillus thuringiensis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Recombinant DNA</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Zea mays</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_761</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8504</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It was aimed to evaluate the effect of insect damage on the morphologic and structural characteristics and chemical composition from maize hybrids DKB 390 and AG 8088 with the Cry1Ab trait versus its nonbiotech counterpart. The GMO did not receive insecticide application and the conventional hybrids received one deltametrina (2.8%) application at 42 days. The damages caused bySpodoptera frugiperda and Helicoverpa zea in hybrids with Cry1Ab were smaller than its nonbiotech counterpart. After harvest, 95 days after seedling plants were separated in stalks, ears, leafs, dead leafs and floral pennant. The experimental design was randomized block in factorial arrangement 2 x 2. The height of plant and height of ear, percentage and amount of dead leafs from hybrids with the Cry1Ab were higher than its nonbiotech counterpart. There was higher nutrients transfer from stalks to grain filling and smaller rate stalks:ear on transgenic plant. The quality of the transgenic plants can be better when harvest earlier, by increasing no fiber carbohydrates, but when harvest latter, by increasing stalk percentage and stalk lignin content</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se avaliar o efeito de danos ocasionados por pragas nas características morfológicas e estruturais e composição química das partes da planta dos híbridos de milho DKB390 e AG8088 contendo o gene Cry1Ab e de suas contrapartes convencionais. Os híbridos de milho DKB390 e AG8088 contendo o gene Cry1Ab não receberam aplicação de inseticida e os híbridos convencionais receberam uma aplicação de deltametrina (2,8%) aos 42 dias após a semeadura. As plantas convencionais tiveram maiores danos pelo ataque das pragas Spodoptera frugiperda e Helicoverpa zea. Após o corte, 95 dias após o plantio, a planta foi separada em colmo, espiga, folha, material morto e pendão. O delineamento experimental foi em blocos ao acaso em arranjo fatorial 2 x 2. Os híbridos contendo o gene cry1Ab tiveram maior quantidade e percentual de material morto, altura da planta e altura da espiga quando comparados aos seus isogênicos. Houve maior transferência de nutrientes do colmo para o enchimento dos grãos e menor relação espiga:colmo na planta transgênica. As plantas transgênicas podem favorecer o conteúdo de nutrientes digestíveis, devido ao aumento no teor de carboidratos não fibrosos, quando colhidas mais cedo, ou desfavorecer o conteúdo de nutrientes digestíveis, em virtude da maior proporção de colmo e maiores teores de lignina no colmo, quando colhidas mais tarde.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1389633908.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

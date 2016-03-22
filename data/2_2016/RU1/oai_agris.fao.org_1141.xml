@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101141">
+    <dc:title xml:lang="en">Faba Bean Can Adapt to Chocolate Spot Disease by Pretreatment with Shikimic and Salicylic Acids through Osmotic Adjustment, Solutes Allocation and Leaf Turgidity</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Aldesuquy Heshmat S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Baka Zakaria A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abass Mohmad A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Alazab Nahla T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Botrytis fabae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26414</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study investigated the effect of shikimic and salicylic acids at the concentrations of 0.4 and 0.7 mM, respectively, or their combination as phenolic compounds and Ridomil MZ at the concentration of 250 g/100 L as a fungicide on osmotic pressure (OP), solutes allocation, organic acids, inorganic ions and relative water content were quantified in Vicia faba leaves infected by Botrytis fabae. Pathogen induced noticeable decrease in osmotic pressure, total soluble sugar (TSS) and inorganic osmolytes (i.e. Na+, K+, Ca2+, Mg2+ and Cl-) while caused obvious increase in proline, total soluble nitrogen (TSN) and organic acids (i.e. Keto and citric acids) in water extract of the leaf of faba bean plants. Furthermore, pathogen caused marked decrease in relative water content (RWC) of infected leaves and as a consequence the saturation water deficit (SWD) was increased. Exogenous application of shikimic acid, salicylic acid or their combination could counteract the adverse effects of B. fabae on osmotic adjustment by inducing additional increase in proline, total soluble sugars, total soluble nitrogen and organic acids which in turn increase the osmotic pressure as well as relative water content in leaves of infected plants. Recovery of osmotic adjustment as well as leaf turgidity of infected host by using these chemical inducers may encourage the using of them as protective control means. The results of the present study showed also that the application of chemical inducers such as shikimic and salicylic acids or their interaction increased the resistance of Vicia faba against the chocolate spot disease.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_230-243.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

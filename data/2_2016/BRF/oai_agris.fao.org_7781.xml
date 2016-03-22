@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F07781">
+    <dc:title xml:lang="en">Classification and grading of beef carcasses from the western region of Bahia during two seasons of the year</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Classificação e tipificação de carcaças bovinas na região oeste da Bahia em duas épocas do ano</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>QUADROS, D. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PAES, B. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VIEIRA, G. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ANDRADE, A. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ARAÚJO, J. A. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>AZEVEDO, P. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">production location</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Maturity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">slaughter value</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Genetic improvement</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Weighing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6205</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4656</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35851</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11119</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25789</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The final result of beef cattle production systems is verified in carcasses. However, in Brazil the cold storage facility rarely separates the products according to quality, especially in the northeastern region of the country. The objective of this study was to evaluate beef carcasses from the western region of Bahia during two seasons (rainy and dry) of the year according to the National Beef Carcass Grading System (Sistema Nacional de Tipificação de Carcaças Bovinas - SNTCB). The evaluations were performed at a cold storage facility in Barreiras, Bahia, which is monitored by the Federal Inspections Service (Serviço de Inspeção Federal - SIF). A total of 1,000 carcasses, half during the dry season (August) and the other half during the rainy season (December), were sampled. Descriptive statistics was used for data analysis and the mean and standard error of each response variable were obtained. The season of the year did not influence the sex of the animals slaughtered, with a balance between intact males (44%) and females (42%) and little participation of castrated males (14%). The degree of maturity of the slaughtered animals was high, with about 70% of the animals possessing more than four permanent incisors. The carcasses varied in terms of finishing from scores 2 to 4</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">32% had a low fat cover (score ≤ 2) in the dry season and 52% in the rainy season. Prolonged drought affected the results. The conformation data indicated more than 90% of the carcasses to be rectilinear, subconvex and convex and most of them weighed less than 240 kg, the minimum weight recommended by cold storage facilities. Sixty-four percent of the carcass analyzed were graded as letter “I”, the penultimate score of the official system (B-R-A-S-I-L). Regardless of the season of the year, cattle slaughtered in the western region of Bahia resulted in low-quality carcasses due to the high degree of maturity, inadequate conformation and finishing, and low weight of the animals. Genetic improvement and adequate management are necessary to produce high-quality carcasses.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O resultado final de sistemas de produção de gado de corte é verificado nas carcaças. No Brasil, entretanto, é raro o frigorífico que separa os produtos conforme a qualidade, principalmente na região Nordeste. Objetivou-se com este trabalho avaliar as carcaças bovinas na região oeste da Bahia em duas épocas distintas do ano (chuvosa e seca) de acordo com o Sistema Nacional de Tipificação de Carcaças Bovinas (SNTCB). As avaliações foram realizadas em frigorífico sob Serviço de Inspeção Federal (SIF), em Barreiras, Bahia. Foram amostradas 1.000 carcaças, metade no período seco (agosto) e o restante no período chuvoso (dezembro). Os dados foram submetidos à análise estatística descritiva, obtendo-se média e erro padrão de cada variável-resposta. A época do ano não influenciou o abate em relação ao gênero dos animais, havendo equilíbrio entre machos inteiros (44%) e fêmeas (42%), com pouca participação de machos castrados (14%). O grau de maturidade dos animais abatidos foi elevado, sendo que cerca de 70% possuía acima de quatro dentes incisivos permanentes. As carcaças variaram quanto ao acabamento entre escores 2 e 4, sendo que 32% apresentaram cobertura de gordura escassa (escore ≤ 2) na época seca e 52% na época chuvosa. A estiagem prolongada afetou os resultados. Os dados de conformação indicaram mais de 90% das carcaças analisadas como retilíneas, sub-convexas e convexas, sendo que a maior parte delas pesou menos de 16@, peso mínimo recomendado pelo frigorífico. Foram tipificadas pela letra “I” 64% das carcaças analisadas, penúltima escala qualitativa no sistema oficial (B-R-A-S-I-L). Independente da época do ano, os bovinos abatidos na região oeste da Bahia resultaram em carcaças com reduzido padrão de qualidade em virtude do elevado grau de maturidade, conformação e acabamento inadequados e baixo peso. Melhoramento genético e manejo apropriado são necessários para a produção de carcaças de mais alto padrão de qualidade.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1435342498.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

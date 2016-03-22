@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01689">
+    <dc:title xml:lang="en">Peanut forage silage (Arachis pintoi cv. Belmonte) with different addictives</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Silagem de amendoim forrageiro (Arachis pintoi cv Belmonte) com diferentes aditivos</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PAULINO, Valdinei T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERRARI JÚNIOR, Evaldo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POSSENTI, Rosana A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LUCENAS, Thales L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2009-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lactobacillus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nutritive value</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_118</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4144</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5278</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objectives of this trial was to evaluate chemical-bromatologic characteristics of peanut silages (Arachis pintoi cv. Belmonte), and the mixtures of peanut forage plus Paraiso elephanthgrass in ensiling. The cut of forage peanut was realized at 60 days of growth, submitted to the following treatments: A) Fresh peanut forage, B) Fresh peanut forage with 5% of corn meal, C) Fresh peanut forage 10% of corn meal, D) wilted peanut forage, E) wilted peanut forage plus 5% of corn meal, F) wilted peanut forage plus 10% of corn meal, G) Fresh peanut forage plus commercial additive (silomax- Lactobacillus plantarum 2,5X10-10 UFC for Pentosaceus gram andPediococcus 2,5X10-10 UFCg-1 for gram), H) wilted peanut plus commercial additive, I) Paraiso elephantgrass (Pennisetum hybridum) plus 10% of peanut forage, J) Paraíso elephantgrass plus 20% of peanut forage, K) Paraíso elephantgrass plus 30% of peanut forage and, L) Paraíso elephantgrass plus 10% of peanut forage more commercial additive- Silomax. The experimental design was completly randomized arranged, with four replicates. The ensilage of fresh peanut forage presented good nutritional characteristics, high contents of crude protein and low fiber, both with or not wilted. The addition of corn meal and/or wilting must be recommended as technical satisfactory for peanut silage. The commercial additive did not promote improvement in silage fermentative quality. The mixture of fresh peanut forage and paraiso elephantgrass at the moment of the ensiling resulted in silage with acceptable fermentative characteristics.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se verificar as características químico-bromatológicas das silagens de amendoim forrageiro (Arachis pintoi) cortado aos 60 dias de rebrota e da mistura de amendoim forrageiro com capim-elefante cv. Paraíso. Os tratamentos estudados foram: A) amendoim in natura, B) amendoimin natura mais 5% de fubá, C) amendoim in natura mais 10% de fubá, D) amendoim emurchecido, E) amendoim emurchecido mais 5% de fubá, F) amendoim emurchecido mais 10% de fubá, G) amendoim in natura mais aditivo comercial (Silomax - Lactobacillus plantarum 2,5 x 10-10 unidades formadoras de colônia por grama e Pediococcus pentosaceus 2,5 x 10-10 unidades formadoras de colônia por grama), H) amendoim emurchecido mais aditivo comercial - Silomax, I) capim-elefante cv. Paraíso mais 10% de amendoim, J) capim-elefante cv. Paraíso mais 20% de amendoim, K) capim-elefante cv. Paraíso mais 30% de amendoim, L) capim-elefante cv. Paraíso mais 10% de amendoim mais aditivo comercial- Silomax. O delineamento experimental adotado foi inteiramente casualizado com quatro repetições. A silagem de amendoim forrageiro apresenta ótimas características nutricionais, com elevado teor protéico e baixo teor de fibras, independente de ser submetido ou não ao emurchecimento. A adição de fubá principalmente na proporção de 10% e/ou emurchecimento podem ser recomendadas como técnicas satisfatórias à ensilagem do amendoim forrageiro. O uso de aditivo comercial não promoveu melhoria na qualidade fermentativa das silagens. Associar o amendoim forrageiro ao capim-elefante no momento de ensilar resulta em silagens com características fermentativas aceitáveis.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1276701583.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.66/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

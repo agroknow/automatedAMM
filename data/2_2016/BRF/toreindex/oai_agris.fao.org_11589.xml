@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F11589">
+    <dc:title xml:lang="en">Effect of dietary phytic acid and inorganic iron on the quality of chilled pork.</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito do ácido fítico e do ferro inorgânico dietéticos na qualidade da carne suina refrigerada.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MONTEIRO, R. T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA,  C. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRIDI, A. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OBRA, A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LOZANO, A. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PERES, L. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NOVAIS, A. K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, E. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">lipid content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">minerals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">iron</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4360</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4857</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3950</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the effect of supplementing inorganic iron and phytic acid to the diet for finishing pigs on meat quality after 24 hours and 7 days of refrigeration. Forty castrated male finishing pigs of a commercial genotype, with an initial mean weight of 64.34 ± 6.64 kg and age of 108 days, were used. The animals were weighed and housed individually in brick pens with an area of three m2 and compact floor, receiving water and ration ad libitum for 30 days. A randomized block design in a 2 x 2 factorial scheme was used, corresponding to diets supplemented or not with inorganic iron and with two levels of phytic acid, high (4.85%) and low (2.98%). The animals were slaughtered when they had reached a mean weight of 100.76 ± 6.54 kg and longissimus dorsi muscle samples were collected for the analysis of meat quality. The following parameters were analyzed in the samples: pH, color, marbling, water loss through pressure, shear force, iron composition, and lipid oxidation. No differences in the variables analyzed were observed between factors, except for muscle iron concentration, which was higher for the diet with inclusion of inorganic iron. Lipid oxidation was not influenced by the presence or absence of phytic acid and inorganic iron. The results show that diets with elevated phytic acid levels supplemented or not with inorganic iron can be used for finishing pigs without compromising meat quality during the refrigeration phase.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O estudo foi conduzido com o objetivo de avaliar o efeito da suplementação do ferro inorgânico e do ácido fítico na dieta de suínos em terminação sobre a qualidade da carne após 24 horas e 7 dias de refrigeração. Foram utilizados 40 suínos machos castrados, na fase de terminação, de genética comercial, com 64,34 ± 6,64 kg de peso médio inicial e 108 dias de idade. Os animais foram pesados e alojados individualmente em baias de alvenaria com área de 3 m2 e piso compacto, onde receberam água e ração à vontade durante o período de 30 dias. O delineamento experimental foi em blocos casualizados, em modelo fatorial 2 x 2, sendo os fatores correspondentes às dietas com e sem ferro inorgânico suplementar (FeI) e com dois níveis de ácido fítico (AF) na ração, alto (4,85%) e baixo (2,98%). Ao atingirem 100,76 ± 6,54 kg de peso médio, os animais foram abatidos, sendo coletadas amostras do músculo longissimus dorsi para análise da qualidade da carne. As amostras foram submetidas às avaliações de pH, cor, marmorização, perda de água por pressão, força de cisalhamento, composição de ferro e oxidação lipídica. Os valores das variáveis avaliadas não foram diferentes entre os fatores, excetuando-se a concentração de ferro no músculo, que foi superior para a dieta com a inclusão de ferro inorgânico. A oxidação lipídica não foi influenciada pela presença ou não do AF e FeI. Os resultados demonstraram que dietas com níveis de AF mais elevados, com ou sem a suplementação de FeI, podem ser utilizadas para suínos em fase de terminação sem prejuízos à qualidade da carne durante a fase de refrigeração.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v72n3p261</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

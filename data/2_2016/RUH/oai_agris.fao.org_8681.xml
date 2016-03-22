@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08681">
+    <dc:title xml:lang="ru">АНОМАЛИИ ОРГАНОГЕНЕЗА УЛЬТРАРАННЕГО ГИБРИДА КУКУРУЗЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ANOMALIES OF ORGANOGENESIS OF ULTRA-EARLY-MATURING HYBRID OF MAIZE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Казакова Н.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Институт агроэкологии – филиал Челябинской государственной агроинженерной академии</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">maize</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">organogenesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12332</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27791</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Дан анализ результатов наблюдений за аномалиями главного и бокового побегов скороспелого гибрида кукурузы Кубанский
+101СВ. Аномалии классифицированы на принципиально различные группы в зависимости от их типа. Выявлены причины
+тератологических изменений, которые находятся под контролем генотипа и проявляются под влиянием внутренних или внешних
+факторов. Установлено, что появление половых сдвигов у кукурузы связано с ускорением развития независимо от причин,
+вызывающих это ускорение</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results of observation over the anomalies of main and lateral branches of the ultra-early-maturing hybrid of maize of Cubansky
+101SV have analysed. These anomalies were classified into different groups according to their type. The reasons of teratological changes
+which are under the control of genotype and under unfluense of external and internal factors, have exposed. It was established appearance
+of sexual changes at the maize have relationship with acceleration of the development independently of reasons, of this process.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/02/1-2-20.pdf#page=52</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.1 (20)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

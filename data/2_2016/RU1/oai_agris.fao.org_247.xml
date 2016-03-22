@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100247">
+    <dc:title xml:lang="en">CHROMOSOME LOCATION OF GENETIC FACTORS DETERMINIG PHYSIOLOGICAL AND BIOCHEMICAL PROCESSES ASSOCIATED WITH DROUGHT TOLERANCE IN WHEAT TRITICUM AESTIVUM L.</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Osipova S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Permyakova M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Permyakov A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pshenichnikova T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Börner A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Verkhoturov V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drought</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tolerance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chromosomes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37740</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1598</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Drought tolerance is characterized as the most recalcitrant trait to improve for its complexity and considered target for genomic-assisted improvement. A profitable genetic strategy lies in the discovery and exploitation of quantitative trait loci (QTL) involved in determining tolerance to water deficit at the cellular level. Enzymes of the antioxidant system participating in detoxification of reactive oxygen species accumulating under stress are the essential component of the common protective systems in cell. The same is lipoxygenase – a key enzyme of jasmonate-dependent signaling pathway initiating the development of adaptive programs in cell. Understanding of the genetic basis of wheat drought tolerance as a polygenic trait and identification of the QTL is facilitated by the availability of a number of sets of inter-varietal single chromosome substitution lines (ISCSLs) in bread wheat Triticum aestivum L. Two sets of bread wheat ISCSLs were used in this study. In the first set, 'Saratovskaya' 29 (S29) / 'Janetzkis Probat' (JP), the recipient was a drought tolerant cultivar and the donor of individual pairs of homologous chromosomes was a sensitive one. In the second set, 'Chinese Spring' (CS) / 'Synthetic 6x' (Syn 6x), the donor of separate chromosomes was a synthetic hexaploid wheat (T. dicoccoides X Ae. tauschii). In the set S29/JP the chromosomes of the second homoeological group and 4D chromosome were found to be critical for drought tolerance. A decrease of tolerance correlated with decreasing of antioxidant enzymes cumulative activity in leaves. In the set CS/Syn, chromosomes 4B and 4D were found to be critical for drought tolerance. The levels of LOX activity in leaves of both sets differently correlated with grain productivity but influenced positively on retaining a grain size under drought. Besides the structural genes for LOX biosynthesis situated on chromosomes of 4 and 5 homoeological groups, in both sets, the genetic factors on chromosomes 1D and 3A were associated to a large extent with the regulation of enzyme activity under water deficit. Using recombinant introgression lines developed on the base of D-genome CS/Syn ISCSLs QTL were mapped on 4D and 5D chromosomes associated with LOX activity. Study of the genetic basis of wheat drought tolerance will accelerate the development of wheat cultivars with high yield in water – deficient environment.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S15.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

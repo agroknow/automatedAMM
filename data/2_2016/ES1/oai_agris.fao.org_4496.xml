@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104496">
+    <dc:title xml:lang="es">PATRONES DE CRECIMIENTO LINEALES Y NO LINEALES EN EL BORREGO DE CHIAPAS</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>LINEAL AND NON-LINEAL GROWTH PATTERNS IN “BORREGO DE CHIAPAS” BREED</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gómez Mayra</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ronquillo Javier</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Delgado Juan Vicente</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Caballero-Sala Marta</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Parés-Casanova Pere</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Weight data obtained from 145 animals (66 males and 79 females), aged between 3 and 156 months, from the “borrego de Chiapas” breed, were studied. From the derived data, we adjusted the ordinary linear models of least squares, reduced major axis and axis, with the values transformed logarithmically, as well as non-linear models of von Bertalanffy [y=a(1-be-cx)], Michaelis-Menten [y=ax/(b+x)], logistics [y=a/(1+be-cx)], and Gompertz  [y=a(b*exp(cx))]. As a measure of the relative quality of each model, the Akaike information criterion was applied. In addition to the Michaelis-Menten model being the one which better estimated the growth of the animals (e.g. it presented the lowest Akaike value), regardless of sex, it was the only one who did not give significant differences between real and estimated values. An immediate conclusion from this model is that feed appears to be the main exogenous factor to consider as a constraint for this breed. So, to obtain positive effects, it would be necessary to ensure a constant supply of feed with adequate nutritional value to meet the metabolic requirements of the animals. On the other hand, this estimation of the growth curve in the “borrego de Chiapas” may be useful for genetic improvement programs, assisting in the choice of animals with greater early growth and thus avoiding only selecting animals with higher weights at certain ages.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">El crecimiento corporal animal es uno de los aspectos más importantes en el momento de evaluar la productividad en la mayoría de los animales domésticos, pudiendo ser usado, además, como criterio de selección. Dentro de las medidas de crecimiento animal, una de las más comunes, que no altera el organismo bajo análisis y que puede ser medida a bajo coste, es el peso. Para estudiar el crecimiento ponderal en el borrego de Chiapas se utilizaron datos procedentes de 145 animales (66 machos y 79 hembras), de edades comprendidas entre los 3 y los 156 meses. Para la estimación fueron ajustados los modelos lineales ordinario de mínimos cuadrados, eje mayor reducido y eje mayor, con los valores transformados logarítmicamente, y los modelos no lineales de von Bertalanffy [y=a(1-be-cx)], Michaelis-Menten [y=ax/(b+x)], logístico [y=a/(1+be-cx)] y Gompertz [y=a(b*exp(cx))]. Como medida de la calidad relativa de cada modelo no lineal, se recurrió al criterio de información de Akaike. Además de ser el modelo de Michaelis-Menten el que estimó mejor el crecimiento de los animales (presentó el valor de Akaike menor), independientemente del sexo, resultó el único que no presentó los valores estimados significativamente diferentes de los reales. De acuerdo a la curva estimada, en el estadio inicial de crecimiento la ganancia de peso es mayor que en la edad adulta, en que el cambio ponderal se aproxima a una asíntota. Una conclusión inmediata a la vista de este modelo es que la alimentación parece ser el principal factor exógeno a considerar en el conjunto de limitaciones de manejo de esta raza. Para obtener efectos positivos, es necesario garantizar un suministro constante de alimento en la cantidad adecuada y de un valor nutricional que cumpla con las exigencias metabólicas de los animales. Por otro lado, la estimación de la curva de crecimiento en el borrego de Chiapas podrá ser útil para programas de mejora genética, ayudando en la elección de animales con mayor precocidad de crecimiento, evitando seleccionar sólo a los animales con mayores pesos a determinada edades.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo002_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

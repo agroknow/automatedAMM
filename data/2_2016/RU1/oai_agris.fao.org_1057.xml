@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101057">
+    <dc:title xml:lang="en">Behavioural Responses of Heterobranchus longifilis Juveniles. Val (Pisces: 1840) Exposed to Freeze–dried Bark Extract of Tephrosia vogelii as an Anaesthetic</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Solomon S.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cheikyula J.O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Anju D.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anaesthetics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Neuroleptics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bark</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">time</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_381e0f60bc6</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5146</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_820</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7778</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study evaluates the anaesthetic properties of freeze-dried leaf extract of Tephrosia vogelii on the African catfish Heterobranchus longifilis juveniles. Experimental fish of Mean weight 115.00 were obtained from River Benue at Makurdi, Nigeria and acclimatized at the hatchery of University of Agriculture Makurdi for two weeks. Four H. longifilis were selected randomly for both control and treatment groups. Each treatment fish was weighed and injected intramuscularly 0.05ml of the extract at concentrations of 0.01, 0.02, 0.03, 0.04, 0.05 and 0.06g/l using a 2ml heparinized syringe. The result showed that H. longifilis in treatment group passed sequentially through the first three stages of anaesthesia but could not attain total loss of equilibrium (stage 4 of anaesthesia). The result showed that treatment group of fishes passed sequentially through the first three stages of anaesthesia but could not attain total loss of equilibrium (stage 4 of anaesthsia). Behavioural responses included mucus secretion, slow and erratic swimming, excrement discharge, increase in opercular beat rate, strong retention of reflex action, partial loss of equilibrium and colour change. The induction time showed a declining pattern with increasing concentration of the extract in the treatment levels with significant differences (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_82-92.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

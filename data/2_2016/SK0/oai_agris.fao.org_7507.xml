@@ -1,0 +1,48 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007507">
+    <dc:title xml:lang="en">The Primeval Beech Forests of the Carpathians and Ancient Beech Forests of Germany: joint natural heritage of Europe</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vološčuk Ivan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pichler Viliam</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pichlerová Magdaléna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Matej Bel University, Cesta na amfiteáter 1, 974 00 Banská Bystrica, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, Zvolen, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Germany</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3245</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3062</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The European beech Fagus sylvatica L. ssp. sylvatica L. is exclusively found in Europe. The beech survived the last ice age in small refuges in the south and south-east Europe and went on the colonisation of large parts of the continent. The post ice colonization of the landscape by the beech took place parallel to the settlement of land by humans and the formation of a more complex society. For centuries much of the Carpathian mountain forests remained untouched. Virgin forests constitute a natural heritage of global significance. In 2007 the primeval beech forests of the Carpathians (Slovakia, Ukraine) were added to UNESCO´s World Heritage List. On 25 June 2011, the UNESCO World Heritage Committee added five of Germany´s beech forest regions to the World Heritage List. This extended the transboundary world natural heritage site „Primeval Beech Forest of the Carpathians“, located in the Slovak Republic and Ukraine, to include a number of German forest regions, and renamed it „Primeval Beech Forests of the Carpathians and Ancient Beech Forests of Germany“. The paper is aimed at the presentation of the outstanding universal value of the ecological processes in the Joint World Heritage Sites, and present principles of their Integrated Management Plan. Ultimate goal is to achieve that management and socio-economic sustainable development practices are in harmony with primary objectives of WHS protection, biodiversity conservation, ecosystem and landscape stability, rational use of natural resources, ecotourism development and with potential of the landscape in largest possible extend.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.40/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

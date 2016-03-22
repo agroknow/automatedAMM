@@ -1,0 +1,81 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012382">
+    <dc:title xml:lang="en">Quality of meat of rabbits after application of epicatechin and patulin</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kalafová Anna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bulla Jozef</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bučko Ondrej</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Emrichová Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zbyňovská Katarína</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Petruška Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Schneidgenová Márie</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Chrastinová Ľubica</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ONDRUŠKA Ľ.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Jurčík Rastislav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mellen Martin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Capcarová Marcela</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rabbits</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">patulin</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6414</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24882</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the present study was to determinate the effect of epicatechin and patulin on selected parameters of meat quality of rabbits. Adult female rabbits (n=25), maternal albinotic line (crossbreed Newzealand white, Buskat rabbit, French silver) and paternal acromalictic line (crossbreed Nitra's rabbit, Californian rabbit, Big light silver) were used in experiment. Animals were divided into five groups: control group (C) and experimental groups E1, E2, E3, and E4. Animals from experimental groups E1, E2, E3, E4 received patulin through intramuscular injection (10 µg.kg-1) twice a week and animals from groups E2, E3, E4 received epicatechin three times a week through intramuscular injection. After 30 days animals were slaughtered. For analysing of meat quality the samples of Musculus longissimus dorsi (50 g) were used. Application of  epicatechin and patulin to rabbits had slight or no effect on the pH levels in stomach, small intestine, large intestine and urinary bladder contents, however differences among the groups were insignificant (p ˃0.05). Application of epicatechin and patulin to rabbits had slight or no effect on total water, protein, fat   and differences among the groups were insignificant (p &gt;0.05). The values of amino acids concentrations were not influenced after application of epicatechin and patulin. The fatty acid profiles in animals after application of different doses of epicatechin and 10 µg.kg-1 patulin were similar (p &gt;0.05). Concentration of cholesterol increased in experimental groups in comparison with the control group, but differences were insignificant (p &gt;0.05). pH levels of meat of rabbits in experimental group E3 was lower when compared with the control group, but differences was not significant (p &gt;0.05).  Electric conductivity parameter was increased in each experimental group (in E3 the highest) against the control but without significant differences (p &gt;0.05). Colour L parameter was slightly decreased in experimental groups with comparison to the control group (in E3 the lowest). Generally we can conclude that intramuscular application of epicatechin or patulin did not affect parameters of meat quality as well as pH values of internal organs content. Further investigations are needed to prove the final answer concerning the health promoting effects of epicatechin and patulin</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/450/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

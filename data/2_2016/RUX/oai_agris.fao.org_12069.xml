@@ -1,0 +1,71 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12069">
+    <dc:title xml:lang="en">Contribution of factors in change of contamination and formation of yield of spring wheat at biologization of its technology in conditions of Middle Volga region</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Вклад факторов в изменение засоренности и формирование урожайности яровой пшеницы при биологизации ее технологии в условиях Среднего Поволжья</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Morozov V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Podsevalov M.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Milodorin I.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F08</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop rotation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6662</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8347</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2 tables, 9 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">On many fields of the Middle Volga region, the phytosanitary state
+of agrophytocenoses, including infestation exceeds economic threshold,
+which causes damage to crops of field crops. This also applies to spring
+wheat sowing - one of the main grain crops in the region. The productive
+potential of varieties of these crops is not fully realized. Given the urgency of studying of harmfulness of the weed and the need to maintain their population for safe level, we studied the contribution of the complex of agrotechnical factors (crop rotation, tillage and fertilizer) on the suppression of contamination, and the formation of the yield of spring wheat at biologization of its technology in a long-term stationary three factor field experiment. Monitoring of species and quantitative composition of weed component of agrophytocenosis of spring wheat in the production of crops on the surveyed area 10614 ha was held. The influence of crop rotation, tillage systems and fertilizers on the suppression of weeds and yield of spring wheat was revealed in a field experiment. The most effective in the control of the number of weeds was grain-fallow crop rotation (20,1 pieces/ m2, 3-year average). Combined soil processing contributed to a more effective suppression of weeds compared with minimized by 37.8 %. The largest formation of the yield of spring wheat was observed on I rotation (2,67 t/ha), with the combined soil processing influenced by 42.7 %, relatively minimized, and the share of the contribution of fertilisers - 22.7 %.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">На многих полях Среднего Поволжья фитосанитарное состояние агрофитоценозов, в том числе засоренность превышает экономические пороги вредоносности, что наносит урон урожаю полевых культур. Это касается также посевов яровой пшеницы – одной из главных зерновых культур в регионе. При этом продуктивный потенциал сортов этой культуры реализуется не полностью. Учитывая актуальность изучения вредоносности сорных растений и необходимость поддержания их численности на безвредном уровне, мы изучали вклад комплекса агротехнических факторов (севооборот, обработка почвы и удобрения) на подавление засоренности и формирование урожайности яровой пшеницы при биологизации ее технологии в многолетнем стационарном трехфакторном полевом опыте. Проведен мониторинг о видовом и количественном составе сорного компонента агрофитоценоза яровой пшеницы в производственных посевах на обследованной площади 10614га. В полевом опыте выявлено влияние севооборотов, обработки почвы и систем удобрений на подавление сорных растений и урожайность яровой пшеницы. Наиболее эффективным в контроле численности сорняков оказался зернопаровой севооборот (20,1 шт./м2 в среднем за 3 года). Комбинированная обработка почвы способствовала
+более эффективному подавлению сорняков по сравнению с минимизированной на 37,8 %. Наибольшее формирование урожайности яровой пшеницы наблюдалось по I севообороту (2,67 т/га), при этом комбинированная обработка почвы влияла на 42,7 %, относительно минимизированной, а доля вклада удобрений – 22,7 %.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(25)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

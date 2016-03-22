@@ -1,0 +1,77 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09515">
+    <dc:title xml:lang="ru">ОСОБЕННОСТИ РАЗВИТИЯ ЧИСТОПОРОДНЫХ ТЕЛОК АЙРШИРСКОЙ ПОРОДЫ ПРЕДНАЗНАЧЕННЫХ ДЛЯ РЕМОНТА СТАДА КОРОВ АДАПТИРОВАННЫХ К УСЛОВИЯМ МАГАДАНСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PECULIARITIES OF DEVELOPING PUREBRED AYRSHIRE HEIFERS IGNTNDED FOR REPLACEMENT OF A COW HERD ADAPTED TO CONDITIONS OF MAGADAN REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Лыков А.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ФГБУ Магаданский научно-исследовательский институт сельского хозяйства</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">live weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproductive performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Breeds (animals)</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1327314434778</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Основным предметом изучения являлись чистопородные телки айрширской породы, предназначенные для ремонта
+основного стада.
+Проведен анализ интенсивности роста и развития подопытных телок во все периоды их выращивания. Изучены
+воспроизводительные способности телок по результатам искусственного осеменения.
+ Вскрытые закономерности могут быть использованы в селекционном процессе для получения желательного ремонтного
+молодняка айрширской породы в условиях Магаданской области.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Purebred Airshire heifers intended for replacement of a dairy herd, were the main subject of the study. Analysis of the growth rate of
+Ayrshir heifers for all periods of their raising has been conducted. Reproductive abilities of the heifers have been studied on the basis of the
+results of their artificial insemination.
+Revealed regularities can be used in a selection process to obtain a desirable Ayrshire replacement young cattle in conditions of
+Magadan region</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/03/2-2-33.pdf#page=20</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.2 (33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

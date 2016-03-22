@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016105057">
+    <dc:title xml:lang="es">EFECTO DE FACTORES NO GENÉTICOS EN EL PESO DEL TERNASCO DE RAZA SEGUREÑA</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE EFFECT OF NON-GENETIC FACTORS ON SEGUREÑA LAMBS WEIGHT AT 80 DAYS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lupi Teresa</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nogales Sergio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>León José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Delgado Fernando</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Escola Superior Agrária do Instituto Politécnico de Castelo Branco</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Centro Agropecuario Diputación de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sex</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7010</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A study was conducted to evaluate the effects of the non-genetic factors sex, birth season, geographical area and birth type, on 80 days lambs of Segureña breed. The weight data from lambs between 56 and 80 days, registered on 19844 animals from the historical records from the National Breeders Association of Segureño Sheep (ANCOS) in the last 13 years, were analyzed. Statistical analyzes were performed for each factor, based on the t test for means, analysis of variance and the Tukey test to analyze the homogeneous groups. It was conducted a multivariate analysis using the IBM SPSS Statistics v.19 software. Males presented a higher weight than females. Lambs born in winter had a higher average weight relatively to those born in other seasons. The geographical location proved to affect lambs weight (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Se llevó a cabo un estudio para evaluar los efectos de los factores no genéticos del sexo del cordero, época de nacimiento, zona geográfica y tipo de parto de la oveja, sobre el ternasco de la raza Segureña. Se analizaron los datos del peso de los corderos con edad comprendida entre 56 y 80 días, registrados sobre 19 844 corderos per-tenecientes al registro histórico de la Asociación Nacional de Criadores de Ovino Segureño – ANCOS – en los últimos 13 años. Fueron realizados análisis estadísticos en cada factor, basados en el test t para las medias, análisis de varianza y el test de Tuckey para analizar los grupos homogéneos. Se llevó a cabo un análisis de varianza multifactorial mediante la utilización del software IBM SPSS Statistics v.19. Los machos presentaron un peso más elevado que el de las hembras. Los corderos nacidos en invierno, presentaron un peso promedio superior, con una diferencia estadística significativa (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo114_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

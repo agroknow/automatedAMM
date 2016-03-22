@@ -1,0 +1,91 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01752">
+    <dc:title xml:lang="en">Response nitrogen and potassium fertilization in Brachiaria brizantha pasture formed in with corn intercropping</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PITTELKOW, Fábio K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>JAKELAITIS, Adriano</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALEXANDRINO, Emerson</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA,  Abdias A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CONUS, Lenita A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS, Cleberson L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FEITOSA, Rafael T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2009-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">integration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the effects of nitrogen and potassium fertilization in corn intercropped (DOW657 and AG2040) and Brachiaria brizantha cv. Vitória upon production of intercropped species and the pasture formation. Two field experiments were conducted, in which the cv. Vitória was intercropped with corn in a substitutive design (EXP1), sowed at the corn reproductive period</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">and in the other experiment the forage seeding was made as the same time as the corn's (EXP2). The EXP1 was conducted in a ramdonmized blocks four replications, arranjed in a factorial scheme 2x5+2. The first factor was the nitrogen doses (30+90+0 and 30+90+30 kg ha-1 of N), and the second factor was the potassium doses (25+25+0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">50+0+0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">50+25+0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">50+50+0 and 50+25+25 kg ha-1 of K2O), all distributed along the seed line, in top dressing fertilization (4-6 expanded corn leave) and in the harvest, respectively. In the EXP2 the same design was adopted, but in a 2x5+3 factorial scheme, wich corresponded to the N and K fertilizations, similar to the EXP1, plus the corn monocultives and the fertilized and non-fertilized cv. Vitória. There were no significant effects of the fertilizer applications in the variables analyzed in the intercropped corn, independent of the forage seeding. Despite that, in the simultaneous seeding, the corn held the growth of the pasture. Bigger doses and applications of fertilizers in cv. Vitória intercropped increased the forage yield, independent of the seeding period.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Objetivou-se neste estudo avaliar os efeitos das adubações nitrogenada e potássica no consórcio entre o milho (DOW 657 e AG2040) e a Brachiaria brizantha cv. Vitória sobre a produção das espécies consorciadas e a formação de pasto. Foram realizados dois experimentos em campo, em que a cv. Vitória foi consorciada com milho em arranjo substitutivo (EXP1), semeada na fase reprodutiva do milho</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">em outro ensaio a semeadura da forrageira foi simultânea ao milho (EXP2). No EXP1 foi utilizado o delineamento experimental em blocos casualizados, com quatro repetições, arranjados em esquema fatorial 2x5+2, sendo o primeiro fator constituído pelas doses da adubação nitrogenada (30+90+0 e 30+90+30 kg ha-1 de N) e o segundo fator pelas doses de potássio (25+25+0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">50+0+0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">50+25+0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">50+50+0 e 50+25+25 kg ha-1 de K2O), sendo aplicados na semeadura, em cobertura no estádio de 4-6 folhas expandidas do milho e na colheita do milho, respectivamente, mais os monocultivos do milho e da cv. Vitória. No EXP2 foi utilizado o mesmo delineamento em esquema fatorial 2x5+3, que corresponderam às aplicações de N e K semelhante ao EXP1, mais os monocultivos do milho e da cv. Vitória adubada e não adubada. Não houve efeitos significativos das adubações nas variáveis avaliadas no milho consorciado, independente da época de semeadura da forrageira. Por outro lado, em semeadura simultânea a presença do milho atrasou o estabelecimento da pastagem. Maiores doses e parcelamentos das adubações na cv. Vitória estabelecida pelo consórcio incrementaram seu rendimento forrageiro, independente da época de semeadura da mesma.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1277306853.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.66/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

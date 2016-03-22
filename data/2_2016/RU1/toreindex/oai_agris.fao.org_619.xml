@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100619">
+    <dc:title xml:lang="en">Effect of Glycine Betaine and Salicylic Acid on Growth and Productivity of Droughted Wheat Cultivars: Image Analysis for Measuring the Anatomical Features in Flag Leaf and Peduncle of the Main Shoot</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Aldesuquy Heshmat S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abo-Hamed S.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abbas Mohmed A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Elhakem Abeer H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anatomy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drought</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49890</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present study was planned to investigate the possible role displayed by water stress and application of GB, SA or their interaction on some anatomical features in flag leaf at anthesis (after 95 days from sowing) by measuring leaf thickness, ground tissue thickness, number of hairs, metaxylem vessel area, xylem vessel area, phloem tissue area, vascular bundle tissues area, number of motor cells as well as number of opened and closed stomata on both upper and lower epidermis and some anatomical features of peduncle (peduncle diameter, tracheids area, metaxylem vessel area, xylem area, phloem area, vascular area, number of vascular bundle as well as opened and closed stomata) of the two wheat cultivars. Water stress markedly affected the anatomical features in flag leaves of both wheat cultivars. It caused massive decreases (P&lt; 0.05) in the leaf thickness, ground tissue thickness, number of hairs, metaxylem vessel area, xylem vessel area, phloem tissue area, vascular bundle area, number of motor cells as well as number of opened stomata on both upper and lower epidermis. On the other hand, water stress increased (P&lt; 0.05) the number of hairs and closed stomata on both upper and lower epidermis in flag leaves of the two wheat cultivars. The magnitude of decrease in all anatomical features in flag leaf was more pronounced with the sensitive cultivar. Furthermore, water stress led to a marked decrease (P&lt; 0.05) in peduncle diameter, tracheids area, metaxylem vessel area, xylem tissue area, phloem tissue area, vascular tissue area, number of vascular bundles as well as opened stomata but increased the number of hairs and closed stomata on the peduncle surface of the two wheat cultivars. In relation to wheat cultivar, the sensitive was more affected by water stress than the resistant one. The application of GB, SA or their interaction induced some modifications in the anatomical features of the flag leaf and peduncle of main shoot which appeared to be an adaptive response to drought stress</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N2/JSPB_2013_2_35-63.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

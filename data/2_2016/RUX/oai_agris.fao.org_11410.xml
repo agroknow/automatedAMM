@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X11410">
+    <dc:title xml:lang="en">METHODOLOGICAL APPROACH TO CLASSIFICATION OF OBJECTS ACCORDING TO LEVEL OF PRODUCTION AND PROCESSING OF OILSEEDS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>МЕТОДИЧЕСКИЙ ПОДХОД К ТИПОЛОГИЗАЦИИ ОБЪЕКТОВ ПО УРОВНЮ ПРОИЗВОДСТВА И ПЕРЕРАБОТКИ МАСЛОСЕМЯН</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Aleksandrova  N.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dozorova T.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E16</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agricultural economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Enterprises</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">evaluation techniques</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8672</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10626</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29775</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Currently there is no uniform method of zoning in terms of efficiency of production and processing of oilseeds, there is therefore a need to develop methodological approaches to the assessment of the level of development of the industry method of cluster analysis using indicators of potential factors placing of their production. The basis of the proposed methodology of zoning according to the level of production and processing of oilseeds is the ranking of objects according to two criteria: 1. The significance of the oil and fat industry, reflecting the degree of specialization and concentration of production</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">2. The competitiveness of production that characterize the level of efficiency of the industry. The division of objects into several clusters provides an opportunity to identify priority strategic directions of development of the industry for each of them taking into account the location on the area for processing of oilseeds. The analysis allowed us to identify four types of districts by the level of development of production of sunflower: with low, decreased, increased and high-level production of sunflower. The results of the assessment of development of the industry in Ulyanovsk region according to the presented criteria indicates that only 8 districts have a high or increased level of development of production of sunflower, 5 — with decreased and 6 districts with low level, indicating the presence of problems related to the efficiency of production of oilseeds.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">В настоящее время отсутствует единая методика зонирования территории по уровню эффективности производства и переработки маслосемян, поэтому существует необходимость разработки методических подходов к оценке уровня развития отрасли методом кластерного анализа с использованием показателей, отражающих потенциальные факторы размещения их производства. Основой предлагаемой методики зонирования территории по уровню производства и переработки маслосемян выступает ранжирование объектов по двум критериям: 1. Значимости масложировой отрасли, отражающей степень специализации и концентрации производства</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2. Конкурентоспособности производства, характеризующей уровень эффективности данной отрасли. Разграничение объектов на несколько кластеров дает возможность определить приоритетные стратегические направления развития отрасли для каждого из них с учетом расположения на территорий по переработке масличных культур. Проведенный анализ позволил выделить четыре типа районов по уровню развития производства подсолнечника: с низким, пониженным, повышенным и высоким уровнем производства подсолнечника. Результаты оценки развития отрасли в Ульяновской области по представленным критериям свидетельствует о том, что только 8 районов области имеют высокий или повышенный уровень развития производства подсолнечника, 5 - с пониженным уровнем и 6 районов с низким уровнем, что свидетельствует о наличии проблем, связанных с эффективностью производства маслосемян.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(29)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

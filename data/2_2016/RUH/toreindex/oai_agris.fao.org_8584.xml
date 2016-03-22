@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08584">
+    <dc:title xml:lang="ru">АНТРОПОГЕННЫЕ ТРАНСФОРМАЦИИ ПРИБРЕЖНЫХ ПОЧВЕННО-РАСТИТЕЛЬНЫХ КОМПЛЕКСОВ О. МАНЫЧ-ГУДИЛО В ПРЕДЕЛАХ ОХРАННОЙ ЗОНЫ ЗАПОВЕДНИКА «РОСТОВСКИЙ»</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ANTHROPOGENIC TRANSFORMATION OF COASTAL SOIL-VEGETATION COMPLEXES O. MANYCH-GUDILO WITHIN THE BUFFER ZONE OF THE RESERVE «ROSTOV»</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Сушко К.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Южный федеральный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">T01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anthropogenic factors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">valleys</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34996</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8149</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рассмотрены результаты полевых и лабораторных исследований почвенного покрова долины Маныча, находящегося в охранной зоне заповедника «Ростовский». Изучались почвы пастбищ, сенокосов, а также целинные и залежные почвенные комплексы. Установлено, что при усилении антропогенного воздействия в первую очередь меняются показатели плодородия почв - содержание гумуса, влажность, плотность, а также увеличивается степень засоления почв.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results of field and laboratory studies of soil cover of the Manych Valley, located in the conservation area of Rostov reserve. The soils of the pastures, hayfields, and the virgin and fallow soil complexes has been studied. It is established that the increase of anthropogenic influence in the first place are changing parameters of soil fertility - humus content, moisture content, density, and increased salinity of soils.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/11/10-4-17.pdf#page=76</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.10 (17)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,187 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="UA2016005598">
+    <dc:title xml:lang="uk">Naukovi dopovidi Natsionalnoho Universytetu Bioresursiv i Pryrodokorystuvannya Ukrayiny</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Scientific Reports of National Univ. of Biological Resources and Nature Management of Ukraine</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Melnychuk Dmytro O. (ed.)</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>National Univ. of Biological Resources and Nature Management of Ukraine (NUBiP)</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ukraine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sustainable development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant breeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">canna</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">law</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">waste management</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">protective coatings</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seed pelleting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticosecale</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Winter crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Photosynthesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Calves</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food safety</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15070</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35332</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5956</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1252</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12106</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34763</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6936</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33914</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24917</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5812</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1219</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33995</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>No. 6(42)</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The issue No. 6(42) of the journal “Naukovi dopovidi Natsionalnoho Universytetu Bioresursiv i Pryrodokorystuvannya Ukrayiny”(Scientific reports of the National University of Biological Resources and Nature Management of Ukraine), which is published by the mentioned university, NUBiP, since 2005, comprises 11 articles, distributed by such permanent rubrics: 1) Biology, biotechnology, ecology (4 articles)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="uk">2) Agronomy (3)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3) Technology of production and processing of animal husbandry products (1)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4) Veterinary medicine, quality and safety of animal husbandry production (3 articles). In the first rubric the following issues are considered: «green economy»  in the context of providing the transition of Ukraine to sustainable development (Soloshych, I.O., Pidlisnyuk, V.V.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">sensitivity of certain canna varieties to the effect of abiotic factors (Matyashuk, R.K., Mazura, M.Yu.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">modern state of development of international and national normative bases as to environmental control (Slyva, Yu.V.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">analysis of the main aspects of waste management taking into account requirements of the European legislation (Silonova, N.B., Vakulenko, H.V.). The second rubric comprises articles on the following issues: species composition and zonal spreading of cyst-forming nematodes in Ukraine (Babych, A.H., Babych, O.A., Dzyuba, Yu.V., Sukhareva, R.D.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">retaining microorganisms–agents of polyfunctional complexes of biopreparations on the seed surface (Chabanyuk, Ya.V., Klymenko, A.M., Dzyuba, R.I., Bunas, А.А.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">effect of ecological factors on photosynthetic activities of agrophytocenoses of winter triticale (Moskalets, V.V.). The third rubric focuses on good production practice of production of protein mineral-vitaminic additives (Silonova, N.B., Mandryha, A.O.). In the fourth rubric issues are considered as regards to ratio of different classes of lipids in bile and liver of healthy and ill neonatal calves and after the use of enterosorbents (Tomchuk, V.A.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">research of conformity of certain food products to the requirements of national regulations (Potseluiko, M.P., Slyva, Yu.V., Ulvak, O.A.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">present-day state of the development of international and national normative databases as regards to the food safety management system (Slyva, Yu.V., Shvets, T.H).</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Випуск № 6(42) часопису «Наукові доповіді Національного університету біоресурсів і природокористування України», який названим університетом, НУБіП, видається з 2005 року, містить 11 статей, розподілених по таких постійних рубриках: 1) Біологія, біотехнологія, екологія (4 статті)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2) Агрономія (3)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3) Технологія виробництва і переробки продукції тваринництва (1)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4) Ветеринарна медицина, якість і безпека продукції тваринництва (3 статті)). В першій рубриці розглядаються такі питання: «зелена економіка»  в контексті забезпечення переходу України до сталого розвитку (Солошич І.О., Підліснюк В.В.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">чутливість окремих сортів канни до дії абіотичних чинників (Матяшук Р.К., Мазура М.Ю.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">сучасний стан розвитку міжнародної і національної нормативних баз щодо управління навколишнім середовищем (Слива Ю.В.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">аналіз основних аспектів управління відходами з урахуванням вимог європейського законодавства (Сілонова Н.Б., Вакуленко Г.В.). Друга рубрика містить статті з таких питань: видовий склад та зональна поширеність цистоутворюючих нематод  в Україні (Бабич А.Г., Бабич О.А.,  Дзюба Ю. В., Сухарева Р.Д.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">утримання мікроорганізмів-агентів поліфункціональних комплексів біопрепаратів на поверхні насіння (Чабанюк Я.В., Клименко А.М., Дзюба Р.І., Бунас А.А.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">вплив екологічних чинників на фотосинтетичну діяльність агрофітоценозів тритикале озимого (Москалець В. В.). Третя рубрика зосереджується на належній виробничій практиці виробництва білкових мінерально-вітамінних добавок (Сілонова Н.Б, Мандрига А.О.). В четвертій рубриці розглядаються питання щодо співвідношення різних класів ліпідів у жовчі та печінці здорових і хворих новонароджених телят та після застосування ентеросорбентів (Томчук В.А.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">дослідження відповідності деяких продуктів харчування вимогам національних нормативних документів (Поцелуйко М.П., Слива Ю.В., Ульвак О.А.)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">сучасний стан розвитку міжнародної і національної нормативних баз щодо системи управління безпечністю харчових продуктів (Слива Ю. В., Швець Т.Г.).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://nd.nubip.edu.ua/2013_6/index.html</dc:identifier>
+    <dc:type>Journal Issue</dc:type>
+    <dc:language scheme="ags:ISO639-1">uk</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+  </ags:resource>
+</ags:resources>

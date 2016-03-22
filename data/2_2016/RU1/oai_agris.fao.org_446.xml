@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100446">
+    <dc:title xml:lang="en">Determination of Lake Baikal endemic amphipod Eulimnogammarus verrucosus (Gerstf., 1858) thermal optima limits by changes in its metaboliс markers</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Axenov-Gribanov D.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lubyaga J.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shakhtanova N.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gurkov А.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bedulina D.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shatilina Zh.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kondratyeva Е.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vereshchagina K.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Timofeyev М.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Metabolism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4769</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In present study the determination of cellular metabolic markers under exposure of Lake Baikal endemic amphipod Eulimnogammarus verrucosus (Amphipoda, Crustacea) in a wide range of ambient temperatures was carried out. The metabolic data was compared with species termopreferendum data obtained in our previous studies. It was found that exposure of amphipods under increased temperatures resulted in increase of HSP70 content and lactate, activating of antioxidant enzymes (catalase and peroxidase), as well as reduction of lactate dehydrogenase and glutathione S-transferase activities. Exposure of E. verrucosus at low temperatures resulted in decrease of HSP70 content, increase of lactate level, peroxidase and lactate dehydrogenase activation, and reduction of glutathione S-transferase activity.  It was noted that the most expressed changes of metabolism markers in the species observed when temperature threshold was exceeded 11°C or then temperature dropped below 4°C. The temperature range 4-11°C represented the area of ​​stability of cellular metabolic markers in E. verrucosus and correlated with a preferred temperature limits, previously obtained in behavioral experiments. Thus, for a first time with Lake Baikal amphipods we showed that the zone of stability of cellular metabolism in E. verrucosus closely related to their behavioral thermal preference zones and is likely to reflect thermal optima limits of the species.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N4/JSPB_2012_4_289-301.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

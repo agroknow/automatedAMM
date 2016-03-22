@@ -1,0 +1,45 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016111633">
+    <dc:title xml:lang="en">Changes of Haematobiochemical Parameters during Canine Parvoviral Enteritis</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DOKU BLERINA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RAPTI DHIMITER</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DOKU OLSI</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Veterinary Clinic “Vetmedica”, Tirana. Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Veterinary Clinic “Vetmedica”, Tirana. Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">canine parvovirus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35615</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Canine parvovirus is a highly contagious virus that can affect all dogs, but unvaccinated dogs and puppies younger
+than four months old are the most at risk. The pathology caused by CPV-2 is very common in Albania despite the
+existence of an effective vaccine.Changes in haematobiochemical parameters during canine parvoviral enteritiswould
+be very important for determining the prognosis of the disease. This hypothesis prompted the start of the study. From
+fecal samples taken from puppies 65 individuals resulted positive. Of all individuals 14 of them (21.5%) failed to
+survive. All puppies presented leukopenia. In individuals that survived the WBC count began to grow in the first 24-
+48 hours (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_3_2015_file/3_BLERINA%20DOKU%20N3_pp%20222-227.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

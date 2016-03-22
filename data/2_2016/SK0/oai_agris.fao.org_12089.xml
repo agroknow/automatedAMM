@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012089">
+    <dc:title xml:lang="en">The effect of storage temperature on the quality and formation of blooming defects in chocolate confectionery</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Machálková Lenka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hřivna Luděk</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nedomová Šárka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Jůzl Miroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sugar confectionery</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chocolate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">storage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7502</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1582</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7427</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The study aimed at assessing changes in the quality of certain types of chocolate products over the storage period with particular focus on the formation and development of fat and sugar bloom in chocolate products. Seven products were selected in collaboration with a chocolate factory to undergo monitoring and analysis and stored at four temperature regimens (6 °C, 12 °C, 20 °C and 30 °C). Five samplings were carried out over the storing period (18 weeks) for evaluation of the dynamics of changes in their quality. Each sampling was accompanied by sensory evaluation</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">selected physical attributes were also analysed: changes in colour (∆E*ab) within the CIE (L*a*b) system and changes in hardness using the TIRAtest 27025. The results showed a significant effect of storing temperature on the intensity of changes in the quality of products. The results of sensory evaluation of selected products showed that the highest quality for the majority of descriptors was achieved by products stored at temperatures of 6 °C and 12 °C. As regards samples stored under the temperature regimen of 20 °C, the products started to show visible differences, caused primarily by the formation of fat bloom while storing at 30 °C proved to be extremely unsuitable for all the tested products. Since storing temperatures of 6, 12 and 20 °C did not considerably affect hardness and colour of each product, no distinct changes occurred under such temperature regimens. From the aspect of analytical measurements of colour and hardness of each product, storing at temperatures of 20 °C can be termed appropriate. In all the analyses, the effect of the temperature regimen of 30 °C was significantly negative due to defects caused by blooms on the chocolate, meaning that such temperatures are not advisable for storing chocolate products, even over a short term.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/425/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

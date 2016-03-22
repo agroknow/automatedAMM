@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="CO2016000027">
+    <dc:title xml:lang="es">Efecto del precalentamiento del aire primario y la humedad del bagazo de caña de azúcar durante la combustión en lecho fijo</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Effect of primary air preheating and moisture sugarcane bagasse during fixed bed combustion</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sánchez Castro Zamir</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>García Bernal Hugo Reinel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mendieta Menjura Oscar Andrés</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E21</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Jaggery</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sugarcane</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">postharvest technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24474</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7501</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6133</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>6 figs. 5 tabs., 24 ref</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Los hornos utilizados para la elaboración de panela presentan pérdidas energéticas debido a una combustión incompleta del bagazo de caña de azúcar y al calor sensible en los gases de chimenea. Durante el proceso de producción de panela, el bagazo de caña de azúcar se utiliza como combustible, con fracciones másicas de humedad entre 30% y 50%, las cuales afectan el rendimiento de la combustión de una biomasa en lecho fijo. Gracias a que el precalentamiento del aire disminuye el tiempo de secado, su implementación en muchos sistemas de combustión de biomasa ha incrementado la eficiencia del proceso. Por tanto, en la presente investigación se estudió la influencia del contenido de humedad y el precalentamiento del aire primario sobre la temperatura, la composición del gas y la tasa de combustión, mediante un diseño experimental factorial mixto 3x2. Los resultados demostraron que el aumento en la humedad del bagazo de caña reduce la tasa de combustión y la conversión de carbono a CO2, y por tanto, el rendimiento del proceso. Cuando se precalentó el aire primario hasta una temperatura de 120 oC, la tasa de combustión aumentó, sin embargo sólo significó un incremento en el     rendimiento de la combustión para una fracción másica de humedad de 30%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Furnaces used to making jaggery have energy losses due to incomplete combustion of sugarcane bagasse and sensible heat in the flue gases. During jaggery production process, sugarcane bagasse is used as fuel, with mass fractions of humidity between 30% and 50%, which affect the combustion efficiency of a biomass in a fixed bed. Because the air preheating decreases the drying time, its implementation in many biomass combustion systems increases process efficiency. Therefore, in this investigation we studied the influence of the moisture content and the preheating of the primary air on the combustion of bagasse in a fixed bed furnace, by analyzing the profiles of temperature and concentration of the combustion gas. Results showed that increasing in bagasse moisture reduces the rate of combustion and conversion of carbon to CO2, diminishing the yield of process. When the primary air is preheated to a temperature of 120 oC, the combustion rate increased, however, only meant an increase in combustion efficiency to a mass fraction of 30% humidity.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.corpoica.org.co/SitioWeb/Archivos/Revista/Articulo1_REVISTACORPOICAVol14No1-2013.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Revista CORPOICA : Ciencia y Tecnología Agropecuaria</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">01228706</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

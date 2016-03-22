@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08920">
+    <dc:title xml:lang="ru">ОПРЕДЕЛЕНИЕ НЕКОТОРЫХ ТОВАРОВЕДЧЕСКИХ ПОКАЗАТЕЛЕЙ ТРАВЫ СУХОЦВЕТА ОДНОЛЕТНЕГО, ПРОИЗРАСТАЮЩЕГО В ВОЛГОГРАДСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE DEFINITION OF SOME MERCHANDISING CRITERIA OF THE XERĀNTHEMUM ĀNNUUM HERB GROWING IN VOLGOGRAD REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>МИТРОФАНОВА И.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ЯНИЦКАЯ А.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>РАБИЧЕВА А.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Волгоградский государственный медицинский университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">drugs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2395</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5993</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье представлены результаты определения некоторых товароведческих показателей сырья сухоцвета однолетнего (Xerānthemum ānnuum L.) - влажности, золы общей и нерастворимой в 10% растворе кислоты хлороводородной. Установлено, что влажность травы сухоцвета однолетнего составляет 7,03±1,06 %, зола общая и зола, нерастворимая в 10% растворе кислоты хлороводородной, - 7,60±0,28 % и 2,60±0,36 % соответственно. Относительная погрешность определений не превышает 0,15%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article presents the results of studying some merchandising criteria of the Xerānthemum ānnuum herb - moisture, total ash and insoluble in 10% hydrochloric acid solution. It was established that the Xerānthemum ānnuum herb moisture amounts to 7,03±1,06 %, its total ash and insoluble in 10% hydrochloric acid solution - 7,60±0,28 % and 2,60±0,36 % correspondingly. Ratio error of measurements is less than 0,15%.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/03/2-3-21.pdf#page=95</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.2 (21)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

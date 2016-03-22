@@ -1,0 +1,74 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12029">
+    <dc:title xml:lang="en">PHYSIOLOGICAL ASPECTS OF THE APPLICATION  OF PHYSICAL FACTORS, MICROELEMENTS AND  GROWTH REGULATORS TO IMPROVE THE DROUGHT  TOLERANCE OF PLANTS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ФИЗИОЛОГИЧЕСКИЕ АСПЕКТЫ ПРИМЕНЕНИЯ  ФИЗИЧЕСКИХ ФАКТОРОВ</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>МИКРОЭЛЕМЕНТОВ  И РЕГУЛЯТОРОВ РОСТА ДЛЯ ПОВЫШЕНИЯ  ЗАСУХОУСТОЙЧИВОСТИ РАСТЕНИЙ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kostin V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Isaychev V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Reshetnikova S.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant growth substances</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">trace elements</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drought resistance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1972</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5968</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7834</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2392</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>9 tables,21 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results of long term experiments to study the effects of physical, chemical factors and growth regulators show the uniformity of plant responses to stress conditions. The content of bound water and water-holding power of different varieties carried out in the field, vegetation experiments, but also in terms of drought and phytotron from the action of physical factors, micro-elements the same effect is obtained - the universality of the response of the plant organism, in this case - spring wheat. Studies show that water-holding capacity is a dynamic indicator and varies depending on the stage of growth and plant age. Varietal differences are established according to water loss. Soil drought, even briefly, will have a significant effect on the ratio of forms of water, resulting the reduction of overall waterfulness of leaves and the amount of free water, the amount of bound water increases. Bound water forms the most stable supply of water in plants and is essential for improving drought tolerance. Under drought plants treated with copper and zinc, especially on the background radiation, have better water holding capacity. The heat resistance is greatly increased by the action of zinc. Seed treatment with pectin, melafen and micro-elements contributes to the adaptation of plants to the transfer of the adverse factors of environment, evidenced by the accumulation of proline as osmotically active organic substances that contribute to water retention in the cells of plants, the maximum content of proline is observed at the onset of the phase of earing. In general, growth regulators and microelements, especially zinc, have a positive impact on the drought and heat resistance of spring wheat.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Результаты многолетних опытов по изучению действия физических, химических факторов и регуляторов роста показывают на однотипность реакций растений на стрессовые условия. По содержанию связанной воды и водоудерживающей силе различных сортов проведённых в полевых, вегетационных опытах, а также в условиях засушника и фитотрона от действия физических факторов, микроэлементов получается одинаковый эффект - универсальность реакции растительного организма в данном случае яровой пшеницы. Исследования показывают, что водоудерживающая способность является динамичным показателем и варьирует в зависимости от фазы роста и возраста растений. По потере воды установлены и сортовые различия, причём во всех фазах роста. Почвенная засуха, даже кратковременная, оказывает заметное влияние на соотношение форм воды, в результате уменьшается общая оводнённость листьев и количество свободной воды, увеличивается количество связанной воды. Связанная вода образует наиболее устойчивый запас воды в растениях и имеет важное значение для повышения засухоустойчивости. Под действием засухи растения, обработанные медью и цинком, особенно на фоне радиации, лучше удерживают воду. Жаростойкость значительно увеличивается под действием цинка. Обработка семян пектином, мелафеном и микроэлементами способствует адаптации растений к перенесению неблагоприятных факторов среды, об этом свидетельствует накопление пролина как осмотически активного органического вещества, способствующего удержанию воды в клетках растений, максимальное содержание пролина отмечается при наступлении фазы колошения. В целом регуляторы роста и микроэлементы, особенно цинк оказывают благоприятное влияние на засухоустойчивость и жаростойкость растений яровой пшеницы.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(27)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

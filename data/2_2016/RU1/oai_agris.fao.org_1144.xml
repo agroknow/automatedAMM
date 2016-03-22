@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101144">
+    <dc:title xml:lang="en">Study of Metal Resistance Potential of the Cd, Cr Tolerant Alligator Weed</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pal Suparna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kundu Rita</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Alternanthera philoxeroides</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cation exchange capacity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Glutathione reductase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Thiols</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24981</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34837</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7731</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Background – Environmental deterioration due to heavy metal pollution is a major global concern for its immense importance in the ecosystem. Indiscriminate use of heavy metals for rapid urbanization and industrial exploration is a pressing threat to human health. Among this Cd and Cr contamination is most dangerous as these metals directly enter into the food chain due to their higher solubility and mobility. Identification of a metal tolerant native plant species would be helpful to decontaminate Cd and Cr polluted land. In our previous study, field investigations were conducted to evaluate the tolerance potential of Alligator weed to Cd and Cr.Alligator weed [Alternanthera philoxeroides (Mart). Griseb ],is the most widely distributed perennial stoloniferous herb in these contaminated areas in and around Kolkata.
+
+Purpose of the study – To establish metal tolerant capacity of the species , different biochemical parameters assessing its metal accumulation capacity and reflecting its detoxification mechanism were studied. For these purpose, the same plant collected from the highest metal contaminated area was grown under laboratory condition with external application of various concentration of Cd and Cr individually and synergistically (0.5, 0.8, 1.0, 1.2, 1.5, 1.8 mM). To estimate the hazardous effects of Cd and Cr on this weed, membrane damage was quantified in form of lipid peroxidation i.e MDA production. The metal uptake and accumulation potential was estimated by measuring the Cd and Cr concentration in root and shoot. Some soil parameters such as Orgnaic Carbon, Cation exchange capacity were also studied to explain the bio availability of metals. Various biochemical parameters such as free proline content, non protein- thiol content and zymogram analysis of antioxidative isozymes (such as, Guiacol peroxidase, superoxide dismutase, glutathione reductase and ascorbate peroxidase) were studied to assess its metal resistant capacity. 
+
+Result: The acidic pH and enhanced Cation Exchange Capacity of soil made both Cd and Cr more bioavailable with increasing metal concentration. Linear increase in metal uptake and accumulation was recorded upto an optimum level at 1.0 mM, 1.2 mM for Cd and Cr respectively, evident from Translocation Factor &gt; 1. Gradual increase in membrane damage reflected the devastating effect of both Cd and Cr. But enhanced free proline content and non protein thiol content provide enough detoxification capacity to tolerate 1.2 mM Cd, Cr after which biochemical defenses declined. Increased activity of glutathione reductase and superoxide dismutase were well documented in 1.2 mM and 1 mM Cd, Cr treated plants respectively. Overexpression of ascorbate peroxidase, superoxide dismutase and glutathione reductase was evident by the appearance of additional bands with respect to control plants which would provide acute detoxification capacity of the plant to cope up with gradual increasing Cd, Cr contamination.
+
+Conclusion: This newly emergent Cd and Cr tolerant plant which can thrive well in highly Cd, Cr contaminated soil under field condition is thought to have the potential for phytoremediation of multiple metal contaminated sites of major polluted cities.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_244-261.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

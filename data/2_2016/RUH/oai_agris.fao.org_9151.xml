@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09151">
+    <dc:title xml:lang="ru">СЕЛЬСКАЯ МОЛОДЕЖЬ В ФОКУСЕ ЭКСТРЕМАЛЬНОЙ АНТРОПОЛОГИИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE RURAL YOUTH ON THE FOCUS OF EXTREME ANTHROPOLOGY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>МАСАЛИМОВ Р.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Башкирский государственный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E51</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rural youth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rural areas</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anthropology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14002</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6699</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8842</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье исследуются социально-экономические проблемы молодежи сельской местности Республики Башкортостан. Сельская молодежь в условиях экстрима выступает как точный индикатор проблем в общественной жизни, прежде всего, развития аграрной сферы сельских территорий. Предлагается использовать различные методы для исследования проблематики жизненных интересов молодежи сельских территорий. На основе проведенного социологического мониторинга сформирован комплекс проблем, возникающих среди студенческой молодежи - выходцев из сельской местности республики. По результатам исследования выделены основные жизненные цели молодежи сельских территорий на материалах анкетирования студентов вуза педагогического профиля.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article deals with social and economic problems of youth of rural territories of the Republic of Bashkortostan. The rural youth acts as the exact indicator of problems in the social sphere under extremity, and, first of all, in the agrarian sphere of rural territories of the region. Methodical approaches to the solution of social and economic problems of rural youth are specified. Various methods for research of a perspective of vital interests of youth of rural territories are offered. On the basis of the carried-out sociological monitoring the complex of the problems arising among students - natives of rural areas of the Republic is created. By results of research the main vital objectives of youth of rural territories on materials of questioning of students of higher education institution of a pedagogical profile are allocated.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/4-4-23.pdf#page=35</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4 (23)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

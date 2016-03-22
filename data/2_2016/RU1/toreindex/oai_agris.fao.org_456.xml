@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100456">
+    <dc:title xml:lang="en">Growth, Carbon Isotope Discrimination and Nitrogen Uptake in Silicon and/or Potassium Fed barley Grown under Two Watering Regimes</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kurdali Fawaz</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Al-Chammaa Mohammad</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F61</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Barley</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Silicon</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Potassium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_823</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7061</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6139</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present pot experiment was an attempt to monitor the beneficial effects of silicon (Si) and/or potassium (K) applications on growth and nitrogen uptake in barley plants grown under water (FC1) and non water (FC2) stress conditions using 15N and 13C isotopes. Three fertilizer rates of Si (Si50, Si100 and Si200) and one fertilizer rate of K were used. Dry matter (DM) and N yield (NY) in different plant parts of barley plants was affected by Si and/ or K fertilization as well as by the watering regime level under which the plants have been grown. Solely added K or in combination with adequate rate of Si (Si 100) were more effective in alleviating water stress and producing higher yield in barley plants than solely added Si. However, the latter nutrient was found to be more effective than the former in producing higher spike's N yield. Solely added Si or in combination with K significantly reduced leaves ∆13 C reflecting their bifacial effects on water use efficiency (WUE), particularly in plants grown under well watering regime. This result indicated that Si might be involved in saving water loss through reducing transpiration rate and facilitating water uptake</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">consequently, increasing WUE. Although the rising of soil humidity generally increased fertilizer nitrogen uptake (Ndff) and its use efficiency (%NUE) in barley plants, applications of K or Si fertilizers to water stressed plants resulted in significant increments of these parameters as compared with the control. Our results highlight that Si or K is not only involved in amelioration of growth of barley plants, but can also improve nitrogen uptake and fertilizer nitrogen use efficiency particularly under water deficit conditions.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N1/JSPB_2013_1_14-27.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016008062">
+    <dc:title xml:lang="en">Survival of selected bacteria from the genus Arcobacter on various metallic surfaces</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Šilha, D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hrušková, L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Brožková, I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Moťková, P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vytřasová, J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Analytical Chemistry, Faculty of Chemical Technology, University of Pardubice, Studentská 573, 532 10 Pardubice, Czech Republic. E-mail: david.silha@centrum.cz</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">bacteria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">alloys</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_765</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1329472801210</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_295</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_64627</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The genus Arcobacter is closely related to the well-known human pathogen Campylobacter jejuni. These bacteria are today dreadful pathogens and constitute a considerable threat, particularly in the form of alimentary infection. Many materials and surfaces, in particular those used in food industry, have been found to influence survival of bacteria, and can even lead to elimination of bacteria. The survival of selected arcobacters was tested on various metallic coupons at various temperatures. Arcobacters survived for the longest on stainless steel and on aluminium, but depending on the species of bacteria and on temperature (at 5 °C, for 8 h or 24 h, respectively</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">at 25 °C, for 120 min or 180 min, respectively). The substantially fastest inactivation was recorded in the case of materials containing copper or zinc. Inactivation occurred on the copper coupon already 3 min after exposure. On material coated with zinc, bacteria survived for 5 min or 10 min. This study is the first dedicated to such extent to the survival of arcobacters on these materials under various temperatures. Results also demonstrate a noteworthy sensitivity of arcobacters to this effect in comparison with several previously published results for other pathogenic bacteria.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

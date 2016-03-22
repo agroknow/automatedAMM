@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016006001">
+    <dc:title xml:lang="en">LINEAR AND QUADRATIC EFFECTS OF INDIVIDUAL AND EWE INBREEDING ON GREASY FLEECE WEIGHT AND REPRODUCTIVE TRAITS OF MAKUIE SHEEP BREED</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>JAFARI S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>University of Urmia, Urmia, Iran</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">inbreeding depression</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">wool</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproductive performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34858</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8436</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8349</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A pedigree file consisting of 5860 individuals, 167 sires and 1582 dams collected at Makuie sheep breeding station (MSBS) during a period of 24 years (1990 to 2013) was used to calculate the inbreeding coefficients to reveal any probable effects of inbreeding (F) on the studied traits. The studied traits were: greasy fleece weight at 6 months of age, greasy fleece weight at 18 months of age, conception rate, gestation length, number of lambs born, number of lambs alive at weaning, litter mean weight per lamb born and litter mean weight per lamb weaned. The inbreeding coefficient among the individuals ranged from 0 to 25 % with an average of 0.33 %, and ranged from 0 to 25 % among the ewes with an average of 0.21 %. Fluctuations in individual and ewe inbreeding were observed in the period under study. The average generation interval was calculated as 3.6 years. The effective population size of the flock was 51.8 animals. The rate of inbreeding was 0.08 % per year and 0.53 % per generation. Six different models were applied and likelihood ratio test (LRT) was used to select the appropriate model. Based on the LRT, model II was selected as an appropriate model for greasy fleece weight at 6 months of age. Quadratic regression coefficients of greasy fleece weight at 6 months of age and greasy fleece weight at 18 months of age were determined as significant (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.cvzv.sk/index.php/sk/rocnik-47-2014/cislo2</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Slovak Journal of Animal Science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1337-9984</ags:citationIdentifier>
+      <ags:citationNumber>v.47/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

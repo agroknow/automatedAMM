@@ -1,0 +1,106 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01970">
+    <dc:title xml:lang="en">Tillering, sward height and soil cover in elephant-grass pasture fertilized with nitrogen and irrigated</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Perfilhamento</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>altura do dossel e cobertura do solo em pastagem de capim-elefante adubados com nitrogênio e irrigado</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>VITOR, C. M. T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MARTINS,  C. E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COSER,  A. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FONSECA,  D. M</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NASCIMENTO JÚNIOR,   D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RIBEIRO JÚNIOR,  J. I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sprinkler irrigation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rainy season</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dry season</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Seasonality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pennisetum purpureum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7338</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13749</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34117</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5677</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The research was conducted in field conditions, in order to evaluate the effects of four nitrogen doses (100</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">300</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">500 and 700kg ha-1of N) and six water sheet (0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">20%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">40%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">80%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">100% and 120% of evapotranspiration) over the population density of basal tillers, sward height and percentage of soil covered by elephant grass plants. The nitrogen doses were the plots and the water sheet constituted the subplots, according to the complete randomized blocks experiment with four replicates. The results indicated nitrogen fertilization has effect on density of basal tillers and sward height in all evaluated periods, except for the density of basal tillers during rainy period. Nitrogen fertilization did not influence the soil covered by elephant grass in none of the evaluated periods. The water sheet applied had effect on density of basal tillers, sward height and soil covered by elephant grass in all evaluated periods, except for soil covered during the rainy period. Dose of 700kg ha-1of N and the water sheet applied of 120% of evapotranspiration were the ones that provided larger density of basal tillers and larger sward height in all the evaluated periods.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O experimento foi realizado em condições de campo com o objetivo de avaliar o efeito de quatro doses de nitrogênio (100</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">300</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">500 e 700kg ha-1de N) e seis lâminas de água (0, 20%, 40%, 80%, 100% e 120% da evapotranspiração) sobre a densidade populacional de perfilhos basais, altura e cobertura do solo pelo capim-elefante (Pennisetum purpureum, Schum). As doses de nitrogênio corresponderam às parcelas e as lâminas de água às subparcelas, segundo o delineamento em blocos completos casualizados com quatro repetições. Os resultados indicaram que a adubação nitrogenada tem efeito sobre o perfilhamento e a altura do dossel em todos os períodos avaliados, com exceção do perfilhamento durante o período chuvoso. A adubação nitrogenada não influencia a cobertura do solo pelas plantas de capim-elefante em nenhum dos períodos avaliados. Já as lâminas de água aplicadas tem efeito sobre o perfilhamento, altura do dossel e cobertura do solo pelas plantas de capim-elefante em todos os períodos avaliados, com exceção da cobertura do solo durante o período chuvoso. A dose de 700kg ha-1de N e a lâmina de 120% da evapotranspiração foram as que proporcionaram maior perfilhamento e maior altura do dossel em todos os períodos avaliados.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1214939865.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

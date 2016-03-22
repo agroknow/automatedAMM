@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A11539">
+    <dc:title xml:lang="en">THE STUDY OF THE IMPACT OF MODIFIED ADDITIVE ON SOME PROPERTIES OF ASPHALT CONCRETE WITH CRUSHED LIMESTONE DUST FOR TOPPING OF LOGGING ROADS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ИЗУЧЕНИЕ ВЛИЯНИЯ МОДИФИЦИРОВАННОЙ ДОБАВКИ НА НЕКОТОРЫЕ СВОЙСТВА АСФАЛЬТОБЕТОНА С ОТСЕВАМИ ДРОБЛЕНИЯ ИЗВЕСТНЯКОВ ДЛЯ ПОКРЫТИЙ ЛЕСОВОЗНЫХ ДОРОГ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MALYANOVA Lidiya</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SALIKHOV Mukhammet</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Moscow Auto-Road Institute</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">entities</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330892</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">One of the most efficient ways of production of asphalt concrete with improved performance properties is its modification, by means of addition of surfactant materials to binder. This method is more technologically viable, since it does not require construction and application of new equipment in asphalt concrete plants. The aim of the work is reduction of costs and improvement of physical and mechanical properties of hot asphalt concrete with crushed limestone dust for base and surface course of logging roads. Background and rationale of the set task is search and explanation of mechanisms of stability of microstructure of small stone asphalt, substituting components (stabilizer, igneous rocks sand and mineral filler) for by-passed stone of local aggregates from limestone and dolomite deposits using waste products of the chemical industry of Chuvashia for logging roads topping. The reason for such substitution is physical and chemical processes in interfaces of phases, such as activation, adsorptive and adhesive processes. Theoretical models were verified by means of analysis of impact of additives containing aniline production by-products (LKMS1) and Novantox 8 PFDA (LKMS2) (antioxidant of Khimprom facility of the Chuvash Republic), on physical and chemical properties of hot bitumen-concrete mixtures of B-1 type. Laboratory tests were conducted according to the established procedures using standard asphalt-concrete cylindrical specimens 71,5 mm in diameter and height. These tests calculated mass specific gravity, water saturation, water resistance grade and strength of compression at temperatures of 20 оС and +50 оС. The work studies the impact of waste products of the Chuvash chemical industry (LKMS1 and LKMS2) on the bitumen and asphalt-concrete properties. On the basis of conducted experiments the results of received asphalt-concrete specimens of standard and proposed composition were compared. In final specimens, sand and mineral filler was substituted for dust, produced of crushed carbonate rock, and mod-bit with 0,6 % additives was used as binding substance. Application of LKMS1 and LKMS2 additives reduces water saturation factor to the lowest notch, it provides asphalt-concrete with a high cement factor. This condition enables lower quantity of binder (bitumen) in mixture. Addition of LKMS1 and LKMS2 to binder increases ultimate compressive strength of asphalt-concrete. The results of tests showed that compressive strength of specimens at the temperature of +20+2 standard requirements. LKMS1 and LKMS2 additives slightly affect the ultimate compressive strength of specimens, tested at a temperature of +50 оС. But these values are 1.5 higher than a lower limit. In simmer the road surface heats up to the temperature of 50...60 оС. This reduces viscosity of bitumen bonds and lowers the strength. Consequently, rolling load on roads can cause plastic flows in the form of corrugations and ruts. Therefore the higher the strength index at a temperature of +50 оС is, the less possible is rutting on the road surface. Obtained strength values of specimen are ranged from 2.0 to 2.7 which meets the Specifications for Asphalt Concrete. As a result of conducted theoretical and experimental research, it has been proved that physical and mechanical properties of Asphalt Concrete can be improved by means of additives of waste products of chemical industry and soft limestone of Chuvashia. оС ranges from 5,4 to 7,1 MPa, which is higher than</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведены результаты теоретического и экспериментального исследований асфальтобетонов с заменой компонентов (стабилизирующей добавки, дробленого песка изверженных пород и минерального порошка) на отходы камнедробления местных каменных материалов из месторождений известняков и доломитов Чувашии и с применением отходов химической промышленности Чувашии для покрытий лесовозных дорог.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/95/81</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100855">
+    <dc:title xml:lang="en">Differential Responses of Two Lactuca sativa Varieties to Bicarbonate-Induced Iron Deficiency</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Chebbi Mohamed</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Msilini Najoua</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Amdouni Thouraya</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ouerghi Zeineb</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bicarbonates</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lactuca sativa</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_898</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4149</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Iron chlorosis induced by bicarbonate is very common in calcareous soils, where  bicarbonate (HCO3-)  ions  are  present  at  high  concentrations.  In  this  study,  morpho-physiological  and biochemical responses of two  Lactuca sativa  varieties (Romaine and Vista) to bicarbonate induced iron deficiency were investigated. The culture was conducted on nutrient solution containing 5 µM Fe and 10 mM NaHCO3, in a growth chamber with controlled conditions. After 14 days of bicarbonate treatment, the two varieties seedling showed a slight yellowing of young leaves associated with a significant decline of plant biomass, leaf number and area. Furthermore,  the concentrations of the nutrient elements (potassium, magnesium, iron and calcium) in leaves and roots of two lettuce varieties were modified. In roots of bicarbonate treated plants, the Fe-chelate reductase activity was increased as compared to control in both varieties. PEPC activity was enhanced only in Vista variety. Moreover, Fe deficiency induced a small change in the photosynthetic parameters and chlorophyll fluorescence, especially in Romaine variety. These changes are accompanied by decreases in ribulose 1.5-bisphosphate carboxylase/oxygenase  (Rubisco) activity.  These  findings  indicated that Vista variety could survive at low iron supply.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N4/JSPB_2013_4_39-52.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

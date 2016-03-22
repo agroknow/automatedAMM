@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206439">
+    <dc:title xml:lang="en">Effect of organic fertilization on biomass production and bioactivity of citronella grass essential oil</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito da adubação orgânica na produção de biomassa e bioatividade do óleo essencial do capim citronela</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Soares Adriano de Aguiar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Castro Henrique Guilhon de</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Santos Gil Rodrigues dos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cardoso Dione Pereira</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Júnior Aloisio Freitas Chagas</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aguiar Raimundo Wagner de Souza</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Gurupi, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Gurupi, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Gurupi, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Gurupi, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Gurupi, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Tocantins, Gurupi, TO, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">drug plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Didymella bryoniae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2393</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32113</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study aimed to analyze the effect of organic fertilization on the growth and on biomass production of citronella grass (Cymbopogon nardus) as well as evaluating the effect citronella grass essential oil and of the citronellal compound in inhibiting the mycelial growth of the Didymella bryoniae
+fungi. To evaluate the effect of organic fertilization on the growth of citronella grass, the experiment was installed in a block randomized design in subdivided plot scheme. The plots consisted by four doses of organic cattle manure (0, 3, 6 and 9 Kg hole-1) and the subplots by five sampling times (80,
+108, 136, 164, 192 days after transplant). To evaluate the effect of citronella grass essential oil in inhibiting mycelial growth of D. bryoniae, the experiment was installed in a completely randomized design in a factorial scheme. The treatments consisted of five aliquots (5, 10, 15, 20 and 25 μL) of essential oil of citronella grass and citronellal compound in five sampling times. The treatment of organic fertilization 9 Kg hole-1 exhibited the highest values in all variables in the last sampling time. A greater effect of inhibition of mycelial growth was obtained using citronellal when compared with
+the essential oil. In the aliquot of 25 μL of citronellal was observed total inhibition of mycelial growth of the D. bryoniae fungi.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Este trabalho teve como objetivo analisar o efeito da adubação orgânica no crescimento e na produção de biomassa do capim citronela (Cymbopogon nardus), assim como avaliar o efeito do óleo essencial do capim citronela e do composto citronelal na inibição do crescimento micelial
+do fungo Didymella bryoniae. Na avaliação do efeito da adubação orgânica no crescimento do capim citronela, foi utilizado o delineamento em blocos casualizados em esquema de parcela subdividida. As parcelas foram constituídas por quatro doses de adubação orgânica de esterco bovino curtido (0, 3, 6 e 9 Kg cova-1) e as subparcelas por cinco épocas de amostragem (80, 108,136, 164, 192 dias após o transplante). Para avaliar a fungitoxicidade do óleo essencial do capim citronela na inibição do crescimento micelial do fungo D. bryoniae, foi instalado no delineamento
+inteiramente casualizado em esquema fatorial. Os tratamentos foram compostos por cinco alíquotas (5, 10, 15, 20 e 25 μL) do óleo essencial do capim citronela e do composto citronelal, em cinco épocas de amostragem. Verificou-se no tratamento de adubação orgânica de 9 Kg cova-1 os maiores valores em todas as variáveis analisadas na última época de amostragem. Constatouse maior efeito de inibição do crescimento micelial utilizando o citronelal em comparação com o óleo essencial. Na alíquota de 25 μL do citronelal ocorreu inibição total do crescimento micelial do fungo D. bryoniae.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/369/282</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

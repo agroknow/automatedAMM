@@ -1,0 +1,42 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202499">
+    <dc:title xml:lang="en">Soil cover and water quality for irrigation purposes</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Cobertura do solo e qualidade de águas para fins de irrigação</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bertossi Ana Paula</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Espírito Santo, Alegre, ES, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P33</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Salinity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6751</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In order to assess the relationship between land cover and water quality for irrigation in the sub-basin of the stream Horizonte, located in the Espírito Santo State, Brazil, we selected five places in the sub-basin to collect surface water and groundwater, each influenced by different soil cover types: pasture, forest, coffee, upstream and downstream of the urban area. Collecting samples were made during periods of drought and rainfall. The physical-chemical analysis of water was made by determining the pH, electrical  conductivity, calcium, magnesium, sodium and calculated sodium adsorption ratio (SAR). According to the results we can conclude that the soil cover did not change the quality of water for irrigation and water evaluated, both surface and groundwater, showed no risk of soil salinization, but can cause problems sodification, making it difficult to water infiltration.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Com o objetivo de avaliar a relação entre a cobertura do solo e a qualidade da água para irrigação na Sub-bacia hidrográfica do Córrego Horizonte, localizada no Espírito Santo, foram selecionados cinco lugares na sub-bacia para coleta de água superficial e subterrânea, cada qual influenciado por diferentes coberturas do solo: pastagem, floresta, cafeicultura, à montante e à jusante da área urbana. As coletas foram feitas em períodos de estiagem e de chuvas. A análise físico-química das águas foi feita por meio da determinação do pH, condutividade elétrica, cálcio, magnésio, sódio e calculada a razão de adsorção de sódio (RAS). De acordo com os resultados pode-se concluir que
+a cobertura do solo não alterou a qualidade da água para irrigação e as águas avaliadas, tanto superficiais, quanto subterrâneas, não apresentaram risco de salinização do solo, mas poderiam acarretar problemas de sodificação, dificultando a infiltração de água.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/285/242</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

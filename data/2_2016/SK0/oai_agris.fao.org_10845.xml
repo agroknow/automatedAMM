@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016010845">
+    <dc:title xml:lang="sk">Diverzita pestríc (Diptera, Syrphidae) a jej význam v Prírodnej rezervácii Žitavský luh</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Diversity of hoverflies (Diptera</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>Syrphidae) and its importance in the Nature reserve Žitavský luh</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Králiková Adrianna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture in Nitra, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Nitra</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Diptera</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Slovak Republic</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2318</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33096</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">This monograph deals with species, forrns, habitats diversity of hoverflies as well as  with their usage as biological agens, pollinators and with landscape management. It is also  focused on assessment of habitas with Syrph the Net database. The functional diversity of hoverflies is presented by the Nature Reservation Žitavský luh. By making research into the syrphidocoenoses of wetlands of NR Žitavský luh in 2003 and 2004. 1.928 individuals of hoverflies belonging to 53 species and non-deterrnined females of the genus Sphaerophoriu wen: obtained. Aphidophagous species were in eudominant and dorninant position in both years of research. Concerning the functional diversity, they presented an important throphic group both the amount of specimens and species spectrum. Considering the occurrence of critically endangered and vulnerable species, most of which being bound by their incidence to the type of wetland habitat, the territory of Žitavský Juh can be evaluated as very appreciated. Based on an ecosozoological evaluation and cornputed divcrsity indicators (2,02 to 2.74) and equitability (0,71 to 0,81), the site 2 located in the southern part of wetlands reached the highest evaluation as far as the ecological significance is concerned. In 2003, in the given area was reached the highest diversity compared with H'rnax - H" more then  2,74</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">H'rnax = 3.40 at e = 0,81, Knowing syrphidocoenoses of NR Žitavský luh contributes to increasing knowledges about a biological value of this territory.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="ags:ISBN">978-80-552-0980-7</dc:identifier>
+    <dc:type>Book</dc:type>
+  </ags:resource>
+</ags:resources>

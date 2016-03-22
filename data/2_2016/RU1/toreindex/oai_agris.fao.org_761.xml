@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100761">
+    <dc:title xml:lang="en">Amelioration of Fluoride Toxicity with the Use of Indigenous Inputs</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Maitra A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Datta J.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mondal N.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Composts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rhizosphere</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1795</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6569</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">An assessment was undertaken to study the efficacy of bacterial consortia isolated from different sources viz. rhizosphere of rice plant, oil spill sites of a petrol pump and from the sludge of a pharmaceutical waste water drain against the impact of fluoride. The experiments were conducted with two crops. In this mung bean experiment Vigna radiata was selected as a test crop. The seeds were sown in the field with bacterial consortia, compost and reduced dose (25% less nitrogen than recommended dose) of chemical fertilizer. After 30days of seed sowing (DAS), plants were collected from the field and dipped into the sodium fluoride solution with different concentrations for 48 hours. Thereafter, the impact of fluoride on chlorophyll, sugar, proline and relative water content (%) were evaluated. Scanning electron microscopy (SEM) of the stem section was performed. SEM studies revealed that anatomical structure deformed with 1.5 mg/l sodium fluoride solution. It was observed that such treatment combination during the sowing of crops leads to combat the impact of lower doses of sodium fluoride (0.2 mg/l). Another experiment was also conducted within plastic pots with and without bacterial consortia isolated from rhizosphere of rice plant and oil spilled soil of petrol pump with the same field soil. Each pot was filled with 5 kg of soil + 2lt of water (on the basis of soil saturation). Oryza sativa seedlings were transplanted with different strength of sodium fluoride solution (25 mgNaF/kg, 50 mgNaF/kg, 100 mgNaF/kg and 500mgNaF/kg) within the above pots. In second experiment, rice plants dried in all pots after 500 mgNaF/kg concentration of sodium fluoride. In this pot experiment bacterial strain are capable of reducing fluoride content in soil as noted by measuring fluoride in the pot soil after the experiment.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N3/JSPB_2013_3_207-219.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

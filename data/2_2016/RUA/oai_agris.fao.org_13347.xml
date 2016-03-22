@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A13347">
+    <dc:title xml:lang="en">SIBERIAN STONE PINE SEEDING IN MARI TRANS-VOLGA REGION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>СЕМЕНОШЕНИЕ СОСНЫ СИБИРСКОЙ В МАРИЙСКОМ ЗАВОЛЖЬЕ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ROMANOV Evgeny</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LAZAREVA Svetlana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRODNIKOV Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Introduction. The problems of intraspecies variability and seeds quality of Siberian stone pine (Pinus sibirica Du Tour) in Mari Trans-Volga region are not well studied. Lack of papers on the problem is the evidence of the made assumption. Capability to seed and to give viable off-spring is the major indicator of acclimatization of woody plants in the new growth conditions. The goal of the research is to define qualitative and quantitative indicators of seeding for Siberian stone pine in the region of its introduction. The object of the research were  the  planta-tions  of  Siberian stone pine established in the alleys in 1967. The research method included a detailed study of the trees, an assessment of seeding in accordance with the Nekrasova scale, and definition of  seeds quality according to the existing standards. The year of cone harvesting was not a  fruitful one. At that, mean figure of seeding was  1,3. Results. Trees of Siberian stone pine grow quickly.  They have a comparatively better seeding than other species. The indices of cones and seeds of  Siberian stone pine are within the  limits of growth of cones, forming in the area of  natural growth. On an average, the length of cone is 5,1 сm, diameter – 4,0 сm, percent of seed efficiency – 50,03. Mass  of 1000 seeds  is on the average 224,3±2,49 g. Influence of individual peculiarities of trees on the variability of the studied biometric  indices of cones is high enough</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">it determines the length of cone to 44,5 % , diameter of cone –35,1, mass – 42,4, number of seeds in a cone – 39,9, mass of seeds – 42,0 %. Seed efficiency (to 29,3 %) also depends on the individual characteristics of a parent tree. Local seeds are usually of 2 quality class. Presence of seeding and undergrowth shows successful acclimatization of the species and gives a chance  to go to the next stage of  formation of seed objects. Besides, it is better to choose the trees of the upper canopy with the maximum biometric characteristics of stem diameter, height of tree and  length of the alive crown as mother trees.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Представлены результаты изучения внутривидовой изменчивости шишек и семян сосны кедровой сибирской в условиях интродукции в Марийском Заволжье. Обнаружена прямая тесная связь между высотой, диаметром ствола, протяжённостью живой части кроны дерева и баллом семеношения. Линейные и весовые параметры шишек, формирующихся в условиях культуры, аналогичны показателям для естественного ареала при нормальном уровне индивидуальной изменчивости. Выявлена высокая доля влияния генотипа материнского дерева на изменчивость качественных и количественных показателей шишек и семян. В целом сосна сибирская успешно акклиматизируется в регионе.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/282/293</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.27/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

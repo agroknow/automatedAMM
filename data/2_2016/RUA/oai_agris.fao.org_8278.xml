@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A08278">
+    <dc:title xml:lang="en">REMOTE MONITORING OF URBAN FORESTS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ДИСТАНЦИОННЫЙ МОНИТОРИНГ ГОРОДСКИХ ЛЕСОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>VOROBYEV Oleg</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KURBANOV Eldar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GUBAYEV Aleksandr</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POLEVSHCHIKOVA Yuliya</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DEMISHEVA Ekaterina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KOPTELOV Vasily</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">imagery</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">urban forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Remote sensing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36760</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32621</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6498</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the research was to carry out the comparative analyses of changes in spatial structure of Yoshkar-Ola city's urban forests between 1989 and 2014. To fulfill this aim several tasks were accomplished: finding out and processing of satellite images of middle and high resolutions on the territory of the city Yoshkar-Ola</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">elaboration of thematic maps with the use of ISODATA unsupervised classification and allocation of 6 main dominant classes of land cover on the investigated territory</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">estimation the degree of fragmentation on the territory of Yoshkar-Ola on the base of landscape metrics and detection of main spatial dynamics of urban forests. The paper also explores eligibility of a landscape metrics for the estimation of spatial distribution of Yoshkar-Ola urban forests for the 1981, 2001 and 2014 with the use of remote sensing. In the research we used archival Landsat images, map and plan of the city, satellite data Canopus and Rapid Eye of higher spatial resolution. The analyses of newly obtained multi temporal thematic maps on the territory of the city district of Yoshkar-Ola show the structure heterogeneity of the forest patches. There is sufficient allocation of large forest areas in the south-eastern and central part of the urban district, which strongly affect the general trend of the dynamics of landscape metrics. The findings suggest that over the past 25 years on the investigated territory there is an increase in fragmentation of single patches of urban forests, and a significant reduction in the class of deciduous and mixed forest stands from 1527.4 ha to 1069.3 ha. Also there was an increase in number of forest patches from 1865 in 1989 to 1998 in 2014, while the mean size of the patches was decreased from 0.9 to 0.58 ha. The thematic mapping of the Landsat images showed that the accuracy assessment of the forest cover classification with such processes varies between 83 % and 88 %. The proposed method of thematic mapping and evaluation of urban forests with the use of remote sensing has good potential to frequent update of the required data while reducing costs compared to field sampling. The research also shows the significance of the use of spatial measurements and landscape metrics that can contribute to more detail thematic mapping of the urban forests.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Проанализирована приемлемость ландшафтных индексов для оценки пространственного распределения городских лесов муниципального образования «город Йошкар-Ола» за 1981, 2001 и 2014 гг. методами дистанционного зондирования. Для исследований использованы архивные снимки спутника Landsat, кадастровая карта и план города, спутниковые данные более высокого разрешения Канопус и Rapid Eye. Анализ вновь полученных разновременных тематических карт на территорию г. Йошкар-Олы показал неоднородность структуры её лесных участков. Заметно выделяются крупные лесные участки в юго-восточной и центральной части городского округа, которые сильно влияют на общий тренд динамики ландшафтных показателей. Полученные данные свидетельствуют о том, что за последние 25 лет на территории исследований наблюдается увеличение фрагментированности участков городских лесов и происходит существенное сокращение класса лиственных и смешанных насаждений с 1527,4 га до 1069,3 га. Также произошло увеличение количества лесных участков городских лесов с 1865 в 1989 году до 1998 в 2014 году. Точность полученных данных подтверждается современными критериями геоинформационной статистики. Предложенный метод тематического картирования и оценки городских лесов методами дистанционного зондирования по ландшафтным показателям позволит сократить стоимость работ в сравнении с наземными исследованиями и повысить их точность.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/81/58</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.25/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,81 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202107">
+    <dc:title xml:lang="en">Based substrates of sewage sludge for the production of seedlings of Acacia mangium Wild</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Lodo de esgoto como componente de substrato para produção de mudas de Acacia mangium Wild</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Caldeira Marcos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Favalessa Marcilene</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gonçalves Elzimar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Delarmelina William</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Santos Fernando</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Viera Márcio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Espírito Santo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Espírito Santo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Espírito Santo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Espírito Santo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Espírito Santo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Santa Maria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">organic compounds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forest nurseries</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5384</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34830</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to test the use of sewage sludge as substrate with different components in the production of seedlings of Acacia mangium. The study was conducted in the Nursery Department of Forest Science and Wood Center for Agricultural Sciences, Federal University of Espírito Santo-
+UFES, Alegre. The treatments consisted of sewage sludge (LE) associated with rice husk in natura (CA), vermiculite (RED) and the organic compound (CO), and treatment with 100% sewage sludge (LE) and substrate commercial (SC).The use of rice husk in natura provides low average for the traits evaluated and commercial substrate yielded the lowest average for all traits. The use of vermiculite provided intermediate averages for the traits evaluated. It was found that treatments with sewage sludge associated with the organic compound, were those who stood out in front of
+the morphological characteristics evaluated, and the use of 40% CO + 60% CO best suited for the production of seedlings of the species.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo do presente trabalho foi testar a utilização de lodo de esgoto com diferentes componentes como substrato na produção de mudas de Acacia mangium. O estudo foi
+desenvolvido no Viveiro Florestal do Departamento de Ciências Florestais e da Madeira do Centro de Ciências Agrárias da Universidade Federal do Espírito Santo-UFES, Alegre. Os tratamentos foram compostos por diferentes composições de substrato contendo lodo de esgoto (LE) associado à casca de arroz in natura (CA), vermiculita (VERM)e ao composto orgânico (CO), além dos tratamentos com 100% de lodo de esgoto (LE) e com substrato comercial (SC). A utilização de casca de arroz in natura proporcionou baixa média para as características avaliadas e o substrato
+comercial proporcionou as menores médias para todas as características avaliadas. A utilização de vermiculita proporcionou médias intermediarias para as características avaliadas. Constatou-se que os tratamentos com lodo de esgoto associado ao composto orgânico, foram os que mais se destacaram diante das características morfológicas avaliadas, sendo a utilização de 40% de LE + 60% de CO o mais indicado para a produção de mudas da espécie.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/309/231</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

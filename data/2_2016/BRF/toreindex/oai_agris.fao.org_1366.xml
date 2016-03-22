@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01366">
+    <dc:title xml:lang="en">Structural characteristics signal-grass under continuois stoking and nitrogen fertilization</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Características estruturais do capim-Braquiária sob lotação contínua e adubado com nitrogênio</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MORAIS,  R. V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FONSECA,  D. M</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS,  M. E. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOREIRA,  L. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FAGUNDES,  J. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MISTURA,  C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VITOR,  C. M. T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2010-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Brachiaria decumbens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Grazing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tissue</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1044</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25243</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49880</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>, green stem, green leaf blade, grazing, senescent tissue</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">ABSTRACT: From February to November 2003, the mass and morphological composition of forage from Brachiaria decumbens cv. Basilisk pastures under four different doses of nitrogen (75, 150, 225 and 300 kg/ha/year) were evaluated. The pastures were managed under continuous stocking with growing cattle. The data were grouped within three periods: February to April, May to August and September to November. Randomized block design with subdivided plots and two repetitions was used. The plots correspond to the nitrogen (N) doses, while the subplots to the time of the evaluation. In the period from May to August, the forage mass in the B. decumbens pasture increased linearly related to the N dose. The percentage of green leaf blade (GLB) was lower in the May/August period if compared to the other periods. The highest percentage values for green stem (GS) ocorred February/April. The relation between LFV masses and CV were influenced by the period of evaluation, reaching higher values in September/November. When 75 kg ha-1 of N was applied, the senescent tissue (ST) participation in the pasture did not vary throughout the months of the year. However, when whith doses of 150 kg ha-1 of N were applied, the percentage of ST was lower for February/April in comparison to the other periods. The percentages of GFB and GS increased linearly and positively as the N doses increased in the February/April. The structure of the B. decumbens pasture under continuous stocking is influenced interactively by the nitrogen doses and time of the year. Nitrogen fertilization improves the structure of the B. decumbens pasture under continuous stocking managed with the same mean height.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1287400138.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.67/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

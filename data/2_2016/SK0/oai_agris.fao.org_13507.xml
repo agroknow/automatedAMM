@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016013507">
+    <dc:title xml:lang="en">Ash of biofuels – green wood chips made of dendromass from willows and poplars grown on plantations</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Popolnatosť biopaliva – energetickej štiepky z dendromasy porastov plantážnicky pestovaných vŕb a topoľov</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Dzurenda Ladislav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ridzik Lukáš</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dzurenda Miroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email: dzurenda@tuzvo.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P06</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biofuels</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">wood chips</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Salix</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Populus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plantations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ash content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27465</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8423</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6754</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6116</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5990</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_665</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this paper, there are presented the results of experimental research determining the ash content from burning of green wood chips from clones RAPP, ORM, ULV, Inger, Tordis and Sven of plantation growing Salix viminalis trees and clones Max 5, Oxford, AF 2 and Monviso of plantation growing Populus trees in rotation age of 5 years in Slovakia and vicinity. Green wood chips made from dendromass of plantation growing trees is a two-part biofuel consisting of juvenile wood and juvenile bark. The results of laboratory tests determining the share of inorganic residue - ash from green wood chips in burning process of analysed clones indicate that the ash content of willow green wood chips in dry condition is Ad= 0.72 ÷ 1.11 % and green wood chips of analysed poplars is Ad= 0.92 ÷ 1.54 %. These results include green wood chips to low - ash biofuels. Compared to ash content of hardwood trees in STN EN 14 961-1, these values are 2 ÷ 5 times higher. The higher ash content of green wood chips from analysed clones of willow is caused by the share of juvenile bark with value Ad= 2.74 ÷ 3.47 % and analysed poplars with ash content of bark Ad= 3.24 ÷ 5.04 %. The share of bark in green wood chips from analysed clones of Salix viminalis trees is XB= 16.8 ÷ 19.7 % and the share of bark in green wood chips from analysed clones of Populus is XB= 20.97 ÷ 26.67 %. The higher ash content in biofuel has a negative impact on a basic energetic property – lower heat value, which is lower than the lower heat value of poplar wood in dry condition by ∆Qn= 184 kJ.kg-1.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/DF/fakulta_df/AFX/archive/2013/2013-1/12-1-13-dzurenda-ridzik-dzurenda.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta facultatis xylologiae Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-3824</ags:citationIdentifier>
+      <ags:citationNumber>v.55/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

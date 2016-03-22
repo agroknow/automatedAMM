@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016201943">
+    <dc:title xml:lang="en">Osmocote® on development and physiological behaviour of seedlings pitangueira</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Osmocote® no desenvolvimento e comportamento fisiológico de mudas de pitangueira</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Elli Elvis</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Caron Braulio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Monteiro Gean</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pavan Marvius</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pedrassani Mauricio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cantarelli Edison</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Eloy Elder</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Santa Maria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The study aimed to evaluate the effect of different doses of Osmocote® in the initial development and the physiological behavior of seedlings pitangueira, as well as the influence of the face sheet of the physiological and thermal this species. For this, we determined the increase in height (cm) and diameter (mm), using a graduated rule and caliper, respectively. At the time of the last morphologic evaluation, it was determined diffusive resistance (S cm-1), perspiration (mg cm-2 s-1) and leaf temperature (° C), with the aid of a porometer dynamic equilibrium by measuring if abaxial and adaxial leaf. In parallel, we determined the content of chlorophyll (mg m-2), using a SPAD-502 chlorophyll meter. According to the variance analysis, it is possible to identify a significant effect of dose on Osmocote® all morphological and physiological studied. The Osmocote® can be recommended for the formation of seedlings of the species Eugenia uniflora, with the dose of 3 kg m-3 which promoted better growth of the studied variables. The physiological behavior of this
+species is influenced by the dose of Osmocote®. Perspiration and diffusive resistance have higher values on the abaxial leaf.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O trabalho teve como objetivo avaliar o efeito de diferentes doses de Osmocote® no desenvolvimento inicial e no comportamento fisiológico de mudas de pitangueira, bem como a influência da face da folha nas variáveis fisiológicas e térmicas desta espécie. Para tanto, determinou-se o incremento de altura (cm) e diâmetro do colo (mm), utilizando-se uma régua graduada e paquímetro digital, respectivamente. No momento da última avaliação morfológica, determinou-se a resistência difusiva (S cm-1), transpiração (μg cm-2 s-1) e temperatura da folha (°C), com o auxílio de um porômetro de
+equilíbrio dinâmico, medindo-se as faces abaxial e adaxial da folha. Paralelamente, determinou-se o teor de clorofila (mg m-2), utilizando-se um clorofilômetro SPAD-502. De acordo com a análise de variância, é possível identificar efeitos significativos da dose de Osmocote® sobre todas as variáveis
+morfológicas e fisiológicas estudadas. O Osmocote® pode ser recomendado para a formação de mudas da espécie Eugenia uniflora, sendo a dose de 3 kg m-3 a que promoveu melhor incremento das variáveis estudadas. O comportamento fisiológico desta espécie é influenciado pela dose de
+Osmocote®. A transpiração e a resistência difusiva apresentam maiores valores na face abaxial da folha.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/257/208</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

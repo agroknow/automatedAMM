@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100278">
+    <dc:title xml:lang="en">THE CHANGES OF GENE EXPRESSION, PROTEIN CONTENT AND ALTERNATIVE AND CYTOCHROME PATHWAYS CAPACITY IN THE WINTER WHEAT MITOCHONDRIA UNDER COLD HARDENING</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Grabelnych O.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Borovik O.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pobezhimova T.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tauson E.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pavlovskaya N.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Koroleva N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Katyshev A.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lyubushkina I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fedorin D.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Popov V.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Borovskii G.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Voinikov V.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cytochromes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mitochondria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27497</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4869</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The expression of genes, encoding number of cytochrome electron transport pathway components, alternative cyanide-resistant oxidase (AOX) and uncoupling protein, protein content and capacity of cytochrome and alternative pathways in the mitochondria from shoots of winter wheat etiolated seedlings (Triticum aestivum L., cv. ‘Irkutskaya’) under low (7 days, 2 - 3 °C) and subzero (2 days, -2 – -3°C) temperatures were studied. These temperatures are necessary for increasing of winter cereals frost-resistance. The capacity of mitochondria to oxidize the different substrates and possible mechanisms of AOX activity regulation were examined. It was shown that to 7 days of cold hardening the participation of cytochrome pathway into respiration was decreased but the participation of alternative pathway and AOX protein content was increased. The AOX activity was related to free fatty acids content. Using qRT-PCR with SYBR Green I the changes of gene expression of mitochondrial proteins under cold hardening were detected, differential expression of ucp1a and ucp1b and coordinated expression of ucp1a and aox1a were observed. Accumulation of aox1a transcripts, increase of AOX protein content and activation of alternative pathway capacity under cold hardening were accompanied the decreasing of antimycine A-dependent and increasing of benzhydroxamic acid-dependent of reactive oxygen species (ROS) production by mitochondria from hardened seedlings. Cold hardening of winter wheat seedlings was accompanied with maintaining of outer mitochondrial membrane intactness, the decreasing of ROS content and lipid peroxidation products in mitochondria under following cold shock (-8°C, 6 h). Thus cold hardening of winter wheat seedlings caused coordinated expression of genes related to non-phosphorylating electron transport pathways that led to changes of energetic cell metabolism, aimed at increasing of adaptive possibilities of plant organism.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S20.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

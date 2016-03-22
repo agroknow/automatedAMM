@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09594">
+    <dc:title xml:lang="ru">АКТИВНОСТЬ ФЕРМЕНТА КИСЛОЙ ФОСФАТАЗЫ В ЛИСТЬЯХ АМАРАНТА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ACTIVITY OF THE ENZYME ACID PHOSPHATASE IN LEAVES OF AMARANTH</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ЧЕРНЫШУК Д.К</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Благовещенский государственный педагогический университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">acid phosphatase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_88</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрено - исследование активности кислой фосфатазы в листьях амаранта сорта Валентина и щирицы запрокинутой в общие периоды развития растений, изучение на основе этого адаптации растений к условиям среды.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the article - the study of acid phosphatase activity in the leaves of amaranth varieties Valentine and amaranth thrown back into the general periods of plant development, the study on the basis of plant adaptation to environmental conditions.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/12/11-1-30.pdf#page=67</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.11 (30)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

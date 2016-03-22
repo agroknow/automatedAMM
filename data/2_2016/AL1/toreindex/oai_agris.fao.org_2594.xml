@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102594">
+    <dc:title xml:lang="en">Determinants of Commercial Production of Rice in Rice-Producing Areas of Kwara State, Nigeria</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>FALOLA ABRAHAM 1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ANIMASHAUN JUBRIL O.1</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLORUNFEM OLUWASOGO D. I2</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Department of Agricultural Economics and Farm Management, Faculty of Agriculture, University of Ilorin, P. M. B 1515, Ilorin, Kwara State, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>2Department of Agricultural Extension and Rural Development, Faculty of Agriculture, University of Ilorin, P. M. B 1515, Ilorin, Kwara State, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rice</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6599</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The quest for self-sufficiency in rice production in Nigeria brought about the focus of this study. Specifically, this study examined the level of commercial production of rice in Kwara State and identified the factors influencing it. Primary data obtained from 180 rice farming households selected through a combination of purposive and random sampling techniques were used for the study. Data collected were analyzed descriptive statistics, household commercialization index and regression analyses. The result of the commercialization index function indicates that the household commercialization index of rice production is 62% implying that there is a gap of 38% for the farmers to attained full commercialization level. The significant factors influencing commercialization of rice production in the study area were educational level (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4OmVlYmEwZjgyZmQ0NDRkYg</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104918">
+    <dc:title xml:lang="es">LA SERPIENTE DE CASCABEL COMO RECURSO ZOOGENÉTICO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>RATTLESNAKE AS GENETIC RESOURCE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Fuentes-Mascorro Gisela</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma Benito Juárez de Oaxaca</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_440</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The rattlesnake was fundamental for the worldview of pre Hispanic cultures in Mexico. Quetzalcoatl for the Aztecs and Kukulcan for the Mayans a god symbolized by a rattlesnake with feathers. His representation can be found since Teotihuacan to Chichen Itza. Skin diamonds to rattlesnakes was considered the beginning to the cardinal points and the square that is the basis of the pyramid structure. His medical use has been associated with healing of almost any disease and currently has proven crotamine a polypeptide of 42 amino acids extracted from Crotalus durissus terrificus, is capable of crossing the blood-brain barrier and mitochondrial depolarize membrane in melanoma cells. A fundamental use and one reason to keep some specimens in captivity is to use its venom to produce fabotherapics for use in people who are bitten by snakes of this genus. Rattlesnake, was, is and will remain a zoogenetic resource</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">La serpiente de cascabel fue fundamental en la cosmovisión de las culturas prehispánicas en México. Quetzalcóatl para los aztecas y Kukulcan para los mayas, era un dios cuya representación corresponde a una serpiente de cascabel con plumas. Su representación se puede encontrar desde Teotihuacán hasta Chichen Itza. Los diamantes de la piel de la serpiente de cascabel, se consideran el comienzo de los puntos cardinales y la base cuadrada de la estructura piramidal. Su uso médico se ha asociado con la curación de casi cualquier enfermedad y en la actualidad se ha demostrado de la crotamina, un péptido de 42 aminoácidos extraído de Crotalus durissus terrificus, es capaz de a travesar la barrera hemato-cerebral y despolarizar las membranas mitocondriales en células de melanoma. El uso fundamental y una de las razones para mantener ejemplares en cautiverio es utilizar el veneno es la producción de faboterápicos, para aplicarlos a las personas que han sido mordidas por ejemplares de este género. La serpiente de cascabel era, es y seguirá siendo un recurso zoogenético.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo071_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

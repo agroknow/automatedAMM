@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F11566">
+    <dc:title xml:lang="en">Agronomic characteristics and silage productivity of corn and millet fertilized with swine biofertilizer under irrigation.</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Características agronômicas e produtividade de milho e milheto para silagem adubados com biofertilizante suíno sob irrigação.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MOREIRA, E. D. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERNANDES, L. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COLEN, F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CRUZ, R. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">humate fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pennisetum glaucum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11636</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13199</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The use of biofertilizers in agriculture is a promising alternative to mineral fertilizers and as a destination of manure. The objective of this study was to evaluate the morphological characteristics, biomass production and leaf nutrient content of irrigated corn and millet fertilized with swine biofertilizer. Two experiments were conducted between June and September 2011 using corn and millet grown on a Red-Yellow Latosol in a randomized block design consisting of six treatments and four repetitions: swine biofertilizer doses to provide 0, 50, 100, 150 and 200 kg/ha P2O5 and one additional treatment using NPK 4-14-8 mineral fertilizer. Each dose of phosphorus provided by the swine biofertilizer was compared by the Dunnett test to the additional treatment with mineral fertilizer and significance was defined when P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A utilização de biofertilizante na agricultura é uma alternativa promissora aos fertilizantes minerais e de destino de dejetos. Objetivou-se neste estudo avaliar características morfológicas, produção de biomassa e teores de nutrientes foliares do milho e do milheto irrigados e adubados com biofertilizante suíno. Foram conduzidos dois experimentos, com milho e com milheto no período de junho a setembro de 2011 em um latossolo vermelho amarelo, em delineamento de blocos casualizados, com seis tratamentos e quatro repetições, a saber: doses de biofertilizante suíno para fornecer 0, 50, 100, 150 e 200 kg/ha de P2O5, e um tratamento adicional com adubo mineral NPK 4-14-8. Cada uma das doses de fósforo fornecida pelo biofertilizante suíno foi comparada, pelo teste de Dunett, ao tratamento adicional com adubo mineral, e a significância foi declarada quando P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v72n3p185</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F04432">
+    <dc:title xml:lang="en">Body measurements and carcass characteristics correlation of Nellore young bulls finishideded in feedlot</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Correlações entre medidas corporais e caracteristicas das carcaças de tourinhos Nelore terminados em confinamento</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ROSA, B.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SAMPAIO, A.A.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HENRIQUE W.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PIVARO, T.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ANDRADE, A.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERNANDES, A.R.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOTA, D.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Biometry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bovinae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dressing percentage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ultrasonography</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_927</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1040</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32430</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36523</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1326096142739</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this work it was aimed to evaluate Pearson correlations between body measurements, carcass characteristics and production of 35 Nellore bulls, confined for 96 days, with 402±14.90 kg and 18 months old. Weightings, ultrasound images and 14 measurements were obtained at the beginning of each experimental period and before slaughter, totaling four weight ratings of ultrasound images and measurements per animal. For the evaluation of body measurements and ultrasound images with carcass traits the values from the last measurement were considered. The images were made along with weighing animals through a Scanner, and measurements with a tape measure and a zoométrica cane, and these were correlated with each other and with productive and carcass characteristics. For measures of loin eye area evaluated by ultrasonography, it were found positive correlations with body length (0.32), rump (0.36) and thigh (0.20)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">withers height (0.20) and pelviano contour (0.38) (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Neste trabalho objetivou-se avaliar correlações de Pearson entre medidas corporais, características produtivas e das carcaças de 35 tourinhos da raça Nelore, confinados por 96 dias, com 402±14,90 kg e 18 meses de idade. Foram efetuadas pesagens, tomadas de imagens ultrassônicas e 14 mensurações no início de cada período experimental e antes do abate, totalizando quatro avaliações de peso, de imagens ultrassônicas e de medições por animal. Para a avaliação das medidas corporais e das imagens ultrassônicas com as características de carcaça foram considerados os valores da última medição. As imagens foram feitas juntamente com a pesagem dos animais e as medidas obtidas com fita métrica e bengala zoométrica, sendo essas correlacionadas entre si e com as características produtivas e da carcaça. Nas medições de área de olho de lombo com ultrassom, foram encontradas associações positivas com comprimento de corpo (0,32), de garupa (0,36) e de coxa (0,20)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">altura da cernelha (0,20) e contorno pelviano (0,38) (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://iz.sp.gov.br/pdfsbia/1418317737.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

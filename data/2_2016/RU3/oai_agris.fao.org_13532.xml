@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016313532">
+    <dc:title xml:lang="ru">Влияние агротехнических приемов на продуктивность проса в условиях Кабардино-Балкарии</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Сокурова Л.Х.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Кушхова М.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">grade</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">millet</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Productivity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">profitability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sowing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3498</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4838</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6210</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7268</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В условиях биологизации и экологизации инновационных процессов в растениеводст-ве особое место занимает селекция, ориентированная на устойчивый рост величины и качества уро-жая. Своевременное внедрение новых сортов, научная организация их семеноводства является важ-ным фактором инновации производства растениеводческой продукции. [1] В сложившихся экономиче-ских условиях сельхозтоваропроизводителям нужны сорта, способные давать высокие и стабильные урожаи не любой ценой, а только экономически оправданные. Для хозяйств с различным уровнем эко-номического состояния и культуры земледелия необходимы сорта различной интенсивности. При этом каждой группе сортов должна соответствовать определенная технология, значительно отли-чающаяся по уровню материально-финансовых затрат. [4] Научные и производственные данные пока-зывают, что уровень урожайности и качества зерна, в значительной степени определяются наслед-ственными хозяйственно-биологическими свойствами сортов и условиям их выращивания. [3] Сорт и технология тесно взаимосвязаны. От сорта требуется технологичность, а его генотип должен противостоять воздействию биотических факторов среды. [1] Технология должна способствовать раскрытию потенциала продуктивности и качества зерна. Все агротехнические приемы должны быть взаимосвязаны и направлены на мобилизацию потенциальной возможности сорта. [6].</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202865">
+    <dc:title xml:lang="en">Soursop contamination and sprouting in function of the fungicide in the culture medium</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Contaminação e brotação de gravioleira em função do uso de fungicida no meio de cultura</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Aparecida de Andrade Renata</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Garcia Bagatim Amanda</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Paulo Jasper Samir</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual Paulista, Jaboticabal, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual Paulista, Jaboticabal, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Paraná, Curitiba, PR, Brasill</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Carbendazim</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fungi</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_31291</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3145</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present research was conducted to verify the  effectiveness of adding different doses of fungicide to the culture medium, in the contamination of in vitro culture of the explants of soursop. The experiment was conducted using explants collected from seedlings of soursop that were
+kept on lath house conditions (50% brightness), underwent three treatments, consisting in doses of fungicide  carbendazim added to the MS culture medium: 5 ml per liter of culture medium, 10 ml/L, 15 mL /L, more a control treatment. The study lasted for 42 days and were evaluated daily number of explants with contamination and with budding. There was no beneficial effect of fungicide in reducing contamination, nor in increased sprouting, for the in vitro cultivation of soursop.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Este trabalho foi realizado objetivando verificar a eficácia da adição de diferentes doses de fungicida ao meio de cultura, na contaminação de explantes de gravioleira cultivados in vitro. O experimento foi realizado usando explantes coletados de mudas recém-formadas de gravioleira, que estavam mantidas em condições de ripado (50% de luminosidade), submetidos a três tratamentos, compostos por doses do fungicida carbendazim acrescidos ao meio de cultura
+MS: 5 mL por litro de meio de cultura</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10 mL/L</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">15 mL/L, além de um tratamento testemunha. O estudo teve a duração de 42 dias e foram avaliados o número de explantes com contaminação e com brotação. Não houve efeito benéfico do fungicida na redução de contaminação, nem no aumento de brotação, para o cultivo in vitro da gravioleira.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/554/271</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

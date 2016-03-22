@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016102990">
+    <dc:title xml:lang="en">Glycine Betaine and Salicylic Acid Induced Modification in Water Relations and Productivity of Drought Wheat Plants</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Aldesuquy Heshmat S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drought</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Transpiration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Water use efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7871</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36790</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A study of parameters associated with adjustments in internal water balance, namely: diurnal variation in transpiration rate, stomatal opening area, relative water content, water use efficiency, hormonal level of wheat flag leaves in relation to grain yield is presented. Drought induced marked decreases in diurnal and mean daily values of transpiration rate, stomatal pore areas (on upper and lower sides), relative water content, water use efficiency, indole-3-acetic acid (IAA), gibberellic acid (GA3), cytokinins (CKs) and grain yield but led to a significant increase in the abscisic acid (ABA) concentration in flag leaves of the wheat cultivars. Grain presoaking in salicylic acid or foliar application with glycine betaine alleviated the stress by keeping water within leaves and consequently recover the turgidity of stressed plants by restricting the transpiration rate, stomatal closure, decreasing the ABA level and enhancing the growth promoters particularly (IAA, GA3 &amp; CKs) particularly with the sensitive cultivar. Furthermore, the effect was more pronounced with glycine betaine + salicylic acid treatment. The grain yield appeared to be positively correlated with IAA, GA3, CK, RWC, WUEG and WUEB but negatively correlated with ABA, SWD, transpiration rate and stomatal areas on both wheat cultivars.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N2/JSPB_2014_2_55-73.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

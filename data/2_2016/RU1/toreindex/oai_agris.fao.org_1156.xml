@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101156">
+    <dc:title xml:lang="en">Seasonal variation and innate immune responses of spleen in fresh-water snake, Natrix piscator</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tripathi Manish Kumar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Singh Ramesh</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Seasonal variation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spleen</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Immune response</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Phagocytosis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24894</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7314</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3799</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37222</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Innate immunity provides first line defense in all animals against pathogens and parasites. There is seasonal variation in pathogen prevalence and disease because of the seasonal lifecycle of the parasite and due to annual variation in the infectivity of pathogens. Organisms face seasonal stress by regulating their internal physiology, i.e. by secreting hormones. Melatonin and sex steroids contribute to the seasonal redistribution of immunological activity including winter-time up-regulation of some immune responses, and reproduction-related immunosuppression. Present study aims to understand seasonal variation in splenocyte innate immune response in the fresh-water snake, Natrix piscator. Reptiles represent the pivotal phylogenic group as they were the ancestor of both birds and mammals and they are the only ectothermic amniotes providing the key link between ectothermic anamniotic fishes and amphibians, and endothermic amniotic birds and mammals</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">a greater study of reptilian innate immune response will provide important insights into the evolutionary history of vertebrate immunity. Animals were mildly anaesthetized and the spleen was isolated aseptically. Spleen was used for calculating splenosomatic index, cellularity and macrophage phagocytosis. Spleen size has a trend to be high in autumn and winter months and low in spring and summer, though data were not significant. Spleen cellularity was recorded high in winter months and again in September</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">while it remained low during rest of the year. No definite pattern was observed in phagocytosis by splenic macrophages. The percent phagocytosis varied between 42 to 60 %, being highest in month of February. It is concluded that seasonal variation in splenocyte immune response provides a mechanism that suites best to the organism and which might coincide with the pathogen prevalence. Seasonal cycle of immune response is helpful in understanding the disease processes in animals and the direct implication of this study could be utilized for the endangered species living in captivity.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_292-300.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09598">
+    <dc:title xml:lang="ru">ПРОДУКТИВНОСТЬ СТАРОВОЗРАСТНЫХ АГРОФИТОЦЕНОЗОВ НА ОСНОВЕ ПЕРСПЕКТИВНОЙ БОБОВОЙ КУЛЬТУРЫ КОЗЛЯТНИКА ВОСТОЧНОГО СОРТА ГАЛЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PRODUCTIVITY OLD-GROWTH AGROPHYTOCENOSES A FORWARD LEGUMES KOZLJATNIKA EAST GRADE GALEA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Вагунин Д.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Иванова Н.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ФГБНУ Всероссийский научно-исследовательский институт мелиорированных земель</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Galega</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Productivity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24641</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6210</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В условиях Верхневолжья на протяжении 10 лет проводилось изучение сенокосных бобово-злаковых травостоев с участием
+козлятника восточного, при различном уровне минерального питания. Нами исследована продуктивность травостоев, определены
+биометрические свойства, дана оценка изменения качества урожая, определена экономическая и агроэнергетическая
+эффективность выращивания старовозрастных луговых фитоценозов. Производственная значимость заключается в
+рекомендациях фитоценозов злаковых трав с козлятником восточным обеспечивающих устойчивую продуктивность от 8,8 до
+13,1 т/га сухой массы.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the context of the Upper 10 years we studied legume hay – grass swards with galega, at different levels of mineral nutrition. We
+studied the grass productivity</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">defined biometric properties assessed changes in the quality of harvest, and determined the economic
+efficiency of growing old growth Agroenergy phytocenoses meadow. Industrial significance lies in the recommendations phytocenoses
+grasses with galega ensuring sustainable yield from 8,8 to 13,1 t/ha of dry mass.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/05/4-1-35.pdf#page=108</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.1 (35)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

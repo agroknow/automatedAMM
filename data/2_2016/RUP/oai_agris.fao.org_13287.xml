@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13287">
+    <dc:title xml:lang="ru">ПРИМЕНЕНИЕ ГИДРОТЕРМИЧЕСКОЙ ОБРАБОТКИ ПРИ ПЕРЕРАБОТКЕ В КРУПУ ЗЕРНА ПРОСА ПОРАЖЕННОГО МЕЛАНОЗОМ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>APPLICATION OF HYDROHEAT TREATMENT IN THE PROCESSING OF CEREALS OF THE MILLET STRUCKED BY MELANOZ INTO GROATS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Volkova  A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Romadina  Yu.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Buyanova  E.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">food processing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Preservation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37969</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6171</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: millet, millet, hydroheat treatment, quality, storage</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрено влияние различных режимов ГТО зерна проса на технологические свойства зерна и сохранение потребительских свойств пшена при хранении. Установлено, что применение гидротермической обработки зерна проса способствует увеличению выхода готовой продукции за счет
+уменьшения массовой доли дробленого зерна и кормовой мучки. Наилучшие результаты получены при проведении ГТО зерна проса методом холодного кондиционирования.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The influence of the hydroheat treatment various modes of millet grains on the technological properties of grain and preservation of consumer properties of millet at storage is considered in the article. It is established that application of hydroheat treatment of millet grains increases the output of finished products by reducing the mass fraction of shredded grain and feed shorts. The best results are received when carrying out the hydroheat
+treatment of millet grains by cold conditioning method.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_ce5ed7b1cc1b4972914300167057ff54.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№3, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

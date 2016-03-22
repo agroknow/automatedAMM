@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H12326">
+    <dc:title xml:lang="ru">ОЦЕНКА УРОВНЯ ПОТРЕБЛЕНИЯ ПРОДОВОЛЬСТВИЯ НАСЕЛЕНИЕМ РЯЗАНСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ASSESSMENT OF THE LEVEL OF FOOD CONSUMPTION BY THE POPULATION OF THE RYAZAN REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Кострова Ю.Б.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Курочкина Е.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Рязанский институт экономики</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E73</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food consumption</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Households</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3016</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3676</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI 10.18454/IRJ.2015.41.061</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье приведена оценка уровня потребления продовольствия населением Рязанской области. Предложена к
+использованию система показателей, определяющая экономическую доступность продовольствия для населения
+региона. Проанализирована структура стоимости минимального набора продуктов питания в Рязанской области. О
+возможности и необходимости повышения спроса на продукты питания за счет уменьшения дифференциации
+доходов свидетельствует анализ статистических данных по материалам выборочного обследования бюджетов
+домашних хозяйств в Рязанской области.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article presents the assessment of the level of food consumption by the population of the Ryazan region. Proposed to
+use the indicators measuring economic accessibility of food for the population of the region. It analyses the structure of cost of
+the minimum set of food products in the Ryazan region. About the possibility and necessity of increased demand for food due to
+the reduction of income differentiation is demonstrated by the analysis of statistical data based on a sample survey of budgets
+of households in the Ryazan region.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/10-1-41.pdf#page=44</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.10-1(41)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

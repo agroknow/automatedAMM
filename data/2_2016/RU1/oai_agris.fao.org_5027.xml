@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016105027">
+    <dc:title xml:lang="en">The Role of Sugar-related Regulation in the Light-dependent Alterations of Arabidopsis Glutamate Dehydrogenase Genes Expression</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Garnik E.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Belkov V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tarasenko V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Konstantinov Yu.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Arabidopsis thaliana</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Glutamate dehydrogenase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33292</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29506</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Expression of gdh1 and gdh2 genes of Arabidopsis thaliana increases in the dark and decreases in the light. The reason of such alteration seems to be a glucose rising in photosynthetic cell in the light, but this hypothesis needs to be confirmed. In this work we investigate the role of glucose and hexokinase 1 in the light-dependent regulation of the gdh1 and gdh2 expression. A comparison of expression profiles of apl3, gdh1, gdh2 genes in presenсe of exogenous sucrose in the dark and in the light has demonstrated that sugar-related repression of gdh1 and gdh2 genes is insufficient to provide the high decrease of their transcripts in the light. Using Arabidopsis mutant gin2-1 with a defect in hxk1 gene we demonstrated that such a decrease is not depended on the regulatory function of hexokinase 1. We presume that light- dependent alterations of gdh1 and gdh2 expression are mediated by some chloroplast-to-nucleus regulatory signals.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N4/JSPB_2014_4_67-76.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

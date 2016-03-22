@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01799">
+    <dc:title xml:lang="en">Daily weight gain, feed: gain ratio and carcass characteristics of the Nellore steers feed lot and rations based on the tropical grass silage or corn silage</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Ganho de peso vivo diário</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>conversão alimentar e características de carcaça de novilhos da raça nelore confinados e alimentados com dietas baseadas em silagens de capim Marandu ou de milho</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SIGNORETTI, R. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SAMPAIO,  R. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RESENDE, F. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COAN,  R. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALLEONI,  G. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FARIA,  M. H</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SIQUEIRA,  R. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MIGUEL,  F. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carcasses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1310f6eee3d3</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2843</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49892</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It was evaluated dry matter average daily intake, average daily weight gain, feed: weight gain ratio, and carcass characteristics with rations based on the tropical grass silage (TG) or corn (C) silage, that they took care to the requirements for weight gain of 1.0 and 1.2kg/day. Twenty-four Nellore steers, averaging 369.05 ± 15.06kg of live weight distributed in a randomized design, in a factorial scheme 2 x 2 (silage x nutritional plane) with six replications. The treatments had been: 1) Marandu grass silage and daily gain of 1.0kg</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">2) Marandu grass silage and daily gain of 1.2kg</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3) Corn silage and daily gain of 1.0kg</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4) Corn silage and daily gain of 1.2kg. The silage and nutritional plane didn’t affect the daily dry matter intake and intake in relation to the body weight, carcass weight and yield hot and cool, fat thickness, eyes loin area and basic meat cuts. However the animals that received to high nutritional diet plane showed highest daily weight gain in relation to the live and hot carcass weight, compared to animal feed in low nutritional plane. The feed conversion (kg of DM/kg of the weight gain) was better to the animals feed with corn silage in a higher nutritional plane. The corn silage diet for daily gain of 1.2 kg resulted in a better animal performance and feed conversion.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Avaliou-se o consumo de matéria seca, o ganho de peso vivo diário, a conversão alimentar e as características de carcaça com rações baseadas em silagens de capim Marandu (SC) ou de milho (SM), que atendessem aos requerimentos para ganho de peso vivo de 1,0 ou 1,2kg/dia. Foram utilizados 24 novilhos da raça Nelore, castrados, com peso vivo médio inicial de 369,05 ± 15,06kg, distribuídos em delineamento inteiramente casualizado, em arranjo fatorial 2 x 2 (volumosos x planos nutricionais) com seis repetições. Os tratamentos foram: 1) SC e ganho de 1,0kg/dia</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2) SC e ganho de 1,2kg/dia</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3) SM e ganho de 1,0kg/dia e 4) SM e ganho de 1,2kg/dia. Não houve diferença no consumo diário de matéria seca total e no consumo de matéria seca em porcentagem do peso vivo, no peso e rendimento da carcaça quente e fria, na espessura de gordura, na área de olho de lombo e nos cortes cárneos básicos, entre os volumosos e os planos nutricionais. No entanto, animais submetidos a dietas com alto plano nutricional apresentaram maiores ganhos diários em relação ao peso vivo e ao peso da carcaça quente em comparação àqueles com baixo plano nutricional e a conversão alimentar (kg de MS/kg de ganho/dia) foi melhor nos animais alimentados com silagem de milho com alto plano nutricional. A dieta à base de silagem de milho para ganho de 1,2kg/dia promoveu maior ganho de peso e melhor conversão alimentar aos animais.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1216214081.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

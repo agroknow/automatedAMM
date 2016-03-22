@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10521">
+    <dc:title xml:lang="ru">МОРФОМЕТРИЧЕСКИЕ ПАРАМЕТРЫ И МИКРОРЕЛЬЕФ ГЕМОЦИТОВ ПРЕДСТАВИТЕЛЕЙ HIRUDO MEDICINALIS (LINNAEUS, 1758) В УСЛОВИЯХ ОСМОТИЧЕСКОЙ НАГРУЗКИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE EFFECT OF THE OSMOTIC STRESS ON MORPHOLOGICAL PARAMETERS AND MICRORELIEF OF HIRUDO MEDICINALIS (LINNAEUS</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>1758) HEMOCYTES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Присный А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Белгородский государственный национальный исследовательский университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M12</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hirudinea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">white blood cells</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">protective immunity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4249</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15345</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32795</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью данной работы является изучение влияния гипо- и гиперосмотической нагрузки на морфометрические
+параметры форменных элементов гемолимфы медицинской пиявки. Применение методов атомно-силовой
+микроскопии позволило оценить такие параметры гемоцитов, как микрорельеф клеточной поверхности, линейные
+размеры клеток, включая высоту. Описаны изменения топографии поверхности гемоцитов при контактных
+взаимодействиях с твердым субстратом и при воздействии сред, отличных от физиологически нормальной.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The purpose of this study is the investigation of the effect of hypo- and hyperosmotic stress on morphometric parameters of
+the formed elements of the Hirudo hemolymph. Application of methods of atomic force microscopy allowed us to estimate such
+hemocytes parameters as microrelief of cell surface , the linear dimensions of cells, including height. The article describes he
+variation of the cell surface topography during the interaction with substrate and under the action of medium that differs from
+physiological solution.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/7-2-38.pdf#page=78</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.2 (38)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

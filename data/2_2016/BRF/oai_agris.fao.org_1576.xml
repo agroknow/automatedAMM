@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01576">
+    <dc:title xml:lang="en">Performance of Nellore and F1 (Red Angus x Nellore) raised on pasture in southern Bahia</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Desempenho de novilhos Nelore e F1 (Red Angus x Nelore) criados à pasto no sul da Bahia</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>WENCESLAU,  A. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA,  G. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CARVALHO,  F. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOBRAL,  G. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2010-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weight gain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Endoparasites</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tolerance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8350</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10603</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3519</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37740</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes />
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">: Twenty Nelore and twenty F1 cattle (½ Red Angus, ½ Nelore), average age 12 months were compared in pastured raised at southern Bahia, in relation to production characteristics: initial weight (IW), final weight (FW), weight gain, average daily gain (ADG) and total weight gain (WG), infection by endoparasites and heat tolerance (HT). To analyze the effect of genetic group, it was stabilished effects that could influence these characteristics and performed variance analysis using the program SAS. The results showed that IW, FW, ADG and WG of crossbred were statistically different in comparison to zebu cattle. Related to infection by endoparasites and heat tolerance there were no statistical differences between genetic groups.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Foram comparados 20 animais da raça Nelore e 20 animais F1 (½ Red Angus ½ Nelore), com idade média de 12 meses, criados a pasto no Sul da Bahia, em relação às características de produção: peso inicial (PI), peso final (PF), ganho de peso médio diário (GMD) e ganho de peso total (GT)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">infecção por endoparasitos e, tolerância ao calor (ITC). Para análise de efeito do grupo genético, considerou-se fixo todos os outros efeitos que poderiam influenciar essas características e fez-se a análise de variância utilizando-se o programa SAS. Os resultados do estudo mostraram que PI, PF, GMD e GT dos animais cruzados foram, estatisticamente, superiores aos dos animais zebuínos. Em relação à infecção por endoparasitos e tolerância ao calor não foram observadas diferenças significativas entre os grupos genéticos.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://revistas.bvs-vet.org.br/bia/article/view/8041/8314</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.67/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

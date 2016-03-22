@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F07853">
+    <dc:title xml:lang="en">Effect of pasture irrigation on the technical and management indicators of dairy farms</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito da irrigação de pastagens em índices técnicos e gerenciais de propriedades leiteiras</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MORAES, F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LOPES, M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRUHN,  F. R. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CARVALHO, F. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LIMA, A. L. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>REIS, E. M. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Milk yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">management</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Productivity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">profitability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15998</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16086</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6210</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the effect of pasture irrigation on the technical and management indicators of 20 demonstrative units participating in the “Balde Cheio” Program in the state of Rio de Janeiro from January to December 2011. The following variables were obtained: dam/labor ratio, herd size/labor ratio, milk yield/labor ratio, animals/production area, percentage of lactating cows, and milk yield. Return was analyzed considering gross margin, net margin, outcome (profit or loss), and profitability. The data were analyzed using the PASW 18.0 software. Pasture irrigation did not significantly alter the indicators studied. The greater profitability and return of farms using pasture irrigation were the consequence of better animal production rates/day and per ha/year. When gross margin, net margin and outcome using total revenue are considered, there is decapitalization of the farms.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se estudar o efeito da utilização, ou não, da irrigação de pastagens em índices técnicos e gerenciais de 20 unidades demonstrativas (UD), participantes do programa “Balde Cheio”, no estado do Rio de Janeiro, no período de janeiro a dezembro de 2011. Obteve-se relação matriz/mão de obra, animais no rebanho/mão de obra e produção de leite/mão de obra, animais/área de produção, percentagem de vacas em lactação, além da produção de leite. Analisou-se a rentabilidade considerando a margem bruta, a margem líquida, o resultado (lucro ou prejuízo), e a lucratividade. Os dados foram analisados utilizando-se o software PASW 18.0. A utilização da irrigação de pastagens não alterou significativamente os índices avaliados. As maiores lucratividades e rentabilidades das propriedades que utilizam irrigação de pastagens foram consequência de melhores índices de produtividade animal/dia e por ha/ano. Quando considerados os indicadores margem bruta, líquida e resultado, utilizando a receita total, há descapitalização dos pecuaristas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1435674807.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

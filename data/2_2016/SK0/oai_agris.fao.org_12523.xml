@@ -1,0 +1,69 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012523">
+    <dc:title xml:lang="en">The effect of feeding wheat with purple pericarp on the growth of carp</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mareš Jan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Brabec Tomáš</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vyhnánek Tomáš</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Trojan Václav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Štiasna Klára</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Presinszká Mária</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mrkvicová Eva</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hřivna Luděk</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Havel Ladislav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fishery production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Carp</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2940</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2838</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1334</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study assessed and compared the influence of feeding wheat with purple pericarp (variety Konini) and standard coloured wheat (red variety Bohemia) on the growth characteristics of fingerling carp (Cyprinus carpio L.) of the "Amurský lysec" line. The total content of anthocyanins converted to cyanidin 3-glucoside in the control Bohemia wheat was 24.95 mg.kg-1 and in the Konini purple wheat 41.70 mg.kg-1. Two experimental variants for feed were evaluated: dipped wheat grain and crushed wheat grain. The feed dose for wheat was 1.5% of the fish stock weight and for natural food (frozen Chironomid larvae) was 0.2% of fish stock weight to all variants. Growth parameters (body length, body weight, Fulton's condition factor and feed conversion ratio) of the fish were evaluated after one month of administration. The feed consumption and physico-chemical parameters (temperature, oxygen saturation, pH, N-NH4 +, N-NO2-, N-NO3- and Cl-) of the environment were observed. During the feeding test, no major differences in food consumption among variations feeding on either wheat and on Chironomid larvae were noted. Satisfying results for mas and length gain were achieved in V2 wheat with purple pericarp (Konini variety - dipped grain), where the average total body length was 156.56 mm and the average unit mass was 60.81 g. In this variant, higher values of the parameters were achieved compared to the control group (100.6%, resp. 104.2%). A positive impact of wheat with purple pericarp on the evaluated parameter of fish condition factor was demonstrated. This trend was confirmed in all variants. No effect was demonstrated for mechanical disruption of kernels on the level of utilization of nutrients. In further experiments on growth characteristics we would like to determine antioxidant parameters in the blood and liver of fry.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/477/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01198">
+    <dc:title xml:lang="en">Effects of fatty acid suplementation in Holstein cows at pre and post partum period, on estrous cycle return and in vitro production of embryos</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Effects of fatty acid suplementation in Holstein cows at pre and post partum period</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>on estrous cycle return and in vitro production of embryos</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>Efeitos da suplementação com fontes de ácidos graxos em doadoras da raça Holandesa durante o pré e pós-parto sobre o retorno à ciclicidade e produção in vitro de embriões</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ROSSI,  G. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MONTEIRO,  F. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LIMA,  M. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COLLADO,  M. D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VANTINI,  R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GARCIA,  J. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bos taurus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">supplements</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9372</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33996</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The supplementation of dairy cattle with sources of polyunsaturated fatty acids (PUFA) can be use to increase the energy level of the diet in addition to having positive effects on reproductive functions of important tissues including the hypothalamus, pituitary, ovaries and uterus. The aims of this study were to evaluate the reproductive conditions of the postpartum, number of follicles, corpus luteum (CL) presence, concentration of progesterone (P4), aspirated oocytes, amount of viable oocytes and in vitro production of embryos (IVPE) of the Holstein multiparous donors supplemented with rich diet in protected PUFA (especially linoleic acid - n-6) and non-protected (especially linolenic acid - n-3) during pre and post partum. The diets had been given for pre-partum during 30 d and post partum 60 d. The donors were divided into three groups: Control (n=6), Megalac-E® (n=5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">supplemented with protected fat source 100 g/donor/day in pre-partum and 300 g/donor/day in postpartum) and linseed (n=5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">supplemented with fat source unprotected containing 1 kg/donor/day pre-partum and 1.5 kg/donor/day in postpartum). The animals were submitted to ovum pick-up (OPU) on days 30, 45 and 60 d postpartum. The recovered oocytes were selected and the viable ones were submitted to IVPE procedures. The data were analyzed by the method of least squares variance using the GLM protocol. The differences between averages were compared by Tukey test with 5% significance. There was no detectable effect of treatment, aspirations of postpartum days and interactions on variables: CL presence, concentration of P4, amount of viable oocytes, viable oocytes rate, IVPE and embryos production rate. However, was observed in the group supplemented with linseed more follicles and total oocytes than Megalac-E® and Control group. Supplementation with PUFA didn't increase the number of viable oocytes and IVPE.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1378834271.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

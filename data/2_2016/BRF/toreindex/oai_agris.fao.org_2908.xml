@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02908">
+    <dc:title xml:lang="en">Produtive performance of Nile tilapia in cages in a rural dam, Vale do Ribeira, SP, Brazil</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Desempenho produtivo de tilápias do Nilo criadas em tanques rede em represa rural no Vale do Ribeira</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LEONARDO, A.F.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BACCARIN, A.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Intensive farming</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stocking density</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rearing techniques</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Oreochromis niloticus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3906</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24410</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26813</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34687</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study aimed to evaluate the adequate fish stocking density for intensive rearing in fresh water cage system at Vale do Ribeira region. Present study was conducted in Pariquera-Açu municipalities, in the Pisciculture sector of Polo Regional do Vale do Ribeira of APTA (SAA, SP) from november of 2012 to april of 2013. Eighteen cages of 4 m3, arranged in three lines, with 50 m, in a rural reservoir of 2.7 hectares were installed. A production cycle was done using 10,800 Nile tilapia juveniles, Oreochromis niloticus, with initial average weight of 25 ± 3.0 g divided in three stocking densities of 100, 150 and 200 fish/m3, with six replication of each stocking density. Fish performance in each cage was evaluated, in each 30th days, by the achievement of daily weight gain, final weight gain, apparent food conversion, survival and final average biomass (4 m3). For water quality determination of the rural reservoir, it was marked five points of sampling: water supply, rearing area divided in three points at 10 cm depth and effluent. Related to final length, final weight, final weight gain and survival there was significant difference (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo deste trabalho foi estudar a densidade de estocagem ideal de peixes para o sistema intensivo de produção em tanques rede em água doce na região do Vale do Ribeira. O presente trabalho foi conduzido em Pariquera-Açú, no setor de Piscicultura do Polo Regional do Vale do Ribeira da APTA (SAA, SP) no período de novembro de 2012 a abril de 2013. Foram instalados 18 tanques-rede de 4 m3, dispostos em três linhas com 50 m em uma represa rural de 2,7 ha. Foi realizado um ciclo de produção utilizando-se 10.800 juvenis de tilápia do Nilo, Oreochromis niloticus, com peso médio inicial de 25 ± 3,0 g divididos em três densidades de estocagem de 100, 150 e 200 peixes/m3, com seis repetições de cada densidade de estocagem. O desempenho produtivo de cada tanque foi avaliado, a cada 30 dias, pela obtenção do ganho de peso diário, ganho de peso final, conversão alimentar aparente, sobrevivência e biomassa média final (4 m3). Para determinar a qualidade da água da represa rural, foram demarcados cinco pontos de coleta: abastecimento, área de criação, sendo dividido em três pontos a 10 cm de profundidade, e efluente. Em relação ao comprimento total, peso final, ganho de peso final, ganho de peso diário e sobrevivência houve diferença (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1412077218.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

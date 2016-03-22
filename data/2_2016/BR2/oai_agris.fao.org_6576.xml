@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206576">
+    <dc:title xml:lang="en">Genetic diversity of Jujube (Ziziphus jujuba Mill.) germplasm based on vegetative and fruits physicochemical characteristics from Golestan province of Iran</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Diversidade genética de Jujuba (Ziziphus jujuba Mill.) baseada em germoplasma de frutos com características físico-químicas da província de Golestan do Irã</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ghazaeian Mina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Golestan Agricultural and Natural Resource Institute, Gorgan, Irã</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic variation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ornamental plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15975</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5417</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Jujube fruits have sweet flavor and are rich of A, C and B vitamins and mineral nutrients. It used as table fruit, nut fruit, medicinal and ornamental plant. In this study 10 different ecotypes of Ziziphus jujuba Mill. were collected from different regions of Golestan province of Iran and their vegetative (stem annual growth, thorn length, leaf length, leaf width and petiole length) and fruit physicochemical characteristics (fruit length, fruit width, fruit weight, humidity percent, flesh/stone
+ratio, stone weight, stone length, stone width, vitamin C content, pH and total soluble solid (TSS))were evaluated between years 2009-2011. The results of this study showed significantly differences between ecotypes from different regions. Different evaluated traits of Lemesk ecotype were
+significantly different from the other ecotypes</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">this result was corroborated by cluster analysis. The ecotypes were separated according to their geographic origin. So it can be concluded that the climate effects is very important for existence of qualitative and quantitative characteristics of
+jujube.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">As frutas de Jujuba tem sabor doce e são ricos em vitaminas A, C e do complexo B, nutrientes e minerais. É usado como fruta de mesa, para fins medicinais e como planta ornamental. Neste estudo 10 ecótipos diferentes de Ziziphus jujuba Mill. foram coletadas de diferentes regiões da província de
+Golestan do Irã e sua porção vegetativa (caule de crescimento anual, comprimento espinho, folha de comprimento, largura e comprimento do pecíolo da folha) e as características físico-químicas de frutas (comprimento e largura de fruto, peso do fruto, por cento de umidade, carne / pedra ratio, peso de pedra, pedra comprimento, largura pedra, teor de vitamina C, pH e sólidos solúveis totais (SST)) foram avaliadas entre os anos de 2009-2011. Os resultados deste estudo mostraram diferenças significativas entre ecótipo a partir de diferentes regiões. Diferentes características
+avaliadas de Lemesk ecotype foram significativamente diferente dos outros ecótipos</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">esse resultado foi corroborada pela análise de cluster. Os ecótipos foram separados de acordo com sua origem geográfica. Assim, pode-se concluir que os efeitos do clima é muito importante para a existência de características qualitativas e quantitativas de jujuba.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/view/597/297</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

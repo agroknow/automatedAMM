@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206324">
+    <dc:title xml:lang="en">Ileal digestibility of broilers fed diets supplemented with exogenous enzymes</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Digestibilidade ileal de frangos de corte alimentados com dietas suplementadas com enzimas exógenas</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Barbosa Nei André Arruda</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bonato Melina Aparecida</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sakomura Nilva Kazue</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dourado Leilane Rocha Barros</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fernandes João Batista Kochenborger</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kawauchi Iris Mayumi</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>BOAV ALIMENTOS LTDA, NUTRIÇÃO, Casa Branca, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista, Campus de Jaboticabal, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista, Campus de Jaboticabal, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Piauí, Campus Profª. Cinobelina Elvas, Bom Jesus, PI, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista, Campus de Jaboticabal, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista, Campus de Jaboticabal, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L51</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">amylase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_369</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49892</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The experiment was conducted to evaluate the effect of enzyme efficiency in diets with and without nutrient reduction on the ileal digestibility of broilers. A total of 1440 male broiler chicks (Cobb ®) were distributed in a completely randomized design with 4 treatments in a factorial 2 x 2 (two control
+diets versus supplemented or not with enzyme) with 8 replicates of 45 birds in each experimental unit. The control diets were: positive control (with nutritional levels recommended in the literature for each phase) and a negative control (with reduced energy, calcium and phosphorus). Enzyme supplementation consisted of a combination of enzymes, phytase (100g/t) and complex of amylase,
+protease and xylanase (500g/t). We evaluated the digestibility of dry matter, crude protein and energy of birds of age 22 and 43 days old. The reduction of nutrients in the diets caused a reduction in the negative control digestible energy and protein digestibility, however, the addition of enzyme mix in the negative control increased the digestible energy in two phases, and the digestibility of protein at 22 days old. The addition of enzymes improved the digestibility of nutrients in diets with nutrient reduction.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O experimento foi conduzido para avaliar o efeito da eficiência enzimática em dietas com e sem redução de nutrientes sobre a digestibilidade ileal de frangos de corte. Um total de 1440 pintos de corte macho (Cobb®) foram distribuídos em um delineamento inteiramente casualizado, com 4 tratamentos em esquema fatorial 2 x 2 (duas dietas controle versus adição ou não enzimática) com 8 repetições de 45 aves em cada unidade experimental. As dietas controles foram: controle positivo (com níveis nutricionais recomendados na literatura para cada fase) e um controle
+negativo (com redução de energia, cálcio e fósforo). A suplementação enzimática consistiu da combinação das enzimas fitase (100g/t) e complexo enzimático de amilase, xilanase e protease (500g/t). Foi avaliada a digestibilidade ileal da matéria seca, proteína bruta e energia das aves nas
+idades de 22 e 43 dias de idade. A redução dos nutrientes nas dietas controle negativo promoveu redução na energia digestível e digestibilidade da proteína, entretanto, a adição da combinação enzimática no controle negativo aumentou a energia digestível nas duas idades, e o coeficiente de
+digestibilidade da proteína aos 22 dias de idade. A adição de enzimas melhorou a digestibilidade ileal de nutrientes em dietas com redução de nutrientes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/460/274</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

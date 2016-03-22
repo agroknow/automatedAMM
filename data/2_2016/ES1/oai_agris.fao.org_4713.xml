@@ -1,0 +1,45 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104713">
+    <dc:title xml:lang="es">EVALUACIÓN DE SIMETRÍAS CRANEALES MEDIANTE TÉCNICAS DE IMAGEN. UN EJEMPLO EN EL GÉNERO SUS</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EVALUATION OF SKULL SYMMETRIES USING IMAGES TECHNIQUES</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>AN EXAMPLE IN SUS GENRE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Parés-Casanova Pere</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Esteve-Puig Cristina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vilà Laura</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Dept. de Producció Animal. Univ. de Lleida</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Dept. de Producció Animal. Univ. de Lleida</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Dept. de Producció Animal. Univ. de Lleida</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this work was to analyze the extent and pattern of cephalic asymmetries, as a measure of developmental instability, in two similar species, wild boar (Sus scrofa) and domestic pig (Sus domestica). This was carried out with skulls of S. domestica (n=29) and S. scrofa (n=28), of different ages, from which 25 2D landmarks were recorded in two replicas on their ventral surface. The data were analyzed using geometric morphometric techniques. The contribution of the fluctuant asymmetry –e.g. random and subtle deviations from symmetry of bilaterally symmetrical features- was significant for both species, suggesting a significant influence of factors affecting development throughout their ontogenic processes. The levels of directional asymmetry -which occurs when the value of a trait laterality is consistently larger than the other- were only significant in S. scrofa. This species also showed significant differences between age groups and different pattern changes for each skull region. So, while the base and the rostral end of the viscerocranium showed different magnitudes of growth, the level of asymmetry in the braincase was constant between age groups. The causal explanation of the presence of directional asymmetry in wild boar is open to research. It could be due to intraspecific competition or consanguinity of population. Whatever it is, these first results from our research can let us advance in the research into both the underlying mechanisms of developmental instability in domestic ungulates and the ecological and physiological mechanisms that determine these mechanisms.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo003_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

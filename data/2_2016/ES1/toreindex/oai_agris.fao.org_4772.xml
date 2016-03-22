@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104772">
+    <dc:title xml:lang="es">DIVERSIDAD GENÉTICA DE LA RAZA EQUINA MARISMEÑA</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>GENETIC DIVERSITY OF THE MARISMEÑO EQUINE BREED</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gómez Montserrat</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Landi Vincenzo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nogales Sergio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Martinez Amparo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Delgado Juan Vicente</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vega-Pla José</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Laboratorio de Investigación Aplicada</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biological diversity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic markers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33950</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Marismeño horse, is a Spanish equine breed threatened with extinction located almost exclusively at the Espacio Natural de Doñana, a protected area (Natural and National Park), at the Southwest of the Iberian Peninsula. 25 microsatellites recommended by the International Society of Animal Genetics (ISAG) were typed to define the genetic profile of the breed (AHT4, AHT5, ASB17, ASB2, ASB23, HMS3, HMS6, HMS7, HTG10, HTG4, LEX3, LEX33, VHL20, TKY287, TKY294, TKY297, TKY301, TKY312, TKY321, TKY333, TKY337, TKY341, TKY343, TKY344, TKY394). The microsatellites were amplified by PCR (Polimerase Chain Reaction). The obtained fragments were separated by electrophoresis in an automatic sequencer ABI377XL (Applied Biosystems, Foster City, CA, USA). The fragment analysis and genotyping was made using the programmes Genescan Analisys 3.1.2 and Genotyper 2.5, using Genescan® 400HD ROX as size standard. Heterozigosity analysis, Fis, multivariate analysis and assignation and genetic structure analysis were performed. All the microsatellites analyzed were informative and polymorphic, with a minimum of 6 alleles for the microsatellites AHT5, HMS6 and HMS7, and a maximum of 12 for the microsatellite ASB2. The Marismeño breed shows a high variability, with an average of 8.24 alleles per locus. The FIS value for the population was 0.007. This means that the population is homogeneous and not significantly deviated from HWE. The genetic structure analysis confirms the analysed individuals group together. The conclusion is that the first results of a great effort done by the Marismeño horse breeders are being collected, to settle the breed characteristics without significant loss of genetic variability.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">El caballo Marismeño, es una raza equina española que se halla en peligro de extinción y que se localiza casi exclusivamente en el Espacio Natural de Doñana, entorno protegido (Parque Natural y Parque Nacional), situado entre las provincias de Sevilla, Huelva y Cádiz, al Suroeste de la Península Ibérica. Para realizar una caracterización genética de la raza y definir su perfil genético se analizaron 25 marcadores microsatélites recomendados por la  International Society of Animal Genetics (ISAG): AHT4, AHT5, ASB17, ASB2, ASB23, HMS3, HMS6, HMS7, HTG10, HTG4, LEX3, LEX33, VHL20, TKY287, TKY294, TKY297, TKY301, TKY312, TKY321, TKY333, TKY337, TKY341, TKY343, TKY344, TKY394. Se amplificaron los microsatélites mediante la técnica de la reacción en cadena de la polimerasa (PCR). Los fragmentos obtenidos en la PCR se separaron mediante una electroforesis en un secuenciador automático ABI377XL (Applied Biosystems, Foster City, CA, USA). El análisis de los fragmentos y la tipificación alélica se realizó mediante los programas informáticos Genescan Analisys 3.1.2 y Genotyper 2.5 respectivamente utilizando Genescan® 400HD ROX Size Standard como estándar  de tamaños. Se realizaron análisis de heterozigosidad, Fis, análisis multivariable y test de estructura genética y asignación. Todos los microsatélites analizados resultaron muy informativos y polimórficos mostrando entre un mínimo de 6 alelos, para los microsatélites AHT5, HMS6 y HMS7, y un máximo de 12 en el microsatélite ASB2. La raza equina Marismeña muestra una alta variabilidad, con un número medio de 8,24 alelos por locus. El valor medio de FIS de la población es de 0,007, lo que indica que la población Marismeña es homogénea y además no muestra una desviación significativa del equilibrio Hardy-Weinberg. El análisis de la estructura genética confirma que los individuos analizados se agrupan juntos. La conclusión es que se están obteniendo los primeros frutos derivados de un gran esfuerzo de los criadores de Caballo Marismeño para fijar las características de su raza sin que haya una pérdida significativa de variabilidad genética.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo013_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

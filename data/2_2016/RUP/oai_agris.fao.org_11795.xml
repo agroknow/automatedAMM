@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P11795">
+    <dc:title xml:lang="ru">ИСПОЛЬЗОВАНИЕ ТОНКОДИСПЕРСНОГО ПОРОШКА ИЗ ПЛОДОВЫХ ТЕЛ ШАМПИНЬОНА ДВУСПОРОВОГО В ТЕХНОЛОГИИ МАКАРОННЫХ ИЗДЕЛИЙ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>USE OF FINE POWDER FROM FRUITING BODIES OF AGARICUS BISPORUS IN PASTA TECHNOLOGIES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Prazdnichkova N.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Blinova O.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Trots A.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Makushin A.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q51</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: pasta, powder, Agaricus bisporus, quality</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В работе рассматривается возможность использования тонкодисперсного порошка из плодовых тел шампиньона двуспорового в производстве макаронных изделий с целью повышения пищевой ценности. Рекомендовано при производстве макаронных изделий применять тонкодисперсный порошок из плодовых тел шампиньона двуспорового в количестве 0,5…1,5% от массы муки.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This paper examines the possibility of using the fine powder of the fruiting bodies of Agaricus bisporus in the production of pasta in order to increase the nutritional value. It is recommended to use fine powder of the fruiting bodies of Agaricus bisporus in an amount of 0.5 ... 1.5 % by weight of the flour while the pasta production.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_1660bd039ef74b5e8074835a507147b0.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№2, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

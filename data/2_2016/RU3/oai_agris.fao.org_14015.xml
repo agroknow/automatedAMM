@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016314015">
+    <dc:title xml:lang=" ">Оптимизация системы расселения сельского населения как  инструмент управления социально-экономическим развитием территорий</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Михайлова Е.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Земскова О.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Карпова А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E51</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rural population</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rural settlement</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6705</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6706</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">В условиях сокращения количества сельских жителей и исчезновения целых населенных пунктов особенно остро стоит вопрос об оптимизации системы расселения сельских территорий. В статье проведен анализ численности сельского населения и населенных пунктов РФ. На примере Волгоградской области рассмотрена необходимость и возможность переселения жителей мелких и мельчайших поселений в крупные сельские населенные пункты. Проведена оценка экономической эф-фективности капитальных вложений в жилищное строительство с точки зрения налоговых поступ-лений.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Экономика и предпринимательство</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1999-2300</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.12-3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

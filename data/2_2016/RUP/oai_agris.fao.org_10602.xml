@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P10602">
+    <dc:title xml:lang="ru">ПРАКТИКА РЕАЛИЗАЦИИ УКАЗА ПРЕЗИДИУМА ВЕРХОВНОГО СОВЕТА СССР ОТ 2 ИЮНЯ 1948 Г. В ПОВОЛЖСКОЙ ДЕРЕВНЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PRACTICE OF DECREE IMPLEMENTATION OF THE PRESIDIUM OF THE USSR SUPREME SOVIET JUNE 2</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>1948 IN THE VOLGA VILLAGE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Khasyanov Oleg</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">B50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">history</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3635</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье на основе данных архивных документов, которые впервые вводятся в научный оборот, предпринята попытка анализа реализации Указа Президиума Верховного Совета СССР от 2 июня 1948 г. в поволжском регионе. По мнению автора, разложение трудовой дисциплины колхозного крестьянства в по-слевоенное время было вызвано объективными причинами, а именно отсутствием материальной заинтересованности крестьян в результатах своего труда. Автор доказывает, что практика реализации Указа является очередным механизмом подавления крестьянского сопротивления и что данный указ не смог дос-тигнуть своей цели даже в долгосрочной перспективе. В связи с этим советское правительство было выну-ждено изменить принципы взаимоотношения с крестьянством.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">An attempt to analyze the implementation of the Decree of the Presidium of the Supreme Soviet of the USSR, June 2, 1948 in the Volga region on the basis of archival documents that were introduced into the scientific revolution for the first time is undertaken in the article. According to the author, the expansion of the labor discipline of the collective farmers in the postwar period was caused by objective reasons, namely because of peasants’ lack of material interest in the results of their work. The author proves that the practice of the Decree implementation is another mechanism of suppression of peasants’ resistance and this Decree failed to achieve its goals even in the long term. In this connection the Soviet government was forced to change the principles of the relationship with the peasantry.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ru.calameo.com/read/00111083328c4a92b387d</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

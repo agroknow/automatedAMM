@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F11620">
+    <dc:title xml:lang="en">Characterization of fish consumers in the town of Lavras, Minas Gerais.</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Caracterização dos consumidores de peixe do Município de Lavras</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>Minas Gerais</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MELO, C. C. V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FABRINI, B. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COSTA, A. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MATTOS, B. O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS, L. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FREITAS, R. T. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">consumer behaviour</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fish</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">consumer behaviour</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">research methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1821</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1821</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_31858</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate and characterize the fish consumption profile in the town of Lavras, Minas Gerais. A descriptive-quantitative study was conducted. A structured questionnaire elaborated using previously formulated questions and answers was used for data collection. The questionnaire was applied between March and May 2014 to the household reference person. A total of 402 households were sampled. The data were analyzed by analysis of the distribution of frequencies using the SPSS program. The results showed that fish meat occupied fourth place in the preference of household consumption in the town of Lavras, after beef, poultry and pork meat. It was also observed that fish is usually purchased as fillet and is consumed occasionally in the households. The price is an important factor for the choice of meat. Most respondents prefer to consume fried fish. The species most appreciated by consumers in the town of Lavras is Dourado. Most respondents usually buy less than 2.0 kg/household/year.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se com este trabalho avaliar e caracterizar o perfil de consumo de peixe na cidade de Lavras, MG. Para a obtenção dos dados foi realizada uma pesquisa descritivo-quantitativa. A técnica de coleta de dados utilizada foi o questionário estruturado, elaborado com perguntas e respostas previamente formuladas. O questionário foi aplicado de março a maio de 2014 e voltado à pessoa de referência do domicílio. Foram amostrados 402 domicílios. Para a análise dos dados, foi utilizada a técnica de análise de distribuição de frequências, através do programa estatístico SPSS versão 12.0. Como resultado, observou-se que a carne de peixe está em quarto lugar no ranking de preferência de consumo das famílias na cidade de Lavras, perdendo para a carne bovina, aves e suína. Constatou-se também que normalmente o peixe é adquirido na apresentação filé e que o consumo é eventual nos domicílios. O preço representou um fator importante para escolha da carne. A maioria dos entrevistados prefere consumir o peixe frito. A espécie mais apreciada pelos consumidores da cidade de Lavras foi o Dourado. A maioria dos entrevistados costuma comprar menos de 2,0 kg/domicílio/ano.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v72n3p178</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

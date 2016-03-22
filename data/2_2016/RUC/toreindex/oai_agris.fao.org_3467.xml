@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C03467">
+    <dc:title xml:lang="ru">Исследование роста сеянцев дуба черешчатого с закрытой корневой системой в условиях таежной зоны северо-запада европейской части России</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Study pedunculate oak seedlings growth with closed root system in conditions of the taiga zone northwest of European Russia</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Burtsev D.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Saint Petersburg Forestry Research Institute</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Containers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quercus robur</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forestry development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reforestation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1831</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15794</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3057</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13802</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В результате проведения работ по исследованию роста сеянцев дуба черешчатого с закрытой корневой системой в условиях таежной зоны северо-запада европейской части России был выполнен ряд задач.
+Проведен анализ исследований по влиянию различных типов контейнеров на рост сеянцев дуба с закрытой корневой системой. Изучена динамика роста в высоту сеянцев дуба черешчатого в зависимости от типа контейнера и срока сбора желудей. Получены данные о всхожести сеянцев дуба черешчатого в зависимости от типа контейнера и срока сбора желудей. Исследованы морфологические параметры сеян-
+цев дуба черешчатого в зависимости от типа и размера используемого контейнера. Проведена оценка выхода стандартных сеянцев дуба черешчатого в зависимости от типа контейнера и срока сбора желудей.
+В результате было установлено, что при выращивании сеянцев в закрытом грунте не более двух месяцев с последующим доращиванием на открытом полигоне наибольший выход стандартного посадочного материала наблюдался при использовании контейнера с объемом ячейки 400 см3 при высоте 15 см. При использовании контейнеров с ячейками меньших объемов биометрические параметры сеянцев снижаются. С уменьшением высоты контейнера степень закручивания стержневого корня возрастала.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">As a result of studies on the growth of pedunculate oak seedlings with closed root system under the conditions of the taiga zone of the north-west European part of Russia been a number of tasks.
+Analysis of studies on the effect of different types of containers on the growth of oak seedlings with closed root system was conducted. Dynamics of growth in height of seedlings pedunculate oak, depending on the type of container and collect acorns period was studied. Data on seedling emergence pedunculate oak, depending on the type of container and the period of collecting
+acorns were obtained. Morphological parameters of seedlings pedunculate oak, depending on the container were investigated. Evaluation of yield of standard seedlings pedunculate oak, depending on the type of container and collect acorns period was conducted. As a result, it was found that when growing seedlings in greenhouses no more than two months later rearing in open ground largest output standard planting material was observed by using a container with a volume of 400 cm3 cell at a height of 15 cm. When using a container with a mesh smaller volumes biometrics seedlings decreased. By reducing the height of the container degree twist main root increased.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal.spb-niilh.ru/pdf/4-2014/spbniilh-proceedings-4-2014-3.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Труды Санкт-Петербургского научно-исследовательского института лесного хозяйства</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2079-6080</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

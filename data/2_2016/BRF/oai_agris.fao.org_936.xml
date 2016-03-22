@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F00936">
+    <dc:title xml:lang="en">Growth analysis of Cynodon grasses in response to harvest frequency</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Análise de crescimento de capins dp gênero Cynodon submetidos a frequências de colheita</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>CARVALHO, M. S. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PEDREIRA,  C. G. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TONATO,  F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cynodon dactylon</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth rate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2069</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16130</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objectives of this study were to analyze the effect of three harvest frequencies (14</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">28 and 42 days) in three cultivars of Cynodon (Tifton 85, Jiggs and Vaquero) for two seasons (summer and winter), through growth analysis. The experimental design was completely randomized with four replications. Harvesting every 42 days resulted in higher Culture Growth Rate - CGR (30.9 g DM/m2/day) in the summer. In winter the CGR was higher under the 14 (11.6 g DM/m2/day) and the 28 days after cut (11.1 g DM/m2/day). Higher Relative Growth Rate - RGR occured at 28 (0.26 g/g/day) and 42 days (0.32 g/g/day) frequencies also in the summer. In the winter higher RGR was observed in the 28 days schedule (0.21 g/g/day). Higher Leaf Area Ratio - LAR and Leaf Weight Ratio - LWR occurred at the 28 days frequency in the summer. Cultivars did not differ in any of the parameters. Only the Net Assimilation Rate (NAR) in the summer, was higher in Vaquero than in the other cultivars. All three grasses harvested every 28 days produced more when the goal was to produce forage with a higher leaf proportion.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Objetivou-se com este estudo analisar o efeito de três frequências de colheita (14, 28 e 42 dias) em três cultivares do gêneroCynodon (Tifton 85, Jiggs e Vaquero) em duas estações do ano (verão agrostológico e inverno agrostológico) por meio da análise de crescimento. O delineamento experimental utilizado foi completamente casualizado com quatro repetições. A frequência de 42 dias de colheita resultou em maior Taxa de Crescimento da Cultura - TCC (30,9 g MS/m2/dia) no verão. No inverno a TCC foi maior nas frequências de 14 (11,6 g MS/m2/dia) e 28 (11,1 g MS/m2/dia) dias de rebrotação. Maior Taxa de Crescimento Relativo (TCR) ocorreu nas frequências de 28 (0,26 g/g/dia) e 42 dias (0,32 g/g/dia) também no verão. No inverno, maior TCR ocorreu na frequência de 28 dias (0,21 g/g/dia). Maior Razão de Área Foliar (RAF) e Razão de Peso Foliar (RPF) ocorreram na frequência de 28 dias no verão. Os cultivares não se diferenciaram em nenhum dos parâmetros. Apenas a taxa de assimilação líquida (TAL) no verão, foi superior no Vaquero em relação aos demais cultivares. Os três capins colhidos a cada 28 dias apresentaram maior produção quando o objetivo foi produzir forragem com maior proporção de folhas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1355398649.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.69/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

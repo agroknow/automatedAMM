@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102620">
+    <dc:title xml:lang="en">Studying on rooting ability of olive cultivars region of Tirana</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BREGU KOZETA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>THOMAJ FADIL</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MEMA ANIDA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Agricultural University of Tirana, Department of Horticulture and Landscape Architecture, Tirana, Albania.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">olive</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Callus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24576</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results brought in this study present the rooting ability of semi dendric olive pieces, including the five most important cultivars of the area which are used as oil cultivar ("olive white", “Kushan", "Karre" and "black olive from Ndroq Tirana") or as cultivar used for oil and salting (Boç and red olive). Anchoring (sample) material is taken from three age-old mother plants and with a good health and vegetation condition. Previously pieces are treated with IBA at 4000 ppm concentration.
+Observations made after 45 days from the time of placement for anchoring have shown that for all cultivars had conducted the complete callus, while in particular cultivars are found a considerable amount of pieces that have shaped the initial roots. The results received after 60 days, for the rooting, show that between specific cultivars there is a significant variability by forming three groups: the first group with the highest rooting percentage ( 50 &lt; % ) cultivars belong, "Karr", "olive white" and "Kushan". In the second group with average rooting ( 30-50 % ) cultivar introduced "Boc", while cultivars "olive red" and "black olive from Ndroqi" have a weak rooting (30 % &gt;).
+The highest yield was taken when rooting plants from mother plants, from where the pieces are taken and prepared, which are in a more advanced stage of vegetation..</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4OjE3NGU4ODM1MWVhYTc5YjE</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

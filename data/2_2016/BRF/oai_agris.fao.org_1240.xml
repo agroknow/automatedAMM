@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01240">
+    <dc:title xml:lang="en">Economic results of finishing confined beef cattle AT Sete Lagoas -MG</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Resultados econômicos da terminação de bovinos de corte em confinamento no município de Sete Lagoas – MG</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DEMEU,  A. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LOPES,  M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BARBOSA,  F.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beef cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">profitability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">costs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1922</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This research had as an objective to analyze the profitability of the activity of beef cattle finished in confinement. Specifically, it was also intended to evaluate the effect of scale　of production and　price variations throughout the year　on profitability, and identify the components of the total and operational effective costs that exercised higher representativeness on the production of 15 kg and to estimate the equilibrium point. The data collection took place from January, 2008 to December, 2009, in a production system of beef cattle finished in confinement, located in the municipal district of Sete Lagoas-MG. The profitability analysis was carried out by the Custo Bovino Corte® software, considering the gross and the liquid margin and the result (profit or loss) as indicators of economical efficiency. The gross and the liquid margins, and the result were positive in 2008, indicating that the production system has survival conditions over short, medium and long terms with consequent capitalization. In 2009, for presenting positive gross and liquid margins, the activity has survival conditions over short and medium terms</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">but, because of the negative results, this production system does not have survival conditions over long term because the farmer is decapitalizing itself. The components of total cost and total operational costs that exercised higher influence on the production of 15 kg were: animal acquisition, feeding and labor.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Esta pesquisa teve como objetivo analisar a rentabilidade da atividade de bovinos de corte terminados em confinamento. Pretendeu-se, ainda, avaliar o efeito da escala de produção e a variação de preços, ao longo do ano, bem como identificar os componentes do custo total e operacional efetivo que exerceram maiores representatividades na produção da arroba de carne e estimar o ponto de equilíbrio. A coleta de dados foi de janeiro de 2008 a dezembro de 2009, em um sistema de produção de bovinos de corte terminados em confinamento, localizado no município de Sete Lagoas – MG. A análise de rentabilidade foi realizada utilizando o software Custo Bovino Corte®, considerando a margem bruta, a margem líquida e o resultado (lucro ou prejuízo) como indicadores de eficiência econômica. As margens bruta, líquida e o resultado foram positivos no ano de 2008, evidenciando que o sistema de produção tem condições de "sobreviver" a curto, médio e longo prazos, com consequente capitalização. Para o ano de 2009, por obter margens bruta e líquida positivas, a atividade tem condições de "sobreviver" a curto e médio prazos</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">mas, pelo resultado ter sido negativo, esse sistema de produção não tem condições de se manter a longo prazo, pois o pecuarista está se descapitalizando. Os componentes do custo total e custo operacional total que exerceram maiores representatividades na produção da arroba de carne foram, em ordem decrescente, aquisição de animais, alimentação e mão-de-obra.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1355399838.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.69/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

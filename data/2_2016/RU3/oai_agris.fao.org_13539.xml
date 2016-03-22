@@ -1,0 +1,60 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016313539">
+    <dc:title xml:lang="ru">Эффективность интегрированной системы защиты посевов томатов и огурцов от вредных организмов в предгорной зоне КБР</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Хромова Л.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">investment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">innovation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">infection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">stolbur</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Insecticides</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">epidemics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3930</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27560</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3852</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36334</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2614</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Совершенствование технологии возделывания овощных культур в республике где томаты и огурцы занимают более половины всей посевной площади овощных культур обусловлено дальнейшим развитием инновационно- инвестиционной деятельности АПК КБР и является способом создания индивидуальных конкурентных преимуществ в приоритетном сегменте сельскохозяйствен-ной отрасли республики. Сельскохозяйственное производство является доминирующей отраслью ре-ального сектора экономики КБР и в ней занято около 40% работников, занятых в отраслях народного хозяйства республики, что наряду с важным экономическим фактором представляет и значимую соци-альную категорию. Овощеводство позволяет вовлечь в производство максимально большее число трудоспособного населения в сельской местности, и это позитивно сказывается на занятости в ре-гионе, способствует повышению уровня жизнеобеспечения сельского населения. Защита растений, имея дело с разнообразными, не стабильными биологическими объектам является одним из наиболее сложных и наукоемких компонентов в обеспечении развития агропромышленного комплекса. В статье обосновано применение интегрированной системы защиты посевов томатов и огурцов от вредных организмов в предгорной зоне Кабардино-Балкарской республики и соседних регионов с аналогичными природно-климатическими условиями. Продемонстрирована экономическая эффективность и резервы улучшения одного из важных элементов культуры возделывания овощей – защита от вредных орга-низмов с одновременным улучшением экологической обстановки и получением более безопасной овощ-ной продукции. В результате многолетнего анализа данных основных предикторов погоды ежегодного определения среднего значения пораженности посевоа томата столбуром, разработан прогноз эпи-фитотии столбура (краткосрочный и многолетний). Краткосрочный прогноз эпифитотии столбура томатов позволяет своевременно оповещать овощеводов Кабардино-Балкарии о сроках активной ми-грации цикадок-резерваторов инфекции и проведения опрыскиваний против них эффективными инсек-тицидами с интервалом 7-10 дней, при этом меняя группу препаратов.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

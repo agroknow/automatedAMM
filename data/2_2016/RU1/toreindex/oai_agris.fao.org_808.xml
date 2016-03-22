@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100808">
+    <dc:title xml:lang="en">Alleviation of Seawater Stress on Tomato by Foliar Application of Aspartic Acid and Glutathione</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Akladious Samia Ageeb</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abbas Salwa Mohamed</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Amino acids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Glutathione</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lycopersicon esculentum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Salinity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_342</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11184</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4475</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6751</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A pot experiment was carried out in the botanical garden of Faculty of Education, Ain Shams University, with the aim of studying the effect of salinity levels (4, 8 and 16% of diluted seawater) and foliar application of aspartic acid and/or glutathione on the growth and chemical constituents of tomatoes (lycopersicon esculentum Mill) plants. The most important results can be summarized as: 1). Treatments of high salinity levels reduced all growth parameters and chemical constituents of plants. 2) Both aspartic acid and glutathione significantly increased plant growth, the contents of anthocyanin, α-tocopherol, ascorbic acid and enzymatic activities. In addition, the content of endogenous amino acids was increased which in turn led to positive changes in the picture of protein electrophoresis, theses changes were accompanied by appearance and disappearance of some protein bands and caused obvious changes in the anatomical features of the stems. 3) The effect of aspartic acid was superior to that of glutathione on increasing plant growth and chemical constituents. 4) Under low saline conditions, the maximum plant growth for all the recorded growth parameters was obtained from plants treated with aspartic acid and grown under 8% of seawater, followed by 4%. However, glutathione had inhibitor effect on plant growth and chemical constituents of plants grown at 16% seawater. The data revealed that the different antioxidants could partially alleviate the harmful effects of salinity stress that reflected on growth and some physiological changes of tomato plant.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N3/JSPB_2013_3_282-298.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

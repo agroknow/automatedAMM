@@ -1,0 +1,37 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016104743">
+    <dc:title xml:lang="en">A Gender based Economic Analysis of Cassava Production in North Central Nigeria: Implication for Poverty Alleviation in Nigeria</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ENIOLA OLUWATOYIN OLORUNSANYA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Agricultural Economics and Extension Services, Ibrahim Badamasi Babangida University, Lapai, Niger State, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Economic analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Gender</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2469</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34835</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study carried out a gender based economic analysis of cassava production with implication for poverty reduction among two hundred and ten rural farming households in north central Nigeria. Descriptive statistics, budgetary analysis and multiple regression model were the analytical tools. The results of the descriptive statistics show that the female-headed households had lower access to productive resources than their male-headed counterparts. The budgetary analysis shows that cassava production was a profitable enterprise in the study area with net-farm income of N73,100 and N58,035 and capital turn-over of 1.50 and 1.46 for the male and female-headed households respectively. This also suggests a lower level of welfare for the female-headed households. The production function estimates show farm size in hectare, family labour in manday, cassava stem in tonnes and fertiliser in kilogram were the significant variables in cassava production in the study area. The efficiency ratio analysis indicates that cassava stems were under-utilised while other significant variables were over-utilised. The study recommends that cassava production be used as a crop for poverty reduction among farming households in the study area judging from its profitability. The farmers were also advised to cut down on over-utilised resources and increase usage of under-utilised ones for optimal efficiency in production.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_2014/13_ENIOLA%20O%20OLORUNSANYA_pp%2066-71.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01714">
+    <dc:title xml:lang="en">Parameters of semen in natura of boars after the use os selenium shots</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Parâmetros do sêmen in natura de cachaços após o uso de selênio injetável</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA,  Daiane M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LIMA,  Daiane</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MURGA, Luis D. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ZANGERÔNIMO, Márcio G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MESQUITA, Simone P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2009-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Swine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beef</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Reproductive performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7555</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_861</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The swine`s meat is the most consumed worldwide, so it is very important to increase the swine`s production through the reproductive efficiency of breeding males. The selenium is a constituent of glutathione peroxidase, which protects the sperm membrane against free radicals oxidative action. The aim of this study was to evaluate the effect of selenium shots on boars in natura seminal parameters. During the months of August to December 2007, four boars received two selenium shots. From each animal, 13 ejaculates were collected before the application of selenium and 13 after. The average values obtained with volume, motility, aspect, sperm concentration and total of sperm cells of swine semen were subjected to test t for paired data using the SAS statistical program. There was no significant difference for the parameters, therefore, concluded that the use of selenium shots did not alter the parameters of boars semen in natura.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A carne suína é a mais consumida mundialmente, sendo assim, é muito importante aumentar a produção das atividades suinícolas podendo ser através da eficiência reprodutiva dos reprodutores machos. O selênio é um constituinte da glutationa peroxidase, a qual protege a membrana dos espermatozóides contra a ação oxidativa dos radicais livres. O objetivo deste trabalho foi avaliar o efeito do selênio injetável sobre os parâmetros seminais in natura de cachaços. Foram utilizados, nos meses de agosto a dezembro de 2007, quatro reprodutores suínos que receberam duas aplicações de selênio injetável. De cada animal, foram coletados 13 ejaculados antes e 13 depois da aplicação de selênio injetável. As médias obtidas com volume, motilidade, aspecto, concentração espermática e total de espermatozóides do sêmen suíno foram submetidas ao teste t para dados emparelhados utilizando o programa estatístico SAS. Não houve diferença significativa para os parâmetros analisados, sendo assim, conclui-se que a utilização de selênio injetável não altera os parâmetros do sêmen in natura de cachaços.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1276704824.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.66/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

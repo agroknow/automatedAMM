@@ -1,0 +1,68 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C08757">
+    <dc:title xml:lang="ru">Оценка продуктивности несомкнувшихся лесных культур ели и дуба на землях лесного фонда Республики Беларусь</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>The assessment of efficiency of not closed forest cultures of the spruce and oak on lands of the forest fund of the Republic of Belarus</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ermonina I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zelensky V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Klimenkov E.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forest resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Standards</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3050</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7367</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведены результаты исследования по оценке комплексной продуктивности земель, занятых несомкнувшимися лесными культурами ели и дуба в мшистой, орляковой, кисличной и черничной сериях типов леса. Определение запасов лесных ресурсов в несомкнувшихся лесных культурах проводились в 10 модельных лесхозах Республики Беларусь. Результаты исследования показали, что запасы древесины в несомкнувшихся лесных культурах изменяются в зависимости от типа леса: в культурах ели от 1,64 до 4,30 м3/га, в культурах дуба - от 2,42 до 4,13 м3/га. Средняя высота деревьев в семилетнем возрасте варьирует у культур ели от 1,02 до 1,96 м, культур дуба - от 1,4 до 1,6 м. Наибольшие значения надземной фитомассы в свежем состоянии наблюдаются у ельников орляковых - 4,5 т/га. Депонирование СО2 в несомкнувшихся лесных культурах ели и дуба варьирует в зависимости от древесной породы и типа леса. Причем этот показатель для ели изменяется от 0,033 до 0,157 т/га, для дуба - от 0,010 до 0,030 т/га. Установлена зависимость запаса лесных ресурсов от типа леса несомкнувшихся лесных культур. Наибольший запас древесины в семилетнем возрасте наблюдается в ельнике орляковом - 4,3 м3/га (средняя густота - 2,7 тыс. шт./га) и дубняке орляковом - 4,1 м3/га (средняя густота - 2,6 тыс. шт./га). На основании проведенного исследования разработаны нормативы комплексной продуктивности несомкнувшихся лесных культур ели и дуба на землях лесного фонда Республики Беларусь, которые содержат сведения о древесных и недревесных ресурсах, надземной фитомассе и депонировании СО2 на 1 га при средней густоте деревьев 3,0 тыс. шт./га в среднем возрасте - 7 лет.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results of the research on the assessment of complex efficiency of the lands occupied with not closed forest cultures of the spruce and the oak in mossy, bracken, oxalis and bilberry types of forest. Determination of forest resources in not closed forest cultures are conducted in 10 model forestries of the Republic of Belarus. The results of the research have shown that wood reserves in not closed forest cultures change depending on the wood type: in cultures of the spruce - from 1,64 to 4,30 m3/hectare, in cultures of the oak - from 2,42 to 4,13 m3/hectare. The average height of seven-year-old trees varies in cultures of the sprucefrom 1,02 to 1,96 m, in cultures of the oak - from 1,4 to 1,6 m. The greatest values of the elevated phytomass in a fresh state is observed in bracken fir groves - 4,5 t/hectare. The deposition of CO2 in not closed forest cultures of the spruceand the oak varies depending on wood breed and type of wood. This indicator for the sprucechanges from 0,033 to 0,157 t/hectare, for the oak - from 0,010 to 0,030 t/hectare. Dependence of the stock of forest resources on the type of wood of not closed forest cultures has been noticed. The greatest reserve of seven-year-old wood is observed in the bracken fir grove - 4,3 m3/hectare (average density - 2,7 thousand piece/hectare) and the bracken oak forest - 4,1 m3/hectare (average density - 2,6 thousand pieces/hectare). On the basis of the conducted research standards of complex efficiency of not closed forest cultures of the spruceand the oak on lands of the forest fund of the Republic of Belarus have been developed. They contain data on wood and non-wood resources, elevated phytomass and deposition of CO2 by not closed forest cultures on 1 hectare with average density of trees of 3,0 thousand pieces/hectare, at the middle age of 7 years.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal.spb-niilh.ru/pdf/2-2015/spbniilh-proceedings-2-2015-2-full.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Труды Санкт-Петербургского научно-исследовательского института лесного хозяйства</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2079-6080</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206431">
+    <dc:title xml:lang="en">Production and decomposition residue culture preceding corn and soybeans in the savannah oxisol miner</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Produção e decomposição de resíduos culturais antecedendo milho e soja num latossolo no cerrado mineiro</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Torres José Luiz Rodrigues</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pereira Marcos Gervasio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Federal do Triângulo Mineiro Campus Uberaba, Uberaba, MG, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal Rural do Rio de Janeiro, Instituto de Agronomia, Rio de Janeiro, RJ, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biomass</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The use of cover crops on soil pre-harvest associated with the rotation of annual crops has been one of the alternatives used in the sustainable management of soils of the Savannah biome, because the decomposition of crop residues of these plants favors the process of nutrient cycling and can
+affect the productivity of crops sown in succession. This study aimed to evaluate the biomass production and decomposition of plant residues of soil covers and evaluate the productivity of corn and soybeans grown on these residues, a Oxisol in Uberaba-MG. With a randomized block design in a split-plot scheme, three cover crops (brachiaria, millet and sunnhemp) and fallow (weed) with four replications. In succession grew up on corn and soybean crop residues decomposing these coverages. The toppings were desiccated at maximum flowering and the rate of decomposition was quantified by means of decomposition bags containing the residues fragmented, with material
+collected remainder performed at regular intervals. The dry biomass production of cover crops was influenced by the seeding season and the rainfall, millet and braquiaria cultures were greater biomass production when grown in pre-season, the C / N ratio did not influence the decomposition of crop residues, and millet and sunn showed higher values of half-life, the corn yield was higher when grown on crude, while for soybean cover crops grown previously not influence your productivity.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O uso de plantas de cobertura do solo em pré-safra, associadas à rotação das culturas anuais,tem sido uma das alternativas utilizadas no manejo sustentável dos solos do bioma Cerrado, pois a decomposição dos resíduos culturais destas plantas favorece o processo de ciclagem de nutrientes,podendo afetar a produtividade das culturas semeadas em sucessão. Neste estudo objetivou-se avaliar a produção de fitomassa e decomposição dos resíduos vegetais das coberturas do solo e avaliar a produtividade de milho e soja cultivados sobre estes resíduos, num Latossolo vermelho em Uberaba-MG. Com delineamento de blocos ao acaso no esquema em parcelas subdivididas, três
+plantas de cobertura (braquiária, milheto e crotalária) e pousio (vegetação espontânea), com quatro repetições. Em sucessão cultivou-se milho e soja sobre os resíduos culturais em decomposição
+destas coberturas. As coberturas foram dessecadas no ponto de máximo florescimento e a taxa
+de decomposição foi quantificada por meio de sacolas de decomposição contendo os resíduos
+culturais fragmentados, com coleta do material remanescente realizados em intervalos regulares. A
+produção de fitomassa seca das plantas de cobertura foi influenciada pela época de semeadura
+e pela precipitação pluviométrica</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">milheto e braquiaria foram as culturas com maior produção de
+fitomassa quando cultivados em pré-safra</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">a relação C/N não influenciou a decomposição dos
+resíduos culturais, sendo que milheto e crotalária apresentaram os maiores tempos de meia-vida</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">a produtividade de milho foi maior quando cultivado sobre crotalária, enquanto para a soja as
+plantas de cobertura cultivadas anteriormente não influenciaram sua produtividade.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/508/281</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

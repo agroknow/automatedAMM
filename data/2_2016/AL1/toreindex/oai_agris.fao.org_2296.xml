@@ -1,0 +1,47 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102296">
+    <dc:title xml:lang="en">Competition and dry matter yield in intercrops of barley and legume for forage</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>JAVANMARD  ABDOLLAH</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NASIRI YOSEF</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHEKARI FARIBORZ</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Competition and dry matter yield in intercrops of barley and legume for forage</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lathyrus sativus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Intercropping</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4218</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3910</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">For increasing land use efficiency intercropping plays a pivotal role. Barley (Hordeum vulgare L.), vetch (Vicia villosa), and grass pea (Lathyrus sativus L.) monocultures as well as mixtures of barley with each of the above legumes, in three seeding ratios (i.e., barley: legume 75:25, 50:50 and 25:75, based on seed numbers) were used to investigated forage yield and competition indices such as land equivalent ratio (LER),competitive ratio (CR), relative crowding coefficient (RCC), aggressivity (A), actual yield loss (AYL), monetary advantage index (MAI) and intercropping advantage (IA).The experimental was arranged asa randomized complete block design (RCBD) with three replications.The results showed that intercropping reduced the dry matter yield of the three component plants, compared with their respective monocrops. The greatest value of total dry matter yield was obtained from barley25-grass pea75 (5.44 t ha-1) mixture, followed by grass pea sole crop (4.99 t ha-1). The total AYL values were positive and greater than 0 in all mixtures, indicating an advantage from intercropping over sole crops. Intercropped barley had a higher relative crowding coefficient (K=1.64) than intercropped legumes (K=1.20), indicating that barley was more competitive than legumes in mixtures. Furthermore, grass pea was more competitive than vetch in mixtures with barley. The highest LER, SPI and MAI were obtained when barley was mixed at a rate of 25% with 75% seed rate of grass pea. It is concluded that intercropping of barley with grass pea has a good potential to improve the performance of forage with high land-use efficiency.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

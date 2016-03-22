@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F00589">
+    <dc:title xml:lang="en">Sugar cane tip silage with cassava agroindustry residue</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Silagem da ponta de cana-de-açúcar com resíduos da agroindústria da mandioca</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>GARGANTINI,  O. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DAMASCENO,  J. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MACEDO,  F. A. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERREIRA,  M. C. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RAMOS, C. E. C. O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NEVES,  A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cassava</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Peel</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Effluents</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">gas formulations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9649</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24060</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24455</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331564</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The study aimed to determine the effects of adding levels of 0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">15 and 20% of cassava natural matter, peel dried in the sun or bran scan cassava over the nutritional value of sugarcane tip silage. To reach the proposal, 36 experimental silos were used. They were weighed at closing and after 60 days of fermentation, before opening to obtain the gas and effluent losses. Samples were collected for pH determination and chemical composition. Values of dry matter, crude protein, neutral detergent fiber, acid detergent fiber, mineral matter and total digestible nutrients were determined. There were differences between silages for all variables, except for crude protein when cassava peel or cassava bran scan was used. The pH values and effluent production were not affected by the use of the residues. However, the gas losses were lower when cassava peel was added. To improve the quality of sugar cane tip silage, it is recommended the use of cassava peel dried in the sun or cassava bran scan at the level of 20% in natural matter, upon ensilage.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O trabalho teve como objetivo determinar os efeitos da adição dos níveis de 0, 5, 10, 15, e 20% na matéria natural, de casca de mandioca seca ao sol ou do farelo de varredura de mandioca sobre o valor nutricional da silagem de ponta de cana-de-açúcar. Para tal foram utilizados 36 silos experimentais pesados ao fechamento e após 60 dias de fermentação, antes da abertura para obtenção das perdas gasosas e por efluentes. Foram feitas amostragens para determinação dos valores de pH e composição química. Valores de matéria seca, proteína bruta, fibra em detergente neutro, fibra em detergente ácido, matéria mineral e nutrientes digestíveis totais foram determinados. Houve diferenças entre as silagens para todas as variáveis, com exceção da proteína bruta, na utilização da casca ou farelo de varredura de mandioca. Os valores de pH e produção de efluentes não foram influenciados pelo uso dos resíduos, já as perdas gasosas foram menores quando foi adicionada a casca de mandioca. Para melhorar a qualidade das silagens de ponta de cana-de-açúcar recomenda-se o uso de casca de mandioca seca ao sol ou de farelo de varredura de mandioca, ao nível de 20% na matéria natural, no ato da ensilagem.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1389613360.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

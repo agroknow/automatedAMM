@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01636">
+    <dc:title xml:lang="en">Ovarian condition of Holstein dairy cows between 30 and 90 days postpartum in the microregion of Uberlândia, MG</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Condição ovariana de vacas leiteiras Holandesas entre 30 e 90 dias pós-parto na microrregião de Uberaba</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>MG</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MUNHOZ,  A. K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CAMPOS,  C. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>REZENDE,  E. V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CARNEIRO,  L.C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, Mayara</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS, Ricarda M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ovaries</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Perinatal period</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">condition scoring</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5456</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29378</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24440</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1319625070213</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Anestrous postpartum is a state of complete sexual inactivity without estrous manifestations and the return of ovarian activity in postpartum may be negatively affected by several factors, such as negative energy balance (NEB), loss of body condition score (BCS), season in which the calving occurs, nutritional deficiencies, dystocic calving, retained placenta, uterine infections and metabolic diseases. This study aimed to evaluate the effects of BCS and number of days in milk (DIM) on ovarian cyclicity of Holstein dairy cows. Ovarian conditions of 168 cows between 30 to 90 days in milk (DIM) were evaluated twice by ultrasonography with seven days of interval and cows were classified in four categories: ovaries with presence of small follicles (Category 1: up to 10 mm)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">ovaries with medium follicles (Category 2: 10 to 18 mm)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ovaries with large follicles (Category 3: over 20 mm) and ovaries with presence of corpus luteum (CL) (Category 4). The cows classified in categories 1, 2 and 3 were considered in anestrous. Data were analyzed by logistic regression at Minitab (P0.05) of DIM in the percentage of cycling cows, however there was a tendency (P=0.074) that cows with greater BCS (≥ 2.75) had a higher cyclicity rate (74.44% vs. 61.54%) than cows with lower BCS. Days in milk effect was not detected in cyclicity rate in cows between 30 and 90 DIM, but there was a tendency of Holstein cows with greater body condition score to had higher cyclicity rate.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O anestro é um estado de completa inatividade sexual, sem manifestações de cio e o retorno à atividade ovariana no pós-parto pode ser afetado negativamente por diversos fatores, como o balanço energético negativo (BEN), perda de escore de condição corporal (ECC), estação do ano na qual ocorre o parto, deficiências nutricionais, ocorrência de distocia, retenção de placenta, infecções uterinas e doenças metabólicas. Objetivou-se avaliar os efeitos do ECC e do número de dias em lactação (DEL) sobre a ciclicidade ovariana de vacas leiteiras Holandesas. A condição ovariana de 168 vacas entre 30 e 90 dias em lactação (DEL) foi avaliada em dois exames de ultrassonografia com intervalo de sete dias, e as vacas foram classificadas em quatro categorias: ovários com presença de pequenos folículos (Categoria 1: até 10 mm)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ovários com médios folículos (Categoria 2: 10 a 18 mm)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ovários com grandes folículos (Categoria 3: acima de 20 mm) e ovários com presença de corpo lúteo (CL) (Categoria 4). As vacas classificadas nas categorias 1, 2 e 3 foram consideradas em anestro. Os dados foram analisados por regressão logística usando o programa Minitab (P0,05) de DEL sobre a porcentagem de vacas ciclando (com CL), porém houve uma tendência (P=0,074) das vacas com maior ECC (≥ 2,75) apresentarem maiores taxas de ciclicidade (74,44% vs. 61,54%) do que vacas com baixo ECC. Conclui-se que os dias em lactação não afetam a taxa de ciclicidade de vacas Holandesas, porém há uma tendência das vacas com melhor condição corporal apresentarem maiores taxas de ciclicidade.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1396553624.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

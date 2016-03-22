@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P11336">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ СРОКА ПОСЕВА, ГУСТОТЫ СТОЯНИЯ РАСТЕНИЙ И УСЛОВИЙ ПИТАНИЯ НА КАЧЕСТВО УРОЖАЯ СИЛОСНОЙ МАССЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE INFLUENCE OF SOWING PERIOD</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>THE DENSITY OF PLANTS STANDING AND POWER CONDITIONS ON SILAGE CROP QUALITY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mamedova  P.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25189</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331049</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: corn, protein, fiber, fat, quality</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Снижение показателей качества наблюдалось во всех вариантах урожая силосной массы, в связи с повышением густоты стояния растений. По качеству урожая силосной массы самые высокие показатели получены с применением удобрения N130P100+20 тонн навоза. На оптимальном сроке посева и густоте стояния растений в варианте без удобрения в силосной массе протеин составлял 9,63%, жир 3,03%, клет-чатка 21,66%. В вариантах с удобрением N130P100+20 тонн навоза содержание протеина 11,46%, жира 3,35%, клетчатки 20,62%, а на удобрении N170P120K40 протеин 10,53%, жир 3,18 и клетчатка 21,58%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The decrease in quality index was observed in all variants of silage crop due to the increase of the density of plants standing. The highest quality rates of silage crop were obtained when using N130P100 fertilizer with adding 20 tons of manure. With optimal period of sowing and density of plants standing without fertilizing in the harvest of silage protein was 9,63%, fat – 3,03%, fiber – 21,66%, when using “N130P100” fertilizer with adding 20 tons of manure protein was 11,46%, fat – 3,35%, fiber – 20,62%, and when using N170P120K40 fertilizer protein was 10,53%, fat – 3,18%, fiber – 21,58%.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_c17f1fe3d60b428e9faf26082c2e7dd6.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№1, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

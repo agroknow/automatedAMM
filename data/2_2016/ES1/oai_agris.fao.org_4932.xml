@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104932">
+    <dc:title xml:lang="es">POLIMORFISMOS DEL GEN BoLA DRB3 – exón 2 en BOVINOS CRIOLLOS PERUANOS MEDIANTE EL MÉTODO SSCP</dc:title>
+    <dc:title xml:lang=" ">
+      <dcterms:alternative>DETECTION OF BoLA DRB3 -2 GENETIC POLIMORPHISM IN PERUVIAN CREOLE CATTLE BY SSCP</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vallejo Adriana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Veli Eudocio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Yalta Claudia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Veli Eudocio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Bióloga. Ibagué. Colombia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Factultad de Biología. Universidad Ricardo Palma</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Subdirección de Recursos Genéticos y Biotecnología</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Subdirección de Recursos Genéticos y Biotecnología</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Polymorphism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6088</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The bovine leukocyte antigen (BoLA) has been identified and associated with a variety of diseases</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">however there are no reports on the study of this gene in Peruvian Creole cattle. In order to determine polymorphisms DRB3 gene exon 2, a total of 299 Creole cattle from the regions of Ancash, Apurimac, Ayacucho, Huancavelica, Junín, La Libertad and Puno, were analyzed by the of electrophoresis detection of polymorphisms single stranded conformational (SSCP) with subsequent sequencing analysis. Patterns of diversity and genetic structure and phylogenetic analyzes were conducted. The levels of genetic diversity (π) and haplotype (h) were high for all regions analyzed, as well as for the total population (π = 0.921). We identified 34 different genotypes consisting of 27 alleles of which 6 are new and 21 previously reported. The alleles * 1801, * 14011 and * 4802 were more frequent in the populations analyzed, being of great importance as reported association mastitis and resistance to ticks. Test to detect natural selection were conducted, and reveal a potential bottleneck in the populations analyzed. The results obtained support a high genetic polymorphism for the DRB3 gene exon 2 in Peruvian Creole cattle populations adapted to the highlands</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">diversity can be explained by its multiple origins, which is important for the establishment of breeding programs that raise productivity of farmers in the region.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">El antígeno leucocitario bovino (BoLA) y algunos de sus alelos han sido identificados y asociados con gran variedad de enfermedades</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">sin embargo no hay reportes sobre el estudio de este gen en bovinos criollos peruanos. Con el objetivo de determinar los polimorfismos del gen DRB3 exón 2, un total de 299 bovinos criollos provenientes de las regiones de Ancash, Apurímac, Ayacucho, Huancavelica, Junín, La Libertad y Puno, fueron analizados mediante la técnica de electroforesis de detección de polimorfismos conformacionales de cadena simple (SSCP) con un posterior proceso de secuenciamiento. Patrones de diversidad y estructuración genética así como análisis filogenéticos fueron conducidos. Los niveles de diversidad genética (π) y haplotípica (h) fueron altos para todas las regiones analizadas, así como para la población total (π = 0.921). Se lograron identificar 34 genotipos diferentes compuestos por 27 alelos, de los cuales 6 son nuevos y 21 previamente reportados. Los alelos *1801, *14011 y *4802 fueron los más frecuentes en las poblaciones analizadas, siendo de gran importancia pues reportan asociación a mastitis y resistencia a garrapatas. Por otro lado, el alelo *1501 no presentó tan alta frecuencia, pero fue común para todas la poblaciones. No se registró ningún tipo de estructuración poblacional (AMOVA) entre las regiones estudiadas, lo que es soportado por las pequeñas distancias genéticas encontradas y los análisis de coordenadas principales. Test de detección de selección natural fueron conducidos, y revelaron un posible cuello de botella en las poblaciones analizadas. Análisis filogenéticos muestrearon agrupaciones similares bajo diferentes metodologías y situaron a la población de La Libertad en una rama más alejada al resto de las poblaciones. Los resultados obtenidos soportan una alta diversidad genética para el gen DRB3 exón 2 en poblaciones de bovinos criollos peruanos adaptados a las zonas altoandinas</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">diversidad que puede ser explicada por los múltiples orígenes de este germoplasma (producto de ganado europeo introducido durante la conquista así como introducción de nuevo material genético en los últimos 50 años), lo cual constituye información relevante para el establecimiento de programas de mejora genética que eleven la productividad de los criadores de la región.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo083_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

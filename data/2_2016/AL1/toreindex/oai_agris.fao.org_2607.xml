@@ -1,0 +1,35 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102607">
+    <dc:title xml:lang="en">Inducible heat shock protein 70 KDA phylogenetic analyses in the suborder Percoidei</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BAKIU RIGERS</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KOLANECI VALBONA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HALA EDMOND</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Aquaculture and Fishery, Agricultural University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Members of heat shock protein 70 kDa family have been shown to be responsive to a wide variety of physiological and environmental insults, including thermal shock, heavy metals, free radicals and microbial infection. Following stress stimuli and under normal physiological conditions, a major function of them is that of an intracellular molecular chaperone supporting protein folding and transport</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">they are required for growth, survival and apoptosis of cells. Hsp70 may play dual role as chaperone and cytokine in mammalian immunity. It could be used as a sensitive biomarker for different classes of environmental assault. Although Hsp70 is among the most studied genes at the molecular and cellular level, its molecular evolution is not well understood in fish. We studied the Hsp70 molecular evolution by performing phylogenetic analyses with coding and amino acid sequences of different aquaculture and fishery species. Our results suggested that the analyzed organisms Hsp70 molecular evolution didn’t respect organism phylogeny.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4OjIyMzVkNGEyZWYwYzZkMGQ</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

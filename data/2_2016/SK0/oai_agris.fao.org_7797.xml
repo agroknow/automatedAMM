@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007797">
+    <dc:title xml:lang="en">Soil structure and soil organic matter of different ecosystems</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tobiašová Erika</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dębska Božena</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Banach-Szott Magdalena</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>University of Technology and Life Sciences, Bernardyńska 6, 85-029 Bydgoszcz, Poland</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Carbon</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil structure</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1325849205597</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1301</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7196</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this study, the soil structure of six soils of different ecosystems in Slovakia was compared. The stability of organic matter inside of aggregates was assessed through the carbon parameters – the index of carbon lability (LIc), carbon pool index (CPI), and carbon management index (CMI). The soil structure of different ecosystems was compared through the proportion of water-resistant macro-aggregates (WMA) and the parameters of soil structure – the coefficient of vulnerability (Kv), aggregates stability index (Sw), critical soil organic matter content (St), and index of crusting (Ic). The quality of soil structure was decreasing in the following order: forest ecosystem (FE) &gt; agro-ecosystem (AE) &gt; meadow ecosystem (ME) &gt; grassy urban ecosystem (UE). In the FE, the WMA of the 1–3 mm size fraction had the highest proportion and in case of AE the highest proportion had WMA of the 0.5–1 mm size fraction. The highest content of labile carbon was incorporated into aggregates of the FE and the highest stability of organic matter was in the aggregates of the ME. According to parameter CMI, labile components are better protected in the smaller aggregates. An important indicator for the assessing of the ecosystem impact is WMA of the 0.5–1 mm size fraction. Increased proportion of this aggregate fraction refers to the deterioration of soil structure.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.41/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100377">
+    <dc:title xml:lang="en">Comparative study on the thermogenic mechanism in two rodents, Eothenomys milletus and Apodemus chevrieri in Hengduan Mountain region during cold exposure</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zhu Wan-long</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Wang Zheng-kun</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cold</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">thermogenesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1743</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35611</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The thermogenic mechanisms were measured in the two small rodents, Eothenomys milletus and Apodemus chevrieri in Hengduan mountain region during cold exposure. The main results were as follows: 1. RMR and NST incredsed 68.34%, 36.34% during the cold exposure in  E. miletus, RMR and NST incredsed 32.84%, 56.17% during the cold exposure in A. chevrieri, respectively. 2. During cold exposure, total protein content in liver, the total protein content (TP) and mitochodrnal protein content (MP) in brown adipose tissue (BAT), the content of uncoupling protein (UCP1) were increased in E. miletus, which increased 18.66%, 25.18%, 70.01%, 99.39%, respectively. Total protein content in liver, the total protein content (TP) and mitochodrnal protein content (MP) in brown adipose tissue (BAT), the content of uncoupling protein (UCP1) were increased in A. chevrieri, which increased 18.11%, 33.29%, 34.51%, 235.95%, respectively. All of the results indicated that the mechanism of heat production for adaptative changes was similar in two rodents, but it showed different increased amplitude of heat production, it may considered that the difference of heat production was related to origin of species and inhabitats.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N4/JSPB_2012_4_90-97.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

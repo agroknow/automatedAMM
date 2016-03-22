@@ -1,0 +1,53 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X11517">
+    <dc:title xml:lang="en">Assessment of violations of the mechanisms of coagulation ability of the blood in dogs with neoplastic lesions of the mammary gland</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Оценка нарушений механизмов коагуляционной способности крови у собак с опухолевыми поражениями молочной железы</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Rublenko M.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bely D.D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dogs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">neoplasms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mammary glands</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2352</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5122</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4562</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2 tables;8 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The relevance of research is explained by the wide distribution and the need to improve results of treatment of neoplastic lesions of the mammary gland in dogs, which is possible by influencing on the mechanisms of coagulation and fibrinolysis of blood. In addition, the indicators hemostasiological status enable a rapid, low-impact and reasonably accurate risk assessments and forecasts at the given pathology. One of the most important screening tests for evaluation of the blood coagulation system is the prothrombin time, the definition of which allows to estimate the “external" and “General" ways of blood clotting. Taking into consideration the urgency of an issue, the aim of the research was: to evaluate the significance of the prothrombin time as a marker of the mechanisms of blood coagulation in the tumor process in the preoperative period, and after removing neoplasms of the mammary gland in dogs. Analysis of the results confirms the strengthening of coagulation mechanisms in tumors: prothrombin time in patients with malignant course was 44,26±2,45 c, benign - 28,01±of 3.77 c (in clinically healthy dogs — 8,72±0,91 c). The dynamics of the prothrombin time on the background of surgical intervention, regardless of malignancy of neoplasms tended to decrease, but by the end of observation (the 14th day) the normalization was not found: the average rates exceeded the physiological ones by 2,9 (malignant) and by 2,5 (benign) times. Thus, the determination of prothrombin time allows us to estimate the degree of impairment of the hemostasiological status and can be used for diagnostic purposes, to monitor the effectiveness of treatment, as well as the development of pharmacological correction circuits of the hemostatic system.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Aктуальность исследований обусловлена широким распространением и необходимостью улучшения результатов лечения опухолевых поражений молочной железы у собак, что возможно путём влияния на механизмы коагуляции и фибринолиза крови. Кроме того, показатели гемостазиологиче-ского статуса позволяют обеспечить быструю, малотравматичную и достаточно точную оценку рисков и прогнозов при данной патологии. Одним из важнейших скрининговых тестов для оценки свёртывающей системы крови является протромбиновое время, определение которого позволяет оценить «внешний» и «общий» пути сворачивания крови. Учитывая актуальность проблемы, была поставлена цель исследования: оценить значимость протромбинового времени как маркера механизмов коагуляции крови при опухолевом процессе в дооперационный период, а также после экстирпации неоплазий молочной железы у собак. Aнализ полученных результатов подтверждает усиление коагуляционных механизмов при новообразованиях: протромбиновое время у пациентов при злокачественном течении составляло 44,26±2,45 с, доброкачественном - 28,01±3,77 с (у клинически здоровых собак - 8,72±0,91с). Динамика протромбинового времени на фоне хирургического вмешательства, независимо от злокачественности неоплазии, имела тенденцию к снижению, но к моменту завершения наблюдения (14 сутки) нормализация не была констатирована: средние показатели превышали физиологические в 2,9 (злокачественные) и в 2,5 (доброкачественные) раза. Tаким образом, определение протромбинового времени позволяет оценить степень нарушений гемостазиологического статуса и может быть использовано с диагностической целью, для контроля эффективности лечения, а также разработки фармакологических схем коррекции системы гемостаза.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(29)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08565">
+    <dc:title xml:lang="ru">КОМПЬЮТЕРНОЕ МОДЕЛИРОВАНИЕ РЕЛЬЕФА УЧАСТКА РАСЧИСТКИ РУСЛА РЕКИ МЕДВЕДИЦЫ, НА ОСНОВЕ МЕТОДОВ ДИСТАНЦИОННОГО ЗОНДИРОВАНИЯ ЗЕМЛИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>COMPUTER MODELING OF THE RELIEF AREA OF SEDIMENTARY CONTROL ON THE MEDVEDIZA RIVER BASED ON REMOTE SENSING</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ОШКИН М.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ПИСАРЕВ А.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ПОЛОЗОВА И.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ЖЕЛТОБРЮХОВ В.Ф.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Волгоградский государственный технический университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Волгоградский государственный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P31</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rivers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hydrogeology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6617</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Построена цифровая модель рельефа участка расчистки русла реки Медведицы на основе методов дистанционного зондирования. Благодаря этой модели значительно облегчен поиск решений для широкого круга различных гидродинамических задач на произвольных территориях Проанализирована необходимость проведения ежегодной расчистки русла реки Медведицы.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The construction of a digital elevation model of sedimentary control on the Medvediza river. Due to this model is much easier to find solutions to a wide range of different hydrodynamic problems on arbitrary territories.Analyzed the need for annual of sedimentary control on the Medvediza river.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/11/10-2-17.pdf#page=67</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.10 (17)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

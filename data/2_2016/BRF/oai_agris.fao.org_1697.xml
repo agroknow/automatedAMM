@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01697">
+    <dc:title xml:lang="en">Effects of Leucaena and yeast in diets to cattle on rumen degradability and in vitro digestibility</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeitos do uso de leucena e levedura em dietas para bovinos sobre a degradabilidade ruminal e digestibilidade in vitro</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>POSSENTI, Rosana A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FRANZOLIN, Raul</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SCHAMMASS, Eliana A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRÁS, Patrícia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2009-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fabaceae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Leucaena leucocephala</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rumen</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4256</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15843</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6693</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the present research was to evaluate the effect of use of Leucaena in catlle diets with or without addition of yeast (Saccharomyces cerevisiae) on dry matter intake (DMI), in situ degradability and in vitro digestibility of leucaena (Leucaena leucocephala (Lam.) de Wit.) and coast-cross grass hays (Cynodon dactylon cv. coast-cross) and rumen liquid outflow rate. Four crossbred rumen cannulated steers were assigned in a Latin square design (4x4) with the treatments in a factorial arrangement (2x2) with two levels of leucaena (20% and 50% DM) with coast-cross grass hay, with or without addition of 10g of yeast/animal/day No differences were observed among the treatments for the DMI, rumen liquid outflow rate, ruminal degradability of DM, NDF and CP. However, leucaena overall had lower rumen degradability of DM, NDF and CP than coast-cross grass. In vitro DM digestibility on both hays was decreased at the higher level of dietary leucaena. The addition of yeast to the diet with 50% of leucaena produced positive effect on in vitro DM digestibility at 24 and 48h of digestion in the coast-cross grass and in leucaena, respectively. However, digestibility of leucaena was decreased during hydrochloric acid and pepsin incubation which simulates the chemical digestion in ruminants.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O presente trabalho teve por objetivo avaliar os efeitos do uso da Leucena em dietas para bovinos com ou sem adição de leveduras (Saccharomyces cerevisie) sobre o consumo, degradabilidade in situ e digestibilidade in vitro dos fenos de leucena (Leucaena leucocephala (Lam.) de Wit.) e coast-cross (Cynodon dactylon cv. coast-cross) e a taxa de passagem de líquido ruminal. Quatro bovinos machos mestiços, canulados no rúmen foram delineados em quadrado latino (4x4) com os tratamentos em arranjo fatorial (2x2) com dois níveis leucena (20% e 50% MS) e feno coast-cross sem ou com adição de 10g de levedura/animal/dia. A ingestão de MS, degradabilidade ruminal da MS, FDN e PB e taxa de passagem de líquido no rúmen não foram afetados pelos tratamentos. A leucena apresentou degradabilidade menor que o capim coast-cross. As digestibilidades in vitro da matéria seca de ambos os fenos foram reduzidas com nível mais elevado da leguminosa na dieta. O uso de levedura como aditivo em dietas mistas para bovinos contendo 50% de leucena promoveu efeito positivo na digestibilidade in vitro da matéria seca do coast-cross nas primeiras 24 horas de digestão e da leucena em 48 horas, porém reduziu a digestibilidade com a incubação em ácido clorídrico e pepsina no segundo estágio da digestão, o qual simula a digestão química em ruminantes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1276701610.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.66/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

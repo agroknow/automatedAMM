@@ -1,0 +1,30 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007499">
+    <dc:title xml:lang="en">Results of an ecological-production research on forest ecosystems of woody plants introduced to Slovakia</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tokár Ferdinand</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The work gives a chronological list of the results obtained in an ecological and production research on 49 coniferous and 10 broadleaved exotic woody plants in 298 parks and woody subjects across Slovakia. The results can be used in orchard and forestry practice. Since 1971, the research has been oriented to assessment of forest ecosystems and phytotechnique for forest stands consisting of selected exotic woody plants Pinus nigra Arnold, Castanea sativa Mill., Quercus rubra L. and Juglans nigra L. In the area of the Little Carpathians the best results in growth and production were achieved in Pinus nigra Arnold at the age of 100 years under proportion rate up to 30% in the group of forest types (slt) Querceto-Fagetum (464 m3 ha–1), Fagetum pauper (463 m3 ha–1) and Fageto Quercetum (432 m3 ha–1). In the pure stands the highest stock was observed in the group of forest types Querceto-Fagetum (310 m3 ha–1). In Castanetarium Horné Lefantovce the best results out of 86 Castanea sativa progenies were obtained in 15 progenies (Jelenec 2, Horné Lefantovce A, Tlstý Vrch 1, 2, 2', 3, 4, 9, Duchonka 2, 3, 5, 6, 10, 12, Bratislava 4) and the worst results were obtained in seed progenies Stredné Plachtince 5, Krná 3, Modrý Kameň 7. Following evaluation of phytotechnique impact on production of different stand types of Castanea sativa Mill. at age of 38 years, the highest stock was observed in mixed stands Tilia cordata Mill. (416 m3 ha–1, 190 t ha–1, total production 635 m3 ha–1, 333 t ha–1). In mixed stands of Juglans nigra L. (20%) and Quercus rubra L. (80%) in the locality Ivanka pri Nitre, the highest stock was observed at the age of 48 years (438 m3 ha–1, 263 t ha–1) and total production 662 m3 ha–1 and 410 t ha–1. In the locality Sikenica in pure stands of Juglans nigra L. the highest stock at the age of 64 years was found in the stand with the strong crown thinning (464 m3 ha–1, 195 t ha–1, total production 573 m3 ha–1 and 246 t ha–1). In addiction to these production characteristics also leaf area indices were assessed (LAI).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.40/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

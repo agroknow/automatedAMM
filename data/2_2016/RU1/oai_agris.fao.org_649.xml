@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100649">
+    <dc:title xml:lang="en">The Responses of Ascorbate - Glutathione Cycle Enzymes in Seedlings of Pancratium maritimum L. under Drought Treatments</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Seckin Dinler Burcu</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aksoy Merve</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drought stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Glutathione reductase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24993</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34837</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this study, physiological and biochemical responses of (Pancratium maritimum L.), desert plant which is very widespread on coastal sand dunes to drought were determined. Therefore 28 days (d) old plants were drought stressed by withholding water for 5 and 10 days. The changes in relative growth rate (RGR), relative water content (RWC) lipid peroxidation, and ascorbate-glutathione cycle enzymes activity ((ascorbate peroxidase (APX, EC 1.11.1.11), glutathione reductase (GR, EC 1.6.4.2) dehydroascorbate reductase (DHAR, EC 1.8.5.1) and monodehydroascorbate reductase (MDAR, EC 1.6.5.4)) were investigated. Relative growth rate, relative water content were both decreased on the 5 and 10d of stress treatment while it was higher on the 10d. MDA content increased on the 10d while it did not change on the 5d. On the other hand, activities of APX, GR, DHAR and MDAR increased on the 5d but were not change on the 10d. These results suggest that ascorbate – glutathione cycle enzymes were efficient to prevent from oxidative damage under short term of drought stress in (Pancratium maritimum L.) plants.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N2/JSPB_2013_2_148-158.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

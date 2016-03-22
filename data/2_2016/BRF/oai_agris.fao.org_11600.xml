@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F11600">
+    <dc:title xml:lang="en">Chemical and fatty acids composition of rump cap from young bulls fed protected or unprotected oils</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>omposição química e ácidos graxos da picanha de tourinhos alimentados com óleos protegidos ou não protegidos.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, E. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SAMPAIO, A. A. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HENRIQUE, W.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PIVARO, T.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ROSA, B.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERNANDES, A.R.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beef cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cholesterol</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">saturated fatty acids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Oils</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1584</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2816</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29238</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5334</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Strategies to improve the nutritional aspects of beef, mainly the fatty acids composition, have become an important goal to the scientific community. The use of different oils sources could be an interesting device due its polyunsaturated fatty acids composition. The chemical and fatty acid composition of rump cap (Biceps femoris) from 35 Nellore young bulls finished at feedlot (96 days) were analyzed. These animals were fed a control diet with sugar cane and concentrate without oil or diets containing sugar cane and concentrate with different sources of oil (soybean or linseed), protected or not from ruminal degradation. A randomized block design was adopted with five treatments and seven replications. The means were compared using orthogonal contrasts at 0.05 significance level. Animals fed diets with oil showed higher levels (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Estratégias para melhorar os aspectos nutricionais da carne, principalmente a composição em ácidos graxos, tornaram-se importante objetivo para a comunidade científica. A utilização de diferentes fontes de óleo poderia ser uma ferramenta interessante devido à sua composição em ácidos graxos poli-insaturados. A composição química e de ácidos graxos da picanha (Biceps femoris) de 35 tourinhos Nelore terminados em confinamento (96 dias) foram analisadas. Os animais foram alimentados com uma dieta controle contendo cana-de-açúcar e concentrado sem óleo ou dietas contendo cana-de-açúcar e concentrado com diferentes fontes de óleo (soja ou linhaça), protegido ou não de degradação ruminal. Utilizou-se delineamento em blocos casualizados, com cinco tratamentos e sete repetições. As médias foram comparadas usando contrastes ortogonais em nível de 5% de significância. Animais alimentados com dietas contendo óleo apresentaram teores mais elevados (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v72n3p241</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

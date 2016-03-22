@@ -1,0 +1,92 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016111692">
+    <dc:title xml:lang="en">Effects of Interseeding Cover Crops and Split Nitrogen Application on Weed Suppression in Forage Maize</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>FAKHARI RASOUL</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KHANZADE HASSAN</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MAMMADOVA RUHANGIZ</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TOBEH AHMAD</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOHARRAMNEZHAD SAJAD</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Agronomy and Crop breeding, University of Mohaghegh Ardabili, Ardabil, Iran.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Member of Scientific Board, Agricultural and Natural Resources Research Centre of Moghan, Parsabad, Iran</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Genetic Resources Institute of Azerbaijan National Academy of Sciences, Baku, Azerbaijan</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Agronomy and Crop breeding, University of Mohaghegh Ardabil, Ardabil, Iran</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Agronomy and Crop breeding, University of Mohaghegh Ardabili, Ardabil, Iran.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oversowing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">maize</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nitrogen</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1972</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29229</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12332</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5192</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Weeds are one of the major threats for crop production. Interseeding cover crops is an alternative to laborious
+intertillages and hand weeding. The objective of this study was to evaluate the effect of fertilization and interseeding
+cover crops on the yield of forage maize, number and dry weight of weeds. Three cover crops, fall rye (Secale cereale
+L.), hairy vetch (Vicia villosa L.) and berseem clover (Trifolium alexandrinum L.), were interseeded in maize furrows
+(Zea mays L.). Nitrogen fertilizer timing was consisting of two levels including, the first level (N1= ½ at planting time
++ ½ in the 8 to 10 leaf stage of maize) and the second level (N2= 1
+3 at planting time + 1
+3 in the 8 to 10 leaf +1
+3 a
+week before tasseling. The number and dry weight of weeds and main crop yield were recorded at dough stage of
+main crop. The results showed that weeds growth was suppressed significantly by interseeding cover crops through
+increasing the soil covered area by main crop and cover crops also and high biomass production by cover crops. In
+addition, application of nitrogen fertilizer had positive effects on the main crop yield and weed suppression.
+Therefore, it is concluded, that weeds can be suppressed effectively by interseeding cover crops with sufficient
+fertilization.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_3_2015_file/11_RASOUL%20FAKHARI_3%20pp%20278-285.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

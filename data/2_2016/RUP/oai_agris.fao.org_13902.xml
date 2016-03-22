@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13902">
+    <dc:title xml:lang="ru">ОЦЕНКА ЭФФЕКТИВНОСТИ ИСПОЛЬЗОВАНИЯ ЗЕМЕЛЬНЫХ РЕСУРСОВ ПРЕДПРИЯТИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EVALUATION OF THE EFFECTIVENESS OF THE USE OF LAND RESOURCES OF THE ENTERPRISE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kosenko  T.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E16</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">production economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26808</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: land resources, efficiency, intensity, factors, cost, profit</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье дан анализ использования земельных ресурсов в сельскохозяйственном производстве. Рассмотрены возможности эффективного землепользования. Проведена оценка интенсивности использования земельных угодий, эффективности структуры посевных площадей. Определены резервы
+улучшения использования земли в хозяйстве.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article analyzes the use of land resources in agricultural production. The possibility of effective land use is considered here. Assessment of use intensity of land grounds and efficiency in the structure of sown areas is carried out. Reserves to improve the use of land in agriculture are identified.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_fa0a4a5b43a94f9099d24e755a019296.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№4, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

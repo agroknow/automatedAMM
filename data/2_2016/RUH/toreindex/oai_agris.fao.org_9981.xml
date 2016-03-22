@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09981">
+    <dc:title xml:lang="ru">КАРТОГРАФИЧЕСКАЯ МОДЕЛЬ ПОВЕРХНОСТНЫХ ВОД НИЖНЕВАРТОВСКОГО РАЙОНА ХМАО - ЮГРЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>CARTOGRAPHICAL MODEL OF A SURFACE WATER OF THE NIZHNEVARTOVSK REGION OF KHMAO-YUGRA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>САФОНЕНКО  А.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>КОЗЕЛКОВА Е.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Нижневартовский государственный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">B10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cartography</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">surface water</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1344</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25317</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14003</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В этой статье рассмотрено - внедрение современных методов ГИС для объединения материалов о поверхностных водах Нижневартовского района ХМАО-Югры, находящихся на разных носителях информации, объединив в единую картографическую модель, что позволяет проводить мониторинг, анализ и прогноз, а так использовать её для решения каких-либо географических и экологических задач.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this article it is considered - introduction of the GIS modern methods for association of materials about the surface water of the Nizhnevartovsk region of Khanty-Mansi Autonomous Okrug-Yugra which is on different data carriers, having united in uniform cartographical model that allows to carry out monitoring, the analysis and the forecast, and so to use it for the solution of any geographical and ecological tasks.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/01/12-2-31.pdf#page=48</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.12 (31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

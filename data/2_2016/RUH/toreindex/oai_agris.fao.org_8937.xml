@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08937">
+    <dc:title xml:lang="ru">БИОМОРФОЛОГИЧЕСКИЕ ОСОБЕННОСТИ ОСОБЕЙ И ОНТОГЕНЕТИЧЕСКАЯ СТРУКТУРА ЦЕНОПОПУЛЯЦИЙ GALIUM ODORATUM (L.) SCOP</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>BIOMORPHOLOGICAL PECULIARITIES OF THE SPECIES AND ONTOGENETIC STRUCTURE OF THE POPULATIONS GALIUM ODORATUM (L.) SCOP</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ВЕДЕРНИКОВА О.П.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Марийский государственный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant communities</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32514</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В работе впервые для национального парка «Марий Чодра» изучены фитоценозы с Galium odoratum (L.) Scop., сделаны стандартные геоботанические описания фитоценозов, где учитывалось видовое богатство и обилие видов, проведена оценка экологических условий местообитаний по экологическим шкалам Д.Н. Цыганова [1], описан онтогенез и исследована онтогенетическая структура данного вида.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Jor the first time in the article for the National park «Mari Chodra» phytocenoses with Galium odoratum (L.) Scop., were studied, standard geobotanical descriptions of phytocenoses, where specific resources and plenty of species had been taken into consideration, were made, the estimation of ecological conditions of the place of inhabitation with the help of ecological scales of D.N. Tsyganova [1], ontogenesis was described and ontogenetic structure of this species was studied.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/04/3-1-22.pdf#page=42</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.3 (22)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,42 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13945">
+    <dc:title xml:lang="ru">К ВОПРОСУ О ПРАВОСПОСОБНОСТИ СЕЛЬСКОХОЗЯЙСТВЕННЫХ КООПЕРАТИВОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>TO A QUESTION OF LEGAL CAPACITY OF AGRICULTURAL COOPERATIVES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Novoselov  A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">D50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">legislation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4253</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: cooperation, agricultural cooperation, agricultural production cooperative, agricultural consumer cooperative, right subjectivity, legal status</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассматривается правоспособность сельскохозяйственных производственных и
+сельскохозяйственных потребительских кооперативов исходя из сравнительного анализа советского и со-
+временного российского законодательства. Обосновывается особый статус и правосубъектность сельскохозяйственных кооперативов, независимо от разновидностей. Сделаны выводы и практические предложения по совершенствованию правового статуса сельскохозяйственных кооперативов в действующем российском законодательстве.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article is devoted to legal capacity of agricultural production and agricultural consumer cooperatives proceeding from the comparative analysis of the Soviet and modern Russian legislation. The special status and right subjectivity of agricultural cooperatives, irrespective of versions locates is validated. Conclusions and practical suggestions for improvement of legal status of agricultural cooperatives in the existing Russian legislation are made.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_bedd806123a94cdc9a668380d87d78ce.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206457">
+    <dc:title xml:lang="en">Yield, compatibility and phenology of sweet pepper on different rootstocks in organic crop</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Produtividade</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>compatibilidade e fenologia de pimentão enxertado sobre diferentes porta enxertos em cultivo orgânico</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Costa Fabiana Cruz</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ferreira Regina Lúcia Félix</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Neto Sebastião Elviro de Araújo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Martins Williane Maria Oliveira</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Freitas Caroliny Izabel Araújo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Acre, Rio Branco, AC, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Acre, Rio Branco, AC, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Acre, Rio Branco, AC, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Federal do Acre, Rio Branco, AC, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Acre, Rio Branco, AC, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">capsicum annuum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1288</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this work was to evaluate the effect of different rootstocks on yield, compatibility and phenology of sweet pepper in organic crop. The experiment was conducted at the ecological farm Seridó in Rio Branco - Acre. The experimental design was randomized blocks with five treatments and 15 replications. As rootstock was used three kinds of peppers (Doce comprida, Cheiro Luna and
+Cayenne dedo de moça), and sweet pepper Casca dura Ikeda cultivar. In this study, the fixation of seedlings ranged from 84.6% to Cayenne dedo de moça and 100% for the sweet peppers, Doce comprida and Cheiro luna. Despite the smaller diameter of the stem below the grafting pepper
+smell Luna, the index of compatibility and the same for all rootstocks. Despite the smaller diameter of the stem below the grafting Pepper cheiro luna, the compatibility index and was same for all rootstocks. The total and commercial yield was higher in grafted plants with sweet pepper, Doce
+comprida pepper and Cheiro luna pepper. The number total fruits from plants grafted under the rootstocks sweet pepper, Doce comprida pepper and Cheiro luna pepper did not differ of the sweet pepper rootstock (Control), but the number of commercial fruit was higher in grafted plants with sweet pepper, Doce comprida pepper and Cheiro luna pepper.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo deste trabalho foi avaliar o efeito de diferentes porta enxertos sobre a produtividade,compatibilidade e fenologia do pimentão em cultivo orgânico. O experimento foi conduzido no sítio ecológico Seridó, em Rio Branco - Acre. O delineamento experimental utilizado foi o de blocos casualizados, com 5 tratamentos e 15 repetições. Como porta enxerto utilizou-se 3 tipos de pimentas (Doce comprida, Cheiro luna e Cayenne dedo de moça), pimentão sob pimentão
+e a testemunha (pimentão da cultivar Casca Dura Ikeda. Nesse estudo, o pegamento das mudas variou de 84,6% para Cayenne dedo de moça e de 100% para as pimentas, Doce comprida e Cheiro luna. Apesar do menor diâmetro do caule abaixo da enxertia da pimenta Cheiro luna, o índice de compatibilidade foi o mesmo para todos os porta enxertos. A produtividade total e comercial foi maior em plantas enxertadas com pimentão, pimenta Doce comprida e pimenta
+Cheira luna. O número de frutos totais de plantas enxertadas sobre os porta enxertos pimentão, pimenta Doce comprida e pimenta Cheiro luna não diferiu do pimentão pé franco (Testemunha), mas o número de frutos comercial foi maior em plantas enxertadas com pimentão, pimenta Doce comprida e pimenta Cheiro luna.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/view/494/284</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

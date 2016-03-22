@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A03093">
+    <dc:title xml:lang="en">ORGANIC RECYCLING IN ARTIFICIAL FOREST REGENERATION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>УТИЛИЗАЦИЯ ОРГАНИЧЕСКИХ ОТХОДОВ ПРИ ИСКУССТВЕННОМ ЛЕСОВОССТАНОВЛЕНИИ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MUKHORTOV Dmitry</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ROMANOV Evgeny</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Organic wastes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reforestation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">humate fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35237</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13802</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11636</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Organic wastes have useful properties and can be used in forestry. In order to reduce risk, wastes may be used at the territories where anthropogenic activity is very intensive and they make a serious impact on natural forest restoration. Aerobic composting is the easiest way of obtaining nontraditional fertilizers and substrates. It can be carried out with the use of ordinary forestry devices. Organic fertilizers may be used for soil improvement in forest nurseries and at the seed and wood material plantations. The optimum doses of such fertilizers can vary from 50 to 350 t/ha. At that, it is important to take into account heavy metal content in it. Wastes can be used for hothouse substrates production. In order to improve hydrophysical properties of the substrates made from valley peat, it is possible to add 40…50% wood wastes in it. For a hothouse, substrates composts made from organic wastes can be used. They shall be dressed but the particles as big as 1-5 mm for Pine seedlings and as big as 3-7 mm for Larch seedlings should be left apart. It is necessary to carry out worm composting of wastes to obtain elite seedlings. Wood wastes may be used for weed control. The optimum width of mulch cover is 4-5 cm.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведены результаты исследований по изучению агроэкологических свойств органических отходов и продуктов на их основе с оценкой воздействия на окружающую среду, рост древесных и кустарниковых растений. Определены основные положения экологически безопасного использования отходов и выявлены основные направления их применения в лесном хозяйстве. Разработаны технологии переработки органических отходов в нетрадиционные удобрения и субстраты с использованием технических средств лесохозяйственного назначения и их применения в технологических процессах искусственного лесовосстановления.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/119/120</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.19/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

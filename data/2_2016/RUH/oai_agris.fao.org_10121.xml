@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10121">
+    <dc:title xml:lang="ru">СОСТОЯНИЕ КУЛЬТУР СОСНЫ В МЫТИЩИНСКОМ ЛЕСОПАРКЕ НП «ЛОСИНЫЙ ОСТРОВ»</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STATE OF CULTURE IN THE MYTISHCI PINE FOREST PARK NP "ELK ISLAND"</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ПИСАРЕВА С.Д.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>МИСЛАВСКИЙ А.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Московский государственный университет леса</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Root systems</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">planting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">public parks</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16034</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5992</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6351</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Данная статья посвящена работе по обследованию двух участков лесных культур, созданных в 2010 - 2012 гг. в насаждениях Мытищинского лесопарка национального парка «Лосиный остров» и проведена с целью выявления актуальных проблем, имеющих место в насаждении. Работа на этих участках проводилась в сентябре-ноябре 2013 года. В настоящее время проводится обработка данных, полученных за 2014 год. Использование уже полученных данных, а так же накопление и обработка последующей информации позволит составить четкую картину состояния лесных культур на территории всего национального парка и cпрогнозировать будущее состояние насаждений.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This article is devoted to the work on the survey two areas of forest plantations established in 2010 - 2012 years. in plantations Mytischi forest park national park "Elk Island" and performed in order to identify actual problems that occur in the plantation. Work in these areas was carried out in September-November 2013. Currently under processing data received for 2014. Using the data already obtained, as well as the accumulation and processing of further information to allow a clear picture of the state of forest plantations in the entire National Park and predict the future condition of the forests.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/02/1-1-32.pdf#page=69</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.1 (32)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

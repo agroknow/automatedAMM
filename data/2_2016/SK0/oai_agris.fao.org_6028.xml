@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016006028">
+    <dc:title xml:lang="en">THE EFFECTS OF BENZOIC ACID AND PROTEIN LEVEL ON URINE PH AND AMMONIA EMISSION OF PIGS</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PATRÁŠ P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NITRAYOVÁ S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRESTENSKÝ M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HEGER J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>NAFC - Research Institute for Animal Production Nitra, Hlohovecká 2, 951 41 Lužianky, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L51</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ammonia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">excretion</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">benzoic acid</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Urine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">piglets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_349</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2750</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8103</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5872</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Twelve hybrids gilts (initial BW 29.9 ± 1.7 kg) were used for evaluation to identify the effect of benzoic acid and dietary protein in the diets on urine pH and ammonia of the slurry by growing piglets. We used two protein concentrations - high protein 18.8 % (HP) and low protein 14.0 % (LP) and two benzoic acid levels 0.0 % and 1.0 %. The same energy level (13.3 MJ. kg) in the diets was maintained by supplementation with rapeseed oil. The piglets were housed in metabolic cages and fed with two equal doses at 7 a.m. and 5 p.m. at a daily rate of 90 g. kg0.75. Water was offered ad libitum.Each experimental period consisted of a 6-d adapted and was followed by a 4-d collection phase. During the collection phase faces and urine (using bladder catheters) were collected. Experimental data were subjected to ANOVA and when significant value was observed for treatment effect, the differences between means were assessed using Fisher‘s LSD procedure. Nitrogen and dry matter intake was significantly affected in diets. The numbers of N balance was a significant increase of N uptake only in pigs fed the diet with benzoic acid and HP. We found a significant reduction of urine pH, specifically pH (0.7 to 0.9) by both experimental groups fed with benzoic acid diets, regardless of the nitrogen content in the diet. The coefficients of excretion determination between hippuric acid and urine pH were R2 = 0.57, the same for HP and LP diets. The higher decrease of ammonia nitrogen was observed in experimental LP groups, but it was not statistically significant.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.cvzv.sk/index.php/sk/rocnik-47-2014/cislo2</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Slovak Journal of Animal Science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1337-9984</ags:citationIdentifier>
+      <ags:citationNumber>v.47/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

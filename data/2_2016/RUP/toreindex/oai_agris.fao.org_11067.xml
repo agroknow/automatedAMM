@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P11067">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ БИОСТИМУЛЯТОРОВ РАЗЛИЧНОГО ПРОИСХОЖДЕНИЯ НА БИОХИМИЧЕСКИЕ ПОКАЗАТЕЛИ И ЭЛЕМЕНТНЫЙ СОСТАВ ПРОРОСТКОВ СЕМЯН СОИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INFLUENCE OF BIOSTIMULATORS OF VARIOUS ORIGINS ON BIOCHEMICAL INDICATORS AND ELEMENT STRUCTURE OF SOY SEEDS SPROUTS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zhirnova  D.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hizhnyak  S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SAT  D.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Modern Science Success</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Agricultural research</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8679</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: soy, sprouts, quality, biostimulators, growth regulators, microcells</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье приведены результаты лабораторных исследований по изучению влияния сертифицированных биостимуляторов и нетрадиционных средств, таких как, водный настой луковой шелухи и мёда, на биохимические показатели и элементный состав проростков семян сои. Примене-ние раствора мёда во всех вариантах существенно стимулировало накопление аскорбиновой кислоты в проростках. Доказано влияние исследованных биостимуляторов на содержание микро- и макроэле-ментов в проростках семян сои. По всем вариантам у всех сортов отмечено устойчивое увеличение содержания цинка в полученных проростках.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Results of laboratory researches on studying of influence of the certified biostimulators and nonconventional means, such as, water infusion of an onions peel and honey, on biochemical indicators and element structure of sprouts of seeds of soy are given in article. Use of solution of honey significantly stimulated accumulation of ascorbic acid in sprouts in all options. Influence of the studied biostimulators on the contents micro and macrocells in sprouts of seeds of soy is proved. By all options at all grades the steady increase in the content of zinc in the received sprouts is noted.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_ec0c27850b29472582032eae8b8a7134.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.№2, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,69 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007566">
+    <dc:title xml:lang="en">Influence of some growth retardants on growth, transpiration rate and CO2 fixation of Caryopteris incana ‘Heavenly Blue’</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Harmath Julianna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Schmidt Gábor</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Forrai Mihály</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Szabó Veronika</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Corvinus University of Budapest, 1118 Budapest, Villányi út 29-43, Hungary</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Caryopteris</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">growth retardants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Carbon dioxide</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Transpiration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32094</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11377</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1302</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1327909925630</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7871</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In an experiment between May and October 2011, the effect of growth retardants Alar 85 SP 0.4% and 1%, Bumper 25 EC 0.1% and 1%, Cultar 1% and 2%, Cycocel 0.3% and 1%, Mirage 45 EC 0.2% and 1% was tested on Caryopteris incana ‘Heavenly Blue’ young plants. The young plants were sprayed with the retardants three times during the summer. The influence of these retardants on the transpiration rate, stomatal conductance and net CO2 fixation of leaves was measured by LCi infrared gas analyzing instrument three times: first on the 1st day, second on the 24th day, and third on the 43rd day after the last spraying. The most effective growth retardant was Cultar used in 2% and 1% concentration (that gave the smallest plants), followed by Cycocel and Alar 85 SP</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">while the effect of Bumper 25 EC and Mirage 45 EC was minimal. The growth retardants affected not only the growth of the plants. They had also some (weak) effect on the transpiration rate, stomatal conductance and net CO2 fixation of leaves. In most cases Cultar 1% and/or 2% and in some cases Mirage 1% showed the lowest values in comparison with all the other treatments, but no statistical correlation was found between their dwarfing effect and the results from LCi measurements.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.41/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

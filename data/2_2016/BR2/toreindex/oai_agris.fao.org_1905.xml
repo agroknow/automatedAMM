@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016201905">
+    <dc:title xml:lang="en">Substrates of sewage sludge in the production of seedlings of Senna alata.</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Substratos à base de lodo de esgoto na produção de mudas de Senna alata</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Faria Júlio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Caldeira Marcos</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Delarmelina William</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lacerda Leonardo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gonçalves Elzimar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Espírito Santo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Espírito Santo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Espírito Santo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Espírito Santo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal do Espírito Santo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1328083293807</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to evaluate the growth of seedlings of Senna alata using different combinations of residues, which are: sewage sludge, carbonized rice husk, straw coffee in natura and commercial substrate. The experiment was conducted in the Nursery Center for Agricultural Sciences, Federal University of Espírito Santo, and mounted in a completely randomized design. When the seedlings reached five months growth the following parameters were measured: stem diameter, plant height, ratio between plant height and stem diameter, shoot dry mass, dry mass of root system, total dry mass, ratio of dry mass shoot/root dry mass, ratio of root dry mass/dry mass of shoots and Dickson quality
+index (IQD). It was found that for the production of seedlings S. alata recommend the use of 80% of sewage sludge mixed with 20% coconut fiber.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo desse trabalho foi avaliar o crescimento de mudas de Senna alata com uso de diferentes combinações de resíduos, sendo eles: lodo de esgoto, fibra de coco, vermiculita, casca de arroz in natura e substrato comercial. O experimento foi conduzido no Viveiro Florestal do Centro de
+Ciências Agrárias da Universidade Federal do Espírito Santo, sendo montado em um delineamento inteiramente casualizado (DIC). Quando as mudas atingiram cinco meses de crescimento foram mensuradas às seguintes características: altura, diâmetro do coleto, relação entre altura e diâmetro do coleto, massa seca da parte aérea, massa seca do sistema radicular, massa seca total, relação
+entre massa seca da parte aérea e massa seca do sistema radicular, relação entre massa seca do sistema radicular e massa seca da parte aérea e índice de qualidade de Dickson (IQD). Constatouse que para a produção de mudas de S. alata recomenda-se o uso de 80% de lodo de esgoto misturado com 20% fibra de coco.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/view/242/204</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

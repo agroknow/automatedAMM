@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F05936">
+    <dc:title xml:lang="en">Tissue composition and qualitative attributes of lamb meat of animals finished with diets containing thermally treated soybeans</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Composição tecidual e atributos qualitativos da carne de cordeiro terminados com dietas contendo grão de soja tratado termicamente</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>NUBIATO, K.E.Z.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERNANDES, A.R.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALVES, L.G.C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OSÓRIO, J.C.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FARIAS, R.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RICARDO, H.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sheep</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tenderness</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feed composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat texture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lamb meat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2816</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28590</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10770</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15895</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12459</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4162</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the effect of thermally treated (processed) soybeans in finishing diets for lambs containing two levels of concentrate on the tissue composition and qualitative traits of lamb meat. Twenty uncastrated mongrel lambs with an initial body weight of 22.6 ± 2.06 kg were housed in individual pens during the finishing phase and allocated to a completely randomized design in a 2x2 factorial scheme (fresh or processed soybeans x 50% or 80% concentrate). The animals were slaughtered once they had reached a body condition score of 3.0 and the mean slaughter weight was 32.51 ± 3.08 kg. After slaughter and carcass cooling, loin samples were collected for dissection and separation of the tissue components of the commercial cut. Next, the muscle portion was submitted to qualitative analysis. There was no effect of the interaction between soybean processing and concentrate level in the diet (P&gt;0.05). The loin of animals fed the higher concentrate diet was heavier (0.80 kg). A higher quantity of the muscle was also observed in animals fed the higher proportion of concentrate and diets containing processed soybeans (0.56 and 0.54 kg). The treatments including processed soybeans provided a higher muscle:bone ratio (5.62) and higher muscle percentage (68.13%). The treatments did not influence qualitative meat traits (P&gt;0.05). Heat treatment of soybeans improves the edible portion without altering the qualitative traits of lamb meat.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo foi avaliar a utilização do grão de soja tratado termicamente (processado) em dietas para a terminação de cordeiros, com dois níveis de concentrado, sobre a composição tecidual e características qualitativas da carne de cordeiro. Vinte cordeiros sem raça definida (SRD) não castrados, com 22,6 ± 2,06 kg de peso corporal inicial foram alojados, durante a fase de terminação, em baias individuais e distribuídos em um delineamento inteiramente casualizado num arranjo fatorial 2x2 (grão de soja in natura ou processado x 50% ou 80% de concentrado). Os animais foram abatidos ao atingirem a condição corporal 3,0, sendo o peso médio de abate 32,51 ± 3,08 kg. Após o abate e refrigeração das carcaças, amostras do lombo foram coletadas para realização das dissecações e separação dos tecidos componentes do corte comercial. Posteriormente, a porção muscular foi submetida às análises qualitativas. Não houve efeito de interação (P&gt;0,05) entre processamento do grão de soja e nível de concentrado na dieta. O lombo dos animais alimentados com maior nível de concentrado foi mais pesado (0,80 kg). Os animais alimentados com maior proporção de concentrado e com dietas contendo grão de soja processado também apresentaram maior quantidade de músculo (0,56 e 0,54 kg). Os tratamentos com grão de soja processado proporcionaram maior relação músculo:osso (5,62) e maior percentual de músculo (68,13%). Os tratamentos não influenciaram (P&gt;0,05) as características qualitativas da carne. O processamento térmico do grão de soja proporciona melhora na porção comestível, sem alterar as características qualitativas da carne de cordeiros.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1427133266.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

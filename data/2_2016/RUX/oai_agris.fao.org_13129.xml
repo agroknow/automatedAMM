@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13129">
+    <dc:title xml:lang="en">MORPHOLOGICAL CHANGES IN THE FETOPLACENTAL SYSTEM IN SOWS WHEN USING SELENIUM-ORGANIC DRUG &amp;quot;SELENOLIN®&amp;quot;</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>МОРФОЛОГИЧЕСКИЕ ИЗМЕНЕНИЯ В ФЕТОПЛАЦЕНТАРНОЙ СИСТЕМЕ У СВИНОМАТОК ПРИ ПРИМЕНЕНИИ СЕЛЕНООРГАНИЧЕСКОГО ПРЕПАРАТА «СЕЛЕНОЛИН®»</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Rodin P.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Аvdeyenko V.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Моlchanov A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Saratov SAU</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">placenta</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">piglets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">drugs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7271</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5944</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5872</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2395</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Studied the use of a new injectable form of seleno-organic preparatation for animals. The research was conducted in a pig-breeding complex of the holding "RamFood" of Kalinin district of Saratov region on 60 replacement gilts of large white breed with a body weight of 125...135 kg. According to the principle analogues two groups of experienced gestating replacement gilts were formed. The use of the drug "Selenolin®" is indicated for prevention of placental insufficiency in the period of gestation, improve reproductive health and health in newborns. It is established that the use of the drug "Selenelion®" leads to an increase in all periods of gestation morphometric indicators of maternal and child placenta for a statistically significant difference. In the experimental group of animals in the course of gestation, there is a reduction of the total mass and length of the umbilical cord, and the increase in weight of the fetal part of the placenta, thickness and volume in comparison with the animals of the control group. After applying a new injectable form of seleno-organic drug to gestating replacement pigs the favorable conditions for morphogenetic processes during the prenatal period, as well as morpho-physiological characteristics of fruit development are created.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучали применение новой инъекционной формы селеноорганического препаратасупоросным животным.Исследования проведены в свиноводческом комплексехолдинга «РамФуд» Калининского района Саратовской областина 60 ремонтных свинках крупной белой породы с массой тела 125…135 кг. По принципу аналогов были сформированы две группы опытных супоросных ремонтных свинок. Показано для профилактики фетоплацентарной недостаточности в период супоросности, повышения репродуктивного здоровья, а также охраны здоровья у новорожденных применениепрепарата«Селенолин®». Установлено, чтоприменение препарата«Селенолин®» приводит к повышению во все периоды супоросности морфометрических показателей материнской и детской плаценты на статистически достоверную разницу. В подопытной группе животных в течение супоросностинаблюдается уменьшение общей массыи длины пупочного канатика, а также увеличение массы фетальной части плаценты, толщины и объема в сравнении сживотными контрольной группы.После применения новой инъекционной формы селеноорганического препарата супоросным ремонтным свинкам создаются благоприятные условия для формообразовательных процессов во внутриутробный период, а также морфо-физиологических свойств развития плодов.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/3-15-Rodin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

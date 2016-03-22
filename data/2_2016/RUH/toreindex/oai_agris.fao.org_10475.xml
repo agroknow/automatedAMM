@@ -1,0 +1,84 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H10475">
+    <dc:title xml:lang="ru">РАЗРАБОТКА МАЛООТХОДНОЙ ТЕХНОЛОГИИ ЭКСТРАГИРОВАНИЯ БИОЛОГИЧЕСКИ АКТИВНЫХ ВЕЩЕСТВ ИЗ ПЛОДОВО-ЯГОДНОГО СЫРЬЯ МЕТОДОМ НИЗКОЧАСТОТНОГО ВИБРАЦИОННОГО ВОЗДЕЙСТВИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>DEVELOPING OF LOW WASTE TECHNOLOGIES BY EXTRACTION ACTIVE COMPOUNDS FROM THE A FRUIT RAW MATERIAL OF LOW-FREQUENCY VIBRATION EXPOSURE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Оробинская В.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Писаренко О.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Северо-Кавказский федеральный университет, филиал СКФУ в г. Пятигорске</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Anthocyanins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">extraction</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soft fruits</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8840</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36910</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7151</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Объектом исследования являлось определение оптимальных технологических параметров эффективности
+процесса экстрагирования антоцианов и др. БАС из отходов плодово-ягодной промышленности при помощи
+вибрационного экстрактора, а также возможность интенсификации процесса экстрагирования и за счет других
+параметров: различной концентрации этилового спирта, температуры, частоты и амплитуды колебаний. В
+процессе работы проведены экспериментальные исследования процесса экстрагирования антоцианов из выжимок
+черной смородины, определены технологические параметры процесса, обеспечивающие наиболее полный выход
+антоцианов.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The object of the study was to determine the optimum operating parameters of the efficiency of the extraction of
+anthocyanins and other. BAS waste fruit and berry industry with the help of a vibrating extractor, as well as the possibility of
+intensifying the extraction process, and by other parameters: different concentrations of ethyl alcohol, temperature, frequency
+and amplitude of oscillation. In the process of experimental studies of the process of extraction of anthocyanins from
+blackcurrant marc defined process parameters, providing the most comprehensive way of anthocyanins.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/7-2-38.pdf#page=117</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.2 (38)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

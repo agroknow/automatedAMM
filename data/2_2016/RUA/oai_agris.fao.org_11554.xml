@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A11554">
+    <dc:title xml:lang="en">BOOK OF MAJOR FOREST FIRES FOREST MIDDLE ZAVOLZHJA</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>КНИГА О КРУПНЫХ ЛЕСНЫХ ПОЖАРАХ В ЛЕСНОМ СРЕДНЕМ ЗАВОЛЖЬЕ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DENISOV Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forest fires</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3045</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Book review: Kalinin, K.K. Large forest fires in forest middle Volga and system management activities to eliminate their consequences: monograph. Yoshkar-Ola: PGTU, 2012. – 364 p. The book summarizes 40 years results of studies of the formation of forest after a massive forest fires 1972 in middle Volga. The author presents the characteristics of forests and forest fire hazard problems arising after a forest fire in 1972. The role of forest fires in the quantitative and qualitative changes in plant components based on 40 years of monitoring. The developed system of forest management in the aftermath of forest fires.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рецензия на книгу: Калинин, К.К. Крупные лесные пожары в лесном среднем Заволжье и система лесохозяйственных мероприятий по ликвидации их последствий: монография / К.К. Калинин. – Йошкар-Ола: ПГТУ, 2012. – 364 с.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/99/85</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

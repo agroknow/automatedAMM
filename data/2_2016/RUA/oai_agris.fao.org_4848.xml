@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A04848">
+    <dc:title xml:lang="en">EXPANSION OF FUNCTIONALITY OF THE AUTOMATED MANIPULATORS OF FOREST COMPLEX</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>РАСШИРЕНИЕ ФУНКЦИОНАЛЬНЫХ ВОЗМОЖНОСТЕЙ АВТОМАТИЗИРОВАННЫХ МАНИПУЛЯТОРОВ САМОХОДНЫХ ЛЕСНЫХ МАШИН</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>TSAREV Evgeniy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ONUCHIN Evgeniy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KRENEV Andrey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">J12</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">automation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mechanization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15855</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4685</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Mechanization and automation are inseparably connected with forest industry. Besides, it is the main field of activity. The main component of logging is represented by modern logging cars which allow to considerably improve the labor productivity and the quality of work. Relevance of the research is defined by the unsatisfactory level of mechanization and automation of a number of works in forest industry and forestry, in the field of maintenance and simple maintenance of cars and equipment of forest complex. The goal of the research is to increase the efficiency and to extend functionality of the automated manipulators for cars and the equipment of forest complex. The main stages of modeling of the system of scanning of a platform are reflected in the work for placement of assortments, the main stages of the monitoring system modeling by a manipulator configuration, stages of modeling of the monitoring system by hydraulic actuators are offered. In course of realization of modeling dependences of probabilities of recognition of arrangement of assortment on a step of scanning in axes X and Y, time of definition of the count from an elementary increment of coordinates of executive mechanisms and an error of reduction of a configuration of the manipulator to a demanded condition of an increment of coordinates of executive mechanisms were received. As a result, a value allowing to define a configuration of an arrangement of assortment with probability of 0.98 was obtained. The optimum increment of coordinates of spatial mechanisms equal to 4 cm by means of which the final count decides for 230 ms on probability of reduction 0.02 is found. The frequency characteristics showing efficiency of functioning of hydraulic actuators of the manipulator of the self-propelled car are received.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проведено моделирование процессов функционирования системы автоматизированного управления манипулятором самоходной лесной машины. Выделено несколько этапов, составляющих хронологическую последовательность событий, характеризующих функционирование автоматизированной системы: сканирование площадки для размещения сортимента, нахождение графа перехода текущей конфигурации манипулятора в состояние, обеспечивающее захват сортимента, изменение конфигурации манипулятора путём подачи управляющих импульсов на гидроприводы. Приведены результаты моделирования вышеприведённых событий с найденными оптимальными параметрами.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/59/36</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.23/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

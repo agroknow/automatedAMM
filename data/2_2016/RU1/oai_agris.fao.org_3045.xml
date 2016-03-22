@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016103045">
+    <dc:title xml:lang="en">Hemorrhagic Shock and Stress - Cause and Consequence of Hemorheology Disturbances on the Example of the Changes in Erythrocyte Aggregation</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mantskava M.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Momtselidze N.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Davlianidze N.Sh.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mitagvaria N.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hyperthermia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Shock</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">erythrocytes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3764</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36490</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2659</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Stress, being the general reaction of the organism to the physical and psychological effects, accompanies all the stages of somatic and psychic formation. Hemorrhagic shock occurring at blood loss appears to be a powerful stress for the organism. The origin (emergence) and spread of stress reactions are characterized by the features of the macro-and microcirculation. In stressful situations the crisis of blood circulation affects the functions of hemorheological disorders, as well as appears to be a consequence of the shock. We were the first to combine these two problems. The dilemma has been built. Blood loss, being a cause of hemorrhagic shock development while spending adaptive energy would result in more slack development of stress stages, or the body who has received the stress from the outside, will be more subjected to hemorrhagic shock. The following specific objectives were set to answer this question: to ascertain the intensity of the transition from the lower grade of stress to higher due to the development of hemorrhagic shock and to investigate the hemorheological properties of blood at different stages of hemorrhagic shock and at different grades of stress. Experimental stress was induced by heating (hyperthermia). The erythrocyte aggregation increased as the blood volume quantity grew at the bleeding, i.e. with the increasing of shock stages by 10%, 25% and more than 110% compared to the control. When heated the erythrocyte aggregation increased with the transition of stress from one grade to another by 5%, 20% and 80% compared to the control and the increase of the amount of discharged blood was exacerbated at the first and second grades of the stress. During the third grade, even at low blood discharge the aggregation critically increased. The data obtained have shown that at hemorrhagic shock the stress developed according to the amount of blood loss, while in the stressful individuals of first and second grades, depending on the state of shock the aggregation increased analogously, but more intensely. The stress of third grade completely disturbed blood hemorheology even at the first stage of shock and induced lethality. The hemorrhagic shock, expending adaptive energy, stimulated the development of stress stages, but lethality occurred as a result of a critical blood loss. The organism receiving an external stress, was more exposed to hemorrhagic shock and lethality. Our findings appear to be only the first experimental session of this problem. Further research in this direction may shed light on the development of hemorheological component of stress reactions. Probably, this will be the basis of the preventive measures at risk factors for the development of hemorrhagic shock of various etiologies, as well as in the evaluation of stressful situations of various nature.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N2/JSPB_2014_2_238-246.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

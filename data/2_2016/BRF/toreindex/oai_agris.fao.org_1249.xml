@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01249">
+    <dc:title xml:lang="en">Hygroscopics and yield characteristics of cocoon in races of Bombyx mori L.</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Características higroscópicas e produtivas do casulo em raças do Bombyx mori L.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PORTO,  A. J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALMEIDA,  J. E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Silkworms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">water</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cocoons</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Shell</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7064</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8309</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36538</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7032</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Cocoons, cocoon shells and chrysalis of four races of Bombyx mori L., two from China (C202 and C212) and two from Japan (B104 and M11-2), were analyzed in function of determinant factors as weight (dry mater and moisture) and by hygroscopic capacity after cooking. It was used a complete randomized design, with four treatments and ten replications. Although the cocoon shell has a higher hygroscopic capacity, the percentage of water in the chrysalis is the main factor to determine the weight of cocoon. The percentage of water in the cocoon and its components are inversely related to the absorption after cooking. Of all races evaluated, the chinese ones had lower percentage of water in the cocoon and higher cocoon shell weight than the japanese races.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Casulos, cascas séricas e crisálidas de quatro raças do Bombyx mori L., sendo duas de origem chinesa (C202 e C212) e duas de origem japonesa (B104 e M11-2), foram analisados em função dos fatores determinantes do peso (matéria seca e umidade) e pela capacidade higroscópica após cozimento. O delineamento experimental adotado foi o inteiramente casualizado, com quatro tratamentos e dez repetições. Embora a casca sérica possua maior capacidade higroscópica a porcentagem de água na crisálida é o principal fator determinante do peso do casulo. A porcentagem de água no casulo e nos seus componentes está inversamente relacionada com a absorção após cozimento. Das raças avaliadas, as chinesas apresentaram menor porcentagem de água no casulo e maior peso de casca que as raças japonesas.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1355400374.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.69/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

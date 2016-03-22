@@ -1,0 +1,68 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016104730">
+    <dc:title xml:lang="en">Microbiological Pollution of Water in the Bay of Durrës</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SHOSHI ORNELA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SULÇE SULEJMAN</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHOSHI PJERIN</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RADA ZAMIRA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ecology and Agro Environment Department, Agricultural University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculty of Economics and Agrobusiness, Durrës, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">water</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pollution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8309</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6077</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49928</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Several  microorganisms with human or animal origin can be the cause of the diseases transmitted through water (microbiological effects). The discharges of used waters, contaminated with pathogen microbes, constitute the main cause of the microbiological pollution of the water. 
+The objective of this study is the evaluation of the water microbiological status in Durrës bay, compared with the EEA resolution (European Environmental Agency), with a view of identifying the risk factors and the improvement of the water quality. The water quality assessment (bacterial charge) defined two indexes of the faecal pollution: Fecale Coliform (Escherichia Coli FC) and Enterokokut Intestinal (Intestinal Entererococcis – IE). Regarding the presence of e Escherichia Coli (FC), during the year 2014, there has been an improvement of the bathing water status along the Durres Bay</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">only 2 points out of 18 monitored result in a ‘bad” status and only 3 points out of 18 monitored result in ‘not good’ status  (EU Directive on bathing waters). Regarding the presence of Intestinal Entererococcis (IE) during the year 2014, are presented in a ‘bad’ status the Currila 2 and Zhiron beaches so as the beaches after the Plepa Canal, 7 out of 18 monitored points</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">are presented as ‘not good’ the beaches in 2 out of 18 monitored points. The pouring of untreated discharges in the sea constitutes a risk factor in the pollution level of Durrës Bay. The treatment of the polluted waters, before the discharge, is a necessity for the guarantee of the microbiological and chemical quality of the bathing water in Durres Bay.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_2014/11_Ornela%20Shoshi_pp%2057-62.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.2014/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

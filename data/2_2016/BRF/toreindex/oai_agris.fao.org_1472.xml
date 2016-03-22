@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01472">
+    <dc:title xml:lang="en">Pelleting of feed for broiler chickens: Factors affecting pellet quality</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Peletização de ração para frangos de corte: fatores que interferem na qualidade do pélete</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MIRANDA,  D. J. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LARA, L. J. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POMPEU, M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BARBOSA,  V. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ROCHA, J. S. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CARDOSO,  D. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Diameter</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">geomatics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">energy levels</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16072</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_92332</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10610</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Revisão bibliográfica</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The efficiency of the pellet can be translated by the quality of the pellet which is defined as the proportion of intact pellets that come to feeders for chickens, i.e., its resistance to breakage between the feed mill and farms. The use of diets with a higher percentage of intact pellets results in better performance of birds when compared with the feed rations. The main factors that affect pellet quality are: characteristics of pelleting, the feed composition, particle size, pelleting temperature, moisture and steam injection. From a nutritional standpoint, one can consider that the smaller the particle size of food increased their contact with the digestive juices, which aids digestion and absorption of nutrients. However, finely ground lead to less stimulation and growth of intestinal ephitellium. But from the standpoint of production of feed, the larger the particle size of ingredients largest economy with energy and greater efficiency (tons / hour) milling. Because of this, it is suggested that the particle sizes used vary between 500 and 700 ìm to not to cause loss of performance of the birds, nor the income from the factory. Increased energy, through the addition of oils and fats, have much influence on performance parameters of broilers and the quality of the pellet produced. The presence of oils and / or fat, depending on the amount, on its hydrophoby characteristic, causing damage to the particles aggregation acting as a lubricant between food particles and the matrix of pelleting, decreasing the pelleting pressure and its gelatinization, resulting into poor quality pellets.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A eficácia do processo de peletização pode ser traduzida pela qualidade do pélete no qual é definida pela proporção de péletes íntegros que chegam aos comedouros dos frangos, ou seja, sua resistência à quebra entre a fábrica de rações e as granjas. A utilização de rações com um maior percentual de péletes íntegros resulta em melhor desempenho das aves quando comparadas com as rações fareladas. Os principais fatores que interferem na qualidade do pélete são: características da peletizadora, composição da ração, tamanho da partícula, temperatura da peletização, umidade e injeção de vapor. Do ponto de vista nutricional, pode-se considerar que quanto menor o tamanho das partículas do alimento, maior seu contato com os sucos digestivos, o que favorece a digestão e a absorção dos nutrientes. Entretanto, partículas finamente moídas prejudicam a estimulação e o crescimento das vilosidades intestinais. Já do ponto de vista de produção de rações, quanto maior o tamanho das partículas dos ingredientes maior a economia com a energia e maior a eficiência (toneladas/hora) de moagem. Devido a isso, sugere-se que a granulometria utilizada varie entre 500 e 700 ìm para não ocasionar perda do desempenho das aves, nem do rendimento da fábrica. O aumento da energia, por meio da inclusão de óleos e gorduras, tem influência tanto nos parâmetros de desempenho de frangos de corte quanto na qualidade do pélete produzido. A presença de óleos e/ou gorduras, dependendo da quantidade, por sua característica hidrofóbica, pode prejudicar a agregação das partículas, agindo como lubrificante entre as partículas do alimento e a matriz da peletizadora, reduzindo a pressão de peletizacão, diminuindo a gelatinização do amido e resultando em péletes de baixa qualidade.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1326989209.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.68/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

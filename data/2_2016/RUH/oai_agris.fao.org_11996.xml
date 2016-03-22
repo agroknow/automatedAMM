@@ -1,0 +1,45 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H11996">
+    <dc:title xml:lang="ru">ДИНАМИЗАЦИЯ ЗАНЯТОСТИ В КОНТЕКСТЕ ПРЕОДОЛЕНИЯ ПРОБЛЕМЫ ПРОФЕССИОНАЛЬНОГО МАРГИНАЛИЗМА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EMPLOYMENT DYNAMIZATION IN OVERCOMING THE PROBLEM OF PROFESSIONAL MARGINALISM</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Петренко Т.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Таганрогский институт управления и экономики</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E12</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">employment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2550</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрены проблемы распространения профессионального маргинализма, в том числе в сфере АПК,
+сформулированы подходы к характеристике маргинального поведения работников в современном обществе, и
+определены некоторые элементы в области реализации политики по стимулированию и динамизации занятости.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article describes the problem of professional marginalism proliferation, especially in the agricultural sector. Some
+approaches to the characterization of the marginal workers behavior in a modern society are formulated and some elements
+in the implementation of policies to promote employment more dynamic are identified.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/9-1-40.pdf#page=64</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.9-1(40)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

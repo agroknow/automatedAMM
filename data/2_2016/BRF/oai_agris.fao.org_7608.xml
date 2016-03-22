@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F07608">
+    <dc:title xml:lang="en">Sorghum inclusion and microbial inoculation in millet silage (Pennisetum americanum)</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Silagem de milheto (Pennisetum americanum) com inclusão de grãos de sorgo e inoculação microbiana</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MORAIS, M. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ÍTAVO, C. C. B. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ÍTAVO, L. C. V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ROSA, R. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chemical composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">microbial properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Zea mays</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fermentation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1794</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4798</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8504</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2855</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the quality of millet silage produced with additives by evaluating pH, chemical composition and in vitro dry matter digestibility (IVDMD). The treatments consisted of millet with or without sorghum grains and with or without microbial inoculant in a factorial scheme (2x2). Dry matter content, crude protein content and IVDMD increased with sorghum inclusion. The pH of silage containing sorghum and microbial inoculant was lower than that of control millet silage. Acid detergent insoluble nitrogen and acid detergent fiber content were lower in silage containing sorghum. Microbial inoculation did not influence dry matter (23.76%) or IVDMD (48.9%). There was an interaction between sorghum inclusion and microbial inoculant for neutral detergent fiber. The addition of sorghum grain and microbial inoculant improves silage characteristics as a result of better preservation. The use of microbial inoculant reduces pH, inhibiting undesirable fermentation and increasing crude protein content.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se avaliar a qualidade de silagens de milheto, confeccionadas com o uso de aditivos, por meio da avaliação de pH, composição química e digestibilidade in vitro da matéria seca (DIVMS). Os tratamentos consistiram em milheto: com ou sem grãos de sorgo e com ou sem inoculante, em esquema fatorial (2x2). Teores de matéria seca (MS), proteína bruta (PB) e DIVMS aumentaram com a inclusão de sorgo. O pH das silagens com sorgo e inoculadas foi menor que o das silagens de milheto controle. O teor de nitrogênio insolúvel em detergente ácido (NIDA) e de fibra em detergente ácido (FDA) foi menor para a silagem com sorgo. A inoculação não influenciou a MS (23,76%) e DIVMS (48,90%). Houve interação entre inclusão de sorgo e inoculante para fibra em detergente neutro (FDN). A adição de grão de sorgo melhora as características da silagem, resultado de melhor conservação. O uso de inoculante reduz o pH, inibindo fermentações indesejáveis e proporcionando maiores teores de PB.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1435342169.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

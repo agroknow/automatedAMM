@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A11532">
+    <dc:title xml:lang="en">THE MODEL OF NEW ROTATION MECHANISM OF MODULAR FOREST ARTICULATED VEHICLE, THEORETICAL AND OF THE THEORY</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>МОДЕЛЬ НОВОГО МЕХАНИЗМА ПОВОРОТА МОДУЛЬНОЙ СОЧЛЕНЁННОЙ ЛЕСОТРАНСПОРТНОЙ МАШИНЫ</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>ТЕОРЕТИЧЕСКОЕ И ПРАКТИЧЕСКОЕ ОБОСНОВАНИ КОНСТРУКЦИИ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>VOLOSUNOV Mikhail</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHOL Nikolai</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BUDEVICH Evgeniy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ukhta State Technical University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">J12</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry equipment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3058</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Layout schemes of modular tracked vehicles, which are used nowadays in Russian logging, were developed in the midst of last century and do not meet requirements of performance, efficiency and environmental friendliness, etc. There is an urgent need for development and implementation of revolutionary advanced technologies in this sphere. The aim of this work is to study the methods and ways of saving power consumption economies when using traction timber-hauling machines in transportation, and improvement of their performance by means of enhancement of maneuverability and flotation ability in weak soil. The calculations according to established schemes, used in rotation mechanism of timberhauling machine models, show high pressure in hydraulic cylinders. Experiment with the proposed scheme illustrated distinct advantage. Design pressure values in servo mechanisms of hydraulic cylinders show that the application of hydraulic cylinder force of new rotation mechanism is 3.8 times more effective in stiff soils, and 10 times more effective in very soft soils in comparison with the standard rotation scheme. These results are basis for implementation of a more progressive constructional rotation scheme of articulated forest vehicle based on combined wheeled and tracklaying vehicle.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рассмотрены различные варианты конструктивных схем механизмов поворота сочленённой лесотранспортной машины. Приведена принципиально новая конструктивная схема, выполнен её математический анализ в сравнении с другими схемами компоновок механизма поворота. Описан натурный эксперимент с выводом исследуемых экспериментальных величин в сравнении с теоретическими расчётами.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/94/80</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

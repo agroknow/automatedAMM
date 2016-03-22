@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13883">
+    <dc:title xml:lang="ru">АГРОТЕХНИКА КУКУРУЗЫ НА ЗЕРНО В УСЛОВИЯХ НЕДОСТАТОЧНОГО УВЛАЖНЕНИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>FARMING MAIZE TO CORN UNDER INSUFFICIENT MOISTURE CONDITIONS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Fetyukhin  I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shevchenko  V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: soil cultivation, Zea mays, soil water regimes, sowing date, the yield</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Определено влияние способов и приемов основной обработки почвы на основные элементы
+водного баланса и эффективность использования влаги гибридами кукурузы различных групп спелости в
+условиях недостаточного увлажнения. Выявлена тенденция увеличения влажности зерна гибридов
+кукурузы при более поздних сроках посева. Установлено, что в условиях недостаточного увлажнения
+центральной орошаемой зоны Ростовской области наиболее благоприятный водный режим кукурузного
+агрофитоценоза, наибольшая продуктивность культуры и экономический эффект складываются при
+возделывании среднеспелых гибридов (ФАО 240-280), посеянных ориентировочно 5 мая по глубокому
+безотвальному рыхлению.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The influence of the basic soil treatment ways and methods on basic water balance elements and maize
+hybrids of different ripeness groups‘ moisture use efficiency under insufficient moisture conditions was defined.
+The maize hybrid corn moisture-increasing tendency at the stage of later sowing time was detected. It was
+found that under insufficient moisture conditions of central irrigate zone in Rostov region the mid-season hybrids
+cultivation (FAO 240-280) sowed close on 5th of May after the deep subsurface loosening develops to the more
+favourable moisture regime of corn agrophytocenosis, the highest crop capacity and the economic benefit.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_fa0a4a5b43a94f9099d24e755a019296.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№4, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104909">
+    <dc:title xml:lang="es">ESTRATEGIAS DE AVICULTURA DE TRASPATIO EN TRES LOCALIDADES DEL MUNICIPIO DE SAN LUCAS, CHIAPAS, MÉXICO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>BACKYARD POULTRY STRATEGIES IN THREE RURAL COMMUNITES IN THE MUNICIPALITY OF SAN LUCAS</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>CHIAPAS</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>MÉXICO</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mendoza María</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zaragoza Lourdes</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rodríguez Galván Guadalupe</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma de Chiapas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma de Chiapas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma de Chiapas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">food security</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10967</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Poultry farming developed in the rural backyard of San Lucas is a productive small-scale activity with deep roots and tradition whose strategies are linked to family and community relationships of reciprocity and solidarity not mediated by economic interests, which makes possible the supplying and self consumption of animal protein for families in a context of very high marginalization and high social backwardness. The objective of the present study was to provide information about the production dynamics and strategies of rural backyard poultry and their capacity to generate income and assets with value in use, which contributes to a better life quality for families. Fieldwork was conducted between 2013 and 2014 in three rural communities that concentrate 99.7% of the municipal rural population, where 47% of its inhabitants are indigenous tzotzil. The results show that in 99% of cases are women who perform this productive work, 80% of the available germplasm is local. The strategies developed by the rural women of San Lucas represent a complex practice that continues to strengthen community social networks of reciprocity which serve to perpetuate their system of production based on inherited traditional knowledge product of women-nature link.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">La avicultura desarrollada en el traspatio rural de San Lucas es una actividad productiva de pequeña escala de gran arraigo y tradición cuyas estrategias ligadas a las relaciones familiares y comunales de reciprocidad y solidaridad, no mediadas por intereses económicos, posibilitan el abasto y autoconsumo de proteína animal para las familias en un contexto de muy alta marginación y alto rezago social. El objetivo del presente estudio es brindar información sobre la dinámica productiva y las estrategias de la avicultura del traspatio rural y su capacidad de generar ingresos y bienes con valor de uso, lo que contribuye a elevar la calidad de vida de las familias. Esta investigación aprovecha el proceso metodológico propuesto por el CA-UNACH-133 SIVED, que ha sido ajustado y depurado en más de una docena de investigaciones, cuyo enfoque es cualitativo. El trabajo de campo se realizo entre 2013 y 2014 en tres localidades que concentran 99.7% de la población rural municipal, donde 47% de sus habitantes son indígenas tzotziles. Los resultados muestran que en 99% de los casos las mujeres llevan a cabo esta labor productiva, 80% del germoplasma utilizado es local y la alimentación de sus aves se integra principalmente por granos producidos bajo el sistema de agricultura familiar (76%). Se concluye que la avicultura del traspatio rural de San Lucas es una práctica compleja donde se observa una estrecha interacción entre el conocimiento local y la experiencia que las mujeres han desarrollado y transmitido para la cría de los recursos genéticos disponibles.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo064_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

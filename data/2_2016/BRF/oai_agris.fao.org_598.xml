@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F00598">
+    <dc:title xml:lang="en">Genetic parameters for body weight ratio, fertility and growth traits in Canchim breed females</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Parâmetros genéticos de relações de pesos</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>características de fertilidade e crescimento em vacas da raça Canchim</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MELLO,  S. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALENCAR,  M. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PASSAFARO, T. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TORAL,  F. L. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beef cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Genetic correlation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Productivity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29796</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1327398576015</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6210</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8349</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to estimate the heritability of age at first calving (AFC), body condition score at first calving (BCF), body condition score at calving (BCC), weaning weight (WW), yearling weight (W12), weaning weight of calf/weight of cow at calving (RCC) and weaning weight of first calf/weight of cow at first calving (RCCF) ratios, and genetic correlations of AFC, BCF, WW and W12 with RCCF, in a Canchim beef cattle herd. The variance and covariance components were obtained by bayesian inference with single and two-trait analyses. The statistical models included the additive direct and maternal, the permanent environmental and the residual random effects, and the fixed effects of year and month of birth or of calving, age of cow at calving and sex of calf, depending on the trait. The posterior means of heritability, obtained by single-trait analyses, were 0.12 (AFC), 0.36 (BCF), 0.18 (BCC), 0.50 (WW), 0.46 (W12), 0.16 (RCC) and 0.40 (RCCF) indicating that these traits have enough genetic variability to  show response to mass selection with the exception of AFC. The genetic correlations of AFC (-0.61), BCF (-0.36), WW (-0.20) and W12 (-0.05) with RCCF suggest that selection to reduce age and body condition score at first calving should improve the productivity trait of females at first calving, while selection for heavier females at young ages would not promote any change in the productivity of dams.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo neste trabalho foi estimar herdabilidade da idade ao primeiro parto (IPP), do escore de condição corporal ao primeiro parto (EPP), do escore de condição corporal ao parto (ECP), dos pesos à desmama (PD) e aos doze meses de idade (P12) e das relações de peso do bezerro à desmama pelo peso da vaca ao parto (RPP) e peso do primeiro bezerro à desmama pelo peso da vaca ao primeiro parto (RPPP) e as correlações genéticas de IPP, EPP, PD e P12 com RPPP, em um rebanho da raça Canchim. As médias a posteriori dos componentes de (co)variância foram obtidas por inferência bayesiana, em análises uni e bicaracterísticas. Os modelos estatísticos incluíram os efeitos aleatórios genético aditivos direto e materno, de ambiente permanente e residual, e os efeitos fixos de ano e mês de nascimento ou do parto, idade da vaca ao parto e sexo do bezerro, dependendo da característica. As médias a posteriori da herdabilidade, obtidas em análises unicararacterística, foram 0,12 (IPP)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,36 (EPP)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,18 (ECP)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,50 (PD)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,46 (P12)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,16 (RPP) e 0,40 (RPPP), indicando que as características possuem variação genética aditiva suficiente para apresentar boa resposta à seleção massal, com  exceção  de IPP.  As  correlações genéticas de IPP (-0,61), EPP (-0,36), PD (-0,20) e P12 (-0,05) com RPPP sugerem que a seleção para reduzir a idade e o escore de condição corporal ao primeiro parto deve melhorar a produtividade das fêmeas no primeiro parto, mas a seleção para modificar pesos em idades jovens não promove mudanças na eficiência produtiva das matrizes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1389615678.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

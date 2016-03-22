@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02952">
+    <dc:title xml:lang="en">Influence of male-to-female ratio and climatic conditions on the reproductive performance of Anglo Nubian goats</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Influência da proporção macho/fêmea e condições climáticas sobre a performance reprodutiva de caprinos Anglo-Nubianos</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ALVES, C.G.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALMEIDA-IRMÃO, J.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOURA, M.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA, J.C.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DEUS, P.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NEVES, J.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BARTOLOMEU, C.C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LIMA, P.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, M.A.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Reproductive performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Goats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">climatic data</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sex ratio</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3324</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29553</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7014</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to test the “male effect” on the reproductive performance of Anglo Nubian does (n = 180), aged between 24 and 60 months, under different male-to-female ratios (1:20 – T20, 1:30 – T30, and 1:40 – T40) and climatic conditions (dry season – DS, and rainy season – RS). Does were randomly distributed into three groups (T20, T30, and T40) and were isolated from bucks at a distance of 300 m for 60 days before the start of the experiments. The first manifestation of estrous during the DS occurred 6.83 ± 4.54 (T20), 6.72 ± 4.56 (T30) and 7.05 ± 5.23 (T40) days following the onset of the breeding season (P&gt;0.05). In the RS, onset of estrous was observed 6.60 ± 4.74 (T20), 6.70 ± 4.43 (T30) and 7.46 ± 4.54 (T40) days after the beginning of the breeding season (P&gt;0.05). Estrous induction in females during the DS occurred in 95% (T20), 80% (T30), and 75.5% (T40) of all females. During the RS, estrous detection reached 100% (T20), 100% (T30), and 97.5% (T40) of all females, with no difference between all RS and DS groups. Estrous synchronization during the DS occurred in 35.00% (T20), 36.66% (T30), and 32.50% (T40) of all females, for an average occurrence of 34.72%. During the RS, synchronization occurred in 65% (T20), 70% (T30) and 62.25% (T40) of all females, for an average occurrence of 65.75%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">no difference was detected between the RS and the DS. Pregnancy rates in the DS groups were 65.0% (T20), 70.0% (T30), and 62.5% (T40), while pregnancy rates in the RS were 90.0% (T20), 86.6% (T30), and 95.0% (T40). No difference was observed for conception rates between any of the RS and DS groups. Prolificacy during the DS was 1.30 (T20), 1.30 (T30) and 1.35 (T40), while in the RS prolificacy was 1.29 (T20), 1.25 (T30) and 1.30 (T40). Thus, the male effect can be used effectively for goats under 1:20–1:40 male-to-female ratios in a 45-day mating season under varying climatic conditions.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O objetivo do presente trabalho foi testar o “efeito macho” sobre o desempenho reprodutivo de cabras Anglo Nubianas (n = 180), com idade entre 24 e 60 meses, sob diferentes proporções macho:fêmea (1:20 - T20, 1:30 - T30, e 01:40 - T40) e condições climáticas (estação seca - ES, e estação chuvosa - EC). As fêmeas foram distribuídas aleatoriamente em três grupos (T20, T30 e T40), e foram mantidas separadas dos machos a distância de 300 m por 60 dias antes do início do experimento. A primeira manifestação de estro na ES ocorreu 6,83 ± 4,54 (T20), 6,72 ± 4,56 (T30) e em 7,05 ± 5,23 (T40) dias após o início da época de reprodução (P&gt;0,05). Na EC, o início do estro foi observado 6,60 ± 4,74 (T20), 6,70 ± 4,43 (T30) e 7,46 ± 4,54 (T40) dias após o início da época de reprodução (P&gt;0,05). A indução de estro na ES chegou em 95% (T20), 80% (T30), e 75,5% (T40) dasfêmeas. Na EC, a detecção do estro atingiu 100% (T20), 100% (T30), e 97,5% (T40), sem diferença entre as épocas do ano. Sincronização de estro durante ES ocorreu em 34,72%, 35,00% (T20), 36,66% (T30), e 32,5 % (T40) das fêmeas. Na EC, a sincronização ocorreu em 65,75% das fêmeas, 65% (T20), 70% (T30) e 62,25% (T40), sem apresentar diferença estatística (P&gt;0,05) entre EC e ES. A taxa de gestação nos grupos ES foi de 65,0% (T20), 70,0% (T30), e 62,5% (T40), enquanto que em EC foi de 90,0% (T20), 86,6% (T30), e de 95,0% (T40), sem diferença estatística (P&gt;0,05) entre EC e ES. A prolificidade durante ES foi 1,30 (T20), 1,30 (T30) e 1,35 (T40) e na EC foi 1,29 (T20), 1,25 (T30) e 1,30 (T40). Em conclusão, o efeito macho pode ser utilizado com as proporções 1:20-1:40 macho:fêmea, em estação de monta de 45 dias de duração sob condições climáticas diferentes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1412365258.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

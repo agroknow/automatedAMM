@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F11609">
+    <dc:title xml:lang="en">Efficiency of fixed-time artificial insemination using a progesterone device combined with GnRH or estradiol benzoate in Nellore heifers.</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Eficiência da inseminação artificial em tempo fixo utilizando dispositivo de progesterona associado com GnRH ou benzoato de estradiol em novilhas da raça Nelore.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PONCIO, V.A.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MELO, A.J.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DUARTE,  K. M. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, C. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALVAREZ, R. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">estradiol</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">benzoates</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pregnancy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Artificial insemination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproductive performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28255</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6166</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_638</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The use of estrogens in artificial insemination protocols for cattle is the least expensive and most efficient method currently available. However, the trend to prohibit the use of estrogens for this purpose has made it necessary to find alternatives that replace estrogens without compromising the reproductive performance of the animals. The objective of this study was to evaluate conception rates in Bos indicus beef heifers treated with a progesterone device (P4) combined with GnRH or an estradiol ester. On day 0, pubertal Nellore heifers (n = 100) received an intravaginal device containing 1 g P4 and were randomly divided into two groups. The GnRH group (n = 49) received an intramuscular injection of 100 µg GnRH, while the E2 group (n = 51) received 2 mg estradiol benzoate (EB). The P4 device was removed after 5 (GnRH group) or 8 days (E2 group), followed by an injection of 125 µg of the PGF2α, analog cloprostenol. On that occasion, the E2 group received an additional injection of 300 IU eCG. Twenty-four hours later, the GnRH group received a second injection of 125 µg cloprostenol, while the E2 group received 1 mg EB. The heifers were inseminated 72 (GnRH group) or 54 hours (E2 group) after removal of the P4 device. At the time of insemination, the GnRH group received additionally an injection of 100 µg GnRH. Estrus was monitored during the period of cloprostenol injection until the time of artificial insemination and pregnancy was diagnosed 40 days after insemination by transrectal ultrasonography. The data were analyzed by Fisher’s exact test. The pregnancy rate was 38.8% and 31.4% in the GnRH and E2 groups, respectively (P&gt;0.05). The ovarian condition of the heifers (estrus or anestrus) tended to influence (P=0.07) pregnancy rates in the GnRH group, but not in the E2 group. At the time of artificial insemination, 33.3% of heifers in the GnRH group showed signs of estrus versus 88.2% in the E2 group (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v72n3p271</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

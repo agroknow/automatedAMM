@@ -1,0 +1,91 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104950">
+    <dc:title xml:lang="es">CARACTERIZACIÓN ESTRUCTURAL Y SANITARIA DEL SISTEMA DE EXPLOTACIÓN ECOLÓGICO DE VACUNO DE LECHE EN EUROPA</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STRUCTURAL AND HEALTH STATUS CHARACTERIZATION OF THE ORGANIC DAIRY SYSTEM IN EUROPE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Blanco-Penedo Isabel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Duval Julie</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Jonasson Karin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hoischen-Taubner Susanne</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Selle Margret</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Van Soest Felix</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sok Jaap</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Emanuelson Ulf</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sundrum Albert</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Subprograma Bienestar Animal</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Nantes Atlantic College of Veterinary Medicine</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Swedish University of Agricultural Sciences</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>University of Kassel</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>University of Kassel</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Wageningen University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Wageningen University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Swedish University of Agricultural Sciences</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>University of Kassel</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Organic agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15911</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The following study is part of IMPRO, a 7th framework programme FP7 project of the European Union for the improvement of animal health in organic dairy farming. Keeping dairy cows healthy in an organic system is a challenge. Multiple factors affect animal health status. Bacteria and viruses are of course relevant in causality</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">but many other factors such as nutrition, pasture and housing as well as farmer skills and farmer motivation are also important. By applying a systemic approach, the IMPRO Project combines a number of methodological approaches for characterising factors that affect animal health at the farm level, in order to assess and implement appropriate measures to achieve in the long term aim an improved animal health status on organic farms in Europe. As a starting point, a benchmark activity on the heath status is therefore an integrated part of the project to evaluate the progress achieved through the activities of IMPRO. This information is necessary for cost-benefit calculations since the improvement of management practices regarding health status in organic dairy farming is encompassed with socioeconomic implications. The present survey provides a structural and health status characterization of 200 farms enrolled in IMPRO project. The indicators were collected at on-farm visits using a specifically designed protocol compiling the structural characteristics of organic dairy farms in a standardized way, making the comparison of health statuses, across a wide range of European production conditions, more comparable than anything hitherto performed. From the results, distinct differences between farms within and across countries were demonstrated. Farms generally differed in: herd size, average calving number, milk sold per cow and year, predominant breed and the presence of minor more rustic breeds. In the general herd daily management, results showed differences on the use of home grown concentrate, total time on pasture as well as manpower dedicated to dairy cows (adjusted by number of calving). Regarding animal health and welfare indicators, we observed differences on clinical and subclinical mastitis, lameness, and metabolic and reproductive disorders. Finally, our study also showed differences in the use of alternative treatments, such as homeopathy and phytoterapy versus allopathic treatments.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">El siguiente estudio se encuadra dentro de IMPRO, proyecto del 7º Programa Marco FP7 de la Unión Europea para la mejora de la sanidad animal en ganadería de vacuno de leche ecológico. Mantener al ganado vacuno de leche sano en un sistema ecológico es en sí un desafío. Muchos son los factores que afectan su estado sanitario tanto bacterias y virus como también la nutrición, las condiciones ambientales en los pastos y en el establo, las instalaciones, la habilidad y motivación del ganadero. Mediante un enfoque sistémico, IMPRO elabora herramientas de diagnóstico que puedan identificar el conjunto de factores que afectan la salud individual del animal para cada explotación, y que pueda proporcionar una gestión y tratamiento adecuado, con el objetivo a largo plazo de mejorar la salud animal en las explotaciones ecológicas en Europa. Las estrategias de mejora necesitan identificadores a nivel de la granja al ser una de las fuentes de variación más importantes en la prevalencia de enfermedades entre las granjas ecológicas (Sundrum et al., 2005). Así pues, para empezar, es necesario obtener referencias del estado sanitario entre explotaciones en toda Europa y en explotaciones con diferencias estructurales. Esta información también es necesaria para los análisis coste-beneficio por las implicaciones socioeconómicas de los cambios a recomendar en el manejo. El presente trabajo proporciona una caracterización estructural y del estado sanitario de las explotaciones de vacuno de leche ecológico de Europa.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo095_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

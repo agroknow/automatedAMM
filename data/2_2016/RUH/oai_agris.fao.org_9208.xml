@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09208">
+    <dc:title xml:lang="ru">РАСШИРЕНИЕ ЗОНЫ ПОКРЫТИЯ RTX И ЗАПУСК ТЕХНОЛОГИИ TRIMBLE XFILL</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EXPANDING COVERAGE AND STARTING RTX TECHNOLOGY TRIMBLE XFILL</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>СУЛТАНГУЛОВА З.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ВИЛЬДАНОВ И.Р.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Башкирский государственный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">B10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Satellites</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">communication technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14093</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28653</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В этой статье описана новая технология Trimble xFill и раскрыты различные аспекты этого мощного расширения RTK съемки, призванного значительно повысить производительность полевых работ. Новая технология Trimble xFill™ позволяет расширить возможности работы в RTK режиме в случае потери потока RTK поправок даже на несколько минут. Поправки Trimble xFill передаются со спутника, поэтому доступны почти везде там, где доступны сигналы спутников GNSS. Геодезисты, вооруженные технологией Trimble xFill, существенно повышают производительность съемки в поле.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This article describes the new technology and Trimble xFill disclose various aspects of this powerful extension RTK survey, designed to significantly improve the performance of fieldwork. New Trimble xFill ™ technology allows you to expand job opportunities in RTK mode in case of loss of flow RTK correction even for a few minutes. Amendments Trimble xFill transmitted by satellite, so available almost everywhere where the satellite signals are available GNSS. Surveyors, military technology, Trimble xFill, significantly increase productivity in the field shooting.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/5-2-24.pdf#page=83</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.5 (24)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

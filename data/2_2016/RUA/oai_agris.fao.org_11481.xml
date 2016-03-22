@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A11481">
+    <dc:title xml:lang="en">MELIORATION OF SOILS IN FOREST NURSERY WITH THE USE OF NON-TRADITIONAL ORGANIC FERTILIZERS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>МЕЛИОРАЦИЯ ПОЧВ ЛЕСНЫХ ПИТОМНИКОВ С ПРИМЕНЕНИЕМ НЕТРАДИЦИОННЫХ ОРГАНИЧЕСКИХ УДОБРЕНИЙ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ROMANOV Evgeny</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MUKHORTOV Dmitry</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NUREEVA Tatiana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forest nurseries</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land improvement</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34830</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28717</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It is important to reclam degraded soils in forest nurseries to get quality planting material. Organic wastes and fertilizers on their base may be used for it. The aim of the research is to evaluate the effectiveness of influence of non-traditional fertilizers on the basis of organic waste on fertility of sod-podzolic soils, growth of seedlings and saplings of trees in forest nurseries. In the course of the research such problems as influence of non-conventional fertilizers on properties of sod-podzolic soils were studied. Use of non-conventional fertilizers does not lead to accumulation of heavy metals in the soil and it improves water and physical and agrochemical properties of the plow layer. The effectiveness of non-conventional fertilizers depends on their composition, physical and chemical characteristics of the primary components, rate of application, initial soil fertility. Sharing of a non-traditional fertilizer and sand allows for optimization of almost all indicators of soil fertility of medium loamy soils, sharing of non-traditional fertilizers and clay allows for optimization of almost all indicators of soil fertility of light soils. An optimum dose of application of non-traditional fertilizer depends on soil texture, type of trees and composition of the fertilizer. It is 50-80 tons / ha for Norway Spruce in light loamy soils, 149-182 tons / ha - in medium loamy soils. It is 50 tons / ha for Scotch Pine in sandy clay soil, 100 tons / ha in sandy and light loamy soil. It is 150 tons / ha for Siberian Larch in the light loamy soil. For amelioration of light in soil texture soils it is recommended to use composts containing more than 50% (by weight) of the wastes of category II (substrate). There should be over 40% (by weight) of heavy soils in the compost of the waste of category I (filler). This will optimize the properties of soil and let grow better seedlings in the nurseries.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведены результаты исследований по применению нетрадиционных удобрений из органических отходов для мелиорации дерново-подзолистых почв лесных питомников. Установлено, что внесение нетрадиционных органических удобрений не приводит к накоплению солей тяжелых металлов в почвах питомников, улучшает физико-химические свойства почв, а применение оптимальных доз удобрений позволяет получить гармонично развитый, стандартный посадочный материал. Эффективность применения нетрадиционных органических удобрений повышается при их комплексном использовании с другими мелиорантами (песком и глиной).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/106/92</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.18/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

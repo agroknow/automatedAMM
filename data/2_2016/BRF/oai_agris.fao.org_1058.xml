@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01058">
+    <dc:title xml:lang="en">Effects of magnetic treated water on serum concentration parameters and fat thickness</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito do tratamento da água por campo magnético sobre os parâmetros séricos e espessura de gordura subcutânea</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>NETO,   G. B</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NOGUEIRA,  J. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PINHEIRO,   M. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ENGRACIA FILHO, J. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COELHO,  C. M. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA,  S. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">animals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Arteries</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Treatment date</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_444</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_959</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8948</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27921</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The goal of this study was to evaluate the effect of magnetic water on blood cells counts, biochemical profile, blood gas level and subcutaneous fat thickness of Jersey cows. This research was carried out at Agência Paulista de Tecnologia dos Agronegócios - APTA, SP. Twenty six Jersey cows from the APTA were allotted into two groups: control (n=13), drinking regular water and the group consuming magnetic water (n=13). The animals were lactating around 150 days and pregnant around 60 days. Blood samples were collected from caudal auricular artery and jugular vein. The water treatment had no effect on hemogram (p&gt;0.05). Higher pH (7.448 vs 7.407 mmHg, p</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo deste estudo foi avaliar o efeito do tratamento magnético da água dos bebedouros sobre o hemograma, perfil bioquímico sérico, hemogasometria e espessura de gordura subcutânea de bovinos. O ensaio foi conduzido na Agência Paulista de Tecnologia dos Agronegócios - APTA, SP. Foram utilizadas 26 vacas da raça Jersey provenientes da APTA, distribuídas aos pares em dois grupos experimentais: controle (n=13), bebendo água não tratada e o grupo recebendo água submetida a campo magnético (n=13). Os animais encontravam-se lactantes por volta de 150 dias e gestantes por volta de 60 dias. As amostras de sangue foram colhidas da artéria auricular caudal e veia jugular. O tratamento magnético da água não teve efeito sobre o hemograma (p&gt;0,05). Maiores valores de pH (7,448 vs 7,407 mmHg, p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1378834271.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

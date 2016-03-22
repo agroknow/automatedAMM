@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09435">
+    <dc:title xml:lang="ru">ПРАВОВОЙ СТАТУС ЗЕМЕЛЬ, ИСПОЛЬЗУЕМЫХ В ФЕРМЕРСКИХ ХОЗЯЙСТВАХ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE LEGAL STATUS OF LAND USED IN FARMING</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Сазонова Д.Д.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Всероссийский научно-исследовательский институт использования техники и нефтепродуктов в сельском хозяйстве</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">D50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Land</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">structures</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2809</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4172</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330905</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Установлено, что с правовой точки зрения фермерское землепользование состоит из четырех частей. Первая – земля,
+закрепленная в собственность. Вторая – земля, ошибочно выделенная из фонда перераспределения земель на правах постоянного
+(бессрочного) пользования и пожизненного наследуемого владения. Третья – земля, арендуемая из фонда перераспределения
+земель. Четвертая – земля, арендуемая у частных лиц (владельцы земельных долей из числа бывших и нынешних работников
+сельскохозяйственного предприятия или работников социальной сферы на селе). За 2001-2013гг. общая площадь землепользования
+возросла в среднем в 1,26 раза. Удельный вес земель за этот же период из первой группы сократился в 1,1 раза, второй - в 1,76
+раза, третьей – в 1,41 раза.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It was established that from the legal point of view farm land tenure has four modes. The first mode is the ownership of the land. The
+second mode is the land mistakenly allocated from the Land Redistribution Fund on the right of permanent (perpetual) use and lifetime
+inheritable possession. The third mode is the land rented from the Land Redistribution Fund. The fourth is the land rented from private
+individuals (land share owners from former and current employees of agricultural enterprises or social workers in the countryside). During
+2001-2013 the total area of land increased by an average of 1.26 times. For the same period the share of land from the first group reduced
+by 1.1 times, the second group - 1.76 times, the third group - by 1.41 times. In contrast, the share of land from the fourth group increased by
+1.33 times</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/12/11-1-30.pdf#page=84</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.11/n.1 (30)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

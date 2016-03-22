@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A10423">
+    <dc:title xml:lang="en">ALLOMETRIC DEPENDANCES APPLICATION TO 1 ASSESS PHYTOMASS OF VARIOUS FRACTIONS OF TREES AND SIMULATION OF THEIR DYNAMICS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ИСПОЛЬЗОВАНИЕ АЛЛОМЕТРИЧЕСКИХ ЗАВИСИМОСТЕЙ ДЛЯ ОЦЕНКИ ФИТОМАССЫ РАЗЛИЧНЫХ ФРАКЦИЙ ДЕРЕВЬЕВ И МОДЕЛИРОВАНИЯ ИХ ДИНАМИКИ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>DEMAKOV Yuriy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PURYAEV Аinur</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CHERNYKH Valeriy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CHERNYKH Leonid</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>East European FES of All Russian Research Institute of Silviculture and Mechanization of Forestry</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">trees</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biomass</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">allometry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24962</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A brief review of some books on application of allometric functions to calculate the phytomass of various fractions of trees, where the predicators are height and diameter of a tree, was carried out. Calculation of parameters of the functions for the trees of major forest forming species was made based on the existing tables for stands bioproductivity. It was shown that two-parameter allometric function Y = ahb(d + 1)2 showed the best approximation basic data by volume and oven-dry weight of a stem as well as the total and above ground phytomass of tree, its bark and branches. The function explains more than 99 % of total variance of values for the dependent variables. Y = a(d + 1)b function is best suited to assess the phytomass of assimilation instrument (foliage and needles) and the roots of trees. Values of the parameters of the obtained regression equations are strictly specific for each tree species ( the specifity is explained by the peculiarities of the biology of trees and their requirements for environment condition ). The obtained allometric equations may be successfully used both to calculate the phytomass of trees and to reveal the peculiarities of their development, expressed in the change of the assimilates group between different fractions. It is important to note that it is almost impossible to accomplish the above mentioned process by experiments. Thus, for example using the data of stands development in the D2 forest site type (close to the Kama area in the Republic of Tatarstan), it was determined that regression of trees increment with age was caused by steady growth of force on the annual recovery of their assimilation instrument and reduction of the assimilates group to form new ab-sorbing roots. Besides, the load on the roots in water supply to the crowns was growing. Allometric dependances of phytomass of different fractions of trees on their height and diameter of stem may be also used to choose more perspective species.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проведѐн краткий обзор литературы по использованию аллометрических функций для оценки фитомассы различных фракций деревьев, в которых предикторами являются их высота и диаметр. На основе существующих таблиц биопродуктивности вычислены параметры этих функций для деревьев основных лесообразующих пород. Приведены примеры использования полученных математических моделей для познания закономерностей накопления биомассы деревьями разных пород и оценки эффективности использования ими ресурсов среды в процессе роста в пределах одного типа лесорастительных условий.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/74/51</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.26/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012061">
+    <dc:title xml:lang="en">The comparison of qualitative production of beech (Fagus sylvaticaL.) stand affected by bark necrosis in the past and managed by different tending</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Porovnanie kvalitatívnej produkcie bukového (Fagus sylvatica L.) porastu s rozdielnou výchovou v minulosti postihnutom nekrotickým ochorením kôry</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ŠTEFANČÍK  Igor</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KLOUČEK Tomáš</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fagus sylvatica</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wood production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24637</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28194</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The paper deals with evaluation of qualitative production in a 90-years old Fagus sylvatica L. stand affected by the beech bark necrosis in the past, where the long-term research was performed by different tending regime. The stand qualitative parameters (stem and crown quality, proportion of the best quality assortment and share of crop trees) were assessed. The research was aimed at investigation of the mass and selected quality of the stand, which is focused on the trees of selective quality (crop trees). Research was conducted during 53 and/or 45 years in four treatment plots: (i) heavy thinning from below (C degree according to the German forest research institutes from 1902), (ii) free crown thinning with thinning interval of 5 years, (iii) free crown thinning with thinning interval of 10 years, and (iv) unthinned plot (control). Totally, 3,044 individuals were assessed in initial stage of the research and 455 trees in the last evaluation. Regarding qualitative production, the best results were obtained in the plots with the free crown thinning followed by heavy thinning from below. The worst evaluation showed the plot without tending.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/3_3/Acta_Facultatis_Forestalis/lf-aff_56-1-2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta  Facultatis Forestalis Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0231-5785</ags:citationIdentifier>
+      <ags:citationNumber>v.56/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

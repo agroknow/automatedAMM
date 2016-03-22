@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A03371">
+    <dc:title xml:lang="en">PRELIMINARY DIAGNOSIS OF STRENGTH PROPERTIES OF WOOD BY DYNAMIC MODULUS OF ELASTICITY (VIBRATING MANNER)</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ПРЕДВАРИТЕЛЬНОЕ ДИАГНОСТИРОВАНИЕ ПРОЧНОСТНЫХ СВОЙСТВ ДРЕВЕСИНЫ ПО ПОКАЗАТЕЛЮ ДИНАМИЧЕСКОГО МОДУЛЯ УПРУГОСТИ ВИБРАЦИОННЫМ СПОСОБОМ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SALDAEVA Ekaterina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TSVETKOVA Ekaterina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mechanical properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Elasticity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4683</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26777</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8421</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The problem of conservation and augmentation of high quality timber is considered. The condition is analysed and practical importance of early diagnostics of wood in its production abroad is proved. The goal of the research is to develop the method of preliminary diagnostics of technical quality of young growth by dynamic modulus of elasticity for targeted cultivation of wood with high strength characteristics. Experimental studies were carried out on the basis of an accredited laboratory of qualimetry of sounding timber (Volga State University of Technology), the method was pretested in clone bank of sounding fir in Training and Experimental Forestry of Volga Tech. A non-destructive method of early diagnostics of technical quality (strength) of young growth of Pine was offered. The method was based on the contact between acoustic and strength characteristics of wood. It allows to select unique samples without cut-ting down trees and to organize targeted cultivation of wood with certain technical characteristics of wood. Results. The results of the modulus of elasticity of wood, obtained by ultrasonic and vibroacoustic methods, are offered in the paper. Such acoustic indices as fundamental frequency of oscillations of single-sided support sample, speed of propagation of soundwave along the sample were used as the evaluation criteria. The values, obtained by these methods, are homogeneous and have a positive correlation, indicating comparability of the data. Vibroacoustic measuring method is more accurate. Conclusions. At this stage of the research it was found that the most appropriate way to diagnose the acoustic properties of the trees at a young age is vibroacoustic method which should be used together with "Resonance-4" plant. However, to get correct results, a need in introduction of correction factors arises. It is likely that there are other ways of identification or some new ways of identification can be developed. Thus, it is expedient to continue the researches in this area.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/53/30</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.22/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

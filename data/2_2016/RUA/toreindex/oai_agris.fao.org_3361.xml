@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A03361">
+    <dc:title xml:lang="en">MULTIDIMENSIONAL ASSESSMENT OF PLUS TREES OF SCOTCH PINE (PINUS SYLVESTRIS L.) ON SEED YIELD FROM CONES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>МНОГОМЕРНАЯ ОЦЕНКА ПЛЮСОВЫХ ДЕРЕВЬЕВ СОСНЫ ОБЫКНОВЕННОЙ (PINUS SYLVESTRIS L.) ПО ВЫХОДУ СЕМЯН ИЗ ШИШЕК</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BESSCHETNOVA Natalia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BESSCHETNOV Vladimir</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DENISOV Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CHERNYKH Valeriy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Nizhny Novgorod Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pinus sylvestris</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plus trees</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sowing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Multivariate analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5912</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24884</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7268</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28921</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It is important to improve permanent forest seed base for a successful operation of the system of forest seed production. Its effectiveness is largely determined by the quality and breadth of accumulated assortment of plus trees. The most important characteristics of plus trees are indicators of their reproductive activity. Hence, the purpose of this study is a comparative evaluation of plus trees of Scotch pine (Pinus sylvestris L.), belonging to the objects of the permanent forest seed production base, established in Nizhny Novgorod region, in a range of indicators. Researches were carried out by means of stationary field and laboratory methods. Each plus tree was presented by 3 – 8 of its clones. Up to 60 pieces normally developed undamaged cones were gathered from each of them. All the clones grew in terms of balanced environmental background and were represented by the same type of grafting coeval, planted at one site with the same feeding area. Statistical processing of the raw data was carried out by dispersion methods and the methods of factor and cluster analyses. Significant differences between plus trees were revealed by means of dispersion analysis. The power of influence of differences between plus trees is estimated by output of normally developed seeds from cones (h2 = 29.09 ± 0.31%)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">quantity of abortive seeds (h2 = 24.81 ± 0.33%)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">total seed yield (h2 = 26.42 ± 0.32%)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">share of normally developed seeds (h2 = 25.46 ± 0.33%). Quite logical picture of the four groups of initial parameters on two main components was obtained and a reasonable reduction of the number of independent variables of multivariate statistical complex was achieved due to the factor analysis. These formed the basis of the cluster analysis and dendrogram construction. Plus trees show a steady correlative proximity to each other in phenotypic characteristics within a single assortment. This allows to apply to them a set of procedures of multidimensional ranking in degree of genotypic dissimilarity. Conclusion: differences between plus trees of Scotch pine in their ability to form a normally developed seeds are largely due to their genotype.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/50/28</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.22/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

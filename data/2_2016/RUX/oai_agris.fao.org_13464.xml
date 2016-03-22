@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13464">
+    <dc:title xml:lang="en">STUDY OF ACTION OF CAROTENE-CONTAINING DRUGS ON DYNAMICS OF LIPID METABOLISM IN PIGLETS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ИССЛЕДОВАНИЕ ДЕЙСТВИЯ КАРОТИНСОДЕРЖАЩИХ ПРЕПАРАТОВ НА ДИНАМИКУ ПОКАЗАТЕЛЕЙ ЛИПИДНОГО ОБМЕНА У ПОРОСЯТ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lyubina E.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">piglets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cholesterol</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">lipoproteins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">triglycerides</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carotenes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5872</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1584</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4367</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14992</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9632</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The concentration of triacylglycerides, total cholesterol, cholesterol of high density lipoproteins, low density lipoproteins, and VLDL were determined using the acoustic analyzer of bio-media BIOM-01M for the characterization of lipid metabolism in the blood of pigs. Study of the intensity of the processes of lipid peroxidation was carried out by evaluating the content of malonic dialdehyde in liver homogenates in piglets. The research was carried out on piglets of large white breed of the stud farm of Ulyanovsk region. Three groups of animals were formed (5 animals each): the 1 (control) received basic household diet</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">group 2 (experienced) - in addition to basic diet received the drug β-carotene "Betatsinol"</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">the 3 (experienced) - in addition to basic diet received the drug β-carotene "Betaviton".  As a result of research in the serum of piglets of experimental groups, compared with those from control, significant increase in the level of triacylglycerides was found, this best reflects the energy security of their body. In the liver homogenates of piglets of 2 and 3 experimental groups, the decrease in the intensity of processes of lipid peroxidation was detected, which suggests that the drugs are effective antioxidants. The inclusion of additives of beta-carotene in addition to basic diet contributes to the correction of the overall oxidative stress and has a beneficial impact on lipid metabolism of young animals.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Для характеристики липидного обмена в  крови свиней определяли концентрацию триацилглицеридов, общего холестерина, холестерина липопротеинов высокой плотности, липопротеинов низкой плотности и  липопротеинов очень низкой плотности с помощью акустического анализатора биосред БИОМ -01М.  Изучение интенсивности процессов перекисного окисления липидов проводили по оценке содержания малонового диальдегида в гомогенатах печени у поросят. Исследования проводились на поросятах крупной белой породы племзавода Ульяновской области. Были сформированы три  группы животных по 5 голов в каждой: 1-я (контрольная) - получала основной хозяйственный рацион</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2-я (опытная)  - дополнительно к основному рациону получала препарат β-каротина «Бетацинол»</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3-я (опытная) - дополнительно к основному рациону получала препарат β-каротина «Бетавитон». В результате  исследований  в сыворотке крови поросят опытных групп по сравнению с аналогами из контроля установлено значительное увеличение уровня триацилглицеридов, что отражает лучшую энергетическую обеспеченность их организма. В гомогенатах печени поросят 2 и 3 опытных групп выявлено снижение интенсивности процессов перекисного окисления липидов, что свидетельствует о том, что применяемые препараты проявляют себя как эффективные антиоксиданты. Включение дополнительно к основному рациону добавок бета-каротина способствует коррекции общего окислительного стресса и оказывает благоприятное воздействие на состояние показателей липидного обмена молодняка.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-15-Lyubina.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(30)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

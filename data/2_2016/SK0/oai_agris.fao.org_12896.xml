@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012896">
+    <dc:title xml:lang="en">The Risk of Influence of Copper to the Environment in Burdened Territory by Anthropogenic  Activities from Contaminated Sediments</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Urminská Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovenská poľnohospodárska univerzita, Nitra, e-mail: jana.urminska@uniag.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Copper</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">water reservoirs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1868</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8324</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this research was to analyze and evaluate the sediment of selected water reservoirs of Banská Štiavnica, to determine the concentrations of selected potentially toxic element Cu in the sediments and assess the riskiness of the impact Cu on the environment. Selective sequential extractions are used for fractionation of solid element forms in contaminated sediments. The analyses of the sediment samples were carried out by the atomic absorption spectrometry method with using by seven-steps selective sequential extraction (speciation by Ziehen and Brűmmer). The total concentration of Cu in sediments varied from 8.6 to 14.0 mg.kg–1dry matter. Available forms of Cu in sediments of the water reservoirs: the Počúvadlo represented 26 % share, the Little Richňava 30 % share, the Great Richňava 30 % share, the Windšachta with share of 23 %. The residual fraction of Cu in the sediment of water reservoirs: the Počúvadlo represented 48 % share, the Little Richňava 43 % share, the Great Richňava 45 % share and the Windšachta with 49 % share.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/FEE/fakulta_fee/afe/afe_28/akta-fee_28-2013-zaciatok.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta Facultatis Ecologiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-300X</ags:citationIdentifier>
+      <ags:citationNumber>v.28/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

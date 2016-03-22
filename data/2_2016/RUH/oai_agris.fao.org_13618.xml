@@ -1,0 +1,69 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H13618">
+    <dc:title xml:lang="ru">ФАКТОРЫ, ОПРЕДЕЛЯЮЩИЕ ИНЖЕНЕРНО-ГЕОЛОГИЧЕСКИЕ УСЛОВИЯ ОТРАБОТКИ ВЕРХНЕ-АЛИИНСКОГО МЕСТОРОЖДЕНИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE FACTORS DEFINING ENGINEERING AND GEOLOGICAL CONDITIONS OF MINE DEVELOPMENT OF THE FIELD VERHNE-ALIINSKOE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Абатурова  И.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Патракова  М.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Уральский государственный горный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">technical properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mineral resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fields</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2572</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4852</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2894</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18454/IRJ.2015.42.132</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Статья посвящена изучению инженерно-геологических условий Верхне-Алиинского месторождения. Одной из
+главных задач на стадии изучения месторождений является выявление и оценка основных факторов определяющих
+условия отработки, а следовательно и безопасность ведения любых работ на территории месторождения.
+Набор факторов определяется в первую очередь условиями формирования месторождения, геолого-
+структурными особенностями, литолого-петрографическими типами вмещающих пород и руд, сейсмичностью
+территории, геокрилогическими особенностями и конечно способом отработки месторождения.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Article is devoted to studying of engineering-geological conditions of the Upper-Aliinsky field. One of the main tasks at a
+stage of studying of fields is identification and an assessment of major factors defining working off conditions, and
+consequently also safety of conducting any works in the field territory.
+The set of factors is defined first of all by conditions of formation of a field, geological and structural features, litologopetrographic
+types of containing breeds and ores, seismicity of the territory, geocryological features and certainly way of
+working off of a field.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/12/11-6-42.pdf#page=6</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.11-6(42)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

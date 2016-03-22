@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="CO2016000091">
+    <dc:title xml:lang="es">Sistema de apoyo a la toma de decisiones para la selección de especies forrajeras (STDF) en función de la oferta ambiental en Colombia</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>A decision-making support system to select forages according to environmental conditions in Colombia</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Cartagena V. José R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cárdenas Rocha Edgar Alberto</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forage harvesters</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">succulent feeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_429</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2829</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25763</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27026</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>11 figs., 3 tabs., 20 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">La baja oferta de alimento, problema que aqueja a un alto porcentaje de la población ganadera de Colombia, se asocia, en gran medida, a la selección equivocada de especies forrajeras</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">es decir, con frecuencia las especies sembradas no están adaptadas a la oferta ambiental de una región en particular. Para atenuar el riesgo de la baja oferta forrajera, sin incurrir en costos asociados al cambio de la oferta ambien tal, es preciso aprovechar las habilidades fisiológicas de las especies para hacer frente al ambiente donde crecen. Para ello, se desarrolló un sistema de toma de decisiones para la selección de especies forrajeras (STDF), herramienta básica en la transferencia de tecnología agropecuaria que tiene por objetivo atenuar la incertidumbre al definir las especies fo rrajeras aptas para un ambiente determinado. El sistema se desarrolló a partir de fundamentos básicos de la gestión del conocimiento, por lo que en su construcción no se diseñó ningún experimento, sino que se aprovechó la información existente en el país, proveniente de evaluaciones realizadas en el pasado. A partir de la información recabada, se generó una base de datos de requerimientos de las especies, de tal forma que el sistema, desarrollado e implementado sobre ASP.NET en C# y base de datos SQL Server, relaciona am bientes y requerimientos de cultivos. Dicho sistema permite a los usuarios realizar procesos de búsqueda y selección de especies de pastos y forrajes de acuerdo con las condiciones edafoclimáticas de una determinada finca o región, de ma nera sencilla y amigable. Palabras claves: conjuntos difusos, forrajes, gestión del conocimiento, oferta y demanda ambiental, pastos, reducción de incertidumbre.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Low food supply is a major problem affecting a large percentage of the livestock population in Colombia and is largely associated to inappropriate choice of forage species</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">and thus not well adapted to the environmental conditions of a specific region. To mitigate this problem, without incurring increasing costs associated to changing environmental conditions, it is possible to match the adaptive capacity of species to the environment in which they grow. A decision support system was developed to select suitable forage species for a given environment. The system is based on the use of existing information about requirements of the species rather than specific experimentation. From the information gathered, a database was generated and implemented on ASP.NET in C # and SQL Server database. This system allows users to search and select pastures and forage species for specific soil and climatic conditions of a particular farm or region, through a user-friendly web platform.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.corpoica.org.co/SitioWeb/Archivos/Revista/RevCorpoicaVol14-2cap08.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Revista CORPOICA : Ciencia y Tecnología Agropecuaria</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">01228706</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

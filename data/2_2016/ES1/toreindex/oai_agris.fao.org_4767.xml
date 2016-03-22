@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104767">
+    <dc:title xml:lang="es">EVALUACIÓN DE LA RESISTENCIA GENÉTICA DEL GANADO CRIOLLO HARTÓN DEL VALLE AL VIRUS DE LA LEUCOSIS BOVINA EN INFECCIÓN NATURAL</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>EVALUATION OF GENETIC RESISTANCE OF CREOLE CATTLE HARTÓN DEL VALLE TO LEUCOSIS BOVINE VIRUS IN NATURAL IFECTION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hernández Darwin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Álvarez  Luz</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Muñoz Jaime</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Nacional de Colombia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Nacional de Colombia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Nacional de Colombia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Disease resistance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic markers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2328</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the Creole cattle traits of interest have been reported as disease resistance. Bovine leukosis is caused by the bovine leukosis virus (BLV). Polymorphisms in the gene of the Bovine Leukocyte Antigen (BoLA) have been associated with resistance to different diseases. In 93 animals Hartón del Valle, 30 Lucerna  and 30 Holstein,  related to bovine leucosis variables were evaluated, polymorphisms of BoLA-DRB3 gene were associated. Racial effect on the development of leukosis was found. The Hartón del Valle presented VLB less infection, less persistent lymphocytosis and less proviral load while more antibodies against the VLB Lucerna and Holstein. High genetic diversity of the DRB3 gene was found. Positive and negative associations between alleles of the DRB3 gene and evaluated variables BLV were found. Heterozygote advantage against developing the disease was evidenced. Amino acid motifs present were found in alleles of resistance and absent in the susceptible. We conclude that the native cattle Hartón del Valle can be considered a slow progressor bovine leukosis, explained in part by the DRB3 gene polymorphisms.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">En los bovinos criollos se han reportado rasgos de interés como la tolerancia al calor y humedad, fertilidad y longevidad, rusticidad y capacidad para aprovechar forrajes toscos y resistencia a enfermedades. La leucosis bovina es producida por el Virus de la Leucosis Bovina (VLB) está presente en los bovinos de muchos países y ocasiona grandes pérdidas económicas. El Complejo Mayor de Histocompatibilidad de los bovinos es conocido como Antígeno Leucocitario Bovina (BoLA), los polimorfismos en este gen han sido asociados con resistencia a diferentes enfermedades. En 93 animales Hartón del Valle, 30 Lucerna  y 30 Holstein, se evaluaron variables asociadas a la leucosis bovina como: la presencia del VLB mediante PCR-anidada, el desarrollo de linfocitosis por extendidos de sangre, los títulos de anticuerpos usando ELISA y la carga proviral mediante Q-PCR en tiempo real, durante un año. Se evaluaron los polimorfismos del gen DRB3 a través de PCR-SBT y se asociaron con las variables de desarrollo de la leucosis bovina. Se encontró un efecto racial sobre el desarrollo de la leucosis, así, el Hartón del Valle presentó, menor infección por el VLB, menos linfocitosis persistente y carga proviral y más anticuerpos contra el VLB que el Lucerna y el Holstein. Se encontró alta diversidad genética del gen DRB3, no hubo déficit de heterocigotos, ni desviaciones del equilibrio de Hardy-Weinberg y moderada diversidad nucleotídica. Se hallaron asociaciones positivas y negativas entre los alelos del gen DRB3 y las variables evaluadas de la leucosis bovina. Se asociaron positivamente los alelos *1101 y *2703 con baja infección del virus, bajo desarrollo de linfocitosis, altos anticuerpos contra el VLB y baja carga proviral, y se consideraron alelos resistentes al desarrollo y/o progresión de la leucosis bovina, mientras que, el alelo *1701 se asoció negativamente y se consideró susceptible. Se evidenció una ventaja del heterocigoto al contra el desarrollo de la enfermedad. Se encontraron motivos aminoacídicos presentes en los alelos de resistencia y ausentes en el susceptible. Se concluye que el ganado criollo Hartón del Valle puede ser considerado un progresor lento a la leucosis bovina, explicado en parte por los polimorfismos del gen DRB3.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo007_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

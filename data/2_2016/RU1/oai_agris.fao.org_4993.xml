@@ -1,0 +1,42 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016104993">
+    <dc:title xml:lang="en">Free Radical Scavenging Activity and HPLC Analysis of Araucaria cunninghamii Aiton ex D. Don Leaf Extract</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gautam Vandana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Arora Saroj</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kapoor Dhriti</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bhardwaj Renu</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">HPLC</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24469</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Background: Several diseases are caused in the body due to oxidative stress of free radicals. The objectives of the present study were to investigate the antioxidant activity of Araucaria cunninghamii Aiton ex D. Don (Araucariaceae) leaf extract. The dried leaves of Araucaria cunninghamii Aiton ex D. Don (Araucariaceae) were extracted with 80% methanol. The antioxidant activity of the extract was predicted through in vitro model systems such as 1,1-diphenyl-2-picryl hydrazyl (DPPH), reducing power and nitric oxide scavenging assays. The total phenolic, flavonoid and tannin content of the extract were also estimated in order to draw the correlation with their bioactivities. The extract was also investigated for several polyphenolic compounds using High-performance liquid chromatography (HPLC). 
+Results: The antioxidant activity of extract was found to be excellent in all the three assays. A positive correlation between the antioxidant activity and phenolic content was observed. HPLC analysis identified the presence of Gallic acid, Catechin, Chlorogenic acid, Epicatechin, Caffeic acid, Umbelliferone, Ellagic acid, Quercetin and Kaempferol in the methanol leaf extract of Araucaria cunninghamii Aiton ex D. Don.
+Conclusions: The results of the present study point towards the fact that Araucaria cunninghamii Aiton ex D. Don leaves possess good antioxidant potential. The strong antioxidant activity can be correlated with the polyphenolic compounds present in the leaves.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N3/JSPB_2014_3_176-185.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A03368">
+    <dc:title xml:lang="en">WAYS OF SOLUTION OF TIMBER HARVESTING PROBLEMS IN EXTREME CONDITIONS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ПУТИ РЕШЕНИЯ ПРОБЛЕМ ЛЕСОЗАГОТОВОК В ЭКСТРЕМАЛЬНЫХ УСЛОВИЯХ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SHIRNIN  Yuri</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHIRNIN Аlexander</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">J12</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">logging</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hauling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">felling areas</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7775</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28149</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28057</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The subject of the research are extreme conditions of timber harvesting, combined method of skidding, modular concept of machine arrangement, mathematical models of technological processes of criteria of estimation. A grounding to “extreme conditions of timber harvesting” term is given and photos of such conditions are offered. In order to develop felling points in extreme conditions, a combined method with the use of cable and tractor skidding, based on modular principle of machine arrangement, is offered. An engineering solution for combined skidding implementation was stated. A process scheme for establishment of felling points with the use of this type of skidding in extreme conditions was offered. The systems of modular machines for elaboration of such felling points were composed. A preliminary estimate of technological processes and machines systems with the use of the offered criteria is given. In comparison with basic systems of machines, including harvester and forwarder, the offered systems have ad-vantage due to energy saving during free and operating run of working machine along cutting strips. Specific (to the total felling area) areas of main logways are also being reduced, thus, there is no need in cutting strips laying.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/52/29</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.22/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

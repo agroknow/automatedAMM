@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P11111">
+    <dc:title xml:lang="ru">ИЗУЧЕНИЕ  ПРОДОЛЖИТЕЛЬНОСТИ ВЕГЕТАЦИОННОГО ПЕРИОДА  У ГИБРИДОВ  F2  МЯГКОЙ ПШЕНИЦЫ В УСЛОВИЯХ АЗЕРБАЙДЖАНА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STUDYING OF DURATION OF THE VEGETATIVE PERIOD AT HYBRIDS F2 OF COMMON WHEAT IN CONDITIONS OF AZERBAIJAN</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hajiyeva  S.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aliyev  E.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ahmedov  E.Sh.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abdullayev  A.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Modern Science Success</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant genetics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">breeding methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49985</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1079</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: wheat, variety, genotype, vernalization, vegetative period</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье приведены результаты диаллельно-реципрокных анализов гибридов 30-ти комбинаций F2 от скрещивания 6–ти сортов мягкой пшеницы Азербайджанской местной селекции. Показана их идентичная реакция на естественный короткий день и установлена различная реакция по отношению к высокой температуре в период «колошение – созревание». Выявленные относительно раннеспелые гибридные формы позволили судить о действиях генов системы Eps (per se-собственная скороспелость). Разница по продолжительности вегетационного периода в популяциях позволяет успешно использовать их в качестве исходного материала для создания менее чувствительных к высоким температурам генотипов в южных ре-гионах, каковым является территория Азербайджана.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Results of diallel-reciprocal analyses of hybrids of 30 combinations of F2 from crossing of 6 varieties of common wheat of Azerbaijan are provided in the article. Their identical reaction to a natural short day is shown and various reactions in relation to a heat during the period “heading – maturing” is established. Rather early ripening hybrid forms that have allowed to judge of genes actions of Eps system (per se- personal earliness) are revealed. The difference on duration of the vegetative period in populations allows using them successfully as an initial material for creation of less sensitive genotypes to heats in southern regions which is the territory of Azerbaijan.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_ec0c27850b29472582032eae8b8a7134.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№2, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

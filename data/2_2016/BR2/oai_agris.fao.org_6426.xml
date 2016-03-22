@@ -1,0 +1,87 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206426">
+    <dc:title xml:lang="en">The impact of sowing dates and varieties on the incidence of Oxycarenus laetus and Dysdercus koingii on cotton</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>O impacto da época de semeadura e das variedades na incidência de Oxycarenus laetus e Dysdercus koingii sobre algodão</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Shahid Muhammad Rafiq</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mahmood Abid</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Farooq Jehanzeb</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shahid Muhammad Tasdeeq Hussain</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Asif Muhammad</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ramzan Muhammad</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Akram Muhammad</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Iqbal Muhammad Shahid</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Cotton Research Institute, Faisalabad, Paquistão</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Cotton Research Institute, Faisalabad, Paquistão</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Cotton Research Institute, Faisalabad, Paquistão</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Cotton Research Institute, Faisalabad, Paquistão</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Cotton Research Institute, Faisalabad, Paquistão</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Cotton Research Institute, Faisalabad, Paquistão</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Cotton Research Institute, Faisalabad, Paquistão</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Cotton Research Institute, Faisalabad, Paquistão</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultural methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29762</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Dusky bug (Oxycarenus laetus) and red cotton bugs (Dysdercus koingii) are commonly known as seed bugs
+because they feed on cotton seed. They have become major threat to cotton in Pakistan since last two years. The present studies were therefore planned to find out the role of sowing dates in cotton pest population. The dusky and red cotton bug population varied considerably with respect to date of sowing. The results revealed that invasion of both bugs was significantly more in case of early sowing ( up to 15 red cotton bug/plant &amp; 25 dusky bugs/boll) than in normal and late sowing (8 to 10 red cotton bugs &amp; 10 to 12 dusky bug/boll respectively). Sampling dates exhibited that population
+of cotton bugs (dusky and red cotton bug) was higher during first week of October followed by mid September, 2013, whereas lower in late sowing. Varietal comparison depicted that FH-118 and FH-142 showed non significant difference for red and dusky cotton bug population. The results further
+explained that peak population of red cotton bug was recorded during the month of October, 2013.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Oxycarenus laetus e Dysdercus koingii são comumente conhecidos como erros de sementes porque se alimentam de sementes de algodão. Eles tornaram-se grande ameaça para o algodão no Paquistão nos últimos dois anos. No presente estudo foram, realizados para descobrir o papel do periodo de semeadura na população da praga do algodão. A população das pragas variou consideravelmente em relação a data da sementeira. Os resultados revelaram que a invasão de ambos os insetos foi significativamente maior em caso de semeadura precoce (até 15 Dysdercus koingii / planta e 25 Oxycarenus laetus / capulho) do que na semeadura normal e tardia (8 a 10 Dysdercus koingii e 10-12 Oxycarenus laetus / capulho respectivamente). Datas de amostragem apresentaram que a população de insetos de algodão foi maior durante a primeira semana de outubro, seguidos de meados de setembro de 2013, enquanto a mais baixa em semeadura tardia. Comparação Varietal retratado que FH-118 e FH-142 demonstrou nenhuma diferença significativa
+para a população de insetos. Os resultados explicam ainda que o pico da população de Dysdercus koingii foi atingido durante o mês de outubro de 2013.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/488/280</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

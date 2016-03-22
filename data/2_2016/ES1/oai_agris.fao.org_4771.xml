@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104771">
+    <dc:title xml:lang="es">EL MAWECHI Y OTRAS ESTRATEGIAS AGROPECUARIAS TRADICIONALES DE LA FAMILIA RARAMURI, EN LA SIERRA TARAHUMARA</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE MAWECHI AND OTHER TRADITIONAL FARMING STRATEGIES FROM THE RARAMURI FAMILY IN THE TARAHUMARA MOUNTAIN RANGE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Rubio Ezequiel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rodríguez Galván Guadalupe</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autonoma de Ciudad Juarez</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Autónoma de Chiapas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The raramuri people have an uncertain economy based on agriculture and cattle addressed to family consumption. These activities are linked to ceremonies, holidays and the way these people organize their work. The purpose of this research is to describe the concepts of mawechi, kumarachi, korima and faina as ordinary strategies in family life in the Chihuahua Mountains. The methodological process includes a comunitary survey and a semi-structured interview about socioeconomic and cultural aspects of family life. The field work took place during the period 2008-2013 in the raramuri community in Chihuahua Mountains. Our research let us to identify three traditional basic elements in the characterization of the socioeconomic aspects of the raramuri families: the mawechi –that connect the person with his farm plot and the natural environment. The kumarachi is the familiar garden that provides nutritional and healing resources. And the korima as a strategy to help to less favoured.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">El pueblo raramuri tiene una economía precaria basada en la agricultura y ganadería de autoconsumo que entre los Rarámuri se encuentra estrechamente ligada a las ceremonias, festividades y forma organizativa del trabajo. El objetivo de este trabajo fue describir los conceptos del mawechi, el kumarachi, la korima y la faina como estrategias cotidianas de vida de las familias en la sierra de Chihuahua. Se utilizó un proceso metodológico que incluye una encuesta comunitaria aplicada a autoridades locales y una entrevista semi-estructurada que indaga datos socioeconómicos y culturales de la familia e información agropecuaria de las unidades de producción. El trabajo de campo se realizó entre 2008 y 2013 en comunidades raramuris en la sierra de Chihuahua. La investigación identificó tres elementos tradicionales básicos de la socio-economía de la familia rarámuri: el mawechi –que vincula de manera integral al hombre, con su parcela y entorno natural–</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">el kumerachi o huerto familiar que provee de productos tradicionales para la alimentación y curación</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">y el korima, como estrategia de ayuda endógena al menos favorecido.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo0010_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

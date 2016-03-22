@@ -1,0 +1,106 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202432">
+    <dc:title xml:lang="pt">Efficacy of corn and rice seed-borne mycoflora in controlling aflatoxigenic Aspergillus flavus</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Eficácia da microbiota fúngica transmitida por sementes de milho e arroz no controle aflatoxigênicos Aspergillus flavus</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Madbouly Adel K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ibrahim Mohamed I.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abdel-Wahhab Mosaad A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ain Shams University, Abbassia, Cairo, Egypt</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Food Toxicology &amp;amp</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Contaminants Department, National Research Center, Dokki, Cairo, Egypt</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Food Toxicology &amp;amp</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Contaminants Department, National Research Center, Dokki, Cairo, Egyp</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Biological control</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cereals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mycoflora</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Aspergillus flavus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Aflatoxins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_918</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1474</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34054</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26370</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8638</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Food commodities such as cereals are subjected to spoilage and bio-deterioration during storage by mycotoxigenic fungi such as Aspergillus flavus. Efforts are done to biologically control toxigenic A. flavus and subsequently prevent or at least minimize its aflatoxin production ability, without the
+need of using synthetic fungicides. Antifungal activity of corn and rice seed-borne mycoflora was tested against a flatoxigenic A. flavus in vitro, using bioassays such as dual culture technique</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">ability to produce volatile and non-volatile metabolites</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ability to inhibit germination and reduce germ
+tube length of A. flavus conidia</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">in vivo reduction of aflatoxins level in corn seeds co-inoculated with the pathogen and antagonists. Penicillum crustosum, Aspergillus giganteus, Fusarium verticillioides and Aspergillus fumigatus isolates showed promising antifungal activities and varying efficiencies of reducing aflatoxins level</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">however, only A. fumigatus isolate was non-aflatoxigenic. It could be concluded that A. fumigatus could be used effectively as a biopreservative to increase shelf life of cereals during storage, but after testing its tendency to produce other mycotoxins or causing human Aspergillosis.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Os produtos alimentares , como cereais estão sujeitos à deterioração e bio- deterioração durante o armazenamento por fungos micotoxigênico como o Aspergillus flavus . Esforços são feitos para controle biológico toxigênico A. flavus e, posteriormente, evitar ou pelo menos minimizar a sua
+capacidade de produção de aflatoxina , sem a necessidade do uso de fungicidas sintéticos. Atividade antifúngica de milho e arroz microbiota fúngica transmitida por semente foi testado
+contra aflatoxigênicos A. flavus in vitro, utilizando bioensaios , como técnica de cultura dual</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">capacidade de produzir metabólitos voláteis e não- voláteis</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">capacidade de inibir a germinação e reduzir o comprimento do tubo germinativo de A. flavus conídios , na redução do nível de aflatoxinas vivo em sementes de milho co- inoculados com o patógeno e antagonistas. Penicillum crustosum , Aspergillus giganteus , Fusarium verticillioides e Aspergillus fumigatus isola mostrou
+promissora atividade antifúngica e variando a eficiência de redução de nível de aflatoxinas , no entanto, somente A. fumigatus foi isolado não- produtoras de aflatoxinas . Pode-se concluir que o A. fumigatus pode ser utilizado eficazmente como um biopreservative para aumentar a vida de prateleira de cereais durante o armazenamento , mas depois de testar a sua tendência para produzir outras micotoxinas ou causando Aspergilose humano.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/284/235</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

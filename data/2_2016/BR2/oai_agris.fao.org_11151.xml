@@ -1,0 +1,94 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016211151">
+    <dc:title xml:lang="en">Attributes of soil quality indicators in area under direct plantingto twelve years</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Atributos indicadores da qualidade do solo numa área sob plantio direto ha doze anos</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Torres José Luiz Rodrigues</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Souza Zigomar Menezes de</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pereira Marcos Gervasio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Assis Renato Lara de</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Federal do Triângulo Mineiro, Campus de Uberaba, Uberaba, MG, Brasil.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual de Campinas, Campinas, SP, Brasil.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal Rural do Rio de Janeiro, Rio de Janeiro, RJ, Brasi</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Federal Goiano, Campus Iporá, Goiás, GO, Brasil.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P33</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">STABILITY</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">humidity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36930</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3689</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The relationship between management and soil quality systems can be evaluated through the changes in their physical attributes and quantified through soil quality indicators. In this study we evaluated changes in soil physical properties after twelve-tillage in the Savanna, Brazil. The design was randomized blocks, where they were evaluated five covers soil (sun hemp, millet, sorghum, Brachiaria and fallow), evaluated in two seasons (2002 and 2012). The aggregate stability (SA), mean weighted diameter was evaluated (MWD), geometric (MWG), aggregate stability indices (ISA), sensitivity (Is) and the percentage of aggregates of a diameter greater than 2 mm (AGRI), mechanical resistance to penetration (RP), bulk density (Ds) and water content (UV), with four
+repetitions. The best soil aggregation indices of areas with sorghum coverage</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">EA in the area increased after ten years of no tillage</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">The increase of the Ds in the deeper layers caused the decrease of the MW and MWG and confirmed the effect of this parameter SA in the soil</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Significant correlations of Ds with the other parameters showed the importance of this attribute as soil quality indicator</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">In 2012 it was found the soil compaction in all treatments in the depth of 0.30 m</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">A relação entre sistemas de manejo e qualidade do solo pode ser avaliada através das alterações ocorridas em seus atributos físicos e quantificada através de indicadores da qualidade do solo. Neste estudo avaliou-se as alterações nos atributos físicos do solo após doze de plantio direto no Cerrado. O delineamento utilizado foi de blocos ao acaso, onde foram avaliadas cinco coberturas do solo (crotalária, milheto, sorgo, braquiária e pousio), avaliadas em duas épocas(2002 e 2012). Foi avaliada a estabilidade dos agregados (EA), diâmetro médio ponderado (DMP), geométrico (DMG), índices de estabilidade de agregados (IEA), de sensibilidade (Is) e da porcentagem de
+agregados com diâmetro superior a 2 mm (AGRI), resistência mecânica a penetração (RP), densidade do solo (Ds) e umidade volumétrica (Uv), com 4 repetições. Os melhores índices de agregação do solo ocorreram nas áreas com cobertura de sorgo</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">AEA na área aumentou após
+dez anos de plantio direto</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O aumento da Ds nas camadas mais profundas causou a diminuição do DMP e DMG e confirmou o efeito deste parâmetro na AEA no solo</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">As correlações significativas
+da Ds com os outros parâmetros evidenciaram a importância deste atributo como indicador de qualidade do solo</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">No ano de 2012 foi constatada a compactação do solo em todos os tratamentos
+na profundidade de 0,30 m.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.comunicatascientiae.com.br/comunicata/article/download/539/311</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

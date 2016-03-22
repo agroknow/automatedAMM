@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102565">
+    <dc:title xml:lang="en">The effects of endogenous mycorrhiza (Glomus spp.) on plant growth and yield of grafted cucumber (Cucumis sativum l) under common commercial greenhouse conditions</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BABAJ ISMET</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SALLAKU GLENDA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BALLIU ASTRIT</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Agricultural University of Tirana, Department of Horticulture and Landscape Architecture, Tirana, Albania.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">inoculation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth rate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3879</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16130</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of the study was to evaluate the effect of the Arbuscular mycorrhizae (AM) fungi on plant growth and yield of grafted cucumber seedlings. The experiment was conducted in a plastic greenhouse located in Shipol, Mitrovica municipality of Kosovo.Graded seeds of cucumber (cv. Ekron F1), and graded seeds of a rootstock (cv. Nimbus F1</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">C. maxima Duchesne x C. moschata Duchesne), were sown in polysterol trays. Three types of grafted seedlings</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">self-grafted (SEG), splice grafted (SG) and root pruned splice grafted (RPSG) were simultaneously produced in equal number as inoculated and non- inoculated with endogenous mycorrhiza. The combined effects of grafting methods and endogenous mycorrhiza (Glomus spp.) application on the growth parameters during the nursery period as well as growth rate and yield after transplanting were tested under common commercial conditions. The different grafting methods of cucumber seedlings on C. maxima x C. moschata (SG versus RPSG) have significant effects on seedlings growth parameters. Despite of commonly higher relative growth rate of RPSG seedlings till the transplanting time, SG seedlings have a significantly higher total plant dry weight (W). No difference was found regarding leaf dry weight (LW), while a significantly larger leaf area was found for RPSG seedlings. No effect of AM fungi presence was found regarding the growth parameters of grafted cucumber seedlings during the nursery stage, but the presence of AM fungi has significantly improved the growth rate of each grafting method after transplanting, as also increased the total harvested yield. The highest yield was recorded by AM inoculated RPSG seedlings.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4OjVlYjFmOTdiZTRmMmMxNDk</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

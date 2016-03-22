@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A11476">
+    <dc:title xml:lang="en">STUDY OF ELEVATOR TRAVELLING SPEED INFLUENCE ON PIECEWISE DELIVERY OF LOGS IN BUFFER MAGAZINE WITH LOG SORTER WITH ONE GRIP LENGTH</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ИССЛЕДОВАНИЕ ВЛИЯНИЯ СКОРОСТИ ДВИЖЕНИЯ ТРАНСПОРТЕРА НА ПРОЦЕСС ПОШТУЧНОЙ ВЫДАЧИ БРЕВЕН В БУФЕРНЫХ МАГАЗИНАХ С ОТСЕКАТЕЛЯМИ С ПОСТОЯННОЙ ДЛИНОЙ ЗАХВАТА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>CHEMODANOV Alexander</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TSAREV Pavel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">timber trees</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7776</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The subject of the article is woodworking equipment. Particular attention is paid to piecewise delivery of logs. The object of the work is to calculate influence of background factor of dip angle of work surface and travelling speed of elevator on pressure force of log layer. On the back of this, the following task was set: to deduce regression equation for calculation of output – pressure of one-layer raw of logs on log sorter. In the course of experimental research the variables which influence on output varied in a certain range. Calculation results, got in solution of the equation of regression of the first and second order and the results of experimental data have inconsequential discrepancy and describe virtual process rather accurate. The obtained data are inserted in tables, dependences are represented in the diagrams. The offered material may be used in designing new equipment constructions for piecewise delivery of logs. At that, it is important to continue research in the sphere and to take into account many other factors which influence on the process of piecewise delivery of logs.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Описана методика получения уравнений регрессии усилия давления однорядного слоя круглых лесоматериалов на отсекатели при поштучном отделении в зависимости от скорости движения цепей поперечного цепного транспортера. Приведены результаты сравнения точности отражения усилия давления уравнениями регрессии первого и высшего порядков.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/104/90</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.18/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

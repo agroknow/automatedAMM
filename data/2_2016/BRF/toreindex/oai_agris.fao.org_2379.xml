@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02379">
+    <dc:title xml:lang="en">Replacement of oybean meal by soybean cleaning residue on finishing lamb diets</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Resíduo de limpeza de soja em substituição ao farelo de soja na dieta de cordeiro em terminação</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>CAÇÃO, M.M.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS, G.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CAVALETTI, M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BUENO, M. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NARDON,  R.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PEREIRA,  J.O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carcasses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feedlots</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed conversion efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cassava</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Panicum maximum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1310f6eee3d3</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2842</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16125</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9649</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5537</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study aimed to evaluate the replacement of soybean meal by soybean cleaning residue on performance, carcass traits and non–carcass components of finishing lambs. The experiment was conducted in a completely randomized design using 24 texel lambs, with average initial weight of 21.35±0.62 kg, distributed in four treatments: 1) 0% of soybean cleaning residue, 2) 25% of soybean cleaning residue, 3) 50% of soybean cleaning residue and 4) 75% of soybean cleaning residue in replacement of soybean meal. The diets were composed of 40% of roughage (50% of cassava foliage plus 50% of Panicum maximum cv aruana) plus 60% of concentrate. The performance and carcass traits and non-carcass components of the lambs were not affected by the different levels of soybean cleaning residue used in the diets. Soybean cleaning residue can be used up to 75% in replacement of soybean meal, without impairment of performance and carcasses traits.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo deste trabalho foi avaliar a substituição do farelo de soja por resíduo de limpeza de soja no desempenho, nas características e rendimento da carcaça e dos componentes não-carcaça de cordeiros confinados. O experimento foi realizado sob delineamento inteiramente casualizado, utilizando 24 cordeiros, com base genética Texel e peso médio inicial de 21,35±0,62 kg, divididos em quatro tratamentos: 1) 0% de resíduo de limpeza de soja</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2) 25% de resíduo de limpeza de soja</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3) 50% de resíduo de limpeza de soja e 4) 75% de resíduo de limpeza de soja em substituição ao farelo de soja. As dietas foram compostas de 40% de volumoso (50% feno de rama de mandioca e 50% de feno de Panicum maximum cv aruana) e 60% de ração concentrada. As características de desempenho, os componentes de carcaça e não-carcaça não foram influenciados pelos diferentes níveis de inclusão de resíduo de farelo de soja na alimentação dos ovinos. Resíduo de limpeza de soja pode ser utilizado até 75% de substituição ao farelo de soja sem prejuízos para o desempenho e características da carcaça.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1403097448.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

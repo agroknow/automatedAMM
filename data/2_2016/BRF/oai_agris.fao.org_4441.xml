@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F04441">
+    <dc:title xml:lang="en">Cupuassu cake in feeding feedlot Nellore young bulls</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Torta de cupuaçu na alimentação de tourinhos Nelore confinados</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MOTA, D.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FRAGATA, N.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRITO, E.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CASAGRANDE,  D. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ROSA, B.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BORGES, C.R.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeding behaviour</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Digestibility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soybean meal</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Consumption</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10778</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2266</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16043</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">This study aimed to evaluate the intake, digestibility and feeding behavior of Nellore young bulls, fed with diets containing different levels of cupuassu cake. Five animals with an average body weight (BW) of 186.8 ± 19.5 kg and approximately 13 months of age were used. The animals were divided into five treatments with different levels of cupuassu cake (CC): 0.0%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">5.0%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">15% and 20%, in substitution of corn and soybean meal and were subjected to the experiment 5 × 5 latin square, composed of five animals and five periods. Each of the five experimental periods lasted 15 days: 10 days for diet adaptation and five days for the assessment of nutrient digestibility. The feeding behavior (visual observation) was measured at the end of each experimental period (15th day) for 24 h. The dry matter (DMI), ether extract (EEI) and crude protein intake (CPI), all expressed in kg/day and %BW, presented a quadratic effect (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Objetivou-se avaliar o consumo, a digestibilidade dos nutrientes e o comportamento ingestivo de tourinhos Nelore confinados, alimentados com diferentes teores de torta de cupuaçu na dieta. Foram utilizados cinco animais com peso vivo (PV) médio de 186,8± 19,5 kg e aproximadamente 13 meses de idade. Os animais foram distribuídos em cinco tratamentos contendo diferentes teores de torta de cupuaçu (TC): 0%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">5%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">15% e 20%, em substituição ao milho e farelo de soja. O delineamento experimental utilizado foi o quadrado latino 5 × 5, composto de cinco animais e cinco períodos experimentais. Cada período experimental teve duração de 15 dias: 10 dias de adaptação à dieta e cinco dias para a avaliação da digestibilidade dos nutrientes. A mensuração do comportamento ingestivo (observação visual) foi realizada no final de cada período experimental (15º dia), durante 24 h. O consumo de matéria seca (CMS), extrato etéreo (CEE) e de proteína bruta (CPB), expresso em kg/dia e %PV, apresentaram efeito quadrático (P0,10) entre os teores de inclusão. A inclusão de até 5% de torta de cupuaçu, em substituição ao farelo de soja e milho, é recomendado em dietas para tourinhos Nelore em confinamento, pois não interfere no consumo e digestibilidade de nutrientes e comportamento ingestivo dos animais.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://iz.sp.gov.br/pdfsbia/1418132671.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

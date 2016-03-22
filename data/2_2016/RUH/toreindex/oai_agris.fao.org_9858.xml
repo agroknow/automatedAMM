@@ -1,0 +1,106 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09858">
+    <dc:title xml:lang="en">IMPROVEMENT OF PROCESSING METHODS ENHANCE THE VITALITY OF THE OFFSPRING OF SHEEP</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>СОВЕРШЕНСТВОВАНИЕ ТЕХНОЛОГИЧЕСКИХ ПРИЕМОВ ПОВЫШЕНИЯ ЖИЗНЕСПОСОБНОСТИ ПОТОМСТВА ОВЕЦ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ahmadiev G.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Safin M.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dmitriev A.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Naberezhnochelninsky state Commerce Technology Institute</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Kazan State Academy of Veterinary Medicine named after N.E. Bauman</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Stavrapol State Agrarian University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L52</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L53</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">foods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">compatibility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pollution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chemicals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7644</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3032</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330885</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6077</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1520</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">To understand the current trends shaping the health of the growing organism, it is important to note that the foundations are laid in the
+viability of the earliest stages of life - during fetal development and the first months and years of life offspring of animals and humans and is
+largely determined by animal health-parents, primarily mothers .
+It was found that the lambs received from ewes that were kept in the winter season of the year, namely since the second half suyagnosti
+the open backyard site with deep litter (experimental group), the level of physiological maturity, total protein, calcium, inorganic
+phosphorus in serum and average daily gain and body weight were superior to their peers born to ewes with an appropriate physiological
+state (control group) who were kept indoors for sheep and backyard area, ie, Kosharnaya-base method. Thus the incidence of lambs in the
+experimental group was 14.3%, loss of 2.9% in the control group - 55.9, respectively, and 12.7%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Для понимания сегодняшних тенденций формирования здоровья растущего организма, важно отметить, что основы
+жизнеспособности закладываются в наиболее ранние периоды жизни – во время внутриутробного развития плода и впервые
+месяцы и годы жизни потомства животных и человека и во многом определяются здоровьем животных-родителей, прежде
+всего, матери.
+Установлено, что ягнят, полученные от овцематок, которые содержались в зимний период сезона года, а именно начиная со
+второй половины суягности на открытой выгульной площадке, с использованием глубокой соломенной подстилки (опытная
+группа), по уровню физиологической зрелости, содержанию общего белка, кальция, неорганического фосфора в сыворотке крови и
+среднесуточному приросту, и живой массе превосходили своих сверстников, рожденных овцематками с соответствующим
+физиологическим состоянием (контрольная группа), которые содержались в закрытом помещении для овец и на выгульной
+площадке, т.е. кошарно-базовым способом. При этом заболеваемость ягнят в опытной группе составила 14,3%, падеж 2,9%, а в
+контрольной группе – соответственно 55,9 и 12,7%.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/5-3-36.pdf#page=97</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.3 (36)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

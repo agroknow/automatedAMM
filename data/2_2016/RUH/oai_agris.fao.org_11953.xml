@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H11953">
+    <dc:title xml:lang="ru">ОПРЕДЕЛЕНИЕ КАЧЕСТВА СЕМЯН ПЕРСПЕКТИВНЫХ ВИДОВ ДЕРНООБРАЗУЮЩИХ ЗЛАКОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE DEFINITION OF QUALITY SEEDS OF PROMISING TYPES TURF GRASSES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Зуева Г.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Хертек Ш.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Центральный сибирский ботанический сад</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Кызыльский государственный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil biology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7160</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">На базе Тувинского Государственного университета г. Кызыла проводятся исследования по изучению качества
+семян перспективных дернообразующих злаков. Введение в культуру устойчивых видов и форм газонных растений
+особенно актуально в республике Тыва, так как отсутствует отработанный ассортимент, районированный для
+этой зоны. Полученные результаты станут основой для моделирования газонных травосмесей в конкретных
+экологических условиях.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">On the basis of Tuva State University in Kyzyl conducted studies on seed quality promising turf grasses. Introduction to
+the culture of sustainable species and forms of grass plants is especially true in the Republic of Tuva, as there is no exhaust
+range, zoned for that zone. The results will be the basis for the modeling of turf grass mixtures in specific environmental
+conditions.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/9-3-40-.pdf#page=11</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.9-3(40)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

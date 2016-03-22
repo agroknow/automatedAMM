@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100330">
+    <dc:title xml:lang="en">REGULATION OF ARABIDOPSIS GDH2 NUCLEAR GENE  EXPRESSION DEPENDS ON FUNCTIONAL STATE OF  MITOCHONDRIA AND CHLOROPLASTS</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Garnik E.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tarasenko V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shmakov V.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bel&amp;amp</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>#039</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>kov V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Konstantinov Yu.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Arabidopsis thaliana</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mitochondria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chloroplasts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">gene expression</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33292</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4869</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9824</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27527</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results of recent studies indicate that expression of some plant nuclear genes depends on functional state of mitochondria and chloroplasts. We have demonstrated that expression of gdh2 gene encoding beta-subunit of mitochondrial glutamate dehydrogenase depends on a redox state of mitochondrial respiratory chain. Treatment of Arabidopsis thaliana cell culture with respiratory complex III inhibitor antimycin A or complex IV inhibitor KCN led to rapid increase of gdh2 transcript content. Complex I inhibition by rotenone had no influence on the transcript level. We suggest that gdh2 expression responds to changes of redox state of the respiratory chain segment located between complex I and complex III. We suppose that the revealed effect is not due to elevated generation of reactive oxygen species occurring upon the electron transport chain blockage, because cell treatment with hydrogen peroxide and paraquat did not lead to induction of gdh2 expression. Experiments with Arabidopsis green seedlings have demonstrated that gdh2 gene expression and GDH2 enzyme activity decrease strongly in the normal and high light conditions and increase in darkness. Resuming our experiments on different Arabidopsis organs and cell types we generalize that gdh2 expression is maximal when both respiratory and photosynthetic electron transport chains are inhibited, and minimal when both of the electron transport chains are highly active. There are a number of hypotheses which would explain such a regularity. The first one proposes an energetic deficit as a regulatory factor initiating gdh2 gene induction. We assume, however, that sugar starvation or ATP depletion cannot be the main factors in regulation of gdh2 expression, because oxidative phosphorylation uncoupling by FCCP did not mimic the effects of antimycin A or prolonged dark treatment on the gdh2 gene expression. The second hypothesis is developed for chloroplast-to-nucleus signaling and proposes that the regulatory signal can be initiated by redox state of plastoquinone pool and mediated by thylakoid membrane-bound protein kinases. We assume that similar mechanism would exist also in mitochondria-to-nucleus signaling, so that gdh2 expression would depend on redox state of both ubiquinone and plastoquinone pools. This is confirmed by our experiments, in which the involvement of serine/threonine protein kinases in the antimycin-related gdh2 induction was demonstrated as an ultimate step in transduction of the regulatory signal to the nucleus. Abscisic acid and/or pyridine nucleotides ratio changes can also participate in the retrograde regulation of gdh2 gene expression. Thus, we have demonstrated that regulation of gdh2 gene expression depends on mitochondrial and chloroplast functional state, and it can be considered as another example of retrograde regulation. The redox states of ubiquinone/plastoquinone pools are the most likely primary factors of this regulation type, which also involves serine/threonine protein kinases in signal transduction.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N3/JSPB_2012_3_S32.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

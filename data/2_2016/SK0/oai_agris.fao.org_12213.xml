@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012213">
+    <dc:title xml:lang="en">Acrylamide content and antioxidant capacity in thermally processed fruit products</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kukurová Kristína</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Constantin Oana Emilia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dubová Zuzana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tobolková, B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Suhaj Milan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nystazou Zografia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rapeanu Gabriela</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ciesarová Zuzana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fruits</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">processing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">acrylamide</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3131</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6195</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Acrylamide as a known processing contaminant was determined in various heat-treated plum products purchased from a local market using LC/ESI-MS-MS. The highest level of acrylamide in the range up to 60 μg/kg was detected in a plum stew known as a "povidla", and in prunes, respectively. These products typically undergo intensive heat treatment that may take from several hours to days. Using a fruit dehydrator in home production of prunes, a low level of acrylamide under LOQ (15 μg/kg) was detected in comparison to most commercial products. Only in one of the prune samples from the market was the acrylamide content near to LOQ. The highest content of acrylamide (46 μg/kg) was detected in the Slovak sample of prune originated in Nitra region. High acrylamide content, in the range from 23 to 45 μg/kg, was observed in prunes from South America. In the rest of analysed heat-treated plum products such as plum juice, plum compote or baby food with plum puree, acrylamide was not detected due to moderate conditions during thermal processing: temperature below 120 °C and a shorter time of thermal exposure. The total phenolic content and antioxidant capacity of prunes were analysed using a UV-VIS-NIR spectrophotometer and an electron paramagnetic resonance (EPR) spectroscopy. Home-prepared prunes were characterized by the highest content of phenolics (4780 mg GAE/kg) and antioxidant capacity (14.6 mmol TEAC/kg). Commercial samples of prunes reached phenolics in the range from 1619 to 3461 mg GAE /kg, and antioxidant capacity was observed between 6.1 and 12.1 mmol TEAC/kg. Antioxidant capacity of prunes strongly correlated with total phenolic content and yellow and red colours measured in a CIELab system. However, no significant correlation between the acrylamide and antioxidative or organoleptic properties of prunes was observed. Moreover, it was noticed that bio production of plums did not demonstrate any positive impact on final acrylamide content or antioxidant capacity in comparison to conventional technology</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/423/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

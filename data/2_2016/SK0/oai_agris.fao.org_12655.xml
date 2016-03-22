@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012655">
+    <dc:title xml:lang="en">Modified carbon paste electrode as a tool for the evaluation of oxidative stability of rapeseed oil</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Žabčíková Simona</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Červenka Libor</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rapeseed oil</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oxidative stability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">electrodes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24939</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49874</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35879</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28351</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Carbon paste electrode was used for evaluation of oxidative stability of rapeseed oil samples using cyclic voltammetry in 0.1 mol.L-1 HCl as a supporting electrolyte. Rapeseed oil samples were exposed to daylight and oxygen in open glass baker at the laboratory condition in order to obtain oils with accelerated primary and secondary products of oxidation. The oxidation status was determinated by peroxide value and p-anisidine value. Total oxidative stability was expressed as TOTOX index. The edible oils were used for preparation (modification) of the carbon paste composite material followed by the cyclic voltammetric measurement. Peroxide values significantly increased whereas p-anisinde value rather fluctuated during 40 days of storage in all the samples. Cyclic voltammograms showed anodic current peaks at 575 - 600 mV and cathodic current peaks at 400 - 425 mV. The oxidation and reduction waves diminished at pH ≥3.0 suggesting not only phenolic compounds contributed to the electrochemical characteristic of oil samples. The peroxide value or p-anisidine value did not correlate with oxidation or reduction peak currents at the potential 575 - 600 mV and 400 - 425 mV, respectively. Both cathodic and anodic currents increased with increasing TOTOX index exhibiting positive correlation with high Spearman correlation coefficient (r = 0.894 and r = 0.914 for anodic and cathodic current, respectively). Linear relationship was found for each sample individually. A caution has to be done when interpreting results since the correlation seems to be of oil sample specific. Nevertheless, the modified carbon paste electrode with rapeseed oil represents a suitable and alternative tool for determination of the oxidative state of edible oils without use of organic solvents.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/432/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

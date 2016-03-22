@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01657">
+    <dc:title xml:lang="en">Economic analysis of production systems of beef cattle</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Análise econômica de sistemas de produção de bovinos de corte</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PINI, Thiago R. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALENCAR, Stephan A. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LUCAS, Lúcia S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRUMATTI, Ricardo C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FRANCO,  Gumercindo L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOURÃO, Gerson B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA,  Saulo L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Models</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Livestock</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">computer software</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4397</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24008</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to carry out economic analysis of beef cattle farms and to compare them with national zootechnical indexes in marketing situations, varing interest rates and purchase price of farm. The results were compared with technical and productive national indexes and with two improved scenarios. It were evaluated five sets for each farm, three related to the interest rate (6%, 8% and 10% per year), and two related to the cost of hectare (-30% and +30%). The farms with complete cycle system producing animals to reproduction showed the best economic and financial results. The best results of farms producing animals for slaughter were obtained in the financial analyzes with -30% in value of the hectare. With those results it is possible to conclude that the cost of hectare has greater impact on the financial success of the farm in comparison to interest rates.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo deste trabalho foi efetuar análises econômicas de fazendas produtoras de bovinos de corte e compará-las com índices zootécnicos nacionais, em situações mercadológicas variadas de taxas de juros e de valor de aquisição da propriedade rural. Os resultados foram comparados com índices técnicos e produtivos da média nacional e com dois cenários melhorados. Avaliaram-se cinco cenários, sendo três em relação à taxa de juros (6%, 8% e 10% ao ano)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">e dois em relação ao valor do hectare (-30% e +30%). As fazendas de ciclo completo produtoras de animais de elite apresentaram os melhores resultados econômicos e financeiros. Os melhores resultados das fazendas produtoras de animais de corte foram obtidos nas análises financeiras com -30% no valor do hectare. Conclui-se que o valor do hectare tem maior impacto no sucesso financeiro da propriedade rural em comparação às taxas de juros.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1396555428.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,81 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016201859">
+    <dc:title xml:lang="en">Reproductive and maternal behavior of Caninde macaws (Ara ararauna)in captivity for conservation</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Comportamento reprodutivo e materno de araras Canindé (Ara ararauna) mantidas em cativeiro para conservação</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Locatelli Ana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Wrublack Suzana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Basile Leandro</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nascimento Alexandre</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Berber Gilcele</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Berber Rodolfo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculdade Assis Gurgacz</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculdade Assis Gurgacz</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculdade Assis Gurgacz</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Mato Grosso</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Mato Grosso</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Federal de Mato Grosso</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L53</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">aviculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_742</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" />
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The preservation of the wild animals had been reported by many researchers groups and nongovernmental organization in the world. Inside this context, many Brazilian species of macaws are focus of illegal traffic and international commerce that resulted in several deaths of birds during transport and expressive decrease of bird population. Is important to emphasize that conservation programs ex situ of wild species and environmental education, guaranteeing the preservation of
+the biodiversity must be incentive. Thus, the objective of this work was review and described the reproductive and maternal behaviors of Caninde macaws relating the proceedings performed in captivity of preservation localized in Assis Gurgacz Faculty, Parana, Brazil. The observations and the
+data registered were performed by recorded videos. The results and conditions showed in this paper may indicate methods that promote good conditions the posture, eruption and development of the nest for this species in captivity.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A preservação de animais silvestres tem sido reportada por vários grupos de pesquisadores e organizações não governamentais no mundo. Dentro deste contexto, algumas espécies de araras são foco de trafico ilegal e comercio internacional que resultam em muitos animais mortos durante o transporte e diminuição expressiva da população de aves. É importante enfatizar que programas de conservação ex situ de animais silvestres, bem como a educação voltada a garantir a preservação da biodiversidade, precisam ser incentivados. Assim, o objetivo desse trabalho foi revisar e descrever
+o comportamento reprodutivo e materno de araras Canindé relatando os procedimentos realizados no cativeiro conservacionista localizado nas Faculdades Assis Gurgacz, Paraná, Brasil. As observações e os dados foram registrados através de gravações de vídeos. Os resultados e condições mostrados neste trabalho podem indicar métodos que promovem boas condições para a postura, eclosão e
+desenvolvimento do filhote para essa espécie em cativeiro.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/view/92/200</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,60 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007988">
+    <dc:title xml:lang="en">Utilization of citrus albedo in tarhana production.</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bilgiçli, N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aktaş, K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Levent, H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Food Engineering, Faculty of Engineering and Architecture, Necmettin Erbakan University, Dr. Hulusi Balbay Street 12, Konya 42050, Turkey. Tel.: +90-332-280 80 46</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>fax: +90-332-236 21 41, e-mail: nerminbil2003@hotmail.com</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">citrus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">byproducts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1637</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1172</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49874</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49892</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this study, albedos of lemon, orange and grapefruit replaced wheat flour at 5% and 10% level in tarhana formulation. Selected chemical (ash, protein, cellulose, lipids, mineral, total phenolic content, antioxidant activity and pH), functional (water and oil absorption capacity, foaming capacity and stability) and sensory properties, colour values of tarhana were determined. All replacement levels of citrus albedo samples increased (p &lt; 0.05) ash, cellulose, Ca, Fe, K contents and antioxidant activity of tarhana compared to control. Tarhana sample containing 10% lemon albedo had the highest antioxidant activity (220.50 mmol•kg-1, expressed as Trolox equivalents), Cu (10.6 mg•kg-1), Fe (36.9 mg•kg-1), K (5 378.0 mg•kg-1) and Zn (13.1 mg•kg-1) contents. Compared to control tarhana, 10% addition levels of citrus albedo gave lower lightness (L*) and higher yellowness (b*). Citrus albedo addition had a significant (p &lt; 0.05) effect on oil absorption capacity and foam stability. Tarhana soup with orange and lemon albedo gained higher taste and sourness scores than tarhana soup containing grapefruit albedo.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

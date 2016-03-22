@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08654">
+    <dc:title xml:lang="ru">МОРФОФИЗИОЛОГИЧЕСКИЕ ПОКАЗАТЕЛИ ЭНДОКРИННЫХ ЖЕЛЕЗ И РЕПРОДУКТИВНЫЙ СТАТУС У СВИНЕЙ, ВЫРАЩЕННЫХ НАЗНАЧЕНИЕМ БИОГЕННЫХ ПРЕПАРАТОВ С УЧЕТОМ АГРОЛАНДШАФТНОЙ СПЕЦИФИКИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>MORPHOPHYSIOLOGICAL INDICATORS OF ENDOCRINE GLANDS AND THE REPRODUCTIVE STATUS AT THE PIGS WHO ARE GROWN UP WITH PURPOSE OF BIOGENOUS PREPARATIONS TAKING INTO ACCOUNT AGROLANDSCAPE SPECIFICS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ларионова Н.П.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Арестова И.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Алексеев В.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Swine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">endocrine glands</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproductive performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7555</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2559</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье изучены структурно-функциональные особенности щитовидной железы, семенников и репродуктивный статус у
+свиней, выращенных в раннем постнатальном онтогенезе с назначением биогенных препаратов Пермамик и Кальцефит-5 в
+животноводческом комплексе, расположенном в Южной почвенно-климатической зоне Чувашии.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In article structurally functional features of thyroid gland, seed plant, reproductive status are studied at the pigs who have been
+grown up in early post-natal ontogenesis with purpose of biogenous preparations Permamik and Kaltsefit-5 in a livestock complex,
+located in the Southern soil and climatic zone of Chuvashia.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/02/1-1-20b.pdf#page=13</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.1 (20)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12807">
+    <dc:title xml:lang="en">CHANGES IN THE ACTIVITY OF ANTIOXIDANT ENZYMES IN INTRODUCED CONIFERS IN THE URBAN ENVIRONMENT</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ИЗМЕНЕНИЕ АКТИВНОСТИ АНТИОКСИДАНТНЫХ ФЕРМЕНТОВ У ИНТРОДУЦИРОВАННЫХ ХВОЙНЫХ РАСТЕНИЙ В УСЛОВИЯХ ГОРОДСКОЙ СРЕДЫ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Voskresenskaya O.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sarbayeva  E.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Starikova  E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Mari State University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Coniferous forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Peroxidases</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Catalase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1813</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13251</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1380</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Some softwood exotic species – Picea pungens Engelm., Thuja occidentalis L., Juniperus sabina L. growing in the city of Yoshkar-Ola were studied on the topic of the activity of enzymes that perform an antioxidant function.  The studies were conducted in different functional zones of the city. Samples of needles of the second year of life were selected from middle-aged generative plants on the South side of the crown. Determination of catalase activity (CF. 1.11.1.6) was performed by the titre metric method. Peroxidase activity (CF. 1.11.1.7) was determined by the method of A. N. Boyarkina (1951). Experimental data was processed statistically using the software «STATISTICA 6.0». It is revealed that in different levels of pollution research the activity of antioxidant enzymes varied significantly, while in the contaminated zone of the city peroxidase activity in the needles was maximum in all studied species and reached 8,75 ± 0,179 ∆D670g-1s-1. Catalase activity in the needles of the plants of the industrial area were considerably reduced compared with plants of recreational and residential zones: J. sabina – by 2,7 times,  P. pungens and T. Occidentalis – by 1,5–1,7 times, falling to 1-1,4 mlО2∙g-1∙min-1. Bions of J. sabina showed maximum peroxidase activation and inactivation of catalase among the studied species, which allows to conclude about the higher sensitivity of this introduced species to atmospheric pollutants.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">У ряда хвойных интродуцентов – Picea pungens Engelm., Thuja occidentalis L., Juniperus sabina L., произрастающих в условиях города Йошкар-Олы проведено изучение активности ферментов, выполняющих антиоксидантную функцию.  Исследования проводились в различных функциональных зонах города. Образцы хвои второго года жизни отбирались со средневозрастных генеративных растений с южной стороны кроны. Определение активности каталазы (КФ. 1.11.1.6) проводили титрометрическим методом. Активность пероксидазы (КФ. 1.11.1.7) определяли методом А.Н. Бояркина (1951). Экспериментальные данные были обработаны статистически с помощью программы «STATISTICA 6.0». Выявлено, что в различных по уровню загрязнения районах исследования активность антиоксидантных ферментов существенно варьировала, при этом в загрязненной зоне города активность пероксидазы в хвое была максимальной у всех изученных видов и достигала 8,75 ± 0,179 ∆Д670г-1c-1. Каталазная активность в хвое растений промышленного района значительно подавлялась по сравнению с растениями рекреационной и селитебной зон: у особей J. sabina – в 2,7 раз, у особей P. pungens и T. occidentalis – в 1,5–1,7 раз, снижаясь до 1-1,4 млО2∙г-1∙мин-1.Среди изученных видов максимальной активацией пероксидазы и инактивацией каталазы характеризовались особи J. sabina, что позволяет заключить о более высокой чувствительности данного интродуцированного вида атмосферным загрязнителям.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-15-Voskresenskaya.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(30)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

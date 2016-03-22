@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012776">
+    <dc:title xml:lang="en">Efficiency of biomass production – methodological approaches</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Svetlanská Tatiana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Turčeková Natália</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Adamičková Izabela</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P05</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biofuels</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27465</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article investigates methodological approaches towards economic efficiency, which may be applicable in case of biomass production with emphasis on agricultural biomass production – energy crops. The selected methods are: parametric stochastic frontier analysis (SFA) and nonparametric data envelopment analysis (DEA), which are suitable for efficiency measurement in agriculture. The study is organized in four sections.Introduction provides brief report on issues related to biomass production and term efficiency. Both methods (models) are shortly described in the material and methods chapter. In this part, bio-economy efficiency is shortly depicted as a modification of environmental efficiency. The
+results and discussion part explains limitations of models, inputs and outputs in terms of biomass production. The conclusion sums up the application of models. The results suggest the use of SFA on sector level and the use of DEA on farm level or regions basis.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vua.uniag.sk/sites/default/files/VUA_01_15_Turcekova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Visegrad journal on bioeconomy and sustainable development</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1338-8339</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

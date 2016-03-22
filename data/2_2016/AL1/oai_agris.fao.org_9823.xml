@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016109823">
+    <dc:title xml:lang="en">New Outbreaks of Salmonellosis in Pig Farms</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>KOTORRI SULO</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BOCI JONIDA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MUHEDINI PELLUMB</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculty of Veterinary Medicine, Agricultural University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Institute of Food Safety and Veterinary, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Institute of Food Safety and Veterinary, Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">SALMONELLOSIS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6758</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Salmonellosis is an infection wideley spread in both intensive management and back yard pig farms in Albania.
+The pathogen agent of this infection is S. cholerasuisi var. Kunzerdof. This patogen was isolated from untreated
+piglets with antibacterial drugs during septicemic form of infection from several organs and tissues of aborted
+fetuses, such as: spleen, lungs, mesenteric lymph nodes, liver, and from jejunum, ileum and stomach content.
+Biochemical confirmation was conducted by using the commercial kit test API 20E, while biovar typisation was
+realised using the agglutination test with specific sera of S. cholerasuis var. Kunzendorf. Despite the level of the
+serum titer in aborted sows and survival piglets was at low levels, it represents a determinative diagnostic test.
+Use of antibacterial prophylaxis in feed or drinking water may reduce the incidence of the disease, but does not
+prevent infection and/or elimination of S.choleraesuis. This practice is expensive, increases the antimicrobial
+resistance, and generally is the less acceptable option for the prevention and control of disease. Using specific
+preventative vaccine produced with the S.cholerasuis var. Kunzerdof C-500 strains,</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_2_2015_files/17_SULO%20KOTORRI%20pp%20192-197.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

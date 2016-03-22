@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H11961">
+    <dc:title xml:lang="ru">ФИЗИКО- ХИМИЧЕСКИЕ И МИКРОБИОЛОГИЧЕСКИЕ ПОКАЗАТЕЛИ ВИНОМАТЕРИАЛОВ, ИМЕЮЩИХ БОЛЕЗНИ И ПОРОКИ И СПОСОБ ИХ УСТРАНЕНИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>DEVELOP WAYS OF ELIMINATING THE DISEASE AND VICE WINE WITH FOOD PROCESSING OAK</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Панахов Т.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Азербайджанский Научно-Исследовательский Институт Виноградарство и Виноделие</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">processing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">wines</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6195</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8406</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Результаты исследований показали возможности использования продуктов переработки дуба для устранения
+болезней и пороков вин. Для определения схем обработки виноматериалов осушествлялись работы по определению
+физико-химических, органолептических параметров и микробиологического состояния исследуемых виноматериалов.
+По итогам предварительной обработки виноматериалов было определено устранение не</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results showed the possibility of using oak- products to address diseases and defects wines. To determine schemes
+Obra-processing wine osushestvlyaetsya work on the definition of physical-chemical, microbiological and organoleptic
+parameters studied wine-state materials. As a result of pre-processing of wine materials was determined to overcome the
+disadvantages and identified the optimal dose and duration of contact chips for a variety of wine.
+Test winematerials characterized by a low concentration of titratable acid, sulfurous acid, and high pH, and high
+concentrations of iron ions and a high content - volatile acids. Such a complex fiziko- wine-chemical parameters (in particular
+the high conten</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/9-2-40.pdf#page=76</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationNumber>v./n.9-2(40)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,60 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012457">
+    <dc:title xml:lang="en">Evaluation of meat quality after application of different feed additives in diet of broiler chickens</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Haščík Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Trembecká Lenka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bobko Marek</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Čuboň Juraj</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bučko Ondrej</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tkáčová Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q52</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">broiler chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12459</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The present study was conducted to investigate the effect of natural feed additives, namely bee pollen extract, propolis extract and probiotic preparation, on technological properties of meat in order to evaluate the meat quality of Ross 308 broiler chickens.  The feeding of chickens (180 pcs) lasted for a period of 42 days. The experiment was carried out without segregation between the genders. The chickens were randomly divided into 4 groups. The control group was fed a basal diet, whereas the other three groups were fed diets supplemented with natural additives, i.e. bee pollen extract at level of 400 mg.kg-1 of feed mixture, propolis extract at level of 400 mg.kg-1 of feed mixture, and probiotic preparation based on Lactobacillus fermentum (1.109 CFU per 1 g of bearing medium) in an amount of 3.3 g added to water (for 30 pcs chickens until 21 days of age, for 20 pcs chickens from 22nd to 42nd day of age) given to group E1, group E2 and group E3, respectively. The feed mixtures were produced without any antibiotic preparations and coccidiostatics. During the whole period of experiment, the broiler chickens had ad libitum access to feed and water. The following technological properties were examined: cooling loss (after 24 h of storage at 4 °C), freezing loss (after 3 months of storage at -18 °C), roasting loss (performed on roasted meat that was stored at -18 °C for 3 months before thawing), colour parameters based on CIELab system (the L*, a*, b* values of raw breast and thigh muscle), and tenderness (as shear force of roasted breast and thigh muscle). We have made a finding, that the examined additives had only little impact on meat quality in most of the investigated parameters, except the significant increase (p ≤0.05) in redness (a*) values and the slight decrease in roasting loss and shear force determination after propolis extract supplementation. Therefore, it may be inferred that propolis extract has been shown as the most appropriate feed additive among the applied supplements</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/429/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

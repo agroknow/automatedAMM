@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="CO2016000087">
+    <dc:title xml:lang="es">Efecto de subproductos orgánicos del proceso panelero sobre propiedades físicas de un suelo sulfatado ácido</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>The effect of organic byproducts of the jaggery production process on the physical properties of a sulfate acid soil</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Montaño Santana Jenny Catherine</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Forero Ulloa Fabio Emilio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil chemicophysical properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land rehabilitation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Organic amendments</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7182</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33534</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12965</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2fig.., 1 tab., 41 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">Los suelos sulfatados ácidos generan problemas de fertilidad, ya que modifican sus propiedades físicas, químicas y biológicas. La incorporación de enmiendas orgánicas como técnica de rehabilitación de suelos sulfatados ácidos permite la recuperación de algunas propiedades del suelo, como la formación de agregados y la aireación, entre otras. El objetivo de esta investigación fue evaluar el efecto que tienen los subproductos orgánicos del proceso panelero (hojarasca, bagacillo y cachaza fresca) como enmienda orgánica, sobre las características físicas (densidad aparente, porosidad total y estabilidad estructural en seco) de un suelo sulfatado ácido del municipio de Paipa, Boyacá, en invernadero. Se realizó un diseño experimental completamente al azar con nueve tratamientos y tres repeticiones, correspondientes a la incorporación de los subproductos orgánicos, solos y en combinación, un testigo (sin aplicación) y un tratamiento agronómico (cal dolomita). Los parámetros físicos a evaluar se midieron a los 45 días (muestreo 1) y 165 días (muestreo 2) de la aplicación de las enmiendas. En las variables densidad aparente y poros totales del suelo, la aplicación de hojarasca, bagacillo y cachaza fresca generó en el primer muestreo una respuesta favorable y en el segundo, la mejor respuesta se logró con 6,2 t/ha de hojarasca</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">la estabilidad estructural en seco no presentó diferencias estadísticas significativas con la aplicación de los tratamientos. La aplicación de los subproductos orgánicos del proceso panelero mejora la densidad aparente y la porosidad total de un suelo sulfatado ácido, en condiciones de invernadero. Palabras claves: agregados del suelo, densidad del suelo, enmiendas orgánicas, porosidad del suelo.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Acid sulphate soils have fertility problems because of the modification of physical, chemical and biological properties. However, the addition of organic amendments as a rehabilitation technique of acid sulphate soils allows recovery of soil properties such as aggregate formation and aeration, among others. This study was conducted to evaluate the effect of organic byproducts of sugarcane jaggery production process (leaf litter, bagasse and fresh filter cake) on the physical characteristics (bulk density, total porosity and dry structural stability) of an acid sulphate soil of Paipa (Boyacá) under greenhouse conditions. A trial using a completely randomized design with 9 treatments and 3 replications, corresponding to the incorporation of organic byproducts, alone and in combination, a control (without application) and agronomic treatment (lime dolomite). The soil physical parameters were evaluated at 45 (sampling 1) and 165 days (sampling 2) after amendments application. The results indicated that the application of leaf litter, bagasse and fresh filter cake in the soil, generated a favorable response in the variables: bulk density and total porosity, after 45 days</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">in the second sampling, the best response in these variables was achieved with 6.2 t/ha of leaf litter. However, the structural stability of soil did not show statistically significant differences. The application of organic byproducts of sugarcane jaggery production process improves the bulk density and the total porosity of an acid sulphate soil under greenhouse conditions. Key words: soil aggregates, soil density, organic amendments, soil porosity.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.corpoica.org.co/SitioWeb/Archivos/Revista/RevCorpoicaVol14-2cap07.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Revista CORPOICA : Ciencia y Tecnología Agropecuaria</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">01228706</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

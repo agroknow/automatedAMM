@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X11514">
+    <dc:title xml:lang="en">IMPROVING THE REPRODUCTIVE CHARACTERISTICS OF BOARS WITH INTRODUCTION OF BIOLOGICALLY ACTIVE SUBSTANCES TO THEIR DIET</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ПОВЫШЕНИЕ ВОСПРОИЗВОДИТЕЛЬНЫХ КАЧЕСТВ ХРЯКОВ ПРИ ВВЕДЕНИИ В ИХ РАЦИОН БИОЛОГИЧЕСКИ АКТИВНЫХ ВЕЩЕСТВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Narizhny A.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Anisimov A.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dzhamoldinov A.Ch.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>All-Russian research institute of animal husbandry named after academy member L.K. Ernst</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Boars</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">spermatozoa</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">animal physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_977</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7287</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25187</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables;11 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We studied the effect of the introduction in the diet of broars of such biologically active substances, as dihydroquercetin and essential phospholipids on the reproductive quality of boars manufacturers. 
+At the present time, the use of biologically active substances of natural origin is increasingly important to increase the reproductive qualities of animals. For this purpose, a series of biologically active substances, contributing to the overall resistance of the organism of animals, as well as normalizing reproductive function were previously used. It is established that antioxidants play a huge role in the prevention of lipid peroxidation occurring continuously in humans and animals, which adversely affects the General condition, and reproductive functions. Essential phospholipids were used initially as hepatoprotectors, however, currently their role as an amplifier of fertility sperm of humans and animals was proven. These studies found that feeding of, in addition to the basic diet, antioxidant dihydroquercetin and source of phospholipids -preparation Mosletsitin contributed to the improvement of such reproductive characteristics of boars manufacturers, as the length of the links of the sexual reflex, the quantity and quality of sperm, the effectiveness of artificial insemination of sows. Best results were obtained with a comprehensive introduction into the diet of grunts 2,5 g of preparation Mosletsitin and antioxidant dihydroquercetin in the dose of 0,5 mg/kg body weight of the animals.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучали влияние введение в рацион хряков таких биологически активных веществ, как дигидрокверцетин и эссенциальные фосфолипиды, на воспроизводительные качества хряков-производителей. В настоящее время применение БAВ естественного происхождения является все более актуальным для повышения воспроизводительных качеств животных. Для этой цели ранее применялся целых ряд биологически активных веществ, способствующих повышению общей резистентности организма животных, а также нормализующих репродуктивную функцию. Установлено, что антиоксиданты играют огромную роль в процессе предотвращения перекисного окисления липидов, происходящего непрерывно в организме человека и животных, что негативно сказывается как на общем состоянии, так и на репродуктивной функции. Эссенциальные фосфолипиды использовались изначально как гепатопротекторы, однако в настоящее время доказана их роль в качестве усилителя фертильности спермы человека и животных. В данных исследованиях установлено, что скармливание дополнительно к основному рациону антиоксиданта дигидрокверцетина и источника фосфолипидов -препарата Мослецитин способствовало улучшению таких воспроизводительных качеств хряков-производителей, как длительность звеньев полового рефлекса, качественных и количественных показателей спермы, результативности искусственного осеменения свиноматок. Наилучшие результаты получены при комплексном введении в рацион хряков 2,5г препарата Мослецитин и антиоксиданта дигидрокверцетин в дозе 0,5 мг/кг живой массы животных.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(29)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

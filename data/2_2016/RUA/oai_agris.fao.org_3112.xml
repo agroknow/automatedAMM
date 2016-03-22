@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A03112">
+    <dc:title xml:lang="en">THEMATIC MAPPING AND STRATIFICATION OF FORESTS IN MIDDLE ZAVOLSGIE BY LANDSAT SATELLITE IMAGES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ТЕМАТИЧЕСКОЕ КАРТИРОВАНИЕ И СТРАТИФИКАЦИЯ ЛЕСОВ МАРИЙСКОГО ЗАВОЛЖЬЯ ПО СПУТНИКОВЫМ СНИМКАМ LANDSAT</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>VOROBYEV Oleg</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NEZAMAEV Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GUBAYEV Aleksandr</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LEZHNIN Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>POLEVSHCHIKOVA Yuliya</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cartography</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forest stands</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Remote sensing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">imagery</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1344</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28080</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6498</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36760</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A new methodology of thematic mapping of forest cover on the base of Landsat satellite images with identification of classes by forest species, age and basal area of the forest fund was developed. Thematic mapping is based on the complex approach with the use of tasseled cap transformation of satellite images and more advanced identification of the land cover classes by the method of support vector machine of the unsupervised classification. The developed methodology was applied and estimated on the territory of Mari forest Zavolgie on the base of satellite images of 2001. Accuracy assessment of the thematic mapping based on the test sites and materials of forest inventory showed high validation of the developed maps (kappa = 0,78). The research shows that some spectral indexes showed high correlation with the stand age (coefficient is 0,68 and higher). The forest cover area in Middle Zavolgie is 60,0%, which is a bit higher than official data(57%). All conifer thematic classes (without the young trees) consist of 433,9 thousand ha (31,4%) of the forested area, broadleaved species – 381,7 thousand ha (27,6%) and mixed stands – 381,7 thousand ha (27,6%). Important part of the forested area in Middle Zavolgie is represented by the stands with middle values of basal area (57,7%). Stands with small values of basal area are represented by the conifer classes (11,2 thousand ha), while young trees of I class constitute 10,1% of the investigated territory. All received results on the thematic forest classes with the use of satellite Landsat images are basically coincide with the data of official statistics of forest inventory for the Republic Mari El.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Разработана методика тематического картирования лесного покрова по спутниковым снимкам Landsat c выделением классов (лесных страт) по составу, возрасту и относительной полноте насаждений. Тематическое картирование основано на комплексном подходе с использованием трансформации спутниковых изображений методом Tasseled cap и более совершенным выделением исследуемых классов наземного покрова управляемой классификацией по методу опорных векторов. Проведена апробация и оценка разработанной методики для территории Марийского лесного Заволжья на основе снимков среднего разрешения Landsat 2001 г. Оценка точности тематического картирования на основании тестовых участков и материалов лесоустройства показала высокую степень их достоверности.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/124/126</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.19/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

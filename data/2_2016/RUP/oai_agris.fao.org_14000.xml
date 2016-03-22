@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P14000">
+    <dc:title xml:lang="ru">ГАЛЛОВЫЕ НЕМАТОДЫ (MELOIDOGYNE) НА АПШЕРОНСКОМ ПОЛУОСТРОВЕ И БОРЬБА С НИМИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>GALL EEIWORMS (MELOIDOGYNE) ON ABSHERON AND FIGHT AGAINST THEM</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tagiev  M.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant nematodes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5972</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: Absheron, knob maladyspeading, contamination, soil samples, integrated fight</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">в статье подробно изложены нынешняя оценка зараженности посевных площадей Апшеронского полуострова галловыми нематодами, их типовой состав и биоэкологические особенности, информация о потери урожая овощных культур зараженных нематодой. Наряду с этим представлена последовательность проведения мер борьбы с корневой галловой нематодой на территории Апшеронского полуострова.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Present assessment of contamination of cultivated areas of Absheron by gall eeiworms, their standard structure and bioecological features are detailed in the article. Information about losses of a crop of the vegetable cultures infected with a nematode is considered here. In addition, sequence of control measures with gall eeiworms in Absheron peninsula is presented.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_bedd806123a94cdc9a668380d87d78ce.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

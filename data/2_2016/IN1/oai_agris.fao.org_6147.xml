@@ -1,0 +1,77 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="IN2016106147">
+    <dc:title xml:lang="en">Study on yak husbandry in Mustang district of Nepal</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ACHARYA KP</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">inbreeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">health care</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3817</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2838</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49891</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Traditional livestock production
+systems in highland areas of Nepal involve animals,
+especially yak and yak cattle hybrids as a source of
+food, prestige and security among the nomadic
+communities. Yak, which is also known as 'the camel
+of snow', is the livestock of choice among nomadic
+communities and is considered as the symbol of
+wealth. This study was done to document the present
+status of yak husbandry system, problems and proscons
+of transhumant pastoralism in the Mustang
+District of Nepal. 32 yak herders and 15 key persons,
+including the local leaders and traditional healers were
+interviewed with semi-structured questionnaires during
+February to May 2014. From this questionnaire survey
+and field visits, it revealed that grazing system is the
+only feeding system with little or no feed
+supplementation. The population and herd size are
+decreasing year by year. The herders are still following
+the uncontrolled methods of breeding with one male
+serving all the females, till its productive age, with a
+high degree of inbreeding. Disease endemicity,
+shortage of pasture, closure of Tibetan border for
+pasturing, increased draught period, lack of technical
+and veterinary facilities and low productivity are
+compelling herders to abandon the yak farming. They the treatment of disease, pests and poisoning with very
+little or no help from professional veterinarian.
+Although single species transhumant pastoralist is
+moderately efficient with the integration of local
+knowledge in all aspects of animal husbandry, it needs
+to be strengthened by integration of scientific method
+in breeding and feeding of yaks. Immediate strong
+extension programs, including the bilateral
+coordination between yak herders and researchers
+should be carried out, otherwise yak and their valuable
+resources will be rooted out from this country.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.indianjournals.com/ijor.aspx?target=ijor%3Ajha&amp;volume=5&amp;issue=2&amp;article=003</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Hill Agriculture</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0976-7606</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

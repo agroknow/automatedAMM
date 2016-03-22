@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A13348">
+    <dc:title xml:lang="en">ALGORITHM OF ENTROPIC-INFORMATION ANALYSIS OF QUALITATIVE AND QUANTITATIVE CHARACTERISTICS OF YOUNG TREES IN THE SAMPLE AREAS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>АЛГОРИТМ ЭНТРОПИЙНО-ИНФОРМАЦИОННОГО АНАЛИЗА КОЛИЧЕСТВЕННЫХ И КАЧЕСТВЕННЫХ ХАРАКТЕРИСТИК ПОДРОСТА НА ПРОБНЫХ ПЛОЩАДЯХ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>CHERNYKH Leonid</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Introduction. Intensive business model needs solution of the problem of successful natural forest regeneration. Accuracy and adequateness of forest regeneration assessment determine the quality of design decision in the course of forest surveying and forest management. Thus, elaboration of a single approach to the problem is of current importance. The goal of the research includes elaboration of an algorithm for the analysis of qualitative and quantitative characteristics of young trees. Materials and methods. An entropic-information approach and quadtree model of spacial data about young trees were a theoretical basis for the algorithm elaboration aimed at forest regeneration assessment. The data collected from 35 sample areas were used to test an accounting methods and to assess young trees. Results and discussion. Using the method  of generalization and abstraction, it is possible to  bring a lot of data about young trees to the  final volume of the initial data subjected to an assessment and analysis. The quadtree model of data used for young trees inventory with the subsequent generalization of the first measurement results at a sample area improves accuracy of estimation of  occurrence  and self-organization of a new generation of trees. The quadtree model of data  makes it possible to calculate the indices of entropy and Morisita index when inventory of young trees. The experiment showed that the entropy in  16 quadrats varied within -8,8  … +17,9 % ( in comparison with entropy assessment in 21 quadrats). Conclusion. The algorithm for young trees inventory and forest regeneration assessment was elaborated.  The algorithm is based on the entropic-information analysis of young trees distribution. This approach allows to estimate an organized nature of young trees  growth and its spatial structure through the  measure of relative entropy and Morisita index. The experiment showed that after generalization of the initial data of quadrats  constant error for young trees occurrence estimation was +6,5%, random error  ±6,8%, for all the cases  ±1,31. The algorithm for calculation of qualitative and quantitative characteristics of young trees at a sample area is offered to use when elaboration of an automated information subsystem «Podrost».</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Выявлены методические недостатки при учёте подроста и оценке лесовозобновления. Предложена квадротомическая модель данных для учёта подроста с последующей генерализацией на два уровня по четырём учётным площадкам. Оценка распространённости и самоорганизации молодого поколения леса выполняется по показателям энтропии. Предложен алгоритм учёта подроста и оценки лесовозобновления на лесном участке на основе энтропийно-информационного анализа.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/283/287</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.27/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,68 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08669">
+    <dc:title xml:lang="ru">ДИАГНОСТИЧЕСКИЕ СИМПТОМЫ ГИПОКСИИ У ПЛОДОВ В УТРОБЕ МАТЕРИ И У РЫБОК В ВОДЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>DIAGNOSTIC SYMPTOMS OF HYPOXIA OF THE FETUS IN THE WOMB</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>AND THE FISH IN THE WATER</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>УРАКОВ А.Л.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>УРАКОВА Н.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ГАУСКНЕХТ М.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ЧЕРНОВА Л.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>РАЕ</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ижевская государственная медицинская академия</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">foetus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fish</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anoxia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3006</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8831</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Показано, что при внезапной острой гипоксии плоды в утробе матери и аквариумные рыбки в ограниченном объеме воды первоначально принимают неподвижное состояние, а после исчерпания резервов адаптации к гипоксии начинают судорожно подергиваться всем телом. У рыбок учащаются и усиливаются дыхательные движения рта и жаберных дуг, колебательные движения боковых плавников и хвоста, возникают периодические судорожные подергивания телом. У плодов появляются резкие дыхательные движения ребер грудной клетки, разгибаются руки, разжимаются кулаки и возникают периодические судорожные подергивания туловищем.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It is shown that in case of sudden acute hypoxia fetus in the womb and aquarium fish in the limited volume of water initially take stationary, and after the exhaustion of the reserves of adaptation to hypoxia begin firing twitch unwillingly whole body. Fish more frequent and stronger respiratory movements of the mouth and the gill arches, the swinging motion of the side of the fins and tail experience intermittent spasmodic twitching body. The fetus appear sharp respiratory movements ribs, chest, unbend hands, opens fists and experience intermittent spasmodic twitching body.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/12/11-3-18a.pdf#page=53</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.11 (18)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

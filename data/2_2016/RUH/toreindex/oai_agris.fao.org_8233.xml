@@ -1,0 +1,80 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08233">
+    <dc:title xml:lang="ru">ШТАММЫ BACILLUS THURINGIENSIS, СЕКРЕТИРУЮЩИЕ МЕТАБОЛИТЫ, ПОДАВЛЯЮЩИЕ РАЗМНОЖЕНИЕ ВИРУСА ГРИППА ЧЕЛОВЕКА A/AICHI/2/68 (H3N2) И ВИРУСА ГРИППА ПТИЦ A/CHICKEN/KURGAN/05/2005</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Bacillus thuringiensis strains secreting metabolites inhibit the replication of human influenza virus A/Aichi/2/68 (H3N2) and avian influenza virus A/chicken/Kurgan/05/2005</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>АНДРЕЕВА И.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>МАЗУРКОВА Н.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>МОКРУШИНА О.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ПУЧКОВА Л.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ЗАКАБУНИН А.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Государственный научный центр вирусологии и биотехнологии «Вектор»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Институт химической биологии и фундаментальной медицины СО РАН</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">viruses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Influenzavirus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bacillus thuringiensis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">metabolites</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Antiviral agents</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8262</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3859</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_761</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4770</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_514</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Исследована возможность подавления размножения вируса гриппа человека A/Aichi/2/68 (H3N2) и вируса гриппа птиц A/chicken/Kurgan/05/2005 (H5N1) на культуре ткани MDСK водорастворимыми метаболитами штаммов Bacillus thuringiensis. Проведенные исследования показали, что наряду с отсутствующей или незначительной токсичностью исследуемые опытные образцы препаратов показали высокую активность против вирусов гриппа, что делает перспективным дальнейшую их разработку в целях борьбы с вирусами гриппа человека и птиц.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The possibility of inhibiting the replication of human influenza virus A/Aichi/2/68 (H3N2) and avian influenza virus A/chicken/Kurgan/05/2005 (H5N1) on MDCK tissue culture by water-soluble metabolites of Bacillus thuringiensis strains was studied. The performed investigations showed that along lacking or insignificant toxicity the studied pilot samples of the preparations demonstrated high activity against influenza viruses, which makes promising their further development for control of human and avian influenza viruses.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/7-114.pdf#page=70</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.7 (14)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

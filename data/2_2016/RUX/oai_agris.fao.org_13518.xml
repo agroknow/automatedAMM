@@ -1,0 +1,100 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X13518">
+    <dc:title xml:lang="en">ROLE OF MINERAL ELEMENTS IN THE REGULATION OF PROCESSES OF FREE RADICAL OXIDATION ON THE USE OF VITAMIN A AND BETA-CAROTENE PREPARATIONS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>РОЛЬ МИНЕРАЛЬНЫХ ЭЛЕМЕНТОВ  В РЕГУЛЯЦИИ ПРОЦЕССОВ СВОБОДНОРАДИКАЛЬНОГО ОКИСЛЕНИЯ  НА ФОНЕ ПРИМЕНЕНИЯ ПРЕПАРАТОВ ВИТАМИНА А И БЕТА-КАРОТИНА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lyubina E.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L51</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mineral nutrients</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">RETINOL</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">peroxidation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34864</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6539</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28492</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Study of the intensity of the processes of lipid peroxidation was carried out by evaluating the content of malonic dialdehyde</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">the functioning of the antioxidant system - on activity enzymes: catalase</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">glutationreductaza</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">superoxide dismutase</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ceruloplasmin. The study of the concentration of mineral elements in the blood were performed using atomic absorption spectrophotometry. The experiments were conducted on the sows of large white breed of the stud farm of Ulyanovsk region. Four groups of animals were formed: 1 (control) received basic household diet</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2 (experienced) - in addition to the basic diet received the preparation vitamin A</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3 (experienced) - in addition to basic diet received the preparation β-carotene "Betaviton"</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4 (experienced) -in addition to basic diet received vitamin A with hepatoprotection. As a result of the conducted researches it is established that insufficient supply of sows body with retinol and beta-carotene is one of the causes of the shift of balance in the system of antioxidant-prooxidants in favor of the latter. The decrease in the intensity of reactions of lipid peroxidation in the groups where animals in addition to basic diet received supplements of vitamin A and beta-carotene, occurred by activation of the enzymatic link of the antioxidant system of protection which, however, does not exclude the influence of beta-carotene and bioflavonoids as factors of non-enzymatic origin. It is established that the activity of enzymes of antioxidant protection of the organism is associated with the level of microelements in the blood, and strengthening of processes of peroxidation occurs on the background of low content of zinc, copper, iron and selenium included in the active centers of enzymes of antioxidant protection. The revealed regularities are theoretical rationale for development of methods to control the level of free radical reactions within the biological capacity of the organism of pigs.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Изучение интенсивности процессов перекисного окисления липидов проводили по оценке содержания малонового диальдегида</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">функционирование антиоксидантной системы - по активности ферментов: каталазы</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">глутатионредуктазы</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">супероксиддисмутазы</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">церулоплазмина. Исследование концентрации минеральных элементов в крови выполняли c помощью атомно-абсорбционной спектрофотометрии. Опыты проводились на свиноматках крупной белой породы племзавода Ульяновской области. Были сформированы четыре группы животных: 1-я (контрольная) - получала основной хозяйственный рацион</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2-я (опытная) - дополнительно к основному рациону получала препарат витамин А</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3-я (опытная) - дополнительно к основному рациону получала препарат β-каротина «Бетавитон»</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4-я (опытная) -дополнительно к основному рациону  получала витамин А с гепатапротектором. В результате проведенных исследований установлено, что недостаточная обеспеченность организма свиноматок ретинолом и бета-каротином является одной из причин сдвига баланса в системе антиоксидант-прооксидант в сторону последнего. Снижение интенсивности реакций перекисного окисления липидов в группах, где животные дополнительно к основному рациону получали добавки витамина А и бета-каротина, происходило путем активации ферментативного звена антиоксидантной системы защиты, что однако не исключает влияние бета-каротина и биофлавоноидов как факторов неферментативного происхождения. Установлено, что активность ферментов антиоксидантной защиты организма сопряжена с уровнем микроэлементов в крови, а также то, что усиление процессов пероксидации протекает на фоне пониженного содержания цинка, меди, железа и селена, входящих в активные центры ферментов антиоксидантной защиты. Выявленные закономерности служат теоретическим обоснованием для разработки приемов регуляции уровня свободнорадикальных реакций в пределах биологических возможностей организма свиней.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/3-15-Lyubina.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.3(31)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

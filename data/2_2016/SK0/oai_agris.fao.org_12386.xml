@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012386">
+    <dc:title xml:lang="en">Health safety aspects of foodstuffs intented for phenylketonurics</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Matejová Stanislava</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fikselová Martina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Buňka František</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food safety</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">health protection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Metabolic disorders</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33995</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3512</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4767</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Phenylketonuria is a rare metabolic disorder that occurs due to the lack of liver enzyme phenylalanine hydroxylase. Untreated it leads to mental retardation, delayed development of speech, microcephaly, epilepsy, behavioral problems etc. Its treatment consists of strict diet, very low in phenylalanine content. The aim of this study was to determine the health safety and suitability of 17 selected foods labeled as „low in protein" respectively „foods low in phenylalanine". Analyses were focused on their phenylalanine content and aminoacid representation. The other aim was to compare phenylalanine measured with the content declared by the producers on their label. By product origin, the largest amount of foodstuffs originated from Poland (59%), followed by Germany (23%) and equal representation (6%) had Slovakia, Hungary and Sweden. Automatic analyzer AAA 400, using ion exchange chromatography, analyzed the samples. The lowest determined phenylalanine content was 1 mg.100g-1 (in rubber candy) and the highest 299 mg.100g-1 (in paté). Powdered egg alternative was monitored as the second highest source of phenylalanine. Phenylalanine content in the monitored foods ranged from 1 to 299.6 mg. 100 g-1 respectively, and increased in the following order: Gum candies (1 mg.100g-1) &lt; Cherry jelly (1.4 mg. 100g-1) &lt; Flour (5.8 mg.100g-1) &lt; Flour (5.9 mg.100g-1) &lt; Spaghetti (8.7 mg.100g-1) &lt; Pasta (9.9 mg.100g-1) &lt; Waffle (14.2 mg.100g-1) &lt; Salty sticks (23.8 mg.100g-1) &lt; Chocolate (24.1 mg.100g-1) &lt; Bread (26 mg.100g-1) &lt; Breadcrumbs (27.1 mg.100g-1) &lt; Sticks with salt (30.3 mg.100g-1) &lt; Ice Cornets (30.8 mg.100g-1) &lt; Walnut cookie (37.2 mg.100g-1) &lt; Instant soup with noodles (46.1 mg.100g-1) &lt; Powdered egg alternative (58 mg.100g-1) &lt; Pate (299.6 mg.100g-1). Only seven products of 17 observed showed low phenylalanine content, less than 20 mg.100g-1.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/455/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

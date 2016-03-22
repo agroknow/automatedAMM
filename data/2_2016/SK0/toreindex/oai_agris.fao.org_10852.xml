@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016010852">
+    <dc:title xml:lang="sk">Riadenie kvality vo výrobnej organizácii</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>The quality management in the manufacturing organization</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Prístavka Miroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hrubec Jozef</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E16</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality controls</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">management sciences</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">manufacturing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6401</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28909</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_92365</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">In recent years, production growth has not been a priority to organizations. Nowadays, every organization must cape with daily pressures and threats from cornpetitors. Whether it is successful or not depends on its adaptability to demands and wishes of the customer who is the one that determines trading conditions. To maintain position in strong competition, organizations need to implement effective quality management systems. However, it is not possible without the set of standards ISO 9000. Still more and more organizations have ISO deal with quality management system and put it into practice. Quality management system is necessary for the organization when it comes to survival on the market. The mentioned facts have caused extreme focus of the organizations on building quality systems. Nowadays, a quality management system (QMS) is not a luxury, but necessity to ensure a long-term competitiveness. Implementing QMS does not automatically mean  improvement of the organization, it is a long process that should ultimately lead to improving customers and stakeholders' satisfaction, efficiency, cost and risk reduction, increased productivity, clear identification of responsibilities and, of course, to improving quality ofthe product itself. This works objective was to develop requirements to obtain a certificate of quality management system and to introduce statistical methods that have a major impact on the quality of manufactured product. The proposed methods were realized in the WAY INDUSTRY, a.s, Krupina manufacturing organization.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="ags:ISBN">978-80-552-1007-0</dc:identifier>
+    <dc:type>Book</dc:type>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100730">
+    <dc:title xml:lang="en">Evaluation of PAL activity, Phenolic and Flavonoid Contents in Three Pistachio (Pistacia vera L.) Cultivars Grafted onto Three Different Rootstocks</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Nadernejad N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ahmadimoghadam A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hossyinifard J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Poorseyedi S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Phenylalanine ammonia lyase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">сорта</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29522</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Phenylalanine ammonia lyase (PAL) is a biochemical marker of the environmental stress and plays a pivotal role in phenolic synthesis. The lower ROS level and oxidative damage was observed in grafted plants and the rootstocks have a profound influence on the biochemical composition, especially phenolic compounds. Regarding the importance of the effect rootstocks have on scion in pistachio trees, this study was carried out to assess and compare three pistachio cultivars ("Ahmadaghaii", "Ohadi" and "Kallehghuchi") on three rootstocks (Mutica, Ahli, Sarakhs). PAL activity, phenolic compounds, flavonoid and anthocyanin contents in leaves, flowers and fruits were measured toward the selection of the most suitable and compatible rootstock/scion resistant to environmental stresses. The results showed that PAL activity was different among the cultivars and organs. A positive correlation was observed between PAL activity and phenolic compounds in the leaves and flowers of Mutica- Ahmadaghaii, suggesting that it is more resistant than the others to environmental stresses. PAL activity and total phenolics in fruits of pistachio suffered a decrease when the maturation processes began. The hulls of the pistachio fruits contained high levels of phenolic compounds especially in Mutica-Ahmadaghaii) suggesting its function as a protective layer and a defense chemical against ultraviolet radiation and pathogen. Our results indicated the presence of a number of bioactive compounds in kernels with the highest amount belonging to Mutica- Ahmadaghaii, and therefore it is concluded that pistachio rootstocks may affect the antioxidant compounds in kernels.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N3/JSPB_2013_3_84-97.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

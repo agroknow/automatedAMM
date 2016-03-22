@@ -1,0 +1,91 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01191">
+    <dc:title xml:lang="en">Relationship among residual feed intake, digestibility and ingestive behavior in Nellore heifers</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Relações entre consumo alimentar residual</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang=" ">
+      <dcterms:alternative>comportamento ingestivo e digestibilidade em novilhas Nelore</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MAGNANI,  E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NASCIMENTO,  C. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BRANCO,  R. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BONILHA,  S. F. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RIBEIRO,  E. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MERCADANTE,  M. E. Z.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beef cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chewing the cud</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2843</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9780</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to evaluate digestibility and feeding behavior of Nellore heifers belonging to different classes of residual feed intake (RFI). Thirty-two heifers ranked high in RFI (0.491± 0.51 kg/d</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">n=15) and RFI low (- 0.447 ± 0.51 kg/d</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">n=17) with a mean age of 502 ± 23.61 days and average weight 364 ± 27.96 kg were kept in confinement for 48 days, with formulated diet based on Tifton 85 hay, corn, cottonseed meal and urea, and ratio of forage: concentrate ratio of 45:55%. The parameters analyzed were digestibility, ingestive behavior and their correlation. Animals low RFI showed higher digestibility of dry matter (DMD), neutral detergent fiber (NDF), acid detergent fiber (ADF) and cellulose that high RFI animals (49.14% versus 45.38%, 56.65% versus 49.88%, 49.96% versus 45.08%, 61.61% versus 56.40% for DMD, NDFD, ADFD, CELD, respectively). These results indicate that more efficient animals have better food utilization. No differences were found in the variables of ingestive behavior among classes of RFI. Changes in the RFI can be partly explained by the digestibility of nutrients, which is related to ingestive behavior of animals.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Avaliou-se a digestibilidade e comportamento ingestivo em novilhas Nelore pertencentes a duas classes de consumo alimentar residual (CAR) a fim de elucidar as fontes de variação envolvidas nas diferenças de eficiência alimentar observadas entre os animais. Trinta e duas novilhas classificadas em alto CAR (0,491± 0,51 kg de matéria seca/dia</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">n=15) e baixo CAR (- 0,447 ± 0,51 kg de matéria seca/dia</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">n=17), com idade média de 502 ± 23,61 dias e peso vivo médio 364 ± 27,96 kg foram mantidas em confinamento por 42 dias, com dieta formulada à base de feno de Tifton 85, milho moído, farelo de algodão e uréia, com relação volumoso:concentrado de 45:55%. Foram avaliados a digestibilidade aparente dos nutrientes e o comportamento ingestivo dos animais. Animais baixo CAR apresentaram maior digestibilidade aparente de matéria seca (DMS), fibra em detergente neutro (DFDN), fibra em detergente ácido (DFDA) e celulose (DCEL) que animais alto CAR (49,14% versus 45,38%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">56,65% versus 49,88%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">49,96% versus 45,08%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">61,61% versus 56,40% para DMS, DFDN, DFDA, DCEL, respectivamente). Esses resultados indicaram que animais mais eficientes têm melhor aproveitamento dos alimentos. Não foram detectadas diferenças nas variáveis de comportamento ingestivo entre as classes de CAR. As variações entre os animais mais e menos eficientes podem ser, em parte, explicadas pela capacidade de digestibilidade dos nutrientes, a qual está relacionada ao comportamento ingestivo dos animais.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1378834075.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1" />
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.70/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

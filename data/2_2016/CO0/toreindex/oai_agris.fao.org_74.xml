@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="CO2016000074">
+    <dc:title xml:lang="es">Caracterización socioeconómica de los sistemas de producción de la región de La Mojana en el Caribe de Colombia</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Socio-economic characterization of the production systems in the Caribbean region of La Mojana</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>Colombia</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Martínez Reina Antonio M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E16</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rural development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rural economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Social change</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6701</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29100</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7130</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>9 tabs., 18 figs., 13 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">La región de La Mojana, ubicada al norte de Colombia, presenta inundaciones recurrentes como consecuencia del desbordamiento de los ríos, entre ellos el Cauca</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">esta situación se atribuye al rompimiento del terraplén en el sitio conocido como La Mejicana. Los objetivos de la presente investigación es realizar una caracterización socioeconómica de los sistemas de producción agropecuarios y generar información nueva acerca de la medición de los sistemas, especialmente el modelo de equilibrio general y el cálculo de excedentes económicos. Éstos se basan en los patrones de costos obtenidos de los talleres realizados con productores en los núcleos de Magangué, Majagual, San Marcos y Nechí. Los sistemas de producción incluidos en el análisis fueron: arroz tecnificado, arroz manual, maíz unicultivo tecnificado, maíz unicultivo tradicional, yuca unicultivo, ñame unicultivo, patilla, ganado doble propósito, ganado doble propósito mixto. La aplicación del modelo permite concluir que hubo cambios en los sistemas de producción en la región de La Mojana con relación a los dos periodos de análisis: en el 2000 y en el 2012. Dichos cambios no son atribuibles sólo a la inundación</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">por ejemplo, la desaparición del sorgo se debe principalmente a problemas de mercado, y para el caso de los bovinos se atribuyen a déficit de forraje. Palabras claves: inundaciones, medición, pérdida económica, equilibrio general.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">The La Mojana region, in the north of Colombia, has recurrent flooding because of the overflow of the Cauca River and its tributaries. This situation is worsened due to the breaking of the embankment at the La Mexicana site. The aims of this study were to characterize the socioeconomic agricultural production systems and generate new information on the general equilibrium model and economic surplus. These patterns are based on costs obtained from workshops with producers in Magangué, Majagual, San Marcos and Nechí production sites. Production systems included in the analysis were technical (tech) rice, manual rice, tech corn monoculture, traditional corn monoculture, cassava monoculture, yam monoculture, watermelon monoculture, dual-purpose cattle and mixed dual purpose cattle. The model indicated that there were changes in production systems in the region of La Mojana during the two periods of analysis: in 2000 and another term in 2012. Changes are not due only to the flooding conditions, as might be the case for the disappearance of the sorghum system explained by market difficulties, whereas in the case of cattle is attributed to forage deficit Key words: floods, measuring, economic loss, general 
+balance.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.corpoica.org.co/SitioWeb/Archivos/Revista/RevCorpoicaVol14-2cap04.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Revista CORPOICA : Ciencia y Tecnología Agropecuaria</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">01228706</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

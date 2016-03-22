@@ -1,0 +1,69 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12765">
+    <dc:title xml:lang="en">DYNAMICS OF NITROGEN AND PRODUCTIVITY  OF GRAIN LEGUMES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ДИНАМИКА АЗОТА И ПРОДУКТИВНОСТЬ ЗЕРНОВЫХ БОБОВЫХ КУЛЬТУР</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Dozorov A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Garanin M.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">grain legumes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nitrogen content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Protein content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Inoculation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3351</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5193</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6251</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3879</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>4 tables, 7 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The maximum involvement of biogenic resources in technology of agricultural crops is a key direction in modern farming systems. Agronomic techniques, which provide increase of the efficiency of the process, are worth of being studied. The aim of research was to study the influence of bacterial preparations and microelements on the dynamics of the content of nitrogen in the plant, the intensity of consumption of it on the phases of development and productivity of grain legumes. It is established, that the pre-sowing treatment of seeds contributes to the increase of nitrogen content in the bodies of plants by 0,02...0,46 %, increases the consumption of nitrogen by sowed grains of legume crops in phase of maximal values by 10...22 %, which provides an additional output of seeds (by 5...22 %) and protein (by 11...20 %) of the unit square.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Максимальное вовлечение биогенных ресурсов в технологии сельскохозяйственных культур является актуальным направлением в современных системах земледелия. Агротехнические приемы, обеспечивающие повышения эффективности данного процесса заслуживают их разностороннего изучения. Целью исследований являлось изучение влияния бактериальных препаратов и микроэлементов на динамику содержания азота в растениях, интенсивность потребления его по фазам развития и продуктивность зерновых бобовых культур. Установлено, что предпосевная обработка семян способствует увеличению содержания азота в органах растений на 0,02. ..0,46 %, повышает потребление азота посевами зерновых бобовых культур в фазу максимальных значений на 10.22 %, что обеспечивает дополнительный выход семян (на 5.22 %) и белка (на 11.20 %) с единицы площади.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(21)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

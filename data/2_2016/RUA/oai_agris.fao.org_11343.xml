@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A11343">
+    <dc:title xml:lang="en">ON ELABORATION OF NEW TECHNOLOGIES OF ARTIFICIAL FOREST REGENERATION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>О РАЗРАБОТКЕ НОВЫХ ТЕХНОЛОГИЙ ИСКУССТВЕННОГО ЛЕСОВОССТАНОВЛЕНИЯ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MUKHORTOV Dmitry</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NUREEVA Tatiana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>USHNURTSEV Alexey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">planting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plantations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">planting equipment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5992</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5990</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5991</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Research activity of the members of the Chair of Forest Plantations, Selection and Biotech-nology in the field of elaboration of new technologies for artificial forest regeneration were con-sidered. The problem of adaptation of foreign technologies in cultivation of containerized planting material and establishment of forest plantations in the Russian Federation were mentioned. The most important elaborations of the members of the chair and the perspectives for the scientific search in the sphere of artificial forest regeneration and plantations cultivation were offered.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рассмотрены вопросы научной деятельности кафедры лесных культур, селекции и биотехнологии в области разработки новых технологий искусственного лесовосстановления. Затронуты проблемы адаптации зарубежных технологий получения посадочного материала с закрытой корневой системой и создания лесных культур с их использованием в Российской Федерации. Показаны наиболее значимые разработки коллектива кафедры и перспективы дальнейшего научного поиска в области искусственного лесовосстановления и плантационного лесовыращивания.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/72/49</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.24/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

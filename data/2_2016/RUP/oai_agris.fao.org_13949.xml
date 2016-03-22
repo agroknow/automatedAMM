@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P13949">
+    <dc:title xml:lang="ru">ПОСТРОЕНИЕ КОГНИТИВНОЙ МОДЕЛИ ВЛИЯНИЯ ИНВЕСТИЦИОННЫХ ПОТОКОВ НА РАЗВИТИЕ СЕЛЬСКИХ ПОСЕЛЕНИЙ И СРЕДНИХ ГОРОДОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>CREATION OF COGNITIVE MODEL OF INFLUENCE ON INVESTMENT STREAMS OF DEVELOPMENT OF RURAL SETTLEMENTS AND MEDIUM-SIZED CITIES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Rogachev  A.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shatyrko  D.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">statistical methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7377</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Key words: rural settlements, medium-sized cities, economic-mathematical modeling, investments, manpower, cognitive maps</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрено когнитивное моделирование саморазвития сельских поселений и средних городов. Изложено компьютеризованное построение когнитивных карт, учитывающих влияние инвестиционных потоков и трудовых ресурсов на саморазвитие моделируемой системы.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Cognitive modeling of self-development of rural settlements and average cities is considered in the article. Computerized creation of the cognitive maps considering influence of investment streams and manpower on self-development of the modelled system is stated.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_bedd806123a94cdc9a668380d87d78ce.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№5, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

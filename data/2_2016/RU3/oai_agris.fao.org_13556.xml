@@ -1,0 +1,30 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016313556">
+    <dc:title xml:lang="ru">Получение органических удобрений из отходов лесозаготови-тельной деятельности как способ повышения комплексного использования древесины</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Мохирев А.П.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Рубинская А.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Мезенцева Н.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Учитывая динамику и объемы производства предприятий лесной промышленности по России наиболее остро встает необходимость более активно использовать накопленные и образую-щиеся ежегодно в большом количестве древесные отходы. Отходы образуются практически на всех стадиях лесозаготовительного и деревоперерабатывающего производств. Однако их возможно ис-пользовать в производстве разного рода товарной продукции. Наиболее простой и дешевый способ использования древесных отходов – это использование в сельском хозяйстве в качестве кормовых добавок, подстилки животным и удобрений. Целью данных исследований явилось разработка и техни-ко-экономическое обоснование производства органических удобрений из древесных отходов на стадии лесозаготовительного процесса. В результате предложена технологическая цепочка, состоящая из системы машин и механизмов от работ на лесосеке до отгрузки ее потребителю с нижнего склада лесозаготовительного предприятия. Технико-экономическое обоснование предложенной технологии, основанное на показателях действующего предприятия, показало эффективность производства ком-поста на стадии лесозаготовительного процесса.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.7/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

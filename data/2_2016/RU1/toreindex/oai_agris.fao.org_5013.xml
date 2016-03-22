@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016105013">
+    <dc:title xml:lang="en">Assessment of Platelet in Case of Stress-induced Apnea</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mantskava M.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Momtselidze N.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">platelet</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6003</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Sleep apnea is a independent pathology and a powerful stress for the organism. Apnea is a cause of stress and strengthens the body under stress. We studied 30 men aged 34 to 57 years: 22 patients with obstructive sleep apnea and 8 patients with central sleep apnea. We explored a drop of blood in HUMACOUNT, mod. HUMACOUNT (Firm Human GmbH, Germany), bought of grant budget RF/420/7-270/12. We investigated parameters of platelet: PLT, MPV, PDWс and PCT. The analysis of the data was performed using statistical programs “Origin 4.1’’ (Microsoft. Software, Inc) and Microsoft Excel, evaluated Student and criteria Pearson. Protocol of research was adequate Helsinki Declaration. Our results in patients with obstructive apnea: PLT=109x109±40x109l</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">MPV =7,7±3,0fl</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">PCT=0,08x10-2±0,02x10-2%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">PDWС =33,4±3,6%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">in patients with central apnea - PLT=142x109±50x109l</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">MPV=6,4±2,0fl</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">PCT=0,09x10-2±0,03x10-2%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">PDWС=32,7±3,0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">in control - PLT=250x109±40x109l</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">MPV=11,0±4,0fl</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">PCT=0,25x10-2±0,05x10-2%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">PDWС=36,2±4,0%. Interrupted we analyzed the number of platelets and platelet indices for determining homeostasis in stress disease. Stress body reduces the number of platelets. But if apnea is a disease of the fourth rank stress, platelet factors fluctuate within normal limits. Our data have practical significance for biomedicine. We propose a new marker for apnea: platelet composes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N3/JSPB_2014_3_281-286.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

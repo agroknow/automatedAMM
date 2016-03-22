@@ -1,0 +1,133 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01956">
+    <dc:title xml:lang="en">Tiller dynamics of coastcross bermuda grass (Cynodon dactylon (L.) Pers.) submitted to nitrogen and regrowth periods</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Dinâmica de Perfilhamento do capim-coastcross (Cynodon dactylon (L.) Pers.)</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>submetido a doses de nitrogênio e períodos de rebrotação</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>CUNHA,  B. A. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ROSSIELLO,  R. O. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CARVALHO,  C. A. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ALMEIDA,  F. Q.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tillering</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anthesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">population</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Density</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1326961195270</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7773</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8839</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2186</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes />
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study was conducted in a greenhouse and aimed to investigate the effects of nitrogen (N) levels and regrowth period on tiller dynamics of Coastcross grass (Cynodon dactylon L.Pers.cv. Coastcross- 1). Treatments consisted of N fertilization equivalent to zero</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">100</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">200 and 300kg ha-1 of N (urea), evaluated in 10 regrowth periods of 7</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">14</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">21</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">28</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">35</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">42</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">49</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">56</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">63 and 70 days, counted from a standardization cut, according to a complete randomized design. During the experimental period, every seven days, the new vegetative tillers, basal or lateral, were counted and marked, and also counted the number of tillers in reproductive phase or dead ones. Data were analyzed as measured repeated in the time and adjusted by a multiple regression procedure. Responses to growth period were adjusted to a lineal model, while for N doses, responses of vegetative tillers densities were better described by quadratic functions or square root. Lateral tillers showed an outstanding response to N, ready in the first regrowth period, prevailing after the third week and stabilizing its population thereafter. Tiller appearance was reduced with the increase of regrowth period while tillers mortality was not significant. Absence of fertilization favored a greater percentage of reproductive tillers while the increased of N delayed and reduced the flowering of Coastcross grass.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Este trabalho foi realizado em casa de vegetação objetivando avaliar os efeitos de doses de nitrogênio (N) e do período de rebrotação do capim-coastcross (Cynodon dactylon L. Pers. cv. Coastcross-1) na dinâmica do perfilhamento. Os tratamentos consistiram de doses de N, na forma de uréia, equivalentes a zero</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">100</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">200 e 300kg ha-1 de N, avaliados em 10 períodos de rebrotação, de 7</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">14</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">21</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">28</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">35</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">42</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">49</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">56</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">63 e 70 dias, contados a partir de um corte de uniformização, segundo um delineamento inteiramente casualizado. Durante o período experimental, a cada sete dias, foram contados e marcados os perfilhos vegetativos novos, basilares ou laterais e também contados os perfilhos em estádio reprodutivo e os mortos. Os dados foram analisados como medidas repetidas no tempo e ajustados por técnica de regressão múltipla. As respostas ao fator período de rebrotação ajustaram-se a um modelo linear, enquanto que, para doses de N, as respostas da densidade de perfilhos vegetativos, basais e laterais, foram melhor descritas por funções quadrática e raiz quadrática, respectivamente. Os perfilhos laterais apresentaram resposta marcante ao N já no primeiro período, predominando na população após três semanas e estabilizando sua densidade posteriormente. Foi observada redução no aparecimento de perfilhos com o aumento do período de rebrotação. A mortalidade de perfilhos não foi significativa durante o período experimental. O capim-coastcross apresentou maior percentual de perfilhos reprodutivos na ausência de adubação nitrogenada. Altas doses de N retardaram e reduziram o florescimento.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1214939577.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

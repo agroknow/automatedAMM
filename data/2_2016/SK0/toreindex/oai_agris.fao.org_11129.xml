@@ -1,0 +1,69 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016011129">
+    <dc:title xml:lang="sk">Plnenie zŕn v klasoch pšenice letnej f. ozimnej v závislosti od genotypu a listovej výživy</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Grain filling of winter wheat spikes in dependance on genotype and foliar nutrition</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Živčák Marek</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Olšovská Katarína</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lena Vašková</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Slamka Pavol</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wheats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertilization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genotypes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seed filling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8373</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2863</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26785</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Filling of sinks in three genatypes of wheat (KM-91- 10MRS - winter wheat with multirow ear, KM-301-13GB - wheat with genuine branching and IS ESCORIA - standard control variety) was investigated in small-plot field experiments during sea son 2013/2014. There was done basical (30 kg.ha N), regeneration (20 kg.ha N) and productional (35 kg.ha N) fertilization in each genotypa. In the stage of earing the wheat plants were sprayed by 
+leaf fertilizer DUMAG at the dose of 20 kg·ha-1 N, that is 2 g.m2 N in three repetitions and the same number of plots were untreated (control without N fertilization). The ears for spikelet analyses were taken in random way. Evaluation of sink accumulation was realized by means of detailed spikelet analyses. On the basis of experimental values the ear models have been created representing the most important part of the ear. Foliar application of nitrogen in the stage of earing led to the different reactions depending on the ear morphotype. Control variety responded to nitrogen fertilization by increasing of thousand-kernel weight (TKW) at constant number of grain. Multirow genotype showed increased TKW even in control treatment and foliar N fertilization slightly increased also number of grains, that is number of sinks in the ear. Genotype with genuine branching suffered with low formation of grains and showed lower number of grains in the ear as well as in the spikelet. Within all examined genatypes this one reacted the best to foliar N application by increase of grain number and also by slightly increase of grain weight. This shows great potential as well as great environmental vulnerability of this type of genotype. Achieved results confirmed that foliar N application influences filling of sinks, however the effect depends strongly on genotype.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Agrochémia</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1335-2415</ags:citationIdentifier>
+      <ags:citationNumber>v.19/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

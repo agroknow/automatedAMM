@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01759">
+    <dc:title xml:lang="pt">Forage mass and sulfur concentration in Panicum maximum Jacq. cv. Tanzânia and Cynodon dactylon (L.) Pers cv. Tifton-85 in response to sulphur rates</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Doses de enxofre na produção de massa seca e concentração de enxofre no capim-tanzânia e capim-tifton-85</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BALIEIRO NETO,  G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CRUZ,  M. C. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERREIRA,  M. E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FRACO,  A. C. B. J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NOBILE,  F. O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NASCIMENTO,  R. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Greenhouses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">minerals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3379</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4857</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49892</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27917300037c1</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The absorption capacity and sulphur concentration diverges among species classified in a same group of nutritional demand. This experiment was carried to evaluate forage mass and sulphur concentration in the aerial part of Cynodon dactylon cv. Tifton-85 and Panicum maximum cv. Tanzania grasses in response to sulphur rates (0, 10, 20, 30 and 40 mg dm-3). The experimental design was completely randomized with four replications. In both species the forage mass was smaller without the sulphur. There was positive linear effect on sulphur rates in sulphur concentration on the Tifton-85 and quadratic effect on the Tanzânia. The tifton-85 grass posses larger sulphur concentration and it is more responsive the sulphur application than Tanzânia grass, increasing the production of dry mass with smaller doses of the nutrient.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">A capacidade de absorção e concentração de enxofre difere entre espécies classificadas num mesmo grupo de exigência nutricional. A produção de massa seca e concentração de enxofre na parte aérea do capim-tifton-85 e capim-tanzânia, foram estudadas em função da aplicação de enxofre (0, 10, 20, 30 e 40mg dm-3), em Latossolo Vermelho textura argilosa, em Jaboticabal (SP). O ensaio foi realizado em delineamento inteiramente ao acaso com quatro repetições. As produções de massa seca das espécies foram menores sem aplicação de enxofre. Houve efeito linear positivo de doses de enxofre na concentração de enxofre no capim-tifton-85 e efeito quadrático no capim-tanzânia. O capim-tifton-85 possui maior concentração de enxofre e é mais responsivo a aplicação de enxofre que o capim-tanzânia, aumentando a produção de massa seca com menor dose do nutriente.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1212499581.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,53 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08355">
+    <dc:title xml:lang="ru">ОЦЕНКА РЕАКЦИИ НА СЕЛЕКТИРОВАННУЮ ФОРМУ СТЕВИИ (STEVIA REBAUDIANA BERTONI) К ВОЗБУДИТЕЛЮ КОРИЧНЕВЫХ ПЯТЕН НА ЛИСТЯХ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>AN ASSESMENT OF THE RESPONSE OF SELECTION FORMS STEVIA (STEVIA REBAUDIANA BERTONI) TO THE CAUSE OF THE DISEASE BROWN PLANT SPOTS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ГЕОРГИЕВА – АНДРЕЕВА М.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Институт земледелия</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stevia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Alternaria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">disease resistance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24710</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_315</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2328</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В период 2010 2011г.г. проведена фитопатологическая оценка 50 генотипов стевии выращенных на опытном поле Института Земледелия г. Шумен (Болгария). Полевые исследования проводились дважды в период вегетации (60 дней после высадки на поле и перед первым укосом в конце июля, и за 60 дней до второго укоса в конце сентября).Полученные результаты показывают, что перед первым укосом в 92% от вариантов наблюдалась первоначальная инфекция. Данные второго наблюдения показывают значительное повышение процента больных растений, как и увеличение интенсивности заболевания. Перспективными к селекции по устойчивости оказались растения 8 типов по происхождиению: 110Ш3, 54 Ш3, №3, Ш3, СР9, 63Ш3 и №11 (индекс поражения менее 5%) и могут использоваться как источники толерантности и устойчивости.Относительно высокую устойчивость проявили селекционные материалы: 100Ш3, СР2, 5Ш3, СР142, 83Ш3. Среднеустойчивыми были признаны: Ш56, 44Ш3, 30Ш3, 41Ш3, СР31, 79Ш3 и СР65. В вариантах Ш17, Ш62, 106Ш3 и Ш86 наблюдалась сильно выраженная реакция чувствительности к алтернариоза (индекс поражения более 50%).</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">During the period 2010 2011 a phytopathological evaluation was performed of 50 genotypes of stevia grown in the experimental field of Agricultural Institute Shumen (Bulgaria). Polish surveys were conducted twice during vegetation (60 days after setting out the field and before the first mowing in late July, and 60 days before the second mowing in late September). The results have indicated a primary infection in 92% of the options before the first mowing. Data of the second counting has showed a significant increase in the percentage of diseased plants and an increase of the intensity of the disease, too. There are 8 perspective origin of species for the selection to stability 110SHZ, 54SHZ, № 3, SHZ, SR9, 63 SHZ and № 11 (index of attack less than 5%), and can be used as sources of tolerance and stability. Some selection materials as 100SHZ, SR2, 5SHZ, SR142, 83SHZ have shown a relatively high resistance. Materials as SH56, 44SHZ, 30SHZ, 41 SHZ, SR31, 79 SHZ and SR 65 have been rated as average resistant. In options SH17, SH62, 106SHZ and SH86 there was a highly expressed response of sensitivity to the alternariozata (index of attack over 50%).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/8-1-15.pdf#page=100</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.8 (15)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

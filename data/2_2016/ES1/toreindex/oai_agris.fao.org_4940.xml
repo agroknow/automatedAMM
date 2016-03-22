@@ -1,0 +1,127 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104940">
+    <dc:title xml:lang="es">CARACTERIZACIÓN GENÉTICA DE VACAS DE LA RAZA CRIOLLO LECHERO TROPICAL EN VERACRUZ, MÉXICO</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>GENETIC CHARACTERIZATION OF BREED COWS TROPICAL MILKING CREOLE IN VERACRUZ</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>MEXICO</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Canales  Amado</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Cervantes Patricia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hernández Antonio</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Martinez Amparo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Delgado Juan Vicente</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Landi Vincenzo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>López Bernardo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dominguez Belisario</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Olmos Arely</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Valdés Michelle</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad de Córdoba</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidad Veracruzana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Microsatellites</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36574</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The study of the genetic structure of populations Creole is essential for understanding the evolutionary potential and connectivity to other breeds. The objective of this research was to study the genetic variability and population structure of a bovine herd of 45 cows Tropical Milking Creole (CLT) also establish their genetic relationships with other European and reference landraces using microsatellite DNA. The DNA was extracted from hair and a panel of 27 microsatellite FAO recommended was used. Statistical genetic analysis was performed to allele frequencies (AF), genotypic, Hardy-Weinberg (HW), expected heterozygosity (HE) and observed (HO), F statistics and GST, Polymorphic Information Content (PIC), individual genetic distances and population structure to identify the formation of this population of cattle CLT. The means of the results of statistical analysis: the FA 7.36</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">effective number of alleles 3,837</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">HW disequilibrium 6</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">HE, HO 0.702 and 0.639</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">PIC of 0.658</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Multilocus FIS 0.089. Genetic relationships with other races: FIS 0.059, 0.178 FIT, FST 0.126, 2.99, Number of migrants with Berrenda Colorada. Most genetic differentiation with GYR (0.239), the genetic distance Bramhan and Gyr (0.273 to 0.234) in the genetic structure, the CLT group cows differed from other breeds in the Kluster 9. The results show a population with a high variability and genetic diversity, the CLT population with Creoles of Spanish and European native breeds showed no mix of other breeds and have high purity, except for the 4 animals with influence from other cattle breeds.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">El estudio de la estructura genética de las poblaciones Criollas es esencial para comprender el potencial evolutivo y la conectividad, para esto se han aplicado varios marcadores incluyendo isoenzimas, proteínas sanguíneas, fragmentos de ADN polimórfico amplificados al azar y microsatélites. El objetivo de esta investigación fue estudiar la variabilidad genética y la estructura de la población de un hato bovino de 45 vacas Criollo Lechero Tropical (CLT) pertenecientes a la Unidad de Manejo para la Conservación de la Vida Silvestre (UMA) “El Ravelo”, asimismo, establecer sus relaciones genéticas con otras razas europeas y criollas como referencia, utilizando microsatélites de ADN. El ADN se extrajo del pelo de cada uno de los animales, se utilizó un panel de 27 microsatélites recomendados por la FAO, se utilizaron los programas Genescan Analisys 3.1.2 y Genotyper 2.5 para la tipificación alélica. Para obtener el análisis genético se realizaron los análisis estadísticos de las frecuencias alélicas (FA), genotípicas, equilibrio Hardy-Weinberg (HW), Heterocigosis esperada (HE) y observada (HO), estadísticos F y GST, valores de Contenido de Información Polimórfica (PIC), distancias genéticas individuales y el estudio de la estructura población para identificar la conformación de esta población de Bovinos CLT. Las medias de los resultados de los análisis estadísticos: en las  FA 7,36</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">número de alelos efectivos 3,837</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">equilibrio HW 6</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">los microsatelites mostraron desviaciones significativas por déficit de heterocigotos, HE 0,702 y HO de 0,639</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">PIC de 0,658</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">FIS multilocus 0,089. Relaciones genéticas con otras razas: FIS 0,059, FIT 0,178, FST 0,126, Número de migrantes 2,99 con la Berrenda Colorada. La mayor diferenciación genética con el GYR (0,239), la mayor distancia genética Gyr y Bramhan (0,273-0,234), en la estructura genética, las vacas CLT se diferenciaron del grupo de las demás razas en el Kluster 9. Los resultados muestran que se está ante una población con una gran diversidad genética,  analizando la población de CLT con otras razas criollas, europeas y autóctonas españolas, se tiene una población que no tiene invasión de otras razas y que todavía tiene cierto grado de pureza, a excepción de cuatro animales que tienen cruces y perdieron la pureza de la raza.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo088_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

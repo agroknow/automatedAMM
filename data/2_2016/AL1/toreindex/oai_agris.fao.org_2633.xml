@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102633">
+    <dc:title xml:lang="en">Effects of 24-epibrassinolide on growth, lipid peroxidation, protein and antioxidative enzyme activities in seedlings of loquat under salinity stress</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SADEGHI FATEMEH</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHEKAFANDEH AKHTAR</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Horticulture, Faculty of Agriculture, Shiraz University, Shiraz Iran.</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Loquat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lipid peroxidation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12246</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34043</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this research, the changes in plant growth, lipid peroxidation, protein content and activities of antioxidant enzymes in loquat seedlings subjected to NaCl stress and 24-epibrassinolide (24-EBL) application were investigated. Plants were treated with 5 levels of salt (0.5, 2, 4, 6 and 8 dS m-1) and 4 levels of 24-epibrassinolide solution (0, 0.25, 0.5 and 0.75 mg L-1). Salinity decreased growth, catalase activity and total protein concentrations and increased superoxide dismutase and peroxidase activities, electrolyte leakage and malondialdehyde synthesis. The plant growth, activities of antioxidative enzymes and protein content increased in 24-epibrassinolide-treated plants in comparison with non-treated plants. Leaf cell electrolyte leakage and malondialdehyde synthesis reduced by exogenous application of 24-epibrassinolide under saline conditions. Our results suggest that 24-epibrassinolide application under salt stress conditions alters the equilibrium between free radical production and enzymatic defence reactions in loquat by enhancing the protein content and free radical scavenging capacity.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://docs.google.com/a/ubt.edu.al/viewer?a=v&amp;pid=sites&amp;srcid=dWJ0LmVkdS5hbHxyc3NifGd4OmU1ZTkzMWQ3ZTcwODA3</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08504">
+    <dc:title xml:lang="ru">ПЕРСПЕКТИВЫ ИСПОЛЬЗОВАНИЯ БИОИНДИКАЦИОННЫХ МЕТОДОВ ИССЛЕДОВАНИЯ ПРИ ПРОВЕДЕНИИ ИНЖЕНЕРНО-ЭКОЛОГИЧЕСКИХ ИЗЫСКАНИЙ ПРИ СТРОИТЕЛЬСТВЕ ЛИНЕЙНЫХ ОБЪЕКТОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PROSPECTS OF METHODS BIOINDICATIVE FOR ENGINEERING AND ENVIRONMENTAL STUDIES AT CONSTRUCTION OF LINEAR OBJECTS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Гаврилин И.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Уральский Государственный Университет Путей Сообщения</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vegetation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">engineering</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">environmental sciences</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1325836721310</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2571</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331559</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье приведены некоторые особенности изучения состояния растительного покрова и перспективы использования
+биоиндикационных методов оценки качества окружающей среды, применительно к линейным объектам строительства при
+проведении инженерно-экологических изысканий. Представлены результаты содержания влаги в прикамбиальном слое для
+различных пород деревьев с учетом ранжирования и нормирования данных по категориям состояния. Особое внимание уделено
+возможности совместного использования различных биоиндикационных методов при проведении инженерно-экологических
+изысканий.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article describes some of the features the study of vegetation and prospects of bioindicative quality assessment of the
+environment, in relation to the linear construction projects in conducting environmental research . The results of the moisture content of
+prikambialnom layer for a variety of tree species , taking into account the ranking and rating data for a category of state . Particular
+attention is paid to the possibility of sharing bioindicative different methods in conducting environmental research.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/11/10-1-17.pdf#page=60</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.10 (17)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

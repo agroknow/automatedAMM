@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100402">
+    <dc:title xml:lang="en">Effect of MgCl2 stress on germination, plant growth, chlorophyll content, proline content and lipid peroxidation in sorghum cultivars</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Khare Tushar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Desai Dnyanada</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kumar Vinay</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sorghum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Proline</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lipid peroxidation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Protein content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7244</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34043</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6251</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Present report deals with the effect of increasing levels (0-300 mM) of MgCl2 salt on sorghum cultivars, Phule Vasudha and Phule Revati. Although MgCl2 stress did not show considerable adverse effects on germination, however, at higher (&gt;200 mM) concentrations, the seedlings turned brown and did not showed any further growth, with comparably higher magnitude of negative effects on Phule Revati than Phule Vasudha. Overall, increasing MgCl2 stress reduced plant growth and biomass production significantly in both the cultivars, though with lesser extent in Phule Vsudha as compared to Phule Rvati. Contrasting behavior was evidenced in both the cultivars in terms of protein content under varying levels of MgCl2 concentration at vegetative growth level, where salinity induced reduction in protein content was higher in Phule Revati than Phule Vasudha. The genotype Phule Vasudha showed higher proline content under non-saline condition. MgCl2 stress-induced proline accumulation was observed in both the sorghum cultivars, however, interestingly, Phule Revati (439% of control plants) showed comparably higher proline content than Phule Vasudha (324% of control plants) at the highest (300 mM) level of stress. Even though, malondialdehyde (MDA: lipid peroxidation indicator) content was on higher side under non-saline conditions in cultivar Phule Vasudha as compared to cultivar Phule Revati, however the rate of increase in MDA with increasing salt stress was much higher in the latter cultivar, indicating the comparably higher level of lipid peroxidation under the influence of MgCl2 stress. The salt tolerance nature of Phule Vasudha was positively correlated with its better performance in terms of physiological and biochemical parameters.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2012/N4/JSPB_2012_4_169-178.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

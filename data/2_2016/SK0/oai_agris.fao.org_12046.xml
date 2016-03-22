@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012046">
+    <dc:title xml:lang="en">Production of T-2 toxin and deoxynivalenol  in the presence of different disinfectants</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hrubošová Dana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vytřasová, J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Brožková, I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cereals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Toxins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">disinfectants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1474</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7828</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2331</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The aim of the work was to examine the effect of different disinfectants on production trichothecenes (especially of T-2 toxin and deoxynivalenol). Lipophilicity, chemical structure, the presence of bioactive groups and functional groups in their structure modifies biological activity and toxic potency of trichothecenes. For this reason, limits have been established designating maximum levels of mycotoxins in cereals while maintaining proper growing practices. Appropriate nutritive media were prepared with different concentration of tested disinfectants (Desanal A  plus, ProCura spray and Guaa-Pool) and were inoculated using  Fusarium strains. The density of  Fusarium was 105 spores per mililitre. Nutrient media was cultivated at 15 °C and 25 °C for seven days. The strains of Fusarium graminearum CCM F-683 and Fusarium species (isolated from barley) produced quantities of deoxynivalenol. Fusarium poae CCM F-584 and Fusarium species (isolated from malthouse air) produced quantities of T-2 toxin. Desanal A plus prevented Fusarium growth and production of T-2 toxin and deoxynivalenol at the concentration 10%. It is an alkaline disinfectant on the basis of active chlorine and the surfactant that contains ˂5% of NaClO. ProCura spray at the concentration 0.6% proved to be very effective. This disinfectant contains 35% of propan-1-ol and 25% of propan-2-ol.  Guaa-Pool at the concentration 0.004% proved to be very effective. It is a polymeric disinfectant with anion surface-acting agent and it contains ˂0.9% of polyhexamethylene guanidine hydrochloride and ˂0.2% of alkyl (C12-C16) dimethylbenzyl ammonium chloride. Lower contentration of  disinfectants that  not prevented growth of Fusarium caused higher production  of T-2 toxin and deoxynivalenol. The contents of T-2 toxin and deoxynivalenol were analyzed by enzyme-linked immunosorbent assay (ELISA) using commercially produced kits (Agra Quant® Deoxynivalenol Test kit and Agra Quant® T-2 toxin Test kit). The experiment showed that the variability in the production of T-2 toxin and deoxynivalenol depended on the Fusarium strain used, concentration of disinfectants and temperature of cultivation</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/417/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101170">
+    <dc:title xml:lang="en">Evaluation of Two Biochemical Markers for Salt Stress in Three Pistachio Rootstocks Inoculated with Arbuscular Mycorrhiza (Glomus mosseae)</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Shamshiri M.H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fattahi M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Proline</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">осмотический стресс</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35750</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The possible involvement of the methylglyoxal and proline accumulation in leaves and roots of three pistachio rootstocks, cv. Sarakha, Abareqi and Bane baghi, pre-inoculated with arbuscular mycorrhizal fungus (Glomus mosseae) in response to salt stress was studied during a greenhouse experiment in 2013. Six months old pistachio seedlings were exposed to four salinity levels of irrigation water (EC of 0.5 as control, 5, 10 and 15 dS m-1) for 70 days. Methylglyoxal and proline of the roots and leaves were increased by increasing salt stress. The highest concentrations of proline in leaves and roots were recorded in Abareqi rootstock while the lowest concentration was observed in Sarakhs. In general, a negative relationship was obtained between proline and methylglyoxal concentrations in both tissues especially at two highest levels of salinity. A very strong relationship between salinity and measured biochemical markers were found. The level of both biomarkers were reduced in both tissues and in all rootstocks as the effect of mycorrhizal symbiosis. Root colonization percentage was declined as the effect of salinity in Abareqi and Bane baghi and not in Sarakhs.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_335-346.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

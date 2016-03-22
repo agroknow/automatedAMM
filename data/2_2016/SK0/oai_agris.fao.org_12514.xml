@@ -1,0 +1,54 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016012514">
+    <dc:title xml:lang="en">Occurrence of Enterococcus spp. isolated from the milk and milk products</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lačanin Ines</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dušková Marta</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kladnická Iva</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Karpíšková, R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak Agricultural University in Nitra, Nitra, Slovak republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Enterococcus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pollutants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4829</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15967</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6076</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Enterococcus spp. is the most controversial group of lactic acid bacteria that have been for years ascribed with beneficial or detrimental role in food and feed. The aim of our study was to monitor the occurrence of Enterococcus spp. as the indicator of the contamination from collected samples of raw cow's milk, goat's colostrum and whey (n = 186). Cultures of enterococci were cultivated and purified and identified by the genus-specific and species-specific PCR method (n = 230). Among suspected isolates in total 222 isolates (96.5%) were identified as Enterococcus spp. The results were the same in all samples separately, more than 90% each of them were positive to Enterococcus spp. The results of counting the number of cultivated colonies showed that the largest number of enterococci is found in the samples of whey taken after the process of electrodialysis and the smallest in the native whey sample. From collected whey samples, 64 samples (90%) were PCR positive for enterococci species. Afterwards within the identification of several selected isolates that were identified, as Enterococcus spp. by the species-specific PCR method the most frequently presented in all of isolates was Enterococccus faecalis. Apparently the presence of enterococci was detected in all samples, but in amounts that aren't hazardous for human health. Although enterococci are oportunistic pathogens, it seems that they occur frequently in foods (especially fermented) in large numbers.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/476/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

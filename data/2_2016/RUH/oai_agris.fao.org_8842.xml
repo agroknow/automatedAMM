@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08842">
+    <dc:title xml:lang="ru">ТЕХНОЛОГИЯ ВЫРАЩИВАНИЯ РАСТЕНИЙ ЗЕМЛЯНИКИ САДОВОЙ FRAGARIA ANANASSA DUCH. НА ОСНОВЕ ИСПОЛЬЗОВАНИЯ УЗКОПОЛОСНОГО СПЕКТРА ФОТОСИНТЕТИЧЕСКИ АКТИВНОЙ РАДИАЦИИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PLANT GROWING TECHNOLOGY OF STRAWBERRY FRAGARIA ANANASSA DUCH. USING NARROW-BAND SPECTRUM OF PHOTOSYNTHETICALLY ACTIVE RADIATION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ЯКОВЦЕВА М.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ТАРАКАНОВ И.Г.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Российский государственный аграрный университет - МСХА имени К.А.Тимирязева</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Photosynthesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Light</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25189</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5812</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4322</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучена возможность и перспективы выращивания растений земляники садовой трех новых сортов в защищенном грунте с использование узкополосных светодиодов в качестве источников освещения. Проведен анализ морфофизиологических реакций растений земляники садовой трех сортов с разными сроками созревания в условиях разных режимов освещения. В качестве источников света были использованы светодиодные лампы с узким диапазоном красного коротковолнового (75%) и синего (25%) спектро, натриевые лампы высокого давления, контроль - естественное освещение с досвечиванием лампами Reflax. Обнаружено, что разные источники освещения по-разному влияют на биометрические параметры, в том числе накопление сырой биомассы, показатели фотосинтетической деятельности растений и их способности к вегетативному размножению.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The analysis of morphological and physiological responses of three cultivars strawberry plants with different ripening times under different light sources. As the light sources were used LED bulbs using short red (75%) and blue spectra (25%), high pressure sodium lamps, and natural lighting with supplementary lighting lamps Reflax as control. It was found that different light sources have different effects on biometrics parameters, including the raw biomass accumulation, photosynthetic activity rates and their capacity for vegetative reproduction.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2014/03/2-1-21.pdf#page=70</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.2 (21)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

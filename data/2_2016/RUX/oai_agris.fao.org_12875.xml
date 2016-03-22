@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12875">
+    <dc:title xml:lang="en">IMPROVED CONTROLLABILITY OF A SURGICAL NEEDLE</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ПОВЫШЕНИЕ УПРАВЛЯЕМОСТИ ХИРУРГИЧЕСКОЙ ИГЛОЙ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sakhno  N.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vatnikov  Yu.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Тutkyshbay  I.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Orel State Agrarian University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Russian University of friendship of peoples</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>South Kazakhstan state University named after M. Auezov</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">surgical operations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">wounds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sutures</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7533</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15414</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16466</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Modern needle holders do not always satisfy practitioners, including by reason of frequent work in the field with disabilities, thus there is a need to increase the controllability of the surgical needle. In this regard, the development of needle holder with high fixing ability for secure retention of a surgical needle and increase its manageability in surgical intervention seems to be quite promising in terms of surgery. A needle holder which is the most effective for the surgical fixation of the needle in conducting it through the tissue when suturing was developed. Thus, the use of a modified needle holder has a number of advantages that provide an exception of deformation and fracture of surgical needle during the operation. However, strictly perpendicular position of the surgical needle in the modified jaws of the needle holder, eliminates the "wandering" of the needle in the tissues and provides a strong fixing ability of the tool. Especially noteworthy is the increased control of the surgical needle in the imposition of cutaneous sutures in large animals. The advantages of a modified needle holder significantly increase the reliability of the instrument, significantly reduce the complexity of suturing and increase the efficiency of the operation. A modified needle holder was successfully applied for operations at the department of epidemiology and therapy of FSBEI HPE «Orel state agrarian university», department of clinical veterinary medicine of  FSBEI HPE "Russian university of friendship of peoples" and veterinary medicine department of South Kazakhstan state university named after M. Auezov.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Современные иглодержатели не всегда удовлетворяют практикующих врачей, в том числе и по причине частой работы в полевых условиях с ограниченными возможностями, при этом возникает потребность в повышении управляемости хирургической иглой. В этой связи, разработка иглодержателя с повышенной фиксирующей способностью для надежного удержания хирургической иглы и повышения ее управляемости при оперативном вмешательстве представляется достаточно перспективным в части проведения операции. Был разработан иглодержатель который, наиболее эффективен для фиксации хирургической иглы при проведении ее через ткани при наложении швов. При этом, использование модифицированного иглодержателя дает ряд преимуществ, которые обеспечивают исключение деформации и перелома хирургической иглы при проведении операции. Вместе с этим, строго перпендикулярное положение хирургической иглы в модифицированных губках иглодержателя, исключает "блуждание" иглы в тканях и обеспечивает прочную фиксирующую способность инструмента. Особенно следует отметить повышение управляемости хирургической иглой при наложении кожных швов у крупных животных. Указанные преимущества модифицированного иглодержателя значительно повышают надежность инструмента, значительно снижают трудоемкость наложения швов и повышают эффективность операции. Модифицированный иглодержатель был успешно применен при проведении операций на базе кафедры эпизоотологии и терапии ФГБОУ ВПО «Орловский государственный аграрный университет», кафедры клинической ветеринарии ФГБОУ ВПО «Российский университет дружбы народов» и кафедры ветеринарной медицины Южно-Казахстанского государственного университета имени М. Ауэзова.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-15-Sakhno.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(30)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

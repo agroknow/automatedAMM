@@ -1,0 +1,75 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C07092">
+    <dc:title xml:lang="ru">Оценка запаса лесных горючих материалов при государственной инвентаризации лесов</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Stock assessment of forest combustible materials in the state forest inventory</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Andreev Y.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Andreev A.Y.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mikhaylov P.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pautyak V.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Komorovski V.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Krasnoyarsk Scientific Laboratory of SPb Forestry Research Institute</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>R&amp;amp</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>D Center of Siberian fire rescue academy – branch of St. Petersburg University of State Fire Service of Russia EMERCOM</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">state forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14569</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Цель исследований – оценка запасов лесных горючих материалов по данным государст- венной инвентаризации лесов. Объектами исследований являлись образцы лесных горю- чих материалов и данные государственной инвентаризации лесов.
+Работа основана на обзоре и анализе существующих классификаций лесных горючих ма- териалов, методов определения их количественных и качественных характеристик, на результатах полевых исследований запасов напочвенных лесных горючих материалов и в кронах хвойных деревьев (кроме лиственницы) и молодняка (подроста). В ходе работы были выявлены и проверены возможные корреляционные связи характеристик лесных горючих материалов с данными государственной инвентаризации лесов.
+Данные о запасах лесных горючих материалов на территории России, полученные при государственной инвентаризации лесов, позволят решить одну из самых сложных задач в области охраны лесов – планирование и реализацию противопожарных мероприятий на основе моделирования возможных сценариев развития лесных пожаров, их частоты, ин- тенсивности и последствий.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The purpose of the research is to estimate the stock of forest combustible materials according to the state forest inventory. Object of research are examples of forest combustible materials and state forest inventory data.
+The work is based on a review and analysis of existing classifications of forest combustible materials, methods for the determination of their quantitative and qualitative characteristics, the results of field research stocks of combustible materials in litterfall and the crowns of coniferous trees (except larch) and undergrowth. In the course of work characteristics of forest combustible materials were identified and tested for possible correlation with the data of the state forest inventory.
+Data on stocks of forest combustible materials in Russia, obtained by the state forest inventory will allow to solve one of the most difficult tasks in the field of forest protection - planning and implementation of fire prevention measures, based on the modeling of scenarios of forest fires, their frequency, intensity, and consequences.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal.spb-niilh.ru/pdf/1-2015/spbniilh-proceedings-1-2015-3-full.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Труды Санкт-Петербургского научно-исследовательского института лесного хозяйства</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2079-6080</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

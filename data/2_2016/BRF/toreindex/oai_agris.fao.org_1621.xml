@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F01621">
+    <dc:title xml:lang="en">Use of sweetener as a palatability in diets of weaned piglets</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Uso de edulcorante como palatabilizante na dieta de leitões desmamados</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BUDIÑO, F. E. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LUCCHESI,  L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OTSUK,  I. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">diarrhoea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stevia rebaudiana</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1328606372693</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10363c60eea16</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24805</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This study aimed to determine the effects of adding a sweetener based upon Stevia rebaudiana as palatability in diets of weaned piglets evaluating performance (average daily gain, feed intake and feed conversion ratio) and diarrhea occurrence. Seventy-two piglets were used from a homogeneous strain (Large White x Landrace) weaned at 23 days of age, weighing an average of 7.60 ± 0.90 kg. The animals in groups of two (barrow and female) were housed in elevated metal pens. The performance of piglets was assessed in period I (23 to 37 days of age), period II (37 to 51 days of age), period III (51 to 65 days of age), and total period (23 to 65 days of age). The treatments were: 0.0% inclusion of the sweetener, 0.125% inclusion of the sweetener, 0.250% inclusion of the sweetener, 0.500% inclusion of the sweetener. Since these inclusion levels were used in periods I and II, period III the inclusions of the sweetener were reduced by 50%, or 0.00, 0.0625, 0.125 and 0.250%, respectively. There were no cases of severe diarrhea in the first 15 days of testing in any of the treatments. There were no significant differences (P&gt; 0.05) in any of the variables studied in the periods I, II, and total. During period III the inclusion levels of sweetener showed a quadratic effect both in average daily gain (P=0.0158) and in feed conversion ratio (P=0.0252). The flavor addition based upon Stevia in the diet of weaned piglets influenced the performance of the 51 to 65 days old. The optimal level of inclusion of sweetener that provided better average daily gain and feed conversion ratio was 0.265 and 0.286%, respectively.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se determinar os efeitos da adição de um edulcorante a base de Stevia rebaudiana como palatabilizante em dietas de leitões desmamados sobre o desempenho (ganho diário de peso, consumo diário de ração e conversão alimentar) e a incidência de diarreia. Foram utilizados 72 leitões, homogêneos quanto à linhagem (Large White x Landrace), desmamados aos 23 dias de idade, pesando em média 7,60 ± 0,90 kg. Foi utilizado o delineamento em blocos completos casualizados, sendo que a unidade experimental foi constituída por dois animais, submetidos a quatro tratamentos com nove repetições cada. Os animais, em grupos de dois (macho castrado e fêmea) foram alojados em baias metálicas suspensas. O desempenho dos leitões foi avaliado no período I (23 a 37 dias de idade), período II (37 a 51 dias de idade), período III (51 a 65 dias de idade) e período total (23 a 65 dias de idade). Os tratamentos consistiram de rações contendo níveis crescentes (0,00</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,125</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,250 e 0,500%) de inclusão de edulcorante. Esses níveis de inclusão foram utilizados nos períodos I e II, enquanto no período III as inclusões de edulcorante foram reduzidas em 50%, ou seja, 0,00, 0,0625, 0,125 e 0,250%, respectivamente. Não ocorreram casos graves de diarreia nos primeiros 15 dias do ensaio nos tratamentos estudados. Não foram observadas diferenças significativas (P&gt;0,05) em nenhuma das variáveis de desempenho estudadas nos períodos I, II e total. Durante o período III, houve efeito quadrático tanto no ganho diário de peso (P=0,0158) quanto na conversão alimentar (P=0,0252). A adição de palatabilizante a base de Stevia na dieta de leitões desmamados influenciou o desempenho destes dos 51 aos 65 dias de idade, sendo que o nível ótimo calculado de inclusão do edulcorante que proporcionou melhores ganho diário de peso e conversão alimentar foi de 0,265 e 0,286%, respectivamente.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1396554981.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.71/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

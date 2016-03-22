@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016105056">
+    <dc:title xml:lang="es">PRIMEROS DATOS SOBRE INTERVALO ENTRE PARTOS EN HEMBRAS DE LA POBLACIÓN DE OVINOS CRIOLLOS DEL PARQUE NACIONAL DE SAN MIGUEL, URUGUAY</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>FIRST DATA ABOUT BIRTH INTERVAL IN FEMALES OF CREOLE SHEEP POPULATION OF NATIONAL PARK SAN MIGUEL</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>URUGUAY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Macedo  Fernando</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pieruccioni  Florencia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Llambí Silvia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pereira  Daniel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Navajas   Elly</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Vaterinaria. Universidad de la República</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Nacional de Investigación Agropecuaria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Facultad de Vaterinaria. Universidad de la República</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Secretariado Uruguayo de la Lana</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Instituto Nacional de Investigación Agropecuaria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproduction</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6507</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The Creole sheep flock characterized in this study was initiated at Parque Nacional de San Miguel in the middle of the 20th century and is one of the largest in the country (approximately 250 animals). As a consequence of the developing of meat and wool industries during the 19th century, the Creole sheep population size significantly decreased. Nowadays the population size indicates according to FAO criteria that the Creole sheep is at risk of extinction. Several phenotypic and genetic characterization studies have been carried out by FVet-UdelaR, INIA and SUL. In this flock rams and ewes grazed together during the year. Births are distributed all around the year with two peaks: one is at the beginning of the winter and the second at the beginning the summer. In this study, calving interval (IEP) of 64 ewes between November 2012 and January 2014 were analysed. The average IEP was of 189.82 days with a standard deviation of 16.14 days. The minimum and maximum values were 169 days and 247 days, respectively. It was possible to identify 48 ewes with two births in the same year. These results indicate the existence of a very large breeding season. This information may be interesting from the point of view of lamb meat production systems and may help raising the interest on Creole sheep and its conservation as a valuable genetic resource. It is recommended to expand the sample and consider a longer period of time to confirm these initial preliminary results.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">El rebaño de ovinos Criollos caracterizado en este estudio se formó sobre mediados del siglo XX en el Parque Nacional de San Miguel y es uno de los más numerosos del país (aproximadamente 250 individuos). Como consecuencia del desarrollo de las industrias de carne y lana en el siglo XIX, el censo de los ovinos Criollos disminuyó notoriamente hasta llegar a clasificarse como en peligro de extinción según criterios de la FAO. Diversos trabajos de caracterización tanto fenotípica como genotípicamente de este rebaño han sido desarrollados por la FVet-UdelaR, el INIA y el SUL. En este rebaño machos y hembras permanecen juntos todo el año. En consecuencia los partos se distribuyen a lo largo del año con dos picos, uno al principio del invierno y otro al principio del verano. En este estudio se analizaron los intervalos entre partos (IEP) de 64 hembras considerados entre noviembre de 2012 y enero de 2014. La media de IEP fue de 189,82 días con un desvío estándar de 16,14 días. Los valores mínimos y máximos fueron 169 días y 247 días respectivamente. Del total de hembras 48 presentaron 2 partos en el mismo año. Estos datos indican la existencia de un período de cría muy amplio. Puede resultar de interés en la producción de carne ovina, puesto que en la actualidad la oferta de este producto se concentra a fin de año, y despertar un mayor interés sobre los Criollos, lo que ayudaría en el proceso de su conservación como recurso genético valioso. Se recomienda ampliar la muestra y considerar un mayor período de tiempo para confirmar estos resultados preliminares.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo113_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

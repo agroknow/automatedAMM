@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016007885">
+    <dc:title xml:lang="en">Phenolic composition, antioxidant activity, mineral content and antimicrobial activity of fresh fruit extracts of Morus alba L..</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Dimitrijević D.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kostić D. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Stojanović G. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mitić S. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mitić M. N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Đorđević A. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Chemistry, Faculty of Natural Sciences and Mathematics, University of Niš, Višegradska 33, 18 000 Niš, Serbia. Tel: +381 66 939 1069, e-mail: danicadimitrijevic7@gmail.com</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Morus alba</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Phenolic compounds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Antimicrobials</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heavy metals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4949</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5772</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_509</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this work was to evaluate the content of phenolic compounds (phenols, flavonoids and anthocyanins) of Morus alba L. fruit (white mulberry) as well as the antioxidant activities of its extract, heavy metals content and antimicrobial activity. The contents of phenols, flavonoids and antioxidant activity of extracts of white mulberry in the following solutes: water, ethanol, ethanol–water (1 : 1, v/v), methanol, methanol–water (1 : 1, v/v), acetone and acetone–water (1 : 1, v/v), were determined using spectrophotometric methods. Total phenol compounds in the extracts varied from 629.7 mg•kg-1 to 4 326.0 mg•kg-1 (expressed as gallic acid equivalents) of fresh mulberry fruit in acetone–water (1 : 1, v/v) and in ethanolic extract, respectively. The contents of flavonoids ranged from 290.0 mg•kg-1 to 1 378.6 mg•kg-1 of fresh fruit (expressed as catechin equivalent). The fruit extracts (1 ml) showed high antioxidant activity with 1,1-diphenyl-2-picrylhydrazyl radical transformation value of 87.2% in methanolic extract. Anthocyanins were not found. The fruit of white mulberry contained the highest amount of iron and the lowest amount of lead. Some of the tested extracts showed antimicrobial activity.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vup.sk/index.php?mainID=2&amp;navID=14</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>JOURNAL OF FOOD AND NUTRITION RESEARCH</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">ISSN 1336-8672</ags:citationIdentifier>
+      <ags:citationNumber>v.53/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

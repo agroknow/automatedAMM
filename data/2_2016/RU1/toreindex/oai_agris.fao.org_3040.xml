@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016103040">
+    <dc:title xml:lang="en">Analysis of Hydrophilic Antioxidant Enzymes in Invasive Alien Species Parthenium hysterophrus Under High Temperature Abiotic Stress Like Conditions</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sharma Arun Dev</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bhullar Amrit</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rakhra Gurmeen</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mamik Shubneet</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Parthenium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24355</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In order to gain insight into the biochemical basis of invasiveness of invasive alien species, in the present study the expression of antioxidant boiling stable proteins (peroxidase, SOD and catalase) was studied in Parthenium hysterophorus. Parthenium an annual invasive weed of family Asteraceae, is native to tropical America while wide spread in north America, many parts of Africa, Australia and India. It tolerates a wide variety of abiotic conditions in the natural habitat. The analysis of boiling stable proteins was outlined by Native-PAGE analysis. Some barely detectable boiling stable proteins were detected. The Zymogram analysis revealed a substantial expression of BsPeroxi 60 and BsSOD 35/20 in the leaves and mature flowers of Parthenium. However, no substantial catalase activity was detected in the boiled protein samples of all the tissues examined. Based upon these results, a possible physiological role of BsPeroxi 60 and BsSOD 35/20 in parthenium tissues was discussed.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N2/JSPB_2014_2_228-237.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

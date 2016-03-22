@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016101133">
+    <dc:title xml:lang="en">The Exogenous Amelioration Roles of Growth Regulators on Crop Plants Grow under Different Osmotic Potential</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Abd El-Samad Hamdia M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shadadd M.A.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Osmotic potential</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24497</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The production of fresh and dry matter of maize, wheat, cotton, broad and parsley plants show a variable response to the elevation of salinity stress. The production of fresh and dry matter of shoots and roots in wheat and broad bean plants tended to decrease with increasing NaCl concentration, salt stress progressively decrease in fresh and dry matter yield of maize plants. The increase in salinization levels induced a general insignificant change in production of fresh and dry matter of both organs of parsley plants. However, salinity induced a marked increase in the values of fresh and dry matter yields of cotton plants grown at the lowest level (-0.3 MPa NaCl) and a reduction at higher salinization levels. Leaf area of unsprayed plants was excesivly decreased with the rise of osmotic stress levels especially at higher salinity levels of maize, wheat, cotton, and broad bean and parsley plants. the total pigments concentration decreased with rise of salinization levels in maize and cotton, these contents remained more or less un affected up to the level of 0.6 MPa NaCl in wheat and up to 0.9 MPa in parsley plants, there above, they were significantly reduced with increasing salinity levels. In broad bean plants the total pigments contents showed a non-significant alterations at all salinity stress. Spraying the vegetative parts of the five tested plants with 200 ppm of either GA3 or kinetin completely ameliorated the deleterious effect of salinity in fresh, dry matter, leaf area and pigment contents.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2014/N1/JSPB_2014_1_203-213.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

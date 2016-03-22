@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A13360">
+    <dc:title xml:lang="en">RESULTS OF III INTERNATIONAL RESEARCH AND TECHNICAL CONFERENCE «CURRENT PROBLEMS AND PERSPECTIVES FOR DEVELOPMENT OF FOREST-INDUSTRIAL COMPLEX» AND REGULAR SESSION OF REGIONAL COORDINATION COUNCIL ON PRESENT PROBLEMS IN WOOD TECHNOLOGY</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ИТОГИ III-й МЕЖДУНАРОДНОЙ НАУЧНО-ТЕХНИЧЕСКОЙ КОНФЕРЕНЦИИ «АКТУАЛЬНЫЕ ПРОБЛЕМЫ И ПЕРСПЕКТИВЫ РАЗВИТИЯ ЛЕСОПРОМЫШЛЕННОГО КОМПЛЕКСА» И ОЧЕРЕДНОЙ СЕССИИ РКСД</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>UGRYUMOV Sergey</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Kostroma State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">On September 21–23, 2015 Kostroma State University of Technology hosted III International research and technical conference «Current Problems and Perspectives for Development in Forest-Industrial Complex» and regular session of Regional Coordination Council on Present Problems in Wood Technology.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">21–23 сентября 2015 года в Костромском государственном технологическом университете прошла  III-я Международная научно-техническая конференция «Актуальные проблемы и перспективы развития лесопромышленного комплекса» и очередная сессия Регионального координационного совета по современным проблемам древесиноведения.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/287/291</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.27/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

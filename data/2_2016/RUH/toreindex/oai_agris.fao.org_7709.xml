@@ -1,0 +1,86 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H07709">
+    <dc:title xml:lang="ru">ПОПУЛЯЦИОННО-ЭКОЛОГИЧЕСКИЙ АНАЛИЗ ПЛОТВЫ ( RUTILUS RUTILUS) ИЗ РЕКИ АЛАБУГА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>POPULATION AND ENVIRONMENTAL ANALYSIS ROACH ( RUTILUSRUTILUS ) FROM RIVER ALABUGA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Дергачёв С.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ишимский государственный педагогический институт имени П.П. Ершова</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">population</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">roach</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Morphology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fishing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6619</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26950</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проведёно популяционно-экологическое исследование плотвы обыкновенной ( Rutilus rutilus ) из реки Алабуга. Проанализированы поло-возрастная структура, абсолютная и относительная плодовитость, масса тела, 17 морфометрических признаков, 5 меристических признаков у 96 особей плотвы, отловленных в январе-феврале 2013 г. вблизи с. Большие Ярки Казанского района Тюменской области. Методами статистического анализа рассчитаны основные выборочные показатели: частоты встречаемости различных половых и возрастных групп</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">средние арифметические значения</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">выборочные ошибки</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">показатели изменчивости морфометрических и морфофизиологических признаков</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">показатели флуктуирующей асимметрии меристических признаков. Проведена статистическая оценка достоверности результатов исследования. Выявлены некоторые особенности половой структуры и морфо-физиологического состояния исследуемой популяции, которые объясняются как природно-климатическими особенностями, так и антропогенным воздействием на водоём.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">The author undertakes a population ecological research in roach (Rutilus rutilus) from the Alabuga. The investigation provides an analysis into age and sex structure, absolute and relative fecundity, body weight, 17 morphometric properties, 5 meristic properties of 96 adult roaches fished in January and February, 2013 near Bolshie Yarki Village, Kazanskoye District, the Tyumen Region. With the help of statistic analysis methods, the author calculates the basic statistics: age and sex groups frequency</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">arithmetical means</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">sample errors</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">morphometric and morphophysiological properties variability indices</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">meristic properties fluctuating asymmetry indices. The author performes statistical evaluation of the research results reliability. The article highlights some characteristic properties of the sex structure and morphophysiological features of the population under analysis, which may be accounted for both by natural-climatic peculiarities and anthropogenic load experienced by the waterbody.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/4-11-1.pdf#page=63</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.4 (11)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

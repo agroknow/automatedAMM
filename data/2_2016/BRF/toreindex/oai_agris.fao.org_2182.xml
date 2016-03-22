@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02182">
+    <dc:title xml:lang="en">Yield and nutitive value of maize hybrids for silage according to distance and density of sowing</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Produtividade e valor nutritivo de híbridos de milho para silagem em função do espaçamento e da densidade de semeadura</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ROSALES,  L. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>COSTA, C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FACTORI,  M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MEIRELLES,  P. R. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MORAES,  G. J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Digestibility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lighting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Maturity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Zea mays</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2266</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4326</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4656</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8504</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Two corn hybrids of semi flint grains red-orange, BM 2202 and BRS 3003 of precocity cycle and medium/height size, were used to evaluate the yield and nutritive value of silageaccording to distance and density of sowing. The experimental design was the randomized complete factorial model, were used two hybrids (BM 2202 and BRS 3003), two spacing (0.45 and 0.90m), three densities (60,000</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">70,000 and 80,000 plants per ha) with three replications. The characters studied were: dry matter contents (DM), plant fractions proportions, dry matter yield (t ha-1), stalk bromatology components correlated with neutral detergent fiber (NDF), fiber in acid detergent (ADF), hemicellulose, cellulose, lignin and in vitro digestibility of dry mater (IVDMD). The DM percentage of the whole plant to hybrid BM 2202 (49.50%) was higher in comparison to BRS 3003 hybrid (44.97%), also to distance with 49,03% (0,90 m) and 45.44% (0.45m) without density effect. Kernel contribution was higher in BM 2202 hybrid (50.20%) and for the distance the variable stalk percentage had 24.01% (0.45m) and 21.21% (0.90m) of contribution. The BRS 3003 hybrid showed better yield in whole plant to DM (t ha-1, including the fractions. In general BRS 3003 hybrid showed low fiber concentration and bigger IVDMD. The reduction of the spacing from 0.90 to 0.45 m generated biggest production of DM and better nutritive value characteristics for silage with low concentrations of NDF, ADF, hemicelulose, cellulose and lignin of stalk due to failure intra-specific competition between plants. The density did not demonstrate differences in the gains of DM and NDF, ADF cellulose and lignin concentrations, being smaller at density of 60,000pl ha-1. We concluded that the low spacing (0.45m) and densities 60,000 and 70,000pl ha-1, gives forage with better nutritive value to maize silage.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Dois híbridos de milho, BM 2202 e BRS 3003 de grãos semiduros vermelho-alaranjados, ciclo precoce e porte médio/alto, foram usados para avaliar a produtividade e valor nutritivo para silagem em função do espaçamento e da densidade de semeadura. O delineamento experimental usado foi o inteiramente casualizado com tratamento em esquema fatorial de dois híbridos (BM 2202 e BRS 3003) x dois espaçamentos (0,45 e 0,90m) x três densidades (60.000, 70.000 e 80.000pl ha-1), com três repetições. As características avaliadas foram: teor de matéria seca, proporção das frações da planta, produtividade de massa seca (t ha-1) e composição bromatológica do caule com relação à fibra em detergente neutro (FDN), fibra em detergente ácido (FDA), hemicelulose, celulose, lignina e digestibilidade in vitro da matéria seca (DIVMS). A porcentagem de MS da planta inteira do híbrido BM 2202 (49,50%) foi maior que o híbrido BRS 3003 (44,97%), assim como para espaçamento com 49,03 e 45,44%, para 0,90 e 0,45m respectivamente e, sem efeitos para densidade. A contribuição do grão foi maior no híbrido BM 2202 (50,20%), já no espaçamento a variável caule teve 24,01% (0,45m) e 21,21% (0,90m). O híbrido BRS 3003 apresentou melhor produtividade na planta inteira (t ha-1) tanto como nas suas frações e o aporte das mesmas, de modo geral o híbrido BRS 3003 apresentou menor concentração de fibra e maior DIVMS. A redução do espaçamento de 0,90 para 0,45m gerou maior produção de massa seca e melhor qualidade nutritiva do milho para silagem com menores concentrações de FDN, FDA, hemicelulose, celulose e lignina do caule, pela menor competição intraespecífica no cultivo com melhor distribuição espacial das plantas. O adensamento não demonstrou ganhos diferenciáveis na produtividade de MS, e nas concentrações de FDN, FDA, celulose e lignina, sendo menores para a densidade de 60.000pl ha-1. Concluiu-se que o menor espaçamento (0,45m) e as densidades de 60.000 e 70.000pl ha-1proporciona forragem de melhor valor nutritivo para ensilagem do milho.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1226945802.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

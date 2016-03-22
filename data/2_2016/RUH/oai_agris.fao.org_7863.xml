@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H07863">
+    <dc:title xml:lang="ru">ИСТОЧНИКИ ХОЗЯЙСТВЕННО-ЦЕННЫХ ПРИЗНАКОВ И ИХ КОМПЛЕКСА ДЛЯ СЕЛЕКЦИИ ГОЛОЗЕРНОГО ОВСА В ЗАПАДНОЙ СИБИРИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>SOURCES OF ECONOMICLY-VALUABLE SIGNS AND THEIR COMBINATION FOR BREEDING NAKED OAT IN WESTERN SIBERIA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Исачкова О.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ганичев  Б.Л.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ГНУ Кемеровский научно-исследовательский институт сельского хозяйства Россельхозакадемии</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Selection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5287</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9001017</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">С целью поиска форм с яркой выраженностью различных селекционно-ценных признаков, проведено изучение 230 образцов
+голозерного овса мировой коллекции ВИР. В результате исследований выделены источники по скороспелости, устойчивости к
+полеганию, продуктивной кустистости, озерненности и продуктивности метелки, низкому выщеплению пленчатых зерен, массе
+1000 зерен, урожайности, а так же их комплексу, представляющие практический интерес для селекции.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In serch of the forms with the strong marking of different the selectively-valuable sign of 230 naked oatssamples from the worldwide
+collection of N.I. Vavilov Research Institute of Plant Industry (VIR) was studied. As a result of the investtigations the sources was found on
+precocity, productive tillering, seeds per panicle and grain mass with panicle, low excision hulled grains, 1000 grain mass, yield,
+lodgingresistance, for selection mean.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/4-11-1.pdf#page=127</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.4 (11)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

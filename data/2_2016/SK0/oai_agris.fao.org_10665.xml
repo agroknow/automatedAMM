@@ -1,0 +1,65 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016010665">
+    <dc:title xml:lang="sk">Kvalita atmosférických zrážok v oblasti mesta Nitry-Dolná Malanta</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Babošová Mária</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Noskovič Jaroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovenská poľnohospodárska univerzita, Nitra</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Nitra</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">climatic data</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29553</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">In the years 2005-2007 in the atmospheric precipitation collected on the research-experimental basis SUA Nitra - Dolná Malanta, which is located about 5000m east from the site SUA in Nitra, 48°19'20" north latitude and 18°8'5" east longitudes, 12 indicators of precipitation quality was evaluated. Atmospheric precipitation after every rainfall event was analyzed. Based on these results we can conclude the following conclusions:
+1.
+The average value of pH during the whole monitored period was 6.10. Its lower average value s was recorded in the winter period, with minimum in the February (5.51) and higher in the summer period, with maximum in July. From the average pH value s during the years 2005-2007 acid precipitation represented 17.14 %. In the year 2005 and 2006 their proportion was equal (16.67 %), a higher
+proportion of acid precipitation in the year 2007 was recorded (18.18%).
+2. 
+The results show that the average concentration of sulphate during the whole monitored period was 13.86 mg.dm, Over the whole monitored period their higher concentration in the area of Dolná Malanta in the autumn and winter period was recorded. Average per year during the whole monitored period with rainfall 84.02 kg S04.ha was given into the soil. In conversion to S-S04 the  average inputs during the whole monitored period represented 27.98 kg S-S04.ha.
+3. 
+The average concentration of nitrate nitrogen for the whole monitored period was 2.53 mg.dm ammonia nitrogen 0.87mg.dm and nitrite nitrogen 0.09 mg.dm. In the study area average with annual rainfall received into the soil 14.96 kg NN03.ha, 6.18 kg N-NH ha and 0.50 kg N-N02.ha. Average proportion of nitrate nitrogen in the total amount of N-N03-, NNH/,N-N02- for the whole monitored period represented 71.75%, ammonia nitrogen 25.54% and nitrite nitrogen 2.71 %. In years 2005 - 2006 on average annual received into the soil 21.50 kg N.ha.
+4. 
+The average chloride concentration for the whole monitored period was 10.38 mg.dm. Their highest average values for the whole period was in the late summer and early autumn (August, September). During the reporting period with the rainfall annual an average received into the soil 59.96 kg Cl.ha.
+5. 
+The average concentration of P-PO4 for the whole monitored period represented 0.238 mg.dm. In all studied years (2005-2007) the highest average concentration of P-PO4 usually in the summer was found. Average annual in the monitored period with rainfall into the soil 1.36 kg P-P043.ha was given.
+6.
+The average concentration of conductivity in precipitation for the entire monitored period represented 9.07 mS.m-l Its minimum (1.57 mS.m, 2007) and maximum (36.0 mS.m, 2005) in the month of September was found. The lowest average value of conductivity for the whole monitored period in February (4.42 mS.m) and the highest in September (16.97 mS.m) was recorded.
+7. 
+The average concentration of Ca2+ in atmospheric precipitation during the entire monitored period represented 6.62 mg.dm. Its higher average concentration usually in the spring months (April,
+May) was found. During the monitored period the average with rainfaIl received into the soil 41.26 kg Ca2+.ha.  Probably the cause of higher inputs of Ca2+ with precipitation into the soil may be Lime factory Žirany (Calmit), which is one of the major emitters in the district of Nitra.
+8. 
+The average concentration of magnesium in precipitation during the whole monitored period was 0.86 mg.dm, Its higher concentrations similar to the calcium in the spring period were found. With rainfall into the soil in the monitored period received an average of 5.40 kg Mg2+.ha  Its lower inputs by precipitation into the soil in the autumn and winter period probably relates with the low content of dust particles in the air, in which the magnesium, like calcium is bound.
+9. 
+The average sodium concentration during the whole monitored period represented 1.39 mg.dm, During the reporting period the average with rainfaIl into the soil 6.80 kg Na+.ha.rok. Lower
+average value s of inputs of Na+ with rainfall into the soi l in the study area usually in the autumn period were found.
+10. 
+The average concentration of potassium during the whole monitored period was 1.97 mg.dm. During the monitored period under the wet deposition to the soil received an average of 11.22
+kg K+.ha.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="ags:ISBN">978-80-552-1170-0</dc:identifier>
+    <dc:type>Book</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+  </ags:resource>
+</ags:resources>

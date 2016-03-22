@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016E05557">
+    <dc:title xml:lang="ru">Почвенно-агромелиоративное районирование как информационная основа инвентаризации почвенного покрова пахотных земель России</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Soil-agromeliorative regionalization as an information base for the soil cover inventory of agricultural lands in Russia</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Булгаков Д.С.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Рожков В.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Карманов И.И.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Почвенный институт им. В.В. Докучаева</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F07</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil zonation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farmland</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7213</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2808</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Предлагается вариант скорректированного районирования, в котором обновлены таксоны, дана новая интерпретация системам земледелия, уточнены качественная и количественная характеристики почвенного покрова пахотных угодий. Материалы районирования интересны с исторической точки зрения. Они позволяют проследить этапы развития содержания целевого районирования. Эти данные могут быть полезны при разработке новых специализированных районирований с использованием современных информационных методов для прогноза развития сельского хозяйства.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Рассматривается регионализации версии исправлены с целью возобновить таксонов, чтобы дать новую интерпретацию систем земледелия и указать качественные и количественные характеристики почвенного покрова в сельскохозяйственных районах. Она представляет большой интерес с исторической точки зрения, позволяющий изучать этапов в развитии целенаправленного регионализации. Настоящие данные могут быть полезны для разработки новых специализированных регионализации с использованием современных ГИС-технологий для прогнозирования развития сельского хозяйства в ближайшем будущем.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://yadi.sk/i/6GZBWKmKeBmLu</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Бюллетень Почвенного института им. В.В. Докучаева</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0136-1694</ags:citationIdentifier>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

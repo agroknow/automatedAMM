@@ -1,0 +1,71 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09494">
+    <dc:title xml:lang="ru">ТЕОРЕТИЧЕСКИЕ ОСНОВЫ ВОСПРОИЗВОДСТВА ПЛОДОРОДИЯ ЗОНАЛЬНЫХ ТИПОВ И ПОДТИПОВ ПОЧВ ПРЕДГОРНОЙ ПРОВИНЦИИ ЗАПАДНОГО ПРИКАСПИЯ И ПРЕДОТВРАЩЕНИЕ ДЕГРАДАЦИИ ЗЕМЕЛЬ СЕЛЬСКОХОЗЯЙСТВЕННОГОНАЗНАЧЕНИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THEORETICAL BASES OF REPRODUCTION FERTILITY OF ZONAL TYPES AND SUBTYPES OF SOILS IN THE PIEDMONT WEST OF THE PIEDMONT PROVINCE OF THE CASPIAN SEA AND THE PREVENTION OF DEGRADATION OF AGRICULTURAL LANDS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Аличаев М.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Султанова М.Г.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>ФГБНУ Дагестанский научно- исследовательский институт сельского хозяйства имени Ф.Г.Кисриева</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P35</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil fertility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Erosion</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7170</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2867c82c5e5a</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2651</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331049</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье изложены теоретические и практические основы воспроизводства плодородия почв. В зональном аспекте
+рассматривается состояние почвенного покрова, сложившегося в результате многолетнего воздействия на почвы и
+рекомендации по сохранению её плодородия.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article describes the theoretical and practical basics of reproduction of soil fertility. In the zonal aspect the state of the soil cover is
+under consideration, formed in the result of long-term impacts on soils and recommendations for the conservation of its fertility</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2015/03/2-2-33.pdf#page=6</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.2 (33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

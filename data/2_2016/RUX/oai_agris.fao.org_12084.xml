@@ -1,0 +1,84 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X12084">
+    <dc:title xml:lang="en">Ecological patterns of circulation of trematode fauna on the territory of Ulyanovsk region</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Экологические закономерности циркуляции трематодофауны на территории Ульяновской области</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ignatkin D.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Romanova E.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Viderker M.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Romanov V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Baeva T.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shchegolenkova A.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">environment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">freshwater molluscs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Trematoda</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">larvae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2593</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3106</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7889</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4204</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Aim of the study was to investigate infested shells and other key groups of animals involved in the regional distribution of trematode infection. Material for the research was collected in 26 water bodies of the region in 2005-2011. 12867 molluscs (11794 gastropods and 1073 bivalve) 22 species were studied. Fish, amphibians, leeches, and insect larva on the presence of metacercar invasions were studied additionally. For quantitative characterization of the given animal larvae of trematodes determined invasion extensiveness (IE, in %). It is established that as intermediate hosts of trematodes on the territory of the region of the greatest importance have gastropods. As the first intermediate host, the main role belongs to shells of species: L. stAgaAlis, V viviparus, B. teatAculAtA and P planorbis</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">as the second intermediate hosts — shells of species L. stagnalis, L. ovata, V. contectus. It is noted that the leading role among the number of intermediate hosts of trematodes in the region play the shells of species, occupying a dominant position in the structure of biocenoses. Epizootological danger in the region represent the populations of larva of trematodes of Strigeidae, Diplostomidae, Echinostomatidae and Plagiorchiidae</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">risk of human infection retain trematodes of Echinostomatidae, Opisthorchiidae and Schistosomatidae.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Целью работы явилось исследование инвазированности моллюсков и других ключевых групп животных, участвующих в региональном распространении трематодозов. Материал для исследований был собран в 26 водоемах региона в 2006-2012 гг. Было исследовано 12867 моллюсков (11794 брюхоногих и 1073 двустворчатых) 22 видов. Дополнительно исследовались рыбы, амфибии, пиявки и личинки насекомых на наличие метацеркарных инвазий. Для количественной характеристики инвазированности животных личинками трематод определяли экстенсивность инвазии (ЭИ, в %). Установлено, что в качестве промежуточных хозяев трематод на территории региона наибольшее значение имеют брюхоногие моллюски. В качестве первых промежуточных хозяев основная роль отводится моллюскам видов: L. stagnalis, V. viviparus, B. tentaculata и P. plancrbis</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">как вторым промежуточным хозяевам - моллюскам видов L. stagnalis, L. ovata, V. contectus. Отмечено, что ведущую роль среди числа промежуточных хозяев трематод в регионе играют виды моллюсков, занимающие доминирующие позиции и в структуре биоценозов. Эпизоотологическую опасность в регионе представляют гемипопуляции личинок трематод сем. Strigeidae, сем. Diplostomidae, сем. Echinostomatidae и Plagiorchiidae</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">риск заражения человека сохраняют трематоды сем. Echinostomatidae, сем. Opisthorchiidae и сем. Schistosomatidae.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(25)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

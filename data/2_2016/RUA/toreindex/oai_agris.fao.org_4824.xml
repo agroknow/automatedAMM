@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A04824">
+    <dc:title xml:lang="en">PROTECTIVE FORESTS AND PROTECTIVE FORESTRY IN SUSTAINABLE FOREST MANAGEMENT</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЗАЩИТНЫЕ ЛЕСА И ЗАЩИТНОЕ ЛЕСОВОДСТВО В УСТОЙЧИВОМ ЛЕСОУПРАВЛЕНИИ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PISARENKO Аnatoliy</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Russian Academy of Agricultural Sciences</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Russian Society of Foresters</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">J12</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Drought</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Afforestation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_162</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The effect of our climate continentality in contrast to Western Europe territory is its aridity and forest fires. Drought, bad crops and famine accompanied Russian people during many centuries. Complex study of V.V.Dokuchaev (late 19th century) showed hard facts of ecological degradation of the territories based on deforestation and agriculture management with the use of ecologically safe methods. V.V.Dokuchaev offered to establish dense forest strips, which could divide forest-free steppes by trees. The ideas were implemented in a number of Russian provinces. 2.14 millions ha of protective forests were established in Russia after II World war. Large protective forest strips also covered watersheds and banks of long livers. Considering principles of protective forestry, they became an important source of wood and diverse forest products in sparsely wooded area. Nowadays Russian lands degradation is 6–7 % every five years. It is a very serious social and economic problem, which leads to safety risk for Russia. The measures aimed at soil degradation prevention and desertification processes elimination, which are put into practice today, are not adequate to the extent of the problem. Nevertheless, establishment of the objects of protective forestry is commercially advantageous for Russian regions: in 10 years after forest strips establishment, crop yield increases in 20 – 30 %, expenses are payed off in 4–7 years. Cessation of work, directed to protective forests establishment in southern and south-eastern regions of the country, dying of the best part of early established forest strips contributed to hot dry summer (2010), which is quite normal for the area, to become a natural disaster of regional scale. Complex problems should be the support of State programs in protective forest cultivation. Thus, developed by All-Russian Research Institute of Agroforestmelioration program «Strategy of Protective Afforestation Development in Russia till 2020» is focused on the problem.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рассматриваются исторические этапы полезащитного лесоразведения в России, связанные во многом с деятельностью В. В. Докучаева. Оценивается прошлое и современное состояние защитного лесоразведения и лесоводства с точки зрения экологической и продовольственной безопасности России. Предлагаются подходы к решению назревшей проблемы защитного лесоразведения и лесовосстановления.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/39/17</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.21/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

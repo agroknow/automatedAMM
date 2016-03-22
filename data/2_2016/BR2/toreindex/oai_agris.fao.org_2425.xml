@@ -1,0 +1,53 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016202425">
+    <dc:title xml:lang="en">Effect of winter maize-based intercropping systems on maize yield, associated weeds and economic efficiency</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeito dos sistemas consorciados à base de milho de inverno sobre o rendimento de milho</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>ervas daninhas associadas e eficiência econômica</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mishra Akhilesh</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>CSAUniversity.Kapur- INDIA</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F08</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Productivity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Zea mays</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6210</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8504</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A field experiment was conducted during winter seasons of 2003-04 and 2004-05 at Kanpur, India to study the effect of winter maize (Zea mays L.) based intercropping systems on maize yield, associated weeds and economics under irrigated condition of central Uttar Pradesh. Thirteen maize-based
+cropping systems such as maize sole, potato (Solanum tuberosum L.) sole, mustard [Brassica juncea (L.) Czernj. &amp; Cosson] sole, toria (Brassica campestris var. toria) sole, pea (Pisum sativum L.) sole, linseed (Linum usitatissimum L.) sole, wheat (Triticum aestivum L. emend. Fiori and Paol.) sole, maize + potato (1:1),maize + mustard (1:1), maize + toria (1:2), maize + pea (1:2), maize + linseed (1:2) and maize + toria (1:2), were tested in randomized block design with three replications. Maize + potato system recorded higher yield attributes and grain yield of maize followed by maize + pea than sole stand of maize. potato was showed most compatible intercrop planted with winter maize as it gave higher maize-equivalent yield, land-equivalent ratio, roductivity, monetary returns and lowered weed population, weed dry-biomass and highest weed-control efficiency under irrigated conditions of central Uttar Pradesh. Pea was the next best intercrop with winter maize.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Este experimento foi conduzido durante as estações de inverno de 2003-04 e 2004-05 em Kanpur, Índia, para estudar o efeito do milho safrinha (Zea mays L.), em sistemas consorciados com base no rendimento do milho, plantas daninhas e da economia sob condição irrigada, no centro de Uttar Pradesh. Treze sistemas de cultura à base de milho foram testados, somente milho, batata (Solanum tuberosum L.), mostarda [Brassica juncea (L.) Czernj. &amp; Cosson], toria (Brassica campestris var. Toria), ervilha (Pisum sativum L.), linhaça (Linum usitatissimum L.), o trigo (Triticum aestivum L. emend. Fiori e Paol.), milho + batata (1:1), milho + mostarda (1:1), milho + toria (1:2), milho + ervilha (1:2), milho + linhaça (1:2) e milho + toria (1:2), foram testados em delineamento em blocos casualizados com três repetições. O sistema de milho + batata registrou atributos mais elevados de rendimento e
+produtividade de grãos de milho, seguido pelo milho + ervilha. A batata mostrou-se com entressafra mais compatível com plantação de milho safrinha, uma vez que deu maior rendimento de milho equivalente, produtividade, retorno financeiro e reduziu a população de plantas daninhas, ervade
+biomassa seca e maior eficiência no controle de plantas daninhas em condições irrigadas do centro de Uttar Pradesh . A ervilha foi o melhor consórcio com milho safrinha.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/340/234</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

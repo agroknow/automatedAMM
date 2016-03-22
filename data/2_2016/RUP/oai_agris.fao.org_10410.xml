@@ -1,0 +1,37 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P10410">
+    <dc:title xml:lang="ru">ОСНОВЫ ФИЛОСОФИИ АГРАРНОГО ПРОИЗВОДСТВА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Fundamentals of philosophy of  agrarian production</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Starostin Vladimir</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В данной статье автор рассматривает различные аспекты инноваций в современном сель-скохозяйственном производстве, в реальных условиях аграрного сектора Республики Саха (Якутия). С точ-ки зрения автора, сегодня необходимо нормативно обосновать правовые рамки северного кредитования как обновленной формы стимуляции развития производства на селе.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this article the author considers various aspects of innovations in modern agricultural production, in actual practice agrarian sector of the Republic of Sakha (Yakutia). From the point of view of the author, it is necessary to prove standardly a legal framework of northern crediting as the updated form of stimulation of devel-opment of production in the village today.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/3e7d27_737e086ce9534ba8957b34460a741543.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№1, 2015</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

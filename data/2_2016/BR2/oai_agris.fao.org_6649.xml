@@ -1,0 +1,107 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016206649">
+    <dc:title xml:lang="en">Superoxide dismutase enzyme activity in response to plant hormones in Gerbera jamensonii</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Atividade enzimática da superóxido dismutase em resposta aos fitorreguladores em Gerbera jamensonii</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Nunes Rita Cassia Alves</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Viana Ronaldo Silva</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Neto Nelson Barbosa Machado</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade Estadual Paulista, Araçatuba, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculdade de Tecnologica, Araçatuba, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universidade do Oeste Paulista-Campus II, Presidente Prudente, SP, Brasil</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F63</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tissue culture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">embryonic development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7789</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2545</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate best concentrations of phytohormones benzylaminopurine
+and naphthalene acetic acid in various concentrations in leaf explants of gerbera for obtaining
+somatic embryogenesis and the use of superoxide dismutases (SOD) as a biochemical marker
+for the evaluation selection of calluses Gerbera jamesonii cv. Cherry. Fully expanded leaves of
+plants Gerbera jamesonii cv. Cherry were submitted to the disinfection, cut in fragments (1cm2) and
+inoculated in MS media in a factorial growth phytoregulators combination (5x5): benzilaminopurine-
+BAP (0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">0.5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1.0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2.0 and 4.0 mg.L-1) and naphthaleneacetic acid-ANA (0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0.25</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0.50</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1.0 and 2.0
+mg.L-1). The calluses were evaluated in two periods at 30 and 60 days observing the growth and
+coloration. The best combination of growth phytoregulators to obtain friable calluses were 1.0 /
+1.0 mg.L-1BAP / NAA, 1.0 / 2.0 mg.L-1 BAP / NAA, 0.5 / 0.5 mg.L-1BAP / NAA respectively. There was
+an increase in the enzymatic activity of superoxide dismutase (SOD) when used combination of
+phytohormones 2,0 / 2,0 and 4,0 / 1,0 mg.L-1BAP / NAA and consequently lower growth of calluses.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">O objetivo deste trabalho foi avaliar a resposta dos fitorreguladores benzilaminopurina e ácido naftalenoacético em diversas concentrações nos explantes foliares de gérbera para a obtenção de calos embriogênicos e a utilização de superóxido dismutases (SOD) como marcador bioquímico na avaliação para seleção dos calos em Gerbera jamesonii cv. Cherry. As folhas completamente expandidas foram retiradas das plantas de Gerbera jamesonii cv. Cherry cultivadas em vaso, desinfetadas, seccionadas em fragmentos de aproximadamente 1cm2 e inoculadas em meio de cultura MS em combinação fatorial 5x5 de reguladores de crescimento: benzilaminopurina-BAP (0,0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1,0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2,0 e 4,0 mg.L-1) e ácido naftalenoacético-ANA (0,0</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,25</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">0,50</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1,0 e 2,0 mg.L-1). Os calos foram avaliados em dois períodos, aos 30 e 60 dias observando-se o crescimento e coloração. A
+melhores combinações de fitoreguladores de crescimento para obtenção de calos friáveis foram 1,0/1,0 mg L-1 de BAP/ANA, 1,0/2,0 mg L-1 de BAP/ANA, 0,5/0,5 mg L-1 de BAP/ANA respectivamente. Houve um incremento na atividade enzimática da superoxido dismutase (SOD) quando utilizada a combinação dos fitohormonios 2,0/2,0 e 4,0/1,0 mg L-1 de BAP/ANA e consequentemente menor crescimento de calos.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://comunicata.ufpi.br/index.php/comunicata/article/download/443/306</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Comunicata Scientiae</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2176-9079</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

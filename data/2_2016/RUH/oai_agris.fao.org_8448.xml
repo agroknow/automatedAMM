@@ -1,0 +1,47 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08448">
+    <dc:title xml:lang="ru">РЕДКИЕ ВИДЫ ЛИШАЙНИКОВ ЦЕНТРАЛЬНОГО КАВКАЗА В ПРЕДЕЛАХ КАБАРДИНО-БАЛКАРСКОЙ РЕСПУБЛИКИ, ИХ СТАТУС И МЕРЫ ОХРАНЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>RARE LICHEN SPECIES OF KABARDINO-BALKARIA</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>THEIR STATUS AND PROTECTION MEASURES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ХАНОВ З.М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Институт экологии горных территорий им. А. К. Темботова Кабардино-Балкарского НЦ РАН</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">lichenes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4314</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приводятся данные по современному охранному состоянию флоры редких видов лишайников Кабардино-Балкарской Республики, даются краткие сведения о распространении, экологии, численности, лимитирующих факторах и необходимых мерах охраны редких и занесенных в Красную книгу видов. Предлагается увеличение списка видов редких лишайников с последующим включением в региональную Красную книгу.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The data on the present state of protection of rare species of lichen flora in the Kabardino-Balkar Republic, the summary on the distribution, ecology, abundance, limiting factors and necessary measures for the protection of the rare and Red Data Book species are given. The extension of the rare lichen species list and its further inclusion into the Red Data Book is proposed.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2013/10/9-1-16.pdf#page=66</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.1/n.9 (16)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

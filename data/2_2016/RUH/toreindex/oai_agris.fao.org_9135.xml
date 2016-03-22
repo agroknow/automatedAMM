@@ -1,0 +1,50 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H09135">
+    <dc:title xml:lang="ru">ИЗУЧЕНИЕ ФРАКЦИОННОГО СОСТАВА ПЕКТИНОВЫХ ВЕЩЕСТВ ЯБЛОЧНОГО СЫРЬЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STUDY FRACTIONAL COMPOSITION OF PECTIN SUBSTANCES APPLE RAW</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>КРАСНОСЕЛОВА Е.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ДОНЧЕНКО Л.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Кубанский государственный аграрный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pectins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">apples</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5651</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_541</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью исследования является оценка промышленной значимости яблок летнего и осеннего периода созревания для производства пектина. В связи с этим решалась задача изучения фракционного состава пектиновых веществ. Установлено, что для извлечения пектиновых веществ из выжимок яблок летнего периода созревания параметры процесса гидролиза-экстрагирования должны быть щадящими.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the study is to evaluate the commercial importance of apples summer and autumn harvest period for the production of pectin. In this connection, the main task was to study the fractional composition of pectin substances. It is established that for the extraction of pectin from pomace summer apples the parameters of process hydrolysis-extraction should be sparing.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/4-2-23.pdf#page=39</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.4 (23)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

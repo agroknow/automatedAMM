@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F05960">
+    <dc:title xml:lang="en">Effects of providing preweaning diets to piglets: a review of the literature</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Efeitos do fornecimento de dietas pré-desmame para leitões: uma revisão</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MARCOLLA, C.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RIBEIRO, A.M.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feed composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">preweaning period</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">piglets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10770</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36849</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5872</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Providing a solid diet in addition to sow milk during lactation (creep feed) is a management commonly recommended to producers. This practice was introduced as a strategy to minimize the deleterious effects of abrupt and early weaning, as well as to standardize the litters to be weaned, to increase weaning weight, and to accelerate the adaptation of the gastrointestinal tract of piglets to solid diets. Creep feeds are formulated to present high levels of digestibility and palatability and to contain high-quality and high-cost ingredients. However, the results of studies indicating that the simple offer of creep feed is efficient in minimizing the deleterious effects of weaning or in facilitating the adaptation of piglets to early diets are still sparse and poorly consolidated. The objective of this study was to review factors that influence the consumption of creep feed and the effects of consumption of these diets on performance during lactation, as well as possible effects on enzyme production, occurrence of diarrhea episodes and postweaning performance of piglets weaned at 21 to 28 days of age. The results indicate that the intestinal maturity of suckling piglets is not sufficient to permit voluntary consumption and adequate digestion of the diets. Even animals ready for consumption did not ingest sufficient amounts to promote enzymatic adaptation or to improve postweaning performance. Contrary to expectations, the consumption of creep feed, especially in low amounts, may be associated with sensitization of the gastrointestinal tract which results in hypersensitivity reactions and postweaning diarrhea. It can be concluded that the simple offer of creep feed is not efficient in promoting growth during lactation and postweaning, nor does it facilitate the early adaptation of weaned piglets to solid diets. Studies in this area are therefore necessary to develop techniques that can effectively minimize losses resulting from the practice of early weaning of piglets.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O fornecimento de alimento complementar ao leite da porca durante a lactação (creep feed) é um manejo comumente recomendado para produtores. A prática foi introduzida como estratégia para minimizar os efeitos deletérios do desmame abrupto e precoce, bem como para uniformizar as leitegadas a serem desmamadas, aumentar o peso ao desmame e acelerar a adaptação do trato gastrintestinal dos leitões a dietas sólidas. As dietas creep feed são formuladas buscando-se altos níveis de digestibilidade e palatabilidade e incluem ingredientes de alta qualidade e alto custo. No entanto, resultados de pesquisas que indiquem que a simples oferta de creep feed é eficiente para minimizar os efeitos deletérios do desmame ou para facilitar a adaptação dos leitões a dietas iniciais ainda são escassos e pouco consolidados. O objetivo desse trabalho foi revisar os fatores que influenciam o consumo de creep feed, os efeitos do consumo dessas dietas sobre o desempenho durante a lactação, bem como as possíveis influências sobre o desenvolvimento enzimático, a ocorrência de diarreias e o desempenho pós-desmame de leitões desmamados entre 21 e 28 dias de idade. Os resultados encontrados indicam que leitões lactentes não apresentam maturidade intestinal suficiente para que estas dietas sejam voluntariamente consumidas e adequadamente digeridas. Mesmo os animais dispostos ao consumo não o fazem em quantidade suficiente para promover a adaptação enzimática ou melhorar o desempenho pós-desmame. Ao contrário do esperado, o consumo de creep feed, especialmente se em baixas quantidades, pode estar associado a sensibilização do trato gastrintestinal, que resulta em reações de hipersensibilidade e diarreia pós-desmame. Concluiu-se que a simples oferta de creep feed não é eficiente para promoção do crescimento na lactação e no pós-desmame, ou para facilitar a adaptação de leitões desmamados precocemente a dietas sólidas. Portanto, destaca-se a necessidade de pesquisas na área, visando o desenvolvimento de técnicas que possam, efetivamente, minimizar as perdas decorrentes da prática de desmamar leitões precocemente.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1427137057.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.72/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

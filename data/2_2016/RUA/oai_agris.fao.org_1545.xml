@@ -1,0 +1,59 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A01545">
+    <dc:title xml:lang="en">DITRIBUTION OF ANTROPOGENIC RADIONUCLEIDES AND RADIONUCLEIDES OF NATURAL ORIGIN IN FOREST ECOSYSTEMS OF «BOLSHAYA KOKSHAGA» RESERVE</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>РАСПРЕДЕЛЕНИЕ ТЕХНОГЕННЫХ И ЕСТЕСТВЕННЫХ РАДИОНУКЛИДОВ В ЛЕСНЫХ ЭКОСИСТЕМАХ ЗАПОВЕДНИКА «БОЛЬШАЯ КОКШАГА»</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PIGALIN Dmitry</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GONCHAROV Evgeny</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ecosystem approaches</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331454</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Assessment results of radioactive nuclides (cesium-137</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">potassium-40</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">radium -226</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">thorium -232) distribution in horizontal and vertical forest ecosystems of «Bolshaya Kokshaga» natural reserve for the purpose of basic radioecological monitoring  are offered. A detailed gamma - spectrometric survey and assessment of space distribution of anthropogenic radionuclides and radionuclides of natural origin, spectral measurements of tests of plants and mushrooms are carried out at the  sampling plots (lichenous and sphagnous pine forest and  nettle oak forest) for the first time. 
+It was determined that the level of soil contamination with cesium-137 is  0,8–1,0 kBq/m2</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">at that, 60–70 % of radionuclides  are located in the top soil (5–10 cm). The content of natural radionuclides (radium, thorium and  potassium) in the considered ecosystems is formed by  mineral composition of soil material: there are practically no natural radionuclides  in sandy soil but the content of potassium  and thorium  is 3-6 times higher in alluvious clayey soil. Space distribution  of cesium-137 and potassium-40 is as a rule of normal  and regular nature, distribution of heavy radionuclides of natural origin is lognormal. The power of equivalent dose of  gamma radiation is 0,01–0,02 mcSv/h. 
+A significant content of  cesium-137 (30–60 Bq /kg) was found in vegetation and, consequently, in the underlay (60–70 Bq /kg) of pine community, heavy radionuclides of natural origin were not found in the community. Among all the components of the community, maximum level of accumulation of anthropogenic radionuclides was found in  the kames (up to 1700 Bq /kg  of dry weight).</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Приведены результаты оценки распределения радионуклидов цезия-137, калия-40, радия-226 и тория-232 в горизонтальной и вертикальной структуре лесных экосистем заповедника «Большая Кокшага» для целей фонового радиоэкологического мониторинга. На пробных площадях (сосняк лишайниково-мшистый и дубняк крапивный) впервые проведена детальная гамма-спектрометрическая съёмка и оценка пространственного распределения техногенных и природных радионуклидов, спектрометрические измерения проб растений и грибов. 
+Установлено, что уровень загрязнения почвы цезием-137 составляет 0,8–1,0 кБк/м2, причем 60–70 % радионуклидов сосредоточено в верхнем 5–10 см слое. Содержание природных радионуклидов радия, тория и калия в рассмотренных экосистемах определяется минералогическим составом почвообразующих пород: в песчаной почве они практически отсутствуют, в аллювиальной глинистой почве содержание калия и тория в 3–6 раз выше. Пространственное распределение цезия-137 и калия-40 носит нормальный, как правило, однородный характер, распределение тяжёлых природных радионуклидов – логнормально. Мощность эквивалентной дозы гамма-излучения составляет 0,01–0,02 мкЗв/ч. 
+Значимое содержание цезия-137 (30–60 Бк/кг) отмечено в растительности и, следовательно, в подстилке (60–70 Бк/кг) соснового биоценоза, тяжёлые природные радионуклиды – отсутствуют. Среди компонентов биоценозов максимальный уровень накопления техногенных радионуклидов отмечен в плодовых телах грибов (до 1700 Бк/кг сухой массы).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ojs.volgatech.net/index.php/forest/article/view/117/103</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.20/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

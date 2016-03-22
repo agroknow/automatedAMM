@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016H08415">
+    <dc:title xml:lang="ru">РАЗРАБОТКА БИОЧИПА ДЛЯ ИММУНОХИМИЧЕСКОЙ И МОЛЕКУЛЯРНО-БИОЛОГИЧЕСКОЙ ХАРАКТЕРИСТИКИ МИКРООРГАНИЗМОВ РОДА SALMONELLA</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>DEVELOPMENT A BIOCHIP FOR IMMUNOCHEMICAL AND MOLECULAR BIOLOGICAL CHARACTERISTICS OF THE MICROORGANISM OF THE GENUS SALMONELLA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ТИТОВА М.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>АФОНЮШКИН В.Н.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ШКИЛЬ Н.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>КОПТЕВ В.Ю.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Государственное научное учреждение Институт экспериментальной ветеринарии Сибири и Дальнего Востока Россельхозакадемии</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Salmonella</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">microorganisms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6757</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4807</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Статья посвящена исследованию нового метода иммунохимического типирования изолятов сальмонелл с помощью биочипа и является одним из этапов работы по выявлению эпидемиологически значимых штаммов сальмонелл, что необходимо с позиции дифференциальной диагностики и выявления как не патогенных, так и потенциально опасных штаммов.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article is devoted to the study of a new method for immunochemical typing of Salmonella`s isolates using the biochip and is one of the stages of the identification of epidemiologically significant strains of Salmonella that is necessary from the standpoint of differential diagnosis and identification as non pathogenic and potentially dangerous strains.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://research-journal.org/wp-content/uploads/2011/10/8-4-15e.pdf#page=44</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международный научно-исследовательский журнал</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2303-9868</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.8 (15)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

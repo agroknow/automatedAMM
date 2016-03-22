@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016100714">
+    <dc:title xml:lang="en">Influence of Desiccation and Associated Metabolic Changes During Seed Germination in Corypha umbraculifera Linn.</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Viji V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ratheesh Chandra P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Salim Nabeesa</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Puthur  Jos T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Peroxidases</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Germination</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13251</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3247</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Corypha umbraculifera  L. is a monocarpic palm, which usually flowers after 30-60 years of growth. In  C. umbraculifera  seeds are the only propagating unit, but the germination rate is very low and seeds are highly recalcitrant. In this context, it was imperative to investigate the desiccation sensitivity, physiological and biochemical changes accompanying the desiccation and  germination  in  C.  umbraculifera  seeds.  Therefore,  to  make  a  detailed  study,  freshly collected  C. umbraculifera  seeds were desiccated at room temperature for a period of 35 d and  physiological  and  biochemical  changes  during  desiccation  and  germination  were monitored at an interval of 7 d. It was observed that there was a sharp decline in the moisture content  of  the  seed  as  desiccation  proceeded.  As the  desiccation  period  progressed,  the germination  percentage  decreased  which  was  below  50%  after  35  d.  The  dry  weight percentage of the embryo and endosperm increased with the desiccation period and the increase in dry weight of embryo was significant in comparison with the endosperm. Total protein content of embryo was more compared to that of the endosperm. Peroxidase activity in the embryo was increased up to 28 d of desiccation and decreased further. The endosperm registered  a  gradual  reduction  of  peroxidase  activity  during  desiccation.  In  contrast,  SOD activity in the embryo was comparatively higher in the fresh seeds and further declined during desiccation, while that of the endosperm remained almost unaltered. The results give a strong indication  that  desiccation  in  C.  umbraculifera  is  accompanied  by  abundant  activity  of peroxidase in embryo, thereby viability is retained up to 35 days. Whereas, feeble activity of SOD is not seen to be linked with seed viability of C. umbraculifera.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2013/N3/JSPB_2013_3_37-43.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

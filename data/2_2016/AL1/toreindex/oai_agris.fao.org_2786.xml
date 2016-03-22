@@ -1,0 +1,35 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016102786">
+    <dc:title xml:lang="en">An Assessment of Farmers’ Ability to Determine their Agricultural Extension Needs in Kwara State, Nigeria</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>OMOTESHO KEMI  FUNMILAYO</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OGUNLADE   ISRAEL</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ADENUGA ADEWALE  HENRY</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Agricultural Extension and Rural Development, University of Ilorin, Ilorin, Kwara State, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Agricultural Economics and Farm Management, University of Ilorin, Ilorin, Kwara State, Nigeria</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-09</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The ability of farmers to determine their agricultural extension needs is important for the success of the much lauded participatory approach to agricultural extensions service. This study assessed the ability of farmers in Kwara State, Nigeria to determine their extension needs. It also evaluated the factors that affect this ability.  Using a well structured questionnaire, a two stage random sampling technique was employed to collect data from 261 farmers across the four agro-ecological zones in the state. Descriptive statistics and the multiple regression model were the analytical tools used in the study. The result of the analysis revealed that farmers possess a fair ability to determine their extension needs. Farmers’ age, total income, level of education, years of farming experience and the number of extension contact were found to influence farmers’ ability to determine their extension needs at one percent level of significance. Access to training was found significant at ten percent level of significance. The study therefore recommends regular training of farmers on extension needs identification with particular emphasis on the older and often more experienced farmers. Adult learning programs should be made available to, and promoted among farmers in addition to ensuring adequate extension contacts for all farmers.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/revista_2014_3_file/10_FUNMILAYO%20AJAS%20N3_2014%20pp%2061-67.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

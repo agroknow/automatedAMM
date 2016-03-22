@@ -1,0 +1,97 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="CO2016000098">
+    <dc:title xml:lang="es">Formación, desarrollo y caracterización fenotípica de los caracteres productivos y reproductivos del hato Romosinuano del banco de germoplasma de Colombia</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Training</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>development and phenotypic characterization of productive and reproductive characters Romosinuano herd of gene bank Colombia</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ossa Saraz Gustavo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>David Hinestroza Adriana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Santana Rodríguez Martha</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Reza García Sony</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Abuabara Pérez Yesid</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal breeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genotypes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_423</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 Figs., 5 tabs., 32 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">La formación y documentación del hato para la conservación del banco de germoplasma de la raza bovina criolla Romosinuano se inició en 1936</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">actualmente se cuenta con ocho familias y 502 ejemplares que permanecen en custo dia en el Centro de Investigación Turipaná de Corpoica, Cereté, Colombia. Los datos registrados han sido digitados, ordenados, clasificados y analizados</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">lo cual permitió determinar el origen de los 270 animales que conformaron el hato inicial, procedentes de 11 hatos de las fincas: El Torno (43%), La Granja (16%), El Recreo (14%), Los Pinos (10%) y el 17% restante de La Vorágine, Colombia, Mar ta Magdalena y El Chorrillo. Aplicando el método de los cuadrados mínimos y el procedimiento de modelos linea les generalizados (generalized linear model GLM) (SAS, 1995), se obtuvo la caracterización fenotípica de los pesos de animales en diferentes edades y etapas de producción: edad de la vaca al primer parto e intervalo entre partos</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">peso del ternero al nacer, al destete, a los 16 meses ajustados</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">peso de la vaca al primer parto, al parto y al destete del ternero</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">obtenido de 12673, 6543, 4363, 620, 7178 y 2847 regis tros, con valores de: 29,5±3,5, 163±35, 230±45, 393±51, 444±64 y 447±60 kg, respectivamente</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">la edad ajustada al destete y al primer parto, obtenidas a partir de 6572 y 2064 registros fueron 256±23 y 1133±200 días, respectivamente</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">el intervalo entre partos a partir de 9435 registros fue de 422±131 días. La eficiencia reproductiva de 86,3% confirma la adaptación de la raza en el valle del Sinú, Colombia.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">The development and documentation of the gene bank of the Romosinuano native cattle breed herd for conservation purposes began in 1936</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">currently it is composed of 8 families and 502 individuals that are kept at Corpoica’s Turipaná Research Center, in Cereté, Colombia. Digitalized data has been sorted, classified and analyzed, establishing the origin of the 270 animals that made up the initial herd from 11 herds: El Torno (43%), La Granja (16%), El Recreo (14%), Los Pinos (10%) and the remaining 17% of La Vorágine, Colombia, Marta Magdalena and El Chorrillo. Applying the least squares method and the GLM procedure (SAS, 1995) a phenotypic characterization of the weights of animals at different ages and stages of production, age at first calving and calving interval, birth weight, weaning 16 months adjusted weight at first calving, cow weight at calving and cow weight at weaning of the calf was obtained from 12673, 6543, 4363, 620, 7178 and 2847 records, with values of: 29.5±3.5, 163±35, 230±45, 393±51, 444±64 and 447±60 kg respectively</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">the adjusted age at weaning and at first birth, obtained from 6572 and 2064 records were 256±23 and 1133±200 days, respectively</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">the calving interval from 9435 record was 422±131 days. Reproductive efficiency of 86.3% confirms the adaptation of the breed in the Sinú valley. Key words: adaptation, reproductive efficiency, landraces.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.corpoica.org.co/SitioWeb/Archivos/Revista/RevCorpoicaVol14-2cap09.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Revista CORPOICA : Ciencia y Tecnología Agropecuaria</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">01228706</ags:citationIdentifier>
+      <ags:citationNumber>v.14/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

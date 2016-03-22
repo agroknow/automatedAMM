@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F02080">
+    <dc:title xml:lang="en">Diagnostic of sericiculture during the crops of 2001/2002 and 2002/2003 in the region of Umuarama, PR</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Diagnóstico da sericicultura durante as safras 2001/2002 e 2002/2003 na região de Umuarama</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>PR</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LUCENA,  E. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA,  J. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RUIZ,  H. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>RUIZ,  J. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Silkworms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">handling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sericulture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7064</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3485</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6981</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was evaluate aspects of the silkworm activity during the 2001/2002 and 2002/2003 seasons, identifying the main problems found by silkworm's farmers at Umuarama - PR region. From a total of 32 properties located between Cruzeiro do Oeste and Maria Helena, 26 properties were visited in loco and, at each visit, the producers were interviewed, with the aid of a form with objective and subjective issues related to rearing management mulberry pruning. The data were presented on % of descriptive terms. The main aspect observed in the breeding of mulberry is that the majority is formed by Miura variety and that many producers offer certain resistance to the use of more productive varieties in its renewal. The harvest of the mulberry is strictly manual. The branches and leaves are kept with cloth moistened in a warehouse near the shed, also serving as a deposit for tools and equipament that are also used during the creation. Regarding the management of the silkworm system the number of daily treatment made by some silkworm's producers is below the recommended, suggesting the need of a more effective attention of those responsable for technical assistance aimed at the growth of productive activity. The main difficulties found are related to the lack of investment in technology, labour-intensive, cocoons prices and materials used, lack of funding programs and monopoly.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo do presente trabalho foi avaliar aspectos de condução da atividade sericícola durante as safras 2001/2002 e 2002/2003 e identificar as principais dificuldades encontradas pelos criadores na região de Umuarama - PR. De um total de 32 propriedades localizadas entre Cruzeiro do Oeste e Maria Helena, foram visitadas 26 propriedades in loco e, a cada visita, os produtores eram entrevistados com o auxílio de um formulário com questões objetivas e subjetivas relacionadas com manejo de criação e condução do amoreiral. Os dados obtidos foram apresentados de forma descritiva em termos de porcentagem. O principal aspecto observado na condução dos amoreirais é que a maioria é formado pela variedade Miura e que muitos produtores oferecem resistência quanto ao uso de variedades mais produtivas na sua renovação. A colheita dos ramos e folhas é estritamente manual. Os ramos e folhas de amoreira são conservados, com pano umedecido, em um depósito junto ao barracão servindo também de depósito de utensílios e equipamentos utilizados durante a criação. Com relação ao manejo de criação o número de tratos diários efetuados por alguns sericicultores está abaixo do recomendado sugerindo-se a necessidade de uma atenção mais efetiva dos responsáveis pela assistência técnica visando ao crescimento produtivo da atividade. As principais dificuldades encontradas dizem respeito à falta de investimento em tecnologia, mão-de-obra, relação de preços de casulos e materiais utilizados, falta de financiamento e monopólio.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.iz.sp.gov.br/pdfsbia/1216213958.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.65/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

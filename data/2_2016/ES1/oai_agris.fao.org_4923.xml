@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ES2016104923">
+    <dc:title xml:lang="es">LOS SISTEMAS PRODUCTIVOS CAPRINOS EN LA PROVINCIA DE GUANENTÁ, SANTANDER, SOBRE LA CUENCA DEL RÍO CHICAMOCHA</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE GOAT PRODUCTION SYSTEMS IN THE PROVINCE OF GUANENTÁ</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>SANTANDER OVER THE CHICAMOCHA RIVER BASIN</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vargas Javier</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Martínez Daniel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Serrano Cesar</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rodríguez Galván Guadalupe</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zaragoza Lourdes</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Estudiante Maestría en Ciencias en Producción Agropecuaria Tropical</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Grupo de investigación en Ciencias Animales, Facultad Medicina Veterinaria y Zootecnia, Universidad Cooperativa de Colombia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Grupo de investigación en Ciencias Animales, Facultad Medicina Veterinaria y Zootecnia, Universidad Cooperativa de Colombia</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>MCPAT. Instituto de Estudios Indígenas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>MCPAT. Instituto de Estudios Indígenas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective was to identify the characteristics showed by the goat production systems located over the Chicamocha River basin in the province of Guanenta. A snow ball sampling method was used to survey 17 producers (Villanueva 5, Jordan 3, and Aratoca 9). The survey comprised 10 main parameters, giving information about general characteristics, population, animal nutrition and feeding, animal health, reproduction, production, genetics, resource administration, economy and markets.   Data were analyzed using Microsoft Office Excel 2010, by means of a descriptive analysis for the discrete variables, using contingency tables. The results show that land owning is proper in the 76%, while the rest is renting agreement, the land extension is in average 178,5±184 ha. Women participation is about 29.4% as herd owners. The difficult terrain prevents the development of other agricultural activities, determining that the main economic activity in the zone is the kids (young goats) commercialization, poultry and goat manure.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="es">El presente trabajo se desarrolló en los municipios de Villanueva, Jordán y Aratoca, Santander, Colombia, con el fin de identificar  las características correspondientes a los sistemas de productivos caprinos presentes  sobre la cuenca del río Chicamocha en la provincia de Guanentá. Se realizó un muestreó de bola de nieve  donde se logró encuestar a 17 productores (Villanueva 5, Jordán 3 y Aratoca 9). La encuesta  estaba constituida por 10 parámetros</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">abarcando información sobre características generales, población, nutrición y alimentación animal, salud, reproducción, producción, genética, administración, economía y mercadeo, rescatando la opinión del productor acerca del sistema de producción empleado y su satisfacción ante el mismo. Los datos fueron analizados mediante el uso de Microsoft Office Excel® 2010, se aplicó un análisis descriptivo para las variables discretas, utilizando tablas de contingencia. Los resultados muestran que la posesión de la tierra es propia en el 76% y el restante es en comodato, la extensión de la fincas tienen un promedio 178,5±184.68. En el 29,41% participan las mujeres como propietarias de los rebaños. El sistema de producción es con orientación a la producción de carne 76,5%, carne y leche 23,5%, predominan los grupos raciales como la Santandereana, Alpina, Saanen y otras con orientación lechera. Lo agreste del terreno, impide que se desarrollen otras actividades agropecuarias, por eso la mayor actividad económica de la zona es la comercialización de cabritos, aves de corral y el estiércol caprino.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.uco.es/conbiand/aica/templatemo_110_lin_photo/articulos/2014/Trabajo077_AICA2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">es</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Actas Iberoamericanas de Conservación Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2253-7325</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>
