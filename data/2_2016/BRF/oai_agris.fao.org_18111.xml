@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F18111">
+    <dc:title xml:lang="en">Production and structure of massai grass pastures fertilized with animal manures</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Produção e estrutura de pastos de capim-massai adubado com dejetos da produção animal</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>EMERENCIANO NETO, J.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PEREIRA, G.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DIFANTE, G. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, L. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS, W. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GURGEL, M. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feed crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wastes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Swine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">organic fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Panicum maximum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Urea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2829</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8307</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7555</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4592</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5537</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8090</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the effect of organic and mineral fertilizers on the structure and production of Panicum maximum cv. Massai forage. The experiment was conducted at the teaching farm of Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Apodi Campus. The treatments evaluated were organic sources of nitrogen (wastes of pig, poultry and sheep farming) and a mineral source (urea), set at 150 kg N/ha. Forage production, morphological components, pasture height, light interception, leaf area index, and chlorophyll content were evaluated in samples obtained at intervals of 60 days. Canopy height was affected by the type of fertilizer applied and the greatest height was observed for pasture fertilized with urea (50.97 cm). The highest light interception by the canopy was observed for pastures receiving urea, but 95% light interception was not reached. The leaf area index was higher for pastures fertilized with urea compared to the other treatments and the values obtained for pastures receiving organic fertilizers were considered very low. Forage, leaf blade, stem and dead material mass was affected by the type of fertilizer and was higher for pastures receiving urea. The total chlorophyll content of leaf blades did not differ between the types of fertilizer evaluated. Forage structure or production in massai grass pastures is not affected by the type of animal manure used as nitrogen source. The efficiency of these organic fertilizers as a nitrogen source is lower than that of mineral fertilization. The animal manures evaluated can be used as nitrogen sources for massai grass pastures to reduce costs and environmental impacts.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se avaliar o efeito do uso de adubos orgânicos e mineral na estrutura e na produção de forragem do Panicum maximum cv. Massai. O experimento foi desenvolvido na fazenda escola do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, campus Apodi. Os tratamentos avaliados foram fontes orgânicas de nitrogênio (dejetos da suinocultura, da avicultura e da ovinocultura) e uma fonte mineral (ureia), fixados em 150 kg/ha de N. Avaliou-se a produção de forragem e de componentes morfológicos, a altura do pasto, a interceptação luminosa, o índice de área foliar e o teor de clorofila, em cortes realizados a cada 60 dias. A altura do dossel foi afetada pelo tipo de adubo aplicado, e maior altura foi observada no pasto adubado com ureia (50,97 cm). A maior interceptação de luz (IL) pelo dossel foi observada nos pastos que receberam ureia, porém não alcançaram 95% de IL. O índice de área foliar nos pastos adubados com ureia foi maior que nos demais, e os valores observados nos pastos que receberam adubos orgânicos foram considerados muito baixos. As massas de forragem, de lâmina foliar, de colmo e de material morto foram afetadas pelo tipo de adubo, e foram maiores nos pastos que receberam ureia. Os teores de clorofila total nas lâminas foliares não diferiram entre os adubos avaliados. A estrutura e a produção de forragem em pastos de capim-massai não são afetadas pelo tipo de dejetos de produção animal utilizado como fonte de nitrogênio. A eficiência destes adubos orgânicos como fonte de nitrogênio é inferior à da adubação mineral. Os dejetos de produção animal avaliados podem ser utilizados como fonte de nitrogênio para pastos de capim-massai em condições de baixo custo e para diminuir os impactos ambientais.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v73n2p111</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.73/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

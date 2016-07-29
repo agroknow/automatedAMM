@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17628">
+    <dc:title xml:lang="en">ROLE OF SILICON AND HIGH-SILICON ROCKS IN THE PROTECTION OF CROPS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>РОЛЬ КРЕМНИЯ И ВЫСОКОКРЕМНИСТЫХ ПОРОД В ЗАЩИТЕ ПОСЕВОВ СЕЛЬСКОХОЗЯЙСТВЕННЫХ КУЛЬТУР</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kulikova A.Kh.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Yashin E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Silicon</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">diatomite</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant protection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant pathology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fungal diseases</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7061</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32658</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5978</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5974</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11042</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables, 15 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the research conducted from 2000 to 2013 in the Ulyanovsk region, was to study the protective role of high-silica rocks used in technologies of cultivation of agricultural crops as a silicate fertilizer. More than 50 experiments were performed, the results of 4 of them are presented in the work, also there is a brief analytical review on the problem under study. We also studied the effect of diatomite and organic silicon plant growth regulator Mival–agro on the vulnerability by fungal diseases of vegetable crops (tomatoes), sugar beet, root rot of barley and spring wheat resistant to lodging. The experimental field soil is leached chernozemic soil medium loamy medium power. The results showed that high-silica rocks, first of all, the diatomite used as silicon fertilizer, the effectiveness of plant protection from phytopathogens little or almost doesn’t inferior to traditional chemical agents. In particular, the severity of fungal diseases of tomatoes, sugar beets when the soil diatomite 5 t/ha was reduced by 80% or more, barley (pre-treatment 30 kg/t of seed, or introduction into rows 40 kg/ha) on 14 – 35 %</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">the resistance of spring wheat to lodging increased from 3.9 in the control to 4.5 points in the variant with introduction of diatomite. The foregoing allows the use of high-silicon rocks at the same time not only as an effective silicon fertilizers, but also environmentally safe protection of crops.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Целью исследований, проводимых с 2000 по 2013 годы в Ульяновской области, являлось изучение защитной роли высококремнистых пород, применяемых в технологиях возделывания сельскохозяйственных культур в качестве силикатных удобрений. Всего проведено более 50 опытов, в работе представлены результаты 4-х из них, приведен также краткий аналитический обзор по изучаемой проблеме. Изучалось влияние диатомита и кремнийорганического регулятора роста растений Мивал–Агро на поражаемость грибными заболеваниями овощных культур (томаты), сахарной свёклы, корневыми гнилями ячменя и устойчивость яровой пшеницы к полеганию. Почва опытного поля чернозем выщелоченный среднемощный среднесуглинистый. Результаты исследований показали, что высококремнистые породы, прежде всего, диатомит, применяемые в качестве кремниевого удобрения, по эффективности защиты растений от фитопатогенов мало или практически не уступают традиционным химическим средствам. В частности, поражаемость грибными заболеваниями томатов, сахарной свеклы при внесении в почву диатомита 5 т/га снижалась на 80 % и более, ячменя (предпосевная обработка 30 кг/т семян или внесение в рядки 40 кг/га) – на 14 – 35 %</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">повышалась устойчивость яровой пшеницы к полеганию от 3,9 на контроле до 4,5 баллов на варианте с внесением диатомита. Вышесказанное позволяет использовать высококремнистые породы одновременно не только в качестве эффективного кремниевого удобрения, но и экологически безопасного средства защиты посевов сельскохозяйственных культур.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/4-15-Kulikova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.4(32)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

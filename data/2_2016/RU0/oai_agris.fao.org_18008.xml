@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018008">
+    <dc:title xml:lang="en">Formation of steadily productive annual mixed sowings based on optimization of mineral nutrition</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Формирование устойчиво продуктивных однолетних смешанных посевов на основе оптимизации минерального питания</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tyulin V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vasilev A.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Biryukova N.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">annual plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">compound feeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Grain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37199</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1796</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3346</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15850</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Complex research was done in Tver region on sod medium podzolic sandy loam well-cultivated soil. Crop yield programmable levels implementation was studied by means of vetch-barley-oats mixtures. Components ratio in herbage mixtures, NPK introduction rates, Baikal EM1 microbiological fertilizer foliar application were factors. When cultivating mixtures for grain-and-hay, programmable yield obtaining program was exceeded both at NPK background of 2.5 thous. feed units/ha by 70.0–86.0% and at NPK background of 5.0 thous. feed units/ha by 6.4–15.0% in all mixed crops variants. Program was done only in certain mixtures (with vetch, barley, oats components ratio being 1:1:1 and 1:2:3 respectively) when growing them for grain and at programming level of 2.5 thous. feed units/ha. Mixtures that have the biggest response to mineral fertilizers when programming had components ratio: when cultivating for grain-and-hay 1:2:3 (at background of 2.5 thous. feed units/ha) and 2:3:1 (at background of 5.0 thous. feed units/ha), for grain 1:1:1 (at both backgrounds). Foliar application by microbiological fertilizer Baikal EM1 with 0.1% spray material concentration in Poaceae components’ tillering phase increased program implementation percentage, regardless of obtained production kind, and it increased collecting of digestible protein (by 38–99 kg/ha) and exchange energy output. Positive effect from calculated mineral fertilizer doses and spraying with Baikal EM1 was achieved by improving photosynthetic activity indicators (leaf area, photosynthetic seeding potential, net photosynthetic productivity, photosynthetic active radiation efficiency) and productional process direction on yield. The conclusion was drawn that better realization of crop yield potential is reached when cultivating for grain-and-hay in soil climatic conditions of the Tver region when programming the crop yield levels of vetch-barley-oats mixture.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Комплексные исследования по изучению реализации программируемых уровней урожайности разными по составу вико-ячмено-овсяными смесями проводили в Тверской области на дерново-среднеподзолистой супесчаной хорошо окультуренной почве. Факторами являлись соотношение компонентов в травосмеси, нормы внесения NPK, некорневая подкормка микробиологическим удобрением Байкал ЭМ1. При возделывании смесей на зерносенаж, программа получения программируемого урожая была перевыполнена на фоне NPK на 2,5 тыс. к.ед./га на 70,0–86,0 %, а на фоне NPK на 5,0 тыс. к.ед./га на 6,4–15,0 по всем вариантам смешанных посевов. При выращивании смесей на зерно программа выполнялась только в некоторых смесях (с соотношением компонентов вика, ячмень, овес 1:1:1 и 1:2:3 соответственно) и при уровне программирования на 2,5 тыс. к.ед./га. Наибольшей отзывчивостью на минеральные удобрения при программировании отличались смеси с соотношением компонентов: при возделывании на зерносенаж 1:2:3 (на фоне на 2,5 тыс. к.ед./га) и 2:3:1 (на фоне на 5,0 тыс. к.ед./га), на зерно 1:1:1 (на обоих фонах). Некорневая подкормка микробиологическим удобрением Байкал ЭМ 1 с концентрацией рабочего раствора 0,1% в фазу кущения мятликовых компонентов повышала процент выполнения программы вне зависимости от вида получаемой продукции, а также увеличивала сбор переваримого протеина (на 38–99 кг/га) и выход обменной энергии. Положительный эффект от расчетных доз минеральных удобрений и опрыскивания посевов Байкалом ЭМ 1 достигался за счет улучшения показателей фотосинтетической деятельности (площади листьев, фотосинтетического потенциала посева, чистой продуктивности фотосинтеза, КПД фотосинтетически активной радиации) и направленности продукционного процесса на создание урожая. Сделан вывод, что в почвенно-климатических условиях Тверской области при программировании уровней урожайности вико-ячменно-овсяной смеси более полная реализация потенциала продуктивности культур достигается при возделывании на зерносенаж.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://molochnoe.ru/journal/sites/molochnoe.ru.journal/files/jrnl_publication/20-4-book_v5.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>The Dairy Farming Bulletin</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2225-4269</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016317440">
+    <dc:title xml:lang="ru">О КОМПЛЕКСНОМ ИСПОЛЬЗОВАНИИ ИЗВЕСТИ И МИНЕРАЛЬНЫХ УДОБРЕНИЙ ПРИ ВЫРАЩИВАНИИ ОВСА СОРТА КРЕЧЕТ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ABOUT THE INTEGRATED USE OF LIME AND MINERAL FERTILIZERS IN THE GROWING OF OATS VARIETIES KRECHET</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Камнева Ольга</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-10</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">удобрения</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2867c82c5e5a</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассматривается, как в длительном полевом опыте последействие мелиоранта и применение сложных минеральных удобрений способствовали получению высокой урожайности овса сорта Кречет в 2013-2014 годы.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the article considers, as in long-term field experiment the aftereffect of the ameliorant and application of complex mineral fertilizers contributed to obtaining high yield of oats varieties Krechet in 2013-2014 years.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://www.isuct.ru/e-publ/snt/sites/ru.e-publ.snt/files/2015/04/snt_2015_n04-172.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Современные наукоемкие технологии. Региональное приложение</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2413-5399</ags:citationIdentifier>
+      <ags:citationNumber>v.2015/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

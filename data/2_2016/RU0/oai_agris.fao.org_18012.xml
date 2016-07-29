@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018012">
+    <dc:title xml:lang="en">Influence of technological factors on fermented milk product quality indices</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние технологических факторов на показатели качества кисломолочного продукта</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kuzina D.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Grunskaya V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Parfyonova E.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultured milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Probiotics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">microbial flora</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2023</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32692</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16367</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The development of technology of whipped dairy dessert product having probiotic properties and high biological value was done. It is suggested to use skim milk as a dairy basis of the product. The skim milk enrichment with a whey concentrate, which is obtained by nanofiltration method (nanoconcentrate) and that contains full-value whey proteins is provided for increasing the biological value of the product. To obtain a whipped product, characterized by delicate texture, being stable during storage, the use of the stabilizer pectinolis proposed. The orthogonal composite experiment planning method has been used for determining a rational dose of nanoconcentrate and pectinol in the production of a whipped dessert. It has been found that the optimal application dose of nanofiltration concentrate is (17–23%), and of pectinol - (0.8–1.2%). The product is characterized by a pronounced sour milk taste and smooth and airy texture. The study of organoleptic characteristics changes including stability and consistency for the estimated 5-day shelf life (including safety factor of 1.5) has been done. The organoleptic characteristics almost have not changed. The product structure deterioration and whey releasing on the product surface have not been revealed during the storage period. The study the bifidobacteria and lactic acid bacteria viable cell content have shown its slight decrease at the end of the storage period: bifidobacteria – by 3%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">acidophilous bacterium – by 4%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">aroma forming lactococcus – by 3%. The conclusion was that it is expedient to use the whey nanoconcentrate in the production technology of the developed product.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Разрабатывали технологию взбитого кисломолочного продукта десертного назначения с пробиотическими свойствами и повышенной биологической ценностью. В качестве молочной основы для продукта предлагается использование обезжиренного молока, для повышения биологической ценности - обогащение концентратом творожной сыворотки, полученным методом нанофильтрации (наноконцентратом) и содержащим полноценные сывороточные белки. Для получения взбитого продукта, характеризующегося нежной консистенцией, стабильной в процессе хранения, предлагается использование стабилизатора пектинола. Для установления рациональной дозы внесения наноконцентрата и пектинола при производстве взбитого десерта использовали метод ортогонального композиционного планирования эксперимента. Установлено, что оптимальная доза внесения нанофильтрационного концентрата составляет (17–23%), а пектинола (0,8–1,2%). При этом продукт характеризуется выраженным кисломолочным вкусом и однородной, воздушной консистенцией. Исследованы изменения органолептических показателей, в том числе стабильности консистенции в течение предполагаемого срока годности продукта 5 суток (с учетом коэффициента запаса 1,5). Органолептические показатели продукта за это время практически не изменялись. Ухудшения структуры продукта, а также выделения сыворотки на поверхности продукта при хранении выявлено не было. Исследование содержания жизнеспособных клеток бифидобактерий и молочнокислых бактерий показало их незначительное уменьшение в конце хранения: бифидобактерий – на 3%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ацидофильной палочки – на 4%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ароматобразующего лактококка – на 3%. Сделан вывод о целесообразности использования наноконцентрата творожной сыворотки в технологии разрабатываемого продукта.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://molochnoe.ru/journal/sites/molochnoe.ru.journal/files/jrnl_publication/20-4-book_v5.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>The Dairy Farming Bulletin</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2225-4269</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

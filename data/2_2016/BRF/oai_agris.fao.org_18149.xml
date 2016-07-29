@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F18149">
+    <dc:title xml:lang="en">Viability of in vitro produced embryos of gyr cattle (Bos indicus) after cryopreservation by vitrification under field conditions</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Viabilidade de embriões gir (Bos indicus) produzidos in vitro após criopreservação em condições de campo pela vitrificação</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PEREIRA, L. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERREIRA-SILVA, J.C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CANTANHÊDE, L. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VELOZO NETO,  H. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ANDRADE, J. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SOUZA, B. P. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MOURA, M.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA, M.A.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pregnancy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cryopreservation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Viability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">embryo transfer</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertilization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6166</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24155</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8210</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15965</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2863</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this study was to evaluate the pregnancy rate of in vitro produced embryos of Gyr cattle (Bos indicus) after cryopreservation by the vitrification method under field conditions. Blastocysts in different developmental stages were transferred to recipient cows either fresh (n = 140) or warmed after vitrification (n = 138). The pregnancy rates obtained for fresh embryos were 46.15% (initial blastocyst), 46.93% (blastocyst) and 50.0% (expanded blastocyst) at 35 days post-fertilization, and 43.58% (initial blastocyst), 46.93% (blastocyst) and 50.0% (expanded blastocyst) at 60 days. The pregnancy rates after embryo vitrification were 35.0% (initial blastocyst), 42.30% (blastocyst) and 43.47% (expanded blastocyst) at 35 days post-fertilization, and 32.50% (initial blastocyst), 38.46% (blastocyst) and 43.47% (expanded blastocyst) at 60 days. Embryo vitrification or blastocyst developmental stage did not affect pregnancy rates or incidence of embryonic death. In conclusion, vitrification of Gyr (Bos indicus) embryos under field conditions is an efficient method that can be implemented to use surplus in vitro produced embryos without affecting pregnancy rates.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se com o trabalho avaliar a taxa de prenhez a partir de embriões de bovinos da raça Gir (Bos indicus) produzidos in vitro após criopreservação em condições de campo pelo método de vitrificação. Blastocistos em diferentes estádios de desenvolvimento foram transferidos a fresco (n = 140) ou aquecidos após a vitrificação (n = 138). As taxas de prenhez de embriões frescos foram 46,15% (blastocisto inicial), 46,93% (blastocisto) e 50,00% (blastocisto expandido) aos 35 dias e 43,58% (blastocisto inicial), 46,93% (blastocisto) e 50,00% (blastocisto expandido) aos 60 dias pós-fertilização, respectivamente. As taxas de prenhez após a vitrificação foram 35,00% (blastocisto inicial), 42,30% (blastocisto) e 43,47% (blastocisto expandido) aos 35 dias e 32,50% (blastocisto inicial), 38,46% (blastocisto) e 43,47% (blastocisto expandido) aos 60 dias pós-fertilização, respectivamente. A vitrificação do embrião ou estádio do desenvolvimento não afetaram as taxas de prenhez ou incidência de morte embrionária. Em conclusão, a vitrificação de embriões de bovinos da raça Gir (Bos indicus) sob condições de campo é um método eficiente que pode ser implementado para aproveitar os embriões produzidos in vitro excedentes sem afetar a taxa de prenhez.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v73n2p159</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.73/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

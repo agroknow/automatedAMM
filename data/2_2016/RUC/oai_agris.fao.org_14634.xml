@@ -1,0 +1,86 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C14634">
+    <dc:title xml:lang="ru">Разработка универсального огнетушащего состава со смачивающими, пенообразующими и антипиренными свойствами</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Development of a universal fire-extinguishing agent with wetting</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>foaming and flame retardants properties</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gutsev N.D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Garavin V.U.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mihailova N.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Garavina Yu.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">engineering</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forest protection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forestry production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forest products</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2571</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28075</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3061</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3049</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проведены исследования и опытные работы с целью создания нового универсального огнетушащего состава, обладающего смачивающими, пенообразующими и антипиренными свойствами. Существующие смачиватели и пенообразователи антипиренными свойствами не обладают, а составы с высокой огнетушащей и огнезадерживающей способностью плохо смачивают лесные горючие материалы и не могут создавать пену. Патентный поиск показал, что составов долговременного действия, способных придавать лесным горючим материалам негорючие свойства на время более 24 часов и в то же время обладающих хорошими смачивающими и пенообразующими свойствами, к настоящему времени не зарегистрировано. Выработаны исходные технические требования к новому универсальному огнетушащему составу и его растворам, определяющие его физико-химические и технико-эксплуатационные характеристики. Также определены требования к санитарно-гигиеническим и пожаротехническим свойствам. На их основе разработаны рецептуры и изготовлены экспериментальные образцы нового огнетушащего состава - четыре в жидком состоянии и один в гранулированном виде. В ходе лабораторных, стендовых и полевых испытаний определены численные значения необходимых характеристик изготовленных образцов и выработаны рекомендации по их доработке - с целью увеличения смачивающей способности по ЛГМ, усиления антипиренных свойств жидких рецептур и уменьшения времени растворения гранулированного образца. Приведены результаты исследований доработанных экспериментальных образцов - двух жидких и одного порошкообразного. Показано, что их характеристики находятся на уровне современных огнетушащих составов, а по способности удерживаться на ЛГМ - превосходят все существующие составы. Рассмотрены преимущества нового огнетушащего состава, заключающиеся в возможности использования его в любых типах лесорастительных условий при борьбе с лесными пожарами различного типа и интенсивности, при прямом и косвенном методах тушения, а также в упрощении технологии применения состава.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Research and experimental design work to create a new universal fire-extinguishing agent with wetting, foaming and fire retardant properties was made. Existing wetting agents and foaming agents do not have flame retardant properties, but structures with high fire-extinguishing capability have a very low wetting ability and can’t create the foam. A patent search showed that the composition of long-term action that can give the forest combustible materials non-combustible properties for longer than 24 hours and at the same time having good wetting and foaming properties to the present time not registered. Initial technical requirements for the new universal fire-extinguishing composition and its solutions, which determine its physicochemical and technical and operational characteristics have been developed. The requirements for hygienic and fire technical properties were defined. On their basis formulations and experimental samples of new fire-extinguishing agents, four in the liquid state and one in granular form, have been developed. During laboratory, bench and field testing numerical values of the required characteristics of the samples and recommendations for their elaboration for the purpose of increasing the wetting ability forest combustible materials, gain flame retardants properties of liquid formulations and reducing time of dissolution of the granulated sample were made. The results of studies of improving experimental samples of two liquid and one powdered are presented. It is shown that their characteristics are at the level of modern extinguishing agents, and the ability to stay on forest combustible materials - superior to all existing structures. The advantages of the new extinguishing agent, which consists in the possibility of using it in any type of forest growing conditions in the forest fire of various types and intensity, in direct and indirect methods of suppression, and to simplify the technology of application of the composition are given.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal.spb-niilh.ru/pdf/4-2015/spbniilh-proceedings-4-2015-5-full.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Труды Санкт-Петербургского научно-исследовательского института лесного хозяйства</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2079-6080</ags:citationIdentifier>
+      <ags:citationNumber>v.13/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

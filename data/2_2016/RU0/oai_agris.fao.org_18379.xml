@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018379">
+    <dc:title xml:lang="en">The influence of the time of termination of autumn vegetation and the renewal of spring vegetation on the yield of hard winter wheat</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние времени прекращения осенней вегетации и возобновления весенней вегетации на урожайность твердой озимой пшеницы</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Alabushev A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Popov A.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum durum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Winter crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Autumn</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vegetative period</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Temperature</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">spring</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7955</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24917</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_724</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16095</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7657</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7336</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The time of the termination of the autumn vegetation, overwintering conditions and the period of the renewal of spring vegetation are important factors for the formation of the winter wheat crop. Field experiments were carried out in 1979–2014, on the experimental field of the All-Russian Scientific Research Institute of Grain Crops of I. G. Kalinenko by the method of B. A. Dospekhov (1985). The soil of the plot is ordinary calcareous loamy deep chernozem, with significant porosity, aeration, gas exchange, permeability and moisture content. The technology of crops corresponded with the zonal farming systems of the southern zone of the Rostov region. Data from the weather station of Zernograd were used to characterize agro-climatic indicators in the southern zone of the Rostov region. Studies have shown that hard winter wheat generates greater yield at long autumn vegetation of preceding crops peas (4.70 t/ha) and black fallow (5.55 t/ha) than with early stopping of vegetation – 4.37 and 4.65 t/ha respectively. Average annual date of the termination of the autumn vegetation in the southern zone of the Rostov region falls on November 8, and the mean annual period of the renewal of spring vegetation on March 23. Hard winter wheat generates more yield, if there is an early arrival of spring (on the peas – to 5.62 t/ha, on the black pair – 5.58 t/ha) than late (peas – 3.84 t/ha,on a black fallow – 4.91 t/ha). Over the last 35 years (1980–2014) an atmospheric temperature rise in the dormant period of winter wheat, which is increasing annually by 0.93 deg C, is observed. As a result there are favorable conditions for overwintering of hard winter wheat, and risk during its cultivation in agricultural production reduces.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Время прекращения осенней вегетации, условия перезимовки и время возобновления весенней вегетации являются важными факторами для формирования урожая озимой пшеницы. Полевые опыты проводились в 1979–2014 гг. на опытном поле Всероссийского НИИ зерновых культур им. И. Г. Калиненко по методике Б. А. Доспехова (1985). Почва опытного участка – чернозем обыкновенный карбонатный тяжелосуглинистый мощный, обладающий значительной порозностью, аэрацией, газообменом, водопроницаемостью и влагоемкостью. Технология возделываемых культур соответствовала зональным системам земледелия для южной зоны Ростовской области. Для характеристики агроклиматических показателей на территории южной зоны Ростовской области использовались данные метеостанции Зернограда. В результате анализа урожайности и времени прекращения осенней вегетации за последние 35 лет установлено, что твердая озимая пшеница формирует больший урожай при позднем прекращении осенней вегетации по предшественникам горох (4,70 т/га) и черный пар (5,55 т/га), чем при раннем прекращении осенней вегетации – 4,37 и 4,65 т/га соответственно. Среднегодовая дата прекращения осенней вегетации в южной зоне Ростовской области приходится на 8 ноября, а среднемноголетнее время возобновления весенней вегетации – на 23 марта. Урожайность твердой озимой пшеницы при раннем наступлении весенней вегетации выше (по гороху – 5,62 т/га, по черному пару – 5,58 т/га), чем при позднем (по гороху – 3,84 т/га, по черному пару – 4,91 т/га). За последние 35 лет (1980–2014 гг.) наблюдается повышение температуры воздуха в период покоя озимой пшеницы, ежегодно она увеличивается на 0,93 град. С. В результате складываются благоприятные условия для перезимовки твердой озимой пшеницы, и снижается риск при ее возделывании в с.-х.производстве.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://avu.usaca.ru/media/BAhbBlsHOgZmSSIuMjAxNS8xMi8xMC8wM18xOF81MV85OTFfX19fXzIwMTUuNl8xMS5wZGYGOgZFVA</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agrarian Bulletin of the Urals</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-4868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 11</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

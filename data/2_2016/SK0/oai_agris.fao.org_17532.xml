@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017532">
+    <dc:title xml:lang="en">The effect of intesification factors to total antioxidant activity of highbush blueberry (Vaccinium corymbosum L.) and lingonberry (Vaccinium vitis-idaea L.)f</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Medvecký Michal</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Daniel Ján</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vollmanová Alena</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zupka Stanislav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kopernická, Miriama</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vaccinium corymbosum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vaccinium vitis idaea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8135</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16299</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Public attention is increasingly drawn to the protective effects of natural antioxidants against civilization diseases. An important source of antioxidants are berries, which until recently has received little attention, but the latest research towards the right to it. The phenolic profile and quantitative composition of blueberries as well as the corresponding antioxidant activity of blueberries is well documented. The aim of this paper was the determination of the relationship between different methods of fertilization and total antioxidant activity of six selected varieties of blueberries and five varieties of lingonberries. Each sample of blueberry varieties (Bluejay, Nelson, Bluecrop, Patriot, Berkeley and Brigitta) and lingonberry varieties (Koralle, Ida, Sanna, Linnea and Sussi) were collected from the research station Krivá in Orava. The values of total antioxidant activity of the extracts of studied varieties of blueberry after organic fertilization ranged from 27.15 to 52.25 μg.mg eq. Trolox. After mineral fertilization, the values of total antioxidant activity of the extracts of studied varieties of blueberry ranged from 21.27 to 51.00 μg.mg eq. Trolox. In the control treatment, the values of total antioxidant activity of the extracts of studied varieties of blueberry ranged from 26.99 to 54.15 μg.mg eq. Trolox. The values of values of total antioxidant activity of the extracts of studied varieties of lingonberry after organic fertilization ranged from 42.49 to 60.27 μg.mg eq. Trolox. After mineral fertilization, the values of total antioxidant activity of the extracts of studied varieties of lingonberry were in the interval from 38.85 to 55.15 μg.mg eq. Trolox. In the variant without fertilization, the values of total antioxidant activity of the extracts of studied varieties of lingonberry ranged from 37.16 to 65.11 μg.mg eq. Trolox. The application of organic fertilizer has a positive effect to increasing values of antioxidant activity in blueberries and lingonberries. It should be noted that the value of the total antioxidant activity is significantly influenced by the rainfall.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/531/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

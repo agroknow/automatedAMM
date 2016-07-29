@@ -1,0 +1,59 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016017855">
+    <dc:title xml:lang="id">Keragaman genetik dan distribusi haplogrup ayam kampung dengan menggunakan hipervariabel-I daerah kontrol DNA mitokondria</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Genetic diversity and haplogroups distributions of Kampung chickens using hypervariable-I mitochondrial DNA control region</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>M. S. A. Zein</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sulandari S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Pusat Penelitian Biologi-LIPI, Cibinong</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">DNA</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mitochondria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic distance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1540</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2347</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4869</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27530</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Until now, there is no studies on evaluating the position of kampung chickens in chicken clade of Asia. Thus studies based on molecular DNA sequence hipervariable-I on kampung chicken is needed. Molecular studies based on DNA sequences hypervariable-I of kampung chicken was done to confirm the results of previous evaluations conducted on 15 families of local chickens of Indonesia. An analysis of 210 individuals kampung chicken (Aceh, North Sumatra, Lampung, Banten, Central Java, Lombok, Southeast Sulawesi, Ternate, Morotai and Halmahera) resulted in 51 haplotypes derived from 62 polymorphic sites. Polymorphic sites among the highest seen at 112-397 (93.22 percent). The highest haplotype frequencies contained in the haplotype H-4 (936.19 percent), followed by H-1 (918.57 percent) and H-5 (10,95 percent). Kampung chicken phylogeny analysis formed four haplogroups/clade from 7 references of Asian chicken clade. Four haplogroups are clade II = 84.31 percent (43 haplotypes), clade IIIC = 1.96 percent (1 haplotype),  clade IIID = 3.92 percent (2 haplotypes), and clade IV = 7.84 percent (4 haplotypes). The results prove of that Indonesian local and indigenous chickens were equally dominated by clade II. Analysis of genetics diversity showed haplotype diversity of 0.825 +- 0.021, nucleotide diversity of 0.00600 on average, the genetic distance between populations ranged from 0.003 to 0.011, and the genetic distance within population ranged from 0.00395 to 0.01031. Genetic distance between individuals in all populations of kampung chickens was significantly different (P &lt; 0.01). Fu's Fs values was negative, indicating high genetics diversity and population expansion on native chicken in Indonesia. Other important result was shown with the major haplotype spread from western to eastern Indonesia, and had strengthened the position of Indonesia as one of the centers of domestication of the chickens.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://peternakan.litbang.pertanian.go.id/fullteks/jitv/jitv172-6.pdf?secure=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Jurnal Ilmu Ternak dan Veteriner</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0853-7380</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

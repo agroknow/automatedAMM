@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018382">
+    <dc:title xml:lang="en">Effect of injury of winter wheat seeds on their sowing traits</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние травмирования семян озимой пшеницы на их посевные качества</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Skvortsova Yu.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ionova E.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">spring crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Seeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Seed weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Roots</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Seed vigour</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seed germinability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24918</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6946</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6651</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16339</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Study of injuries happened during harvesting and postharvest treatment, and their effect on seed quality of winter soft wheat Yermak and Rostovchanka 5 varieties was done. Samples were selected after hand threshing, threshing with combine (4 types of combines) and after processing by grain cleaning machinery (2 devices). It was shown that amount of injury to seeds largely depends on number of mechanical impacts on grain. There were no microinjuries during hand threshing, laboratory germination was 99%. Seeds’ microinjuries don’t reduce laboratory germination, but have negative impact on growth power and field germination. Seed microinjuries maximum number (25-29%) was revealed after harvesting with “Don 1500” combine. Moreover, growth power and field germination decrease was found. Seed microinjuries minimum number was done after harvesting with “John Dir” and “Case” combines. Growth power indicators were slightly different in comparison with hand threshing – 94–95 sprouts. While threshing with “Wintersteiger” combine seed microinjuries number was 27–29%, which resulted in growth power and field germination reduction in comparison with hand threshing by 3–9 units, or 5–6%. During seed purification a maximum number of seed microinjuries was done while threshing it with “ZAV-20” (32–38%), which resulted in decrease of growth power to 86–89 sprouts and field germination to 78–81%. Seed microinjuries have a great effect on growth and development of plants on the primary stages of organogenesis. The seeds, harvested with the “John Dir” and “Case” combines had the slightest reduce in sprout and root length in comparison with a hand threshing. Seeds obtained by threshing with the “Don 1500”combine had the maximum reduction in the sprout and root length. The seedlings of injured seeds are stunted in growth. To obtain the seeds with good sowing traits it’s necessary to use modern machinery and to reduce a number of technological processes while a postharvest treatment of seeds.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучали влияние травмированности при уборке и послеуборочной доработке на качество семян озимой мягкой пшеницы сортов Ермак и Ростовчанка 5. Пробы отбирали после ручного обмолота, обмолота комбайном (4 вида комбайнов) и после обработки зерноочистительной техникой (2 аппарата). Отмечено, что величина травмирования семян зависит от количества механизированных воздействий на зерновку. При ручном обмолоте микроповреждений не возникало, лабораторная всхожесть составляла 99%. Микротравмы семян практически не снижали лабораторную всхожесть, однако отрицательно влияли на силу роста и полевую всхожесть. Максимальное количество микроповреждений при обмолоте (25–29%) отмечено после уборки комбайном "Дон 1500". При этом зафиксированы наиболее низкие значения силы роста и полевой всхожести. Минимальное количество микротравм было при обмолоте комбайнами "Джон Дир" и "Кейс". Показатели силы роста имели минимальные различия в сравнении с ручным обмолотом – от 94 до 96 шт. ростков. При обмолоте комбайном "Винтерштайгер" количество микроповреждений было в пределах 27–29%, что привело к снижению показателей силы роста и полевой всхожести в сравнении с ручным обмолотом на 3–9 шт., 5–6% соответственно. После доработки семян на зерноочистительной технике максимальное количество микроповреждений получено на "ЗАВ-20" (32–38%), что привело к снижению значений силы роста до 86–89 шт. ростков и величины полевой всхожести до 78–81%. Микроповреждения семян оказывают влияние на рост и развитие растений на начальных этапах органогенеза. Минимальное снижение длины ростка и корешка в сравнении с ручным обмолотом зафиксировано у семян, полученных после уборки комбайнами "Джон Дир" и "Кейс". Максимальное снижение длины ростка и корешка – у семян, полученных при обмолоте комбайном "Дон 1500". Проростки из поврежденных семян отстают в росте. Для получения семян с высокими посевными качествами необходимо использовать современную технику и сокращать процесс механических воздействий при послеуборочной доработке семенного материала. Табл. 3. Библ. 7.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://avu.usaca.ru/media/BAhbBlsHOgZmSSIvMjAxNS8xMi8xMC8wM18zMV81M18xNjdfX19fXzIwMTUuMTZfMTkucGRmBjoGRVQ</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agrarian Bulletin of the Urals</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-4868</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 11</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

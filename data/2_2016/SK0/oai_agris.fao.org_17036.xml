@@ -1,0 +1,59 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017036">
+    <dc:title xml:lang="sk">Vplyv pratotechniky na agrochemické vlastnosti kambizeme pod trávnym porastom</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Effect of pratotechnics on the agrochemical properlies of cambisol under grassland</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Jančovič, Ján</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vozár,  Ľuboš</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kovár,  Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hric,  Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F07</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">tillage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cambisols</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">grasslands</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7771</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1224</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3366</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">On the grassland (association Lolio--Cynosuretum cristati R. 1937) with brown acidic soil (cambisol) the basic agrochemical attributes (pH, Cox' Nt' P, K) was studied during the years 1986 - 2006. Various systems of management (fertilizing + cutting, liming, no management) had different influences to the cambisol qualities, but had not so significant effect. Between the years there was relatively great variability at the available nutrients values (8 - 75%). The available phosphorus had greatest variability (19 - 96%) and also potassium (18 - 82%). Medium till small variability was characteristic for pH (9 - 14%), Cox (17 - 19%) a Nt (8 - 16 %). The results are indicating that changes of management systems mean not automatically changes of soil features.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Agrochémia</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1335-2415</ags:citationIdentifier>
+      <ags:citationNumber>v.19 (55)/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

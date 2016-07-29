@@ -1,0 +1,71 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017042">
+    <dc:title xml:lang="sk">Detekcia účinku deficitu dusíka na fotosyntetický aparát pšenice rýchlym meraním fluorescencie chlorofylu</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Detection of nitrogen deficit effect on wheat photosynthetic apparatus by fast chlorophyll fluorescence measurement</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Živčák Marek</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Slamka Pavol</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Brestič, Marián</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Olšovská Katarína</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Photosynthesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wheats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chlorophylls</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fluorescence</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5812</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8373</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1577</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10935</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Nitrogen is an important environmental factor influencing the photosynthetic performance of plants and their biomass production. Based on the application of a non-invasive chlorophyll a fluorescence method on green winter wheat leaves both the photosynthetic efficiency and sensitiveness to applied nitrogen was evaluated. Plants of winter wheat were cultivated in a whole--vegetation pot experiment with the regulation of watering and application of different N doses before sowing (variant NO</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">NO.5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">N1</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">N2). In tree growth stages (tillering, stem elongation and before flowering) the intensity of chlorophyll fluorescence was measured both in the youngest (first) leaves and the 3rd leaves (older) from the top of plants as followed by destructive analyses of total chlorophyll and leaf nitrogen content from the same measured leaves as well as total aboveground biomass. The results show the current parameter Fv/Fm (maximal photochemical PSII efficiency) derived from CHF kinetics as only slightly sensitive to the applied nitrogen doses, however the parameter PI R (coefficient of photosynthetic leaf ratio) derived from the PIABS(performance index) ratio between the first (youngest) and the 3rd (older) leaves indicates higher sensitiveness of wheat plants to N doses. The sensitiveness increases considerably at the insufficient N doses, when plants lack of N undergo an active N redistribution within plants, and it can differentiate among leaves from the different position at a stem as well as different growth stages. Therefore, the parameter PI R can be successfully used as an indicator of unappropriated N nutrition or decreased photosynthetic efficiency of wheat under such environmental conditions.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Agrochémia</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1335-2415</ags:citationIdentifier>
+      <ags:citationNumber>v.19 (55)/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

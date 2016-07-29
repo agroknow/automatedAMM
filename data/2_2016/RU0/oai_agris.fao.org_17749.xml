@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017749">
+    <dc:title xml:lang="en">Model representation of the spray drying process of the distillery stillage filtrate based on Navier-Stokes equations</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Модельные представления процесса распылительной сушки фильтрата спиртовой барды на основе уравнений Навье–Стокса</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Shevtsov A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Muravev A.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">models</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">vinasse</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">spray drying</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hydrodynamics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27624</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24088</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3723</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Spray drying of solutions and suspensions is among the most common methods of producing wide range of powdered products in chemical, food and pharmaceutical industries. For drying of heat-sensitive materials, which is fully applicable to distillery stillage filtrate continuous-flow type of contact of drying agent and solution droplets is examined. Two-phase simulation method of computational hydrodynamics in a stationary state for studying the process of drying of the distillery stillage filtrate in the pilot spray dryer under the following assumptions was used. The components form an ideal mixture, the properties of which are calculated directly from the properties of the components and their proportions. The droplets were presented in spherical form. The density and specific heat of the solution and the coefficient of vapors diffusion in the gas phase remained unchanged. To solve the heat exchange equations between the drying agent and the drops by the finite volume method the software package ANSYS CFX was used. The bind between the two phases was established by Navier-Stokes equations. The continuous phase (droplets of the distillery stillage filtrate) was described by the k-E turbulence model. The results obtained showed that the "drop-wall" interaction causes a significant change of velocity, temperature and humidity both of a drying agent and the product particles. The behavior of the particles by spraying, collision with walls and deposition of the finished product allowed to determine the dependence of physical parameters of the drying process, of the geometric dimensions of the dryer. Comparison of simulation results with experimental data showed satisfactory convergence of the results: for the temperature of the powder the error term was 10%, for its humidity - 12% and for temperature of the spent drying agent when getting out from the drier - 13%. The possibility of using the model in the spray dryers designing, and control of the drying process is shown.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Распылительная сушка растворов и суспензий является одним из наиболее распространенных методов производства широкого спектра порошкообразных продуктов в химической, пищевой и фармацевтической промышленности. Для сушки термочувствительных материалов, к которым в полной мере относится фильтрат барды, рассматривается прямоточный тип контакта сушильного агента и капель раствора. Применялось двухфазное моделирование методом вычислительной гидродинамики в стационарном состоянии для изучения процесса сушки фильтрата барды в экспериментальной распылительной сушилке при следующих допущениях: компоненты образуют идеальную смесь, свойства которой рассчитывались непосредственно из свойств компонентов и их пропорций</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">капли представлялись в сферической форме</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">плотность и удельная теплоемкость раствора и коэффициент диффузии паров в газовой фазе оставались неизменными. Для решения уравнений теплообмена между сушильным агентом и каплями методом конечных объемов использовался пакет программного обеспечения ANSYS CFX. Связь между двумя фазами устанавливалась уравнениями Навье Стокса. Непрерывная фаза (капли фильтрата) описывалась каппа-эпсилон моделью турбулентности. Полученные результаты показали, что взаимодействие "капля–стенка" вызывает значительные изменения скорости, температуры и влажности как сушильного агента, так и частиц продукта. Зависимость физических параметров процесса сушки от геометрических размеров сушилки позволили установить поведение частиц при распылении, столкновении со стенками и осаждении готового продукта. Сравнение результатов моделирования с экспериментальными данными показали удовлетворительное схождение результатов: для температуры порошка величина погрешности составила 10%, его влажности - 12%, и температуры отработанного сушильного агента на выходе из сушилки - 13%. Показана возможность использования модели при проектировании распылительных сушилок и управления параметрами в процессе сушки.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik-vsuet.ru/vguit/article/view/794/756</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Proceedings of the Voronezh State University of Engineering Technologies</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2226-910X</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

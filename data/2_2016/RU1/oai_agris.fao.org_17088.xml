@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016117088">
+    <dc:title xml:lang="en">Pecularities of Cytokinin Accumulation and Distribution in Triticum aestivum L. Seedlings Under Temperature Stresses</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kosakivska I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Voytenko L.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Likhnyovskiy R.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cytokinin</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2090</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this research was to investigate the effect of short-term heat (2 h., +400C) and cold (2 h., +20C) stresses on accumulation and distribution of cytokinin (CK) in 7 and 14-day-old seedlings of the frost resistant Triticum aestivum L. cultivar Volodarka. A high performance liquid chromatography method has been used to provide a qualitative and quantitative analysis of hormones in leaves and roots. It was shown that in the early stages of growth (7 days) after exposure to high temperature the total content of cytokinin in roots increased 1,6 and in leaves in 2,55 times. The most pronounced changes were registered for trans-zeatin (t-Z) and izopenteniladenozin (iPa) in roots and for zeatinriboside (ZR), izopenteniladenin (iP) and iPa in leaves. After cold stress the total content of hormone in roots increased but decreased in leaves. ZR and iPa were not identified in the leaves. The total level of CK in 14-day-old seedlings as compared to 7-day-old ones under control conditions decreased from 685,3 to 158,3 in roots and from 396,8 to 368,4 ng / g fresh weight in leaves. After cold stress the total content of CK in the roots decreased to 99,9 and in the leaves – to 195,8 ng/g of wet weight. Trans-zeatin was actively accumulated in leaves, ZR - in the roots. After heat stress the total content of CK in roots increased to 316,3, whereas in leaves decreased to 184,6 ng / g fresh weight. Roots actively accumulated cis-zeatin (c-Z) and iPA, leaves – iP and iPa. Changes in the accumulation and distribution of CK depended both on the organs and the age of seedlings, and the type of stress and correlated with frost resistance of the cultivar Volodarka.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.jspb.ru/issues/2016/N2/JSPB_2016_2_32-38.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Journal of Stress Physiology &amp;amp; Biochemistry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-0838</ags:citationIdentifier>
+      <ags:citationNumber>v.12/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

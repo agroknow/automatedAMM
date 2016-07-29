@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018305">
+    <dc:title xml:lang="en">Similar and different features of soils in boreal deserts of Eastern and Western Central Asia</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Черты сходства и различия свойств почв бореальных пустынь Центральной и Средней Азии</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pankova E.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lebedeva M.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P33</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">climate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">porosity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil crusts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil micromorphological features</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Arid soils</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Desert soils</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1665</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13520</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26766</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_612</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article presents new data (received in the end of XX – the beginning of XXI) comparing macro- and micro-morphological, chemical and physicochemical properties of soils studied in the eastern and western deserts of Central Asia, the Gobi and Turan deserts, respectively. Common and specific properties of these deserts were revealed, and they were compared with the data from the paper published by I.P. Gerasimov in 1954 entitled “Similarity and difference in the nature of deserts”. Among common features, the preservation of the traits of former elevated moistening should be mentioned, which seems to be mitigated or deleted by current active aeolian processes. I.P. Gerasimov explained this paradox by the existence of a crusty horizon on the surface of desert soils protecting them from the destruction. The structure of the crusty horizon in different deserts he attributed to their particular nature, primarily to the climate. In the end of the XX and the beginning of the XXI centuries, the use of electron microscopy, tomography, micromorphology and microbiology in pedological research permitted to evaluate the origin and the structure of a crusty sub-horizon in desert soils and the underlying platy one at a micro-level. The analysis of new data concerning the properties of desert soils in Central Asia basically confirmed the ideas of I.P. Gerasimov. It became possible to elucidate the natural phenomena affecting the properties of desert soils in Gobi and Turan deserts, as well as to relate the formation of the vesicular desert crust to various microbiological, physical and physicochemical processes. The article presents micromorphological signs of a solonetz or cryptosolonetz process responsible for fine particles mobilization in the surface horizons of boreal desert soils.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведены новые (полученные в конце XX – начале XXI в.) данные по сравнению макро- и микроморфологических признаков, химических, физико-химических свойств почв пустынь Центральной Азии (Гоби) и Средней Азии (Турана). Выявлены общие и специфические свойства почв сравниваемых пустынь, проведено их сравнение с материалами, изложенными И.П. Герасимовым в работе “Черты сходства и различия в природе пустынь” (1954). Общим в облике пустынь является хорошая сохранность следов былой увлажненности ныне пустынных территорий, которая, казалась бы, должна быть стерта и уничтожена современными активными эоловыми процессами. И.П. Герасимов считал, что причиной этого парадокса является наличие на поверхности пустынных почв коркового горизонта, защищающего почвы и ландшафты от разрушения. Характер строения коркового горизонта в разных пустынях он связывал с особенностями природы пустынь в первую очередь с климатом. В конце XX–начале XXI вв. развитие электронной микроскопии, томографии, микроморфологии и микробиологии в почвенных исследованиях позволило на микроуровне оценить генезис и особенности строения коркового и подкоркового горизонтов пустынных почв. Анализ новых материалов о свойствах почв пустынь Центральной и Средней Азии в целом подтвердил идеи И.П. Герасимова. Он позволил несколько уточнить природные особенности, влияющие на свойства корковых горизонтов пустынных почв территории Гоби и Турана, а также подтвердить обусловленность формирования пористой пустынной корки в результате разнообразных микробиологических, физических и физико-химических процессов. Выявлены микропризнаки солонцового или криптосолонцового процесса в формировании подвижности тонкодисперсного вещества в поверхностных почвенных горизонтах бореальных пустынь Центральной и Средней Азии.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://yadi.sk/i/ZFrM8mobkYmS4</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of V.V. Dokuchaev Soil Science Institute</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0136-1694</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 81</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

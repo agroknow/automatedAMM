@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016117498">
+    <dc:title xml:lang="en">Tuberculosis Due to Mycobacterium Bovis among HIV Co-infected Patients</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BALLA FLORINDA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BALLA ENKELEI</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>BËRXHOLI KRISTAQ</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculty of Veterinary Medicine, Agricultural University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">HIV-human immunodeficiency virus and Tuberculosis ( TB) co-infections affect the health around the world and
+continue to be a major global public health worldwide. Tuberculosis (TB) now ranks alongside HIV as a leading cause
+of death worldwide. HIV and TB form a lethal combination, each speeding the other's progress. The aim of this study
+is to evaluate the presence of M.bovis infection among HIV co-infected patients. During the period of time 2004-
+2015, of the 751 patients infected with HIV, 40 were co-infected with HIV and TB during the period of time 2004-
+2015. By gender, TB in patients with HIV infection was 12.5 % among women and 87.5 % among men. The level of
+TB among patients with HIV infection was 5.3 % (40 cases out of 751 HIV positive cases in total). Specific weight of
+mortality in patients with HIV/TB co-infection during the period of time 2004-2015 was 45 % (18 cases out of 40
+cases in total). The level of TB due to M.Bovis among HIV positive patients vas 2.6 % (one case out of 39 HIV
+positive MTBC-Mycobacterium Tuberculosis Complex cases in total). M.Bovis infection again continues remains a
+public health risk and impacts on the epidemiology of HIV and TB co-infection disease.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_1_2016-1/10_FLORINDA%20BALLA%20pp%2049-53.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.15/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

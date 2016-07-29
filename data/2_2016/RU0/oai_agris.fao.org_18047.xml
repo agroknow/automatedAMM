@@ -1,0 +1,94 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018047">
+    <dc:title xml:lang="en">Plant raw material extraction with periodic intensive hydrodynamic regime</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Экстрагирование растительного сырья с периодическим интенсивным гидродинамическим режимом</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ivanov E.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Matveeva N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farm equipment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">extraction</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Raw materials</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">energy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25753</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36910</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2565</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The extracting process of target components from plant raw material by rotary-pulsation and planetary apparatus which provide intense hydrodynamic impact on the raw material is shown. The rotary-pulsation apparatus is represented by two-stage machine with the outer diameter of the second rotor of 100 mm, with the slots in the rotor and stator being 4-1.5 mm wide. Water output of the device is approximately 0.4-0.8 l/s. Planetary batch apparatus has the following characteristics: the number of drums – 3</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">drum capacity – 0.62 liters</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">drum diameter – 110 mm</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">carrier rotation speed - 448 rev/min</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">drum rotation speed – 550 rev/min</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">centrifugal force on the circumference of the drum rotation – 28g. One 57 mm diameter stainless steel roller is placed in each drum. Flavonoid compounds extraction kinetics from crushed dry and pre-wetted hawthorn fruit (average particle size – 1.8 mm), St. John's wort chopped herbs (average particle size – 1.7 mm) and licorice root (average particle size – 2.4 mm) is analyzed. 40% (vol.) aqueous ethyl alcohol is used as the extractant. The weight ratio of extractant to the one of the raw material varied from 1:12 to 1:50. Apparatus are periodically switched on briefly and then switched off for 5-10 minutes. The apparatus operation time is selected on the basis of raw material particles processing conditions for approximately 10-60 seconds. The total duration of intensive hydrodynamic impact on the raw materials is from 3 to 20% of the total extraction process duration. This technology allows power consumption to be at least 5 times less, reducing raw material grinding size and ballast substances output. After the intermittent operation of the rotary-pulsating and planetary apparatus the duration of suspension filtration is 5-14 times lower than at their continuous operation, total process duration being the same.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Рассмотрен процесс экстрагирования целевых компонентов из растительного сырья с применением роторно-пульсационного и планетарного аппаратов, обеспечивающих интенсивное гидродинамическое воздействие на сырье. Роторно-пульсационный аппарат представляет собой двухступенчатый аппарат с наружным диаметром второго ротора, равном 100 мм, с прорезями в роторе и статоре шириной 4-1,5 мм. Производительность аппарата по воде составляла приблизительно 0,4-0,8 л/с. Планетарный аппарат периодического действия имел следующие характеристики: число барабанов – 3</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">объем барабана – 0,62 л</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">диаметр барабана – 110 мм</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">скорость вращения водила – 448 об/мин</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">скорость вращения барабанов – 550 об/мин</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">центробежное ускорение на окружности вращения барабанов – 28g. В каждый барабан загружался один ролик из нержавеющей стали диаметром 57 мм. Исследовалась кинетика экстрагирования флавоноидных соединений из измельченных сухих и предварительно намоченных плодов боярышника (средний размер частиц – 1,8 мм), измельченных травы зверобоя (средний размер частиц – 1,7 мм) и корней солодки (средний размер частиц – 2,4 мм). В качестве экстрагента использовали 40% (об.) водный раствор этилового спирта. Соотношение массы сырья к массе экстрагента варьировало от 1:12 до 1:50. Аппараты периодически включали на непродолжительное время, после чего отключали на 5-10 мин. Продолжительность работы аппаратов выбиралась из условия обработки всех частиц сырья в течение ≈10-60 с. Суммарная продолжительность интенсивного гидродинамического воздействия на сырье составляла 3-20% от общей продолжительности процесса экстрагирования. Применение такой технологии позволило не менее чем в 5 раз снизить расходы энергии, уменьшить измельчение сырья и выход балластных веществ в извлечение. Продолжительность фильтрации суспензии после прерывистой работы роторно-пульсационных и планетарных аппаратов была в 5-14 раз ниже, чем при их непрерывной работе при одной и той же суммарной продолжительности процесса.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestnikmax.ifmo.ru/file/article/14924.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik Mezhdunarodnoi Akademii Kholoda</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1606-4313</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

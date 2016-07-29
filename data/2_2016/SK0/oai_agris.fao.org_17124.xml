@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017124">
+    <dc:title xml:lang="en">Tree age estimation from incomplete tree ring series at height 1.3 m</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Odhad veku stromov z letokruhových sérií neúplných vývrtov vo výške 1,3 m</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Murgaš Vlastimil</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email:  vlastimil88@gmail.com</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">trees</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Age</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">growth rings</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7887</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_186</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3399</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The paper deals with the problem of how to estimate tree age using increment cores when the core doesn‘t contain information about location of the pith. This situation occurs in dendrochronological practice quite often, mainly due to pith eccentricity on stem cross-section, incorrect alignment of increment borer to stem when taking samples, rotten core etc. The basis of so far used methods for estimating unknown tree age is counting the number of tree rings on accessible part of increment core, an estimate of the missing radius and an estimate of the mean tree ring width of missing radius. In this paper 5 methods for estimating tree age were compared from which 1 method is known, 2 methods were created by modifying known procedures and 2 methods are completely original. The first new method is based on nonlinear analysis of inverse forms of selected growth functions and the second method on linear extrapolation of cumulative radial growth time series. Bias, precision and accuracy of each method are verified by simulation techniques on extensive empirical material representative for the growth area Poľana (tree species Norway spruce, from 2nd to 7th forest vegetation zone). The greatest benefit of this paper is to present new methods for estimating tree age, extending the range of existing procedures and demonstration of their practical usability.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/3_3/katedry_lf/kltm/suppl._55-1-2013_web.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta  Facultatis Forestalis Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0231-5785</ags:citationIdentifier>
+      <ags:citationNumber>v.55/n.Suppl. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

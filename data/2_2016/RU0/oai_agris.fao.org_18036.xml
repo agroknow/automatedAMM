@@ -1,0 +1,94 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018036">
+    <dc:title xml:lang="en">Seed growing of promising soya cultivars under irrigation in dry steppe zone of Volga region</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Возделывание семенных посевов перспективных сортов сои на орошении в сухостепной зоне Поволжья</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Shadskikh V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kravchuk A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Peshkova V.O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kizhaeva V.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Romanova L.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lapshovа A.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F06</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Glycine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land improvement</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">processing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Irrigation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Productivity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3300</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28717</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6195</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3954</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6210</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the research is to investigate technological process of growing of 9 promising soya cultivars, obtained from 5 originators, in dry steppe zone of Volga region (Saratov area) under irrigation. Experiment observations were done in 2012-2014 in accordance with standard techniques of experimental work and schedule of study. The experiment investigations were carried out through all elements of technological process. High productive soya cultivars were chosen, they can provide high yield in above-mentioned conditions: Bara – 3.12 t/ha, Soyer 4 – 3.58 t/ha, Samer 1 – 2.83 t/ha, Samer 3 – 2.54 t/ha, Arleta – 3.10 t/ha, L-009-0077 – 3.90 t/ha. The optimal biological preparation “Rizobakt” comprising effective strains of nitrogen fixing bacteria and providing fixation of atmosphere nitrogen up to 60–80 kg/ha was chosen. The irrigation events of soya were differentiated. The optimal irrigation regime by the scheme of 70–80–70% of field capacity was accepted for use. Biometrics of all soya cultivars was done during vegetation. As a result of three-year study on technological elements of soybean growing under irrigation it was revealed and recommended for production soya cultivars. The optimal plant density of 0.6 million plants/hectare at space row of 0.3 m was found. The values of irrigation water use coefficient from 1.53 to 2.56 kg per cubic meter at irrigation regime of 70–80–70% from field capacity in soil layer  of 0.6 m were obtained.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью исследований являлось изучение технологического процесса возделывания 9 перспективных сортов сои, полученных от 5 оригинаторов, в условиях сухостепной зоны Поволжского региона (Саратовская обл.) при орошении. Наблюдения в опытах проводились в 2012-2014 гг. в соответствии с общепринятыми методиками опытного дела и календарным планом исследований. Проведены экспериментальные исследования по всем элементам технологического процесса. Подобраны высокопродуктивные сорта сои, которые обеспечивают высокую урожайность в вышеуказанных условиях: Бара – 3,12 т/га, Соер 4 – 3,58 т/га, Самер 1 – 2,83 т/га, Самер 3 – 2,54 т/га, Арлета – 3,10 т/га, Л-009-0077 – 3,90 т/га. Подобран оптимальный биопрепарат Ризобакт, содержащий эффективные штаммы азотофиксирующих бактерий, обеспечивающий фиксацию атмосферного азота до 60–80 кг/га. Дифференцированы поливы сои. В опытах принят к использованию оптимальный режим орошения по схеме 70–80–70% от наименьшей влагоемкости. Проведена биометрическая характеристика всех сортов сои в течение вегетации. Установлена оптимальная густота стояния растений - 0,6 млн растений/га при ширине междурядий 0,3 м, получены значения коэффициента использования оросительной воды: от 1,53 до 2,56 кг на кубический метр при режиме орошения 70–80–70% от НВ в расчетном слое почвы 0,6 м.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.rosniipm-sm.ru/dl_files/udb_files/udb13-rec370-field6.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Scientific Journal of Russian Research Institute of Land Improvement Problems</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2222-1816</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

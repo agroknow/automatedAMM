@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018236">
+    <dc:title xml:lang="en">The development of technology of functional beverages based on whey and plant extracts</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Разработка технологии функциональных напитков на молочной сыворотке с растительными экстрактами</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Cherevach E.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tenkovskaya L.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">beverages</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">whey</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant extracts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ingredients</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">MANGOSTEEN</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">synergism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_896</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8376</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8166</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26791</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12368</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16149</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The purpose of this study was the development a technology of functional whey-based beverages and compositions of plant extracts from the Far East region and mangosteen (Garcinia mangostana L.). The extraction of biologically active substances from hips, cranberries, black chokeberry berries, Amur grapes, actinidia kolomikta berries is optimized with the method of mathematical modeling. Total antioxidant content in extracts from Far East’s plants is 105-351 mg/L, in extracts from mangosteen – 1373 mg/L. The synergetic antioxidant effect of the extracts’ compositions with an extract of mangosteen has been established. The recipes and technological process of five kinds of “ACTIVE” beverages have been developed. Including gellan gum (0.05%) into recipes provides a stable gel-like structure of the beverages. Vegetable purees or fruit purees are used as fillers. Using the complex of parameters the quality evaluation of whey-based beverages compared to the analogue (pasteurized whey-based beverage containing apple juice) has been done. Shelf life of beverages “ACTIVE” was 40 days, whereas the analogue in the presence of a conservation agent in the formulation can be stored 30 days only. The proposed technology allows us to obtain gelled whey-based beverages, which are natural food products. They have higher organoleptic characteristics, significant concentrations of functional antioxidant ingredients (flavonoids, xanthones, and vitamin C) and storage time compared to the analogue.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Разрабатывали технологию функциональных напитков на основе творожной молочной сыворотки и композиций растительных экстрактов из сырья Дальневосточного региона и мангостина (Garcinia mangostana L.). Методом математического моделирования оптимизирован процесс экстрагирования биологически активных веществ из плодов шиповника коричного, ягод клюквы четырехлепестковой, ягод рябины черноплодной, ягод винограда Амурского, ягод актинидии коломикта. Суммарное содержание антиоксидантов в экстрактах из растений Дальневосточного региона составляет от 105 до 351 мг/л, в экстрактах из мангостина – 1373 мг/л. Установлен синергетический эффект антиоксидантного действия композиций полученных экстрактов с экстрактом мангостина. Разработаны рецептуры и принципиальная технологическая схема 5 напитков серии «АКТИВ». Устойчивую гелеобразную структуру напитков обеспечивает введение геллановой камеди в концентрации 0,05%. В качестве наполнителей используются овощные или плодовые пюре. Проведена оценка качества напитков по комплексу показателей в сравнении с аналогом (напитком сывороточным пастеризованным с яблочным соком). Срок хранения напитков «АКТИВ» составил 40 суток, в то время как аналог, при наличии в рецептуре консерванта, может храниться не более 30 суток. Предложенная технология позволяет получить гелеобразные напитки на молочной сыворотке, которые имеют более высокие органолептические показатели и сроки хранения по сравнению с аналогом, а также содержат функциональные ингредиенты (флавоноиды, ксантоны, витамин С).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://fptt-journal.ru/stories/archive/39/15.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Food Processing: Techniques and Technology</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2074-9414</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

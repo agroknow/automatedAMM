@@ -1,0 +1,26 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016017398">
+    <dc:title xml:lang="ln">Comprehensive Assessment of the Strength Characteristics of a Floating Roundwood Bundle</dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Due to the significant increase of the ecological safety requirements in timber floating, elim-ination of wood losses during the transportation by water, the importance of a correct evalu-ation of the strength characteristics of the timber-rafting units and their primary elements – roundwood bundles and logging bundles, is of prime concern. The relevance of the topic is due to the emergence of the new promising timber-rafting units – packaged bundles. Their strength assessment is impossible without a thorough approach to this issue. The relevant information available in the publications demonstrates that the proposed formulas are main-ly empirical and do not sufficiently reflect the physical nature of the phenomena. The empir-ical formulae disclose the dependence of the particular strength characteristics on the deter-mining factors, but do not provide a coherent view. The results of calculations by the vari-ous formulas are sometimes significantly different. The criteria of the strength characteris-tics of a log bundle need to be revised. The author has used a theoretical research method with a partial verification of derived experimental dependencies and provisions on the part of the existing material of experimental origin, which is the most reliable. As a result of the research, the theoretical foundation of the strength characteristics of a floating roundwood bundle is developed. The analytic dependences for the tension determination in the upper and lower branches of binding are obtained. The new concepts of transverse and longitudi-nal strength of a floating bundle are introduced, which determine the strength of a bundle as a whole. An integrated criterion and an analytical formula for the longitudinal strength as-sessing of a floating bundle are provided. We present the recommendations on its practical application. The results should be applied in the selection of the roundwood bundles bind-ing, and determination of the geometric parameters of the float units to ensure the adequate strength characteristics. These materials are the basis for the development of an approach to the estimation of the strength characteristics of the new float units – the packaged bundles.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://lesnoizhurnal.narfu.ru/issuesarchive/?ELEMENT_ID=244107</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ln</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Lesnoy Zhurnal (Forestry journal)</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0536-1036</ags:citationIdentifier>
+      <ags:citationNumber>v.2016/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

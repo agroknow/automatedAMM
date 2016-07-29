@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017773">
+    <dc:title xml:lang="en">Impact of pre-sowing treatment of seeds by EHF (extremely-high frequencies) on infestation of plants by diseases and winter wheat productivity</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние предпосевной обработки семян КВЧ на пораженность растений болезнями и урожайность озимой пшеницы</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Garifullina L.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Talanov Ivan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Karimova Liliya</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">infestation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mycoses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oidium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rusts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3855</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5024</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5327</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6710</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Experiments were done in 2013-2015 on grey forest medium-loamy soil in the Republic of Tatarstan. Humus content in layer of 0-25 cm is 3.6%, pH (saline) - 5.9. Total plot area is 70 m2, discount area is 50 m2. Replication is threefold, sequential plots’ occupancy. Experiment scheme: Factor A – Pre-sowing seeds treatment: 1. Without treatment. 2. “Vial Trast” protectant (2 kg/t). 3. Rizoplan (l l/t). 4. Plant growth stimulant (Tsirkon 10 ml/t). 5. Extremely-high frequency electromagnetic field (EHF) impact- 15 min. 6. EHF - 15 min + “Vial Trast” (2 kg/t). 7. EHF - 15 min + Rizoplanl l/t. 8. EHF - 15 min + Tsircon 10 ml/t. 9. EHF - 15 min + “Vial Trast” 2 kg/t + Tsircon 10 ml/t. Factor B – Nutrition backgrounds: 1. Without fertilizers. 2. NPK, aimed to get 4.0 t of grain from 1 hectare. Research object was winter wheat (Kazanskaya 560 variety) with seeding rate of 5.5 million units/hectare. Mineral fertilizers are calculated by balance method, according to soil analysis results and removal factors and nutrients, used from soil and fertilizers. The most significant reduction of pathogenic start on the seeds was noted in the 9th variant, i.e. when co-treated with EHF, protectant and growth stimulant. Seeds prevalence reducing compared to sample without seed treatment was: Bipolaris sorokiniana – 11.9 times, Fusarium spp. - 12.8 times, Alternaria spp. - 7.5 times, and seeds molding by 5.2 times. The minimum infection of plants by phytopathogene, compared to control sample, was also noted in the 9th variant: the spread of root rot in wax ripeness phase decreased by13%, the spread of leafy mycosis by 9%. The use of EHF, protectant and plant growth stimulant increased the winter wheat productivity by 0.46 and 0.48 t/hectare with yield in control being 1.79 t/hectare without fertilizers and 3.10 t/hectare with NPK. The application of the estimated doses of NPK under the planned yield of 4.0 t/hectare increased the grain yield by 1.31-1.37 t/hectare.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Исследования проведены в 2013-2015 гг. на серой лесной почве среднесуглинистого гранулометрического состава Республики Татарстан. Содержание гумуса в слое – 0-25 см 3,6%, рН (солевая) – 5,9. Общая площадь делянки – 70 м2, учетная – 50 м2. Повторность – трехкратная, размещение делянок последовательное. Схема опыта:Фактор А – Предпосевная обработка семян: 1. Без обработки.2. Протравитель Виал Траст (2 кг/т). 3. Ризоплан 1 л/т. 4. Стимулятор роста (Циркон 10 мл/т). 5. Воздействие крайне высокочастотным электромагнитным полем (КВЧ) – 15 мин. 6. КВЧ – 15 мин + Виал Траст (2 кг/т). 7. КВЧ – 15 мин + Ризоплан 1 л/т. 8. КВЧ – 15 мин + Циркон 10 мл/т. 9. КВЧ – 15 мин + Виал Траст 2,0 кг/т + циркон 10 мл/т.Фактор В – Фоны питания: 1. Без удобрений. 2. NРК расчетно на получение 4,0 т зерна с 1 га. Объектом исследований являлась озимая пшеница (сорт Казанская 560) с нормой высева 5,5 млн шт./га. Минеральные удобрения рассчитывали балансовым методом, согласно результатам анализа почвы и коэффициентам выноса и использования питательных веществ из почвы и удобрений. Наиболее существенное снижение патогенного начала на семенах отмечалось в варианте 9, т.е. при совместной обработке КВЧ, протравителем и регулятором роста. Снижение пораженности семян по сравнению с вариантом без обработки семян составили: Bipolaris sorokiniana – 11,9 раз, Fusarium spp. – в 12,8 раза, Alternaria spp. – 7,5 раза и плесневение семян в 5,2 раза. Минимальная пораженность растений фитопатогенами по сравнению с контролем отмечалось также в варианте 9: распространение корневыми гнилями в фазе восковой спелости снизилось на 13%, листостебельными микозами – на 9%. Совместное применение КВЧ, протравителя и стимулятора роста увеличило урожайность зерна озимой пшеницы на 0,46 и 0,48 т/га при урожайности в контроле 1,79 т/га без удобрений и 3,10 т/га на фоне NPK. Внесение расчетных доз NРК под планируемую урожайность4,0 т/га повысило урожайность зерна на 1,31-1,37 т/га.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik-kazgau.com/images/archive/2015/4/12_garifullina.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Kazan State Agrarian University</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2073-0462</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

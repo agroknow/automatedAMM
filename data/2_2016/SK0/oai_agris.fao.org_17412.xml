@@ -1,0 +1,60 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017412">
+    <dc:title xml:lang="en">Honey characteristics after extraction and half-year storage</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kňazovická Vladimíra</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bačiková Anna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bányiová Regina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tkáčová Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Čanigová Margita</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Haščík Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Honey</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">storage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3652</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7427</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the study was to analyze the fresh honey after extracting and after half-year storage at room temperature. Overall, we analyzed 10 samples of rape (Brassica napus) honey coming from district Vranov nad Toplou located in the eastern Slovakia. The analysis consisted of the evaluation of the physico-chemical parameters (water content, free acidity and electrical conductivity) and microbiological evaluation (total plate count (TPC), counts of coliform bacteria, lactic acid bacteria, sporulating microorganisms and microscopic fungi). Water content, free acidity and electrical conductivity were measured according to IHC (2009), namely these parameters were detected by refractometer, titration and conductometer, respectively. We used dilution plating method for microbiological analysis. Fresh rape honey contained 18.3 ±1.0% of water. Free acidity of fresh rape honey was 12.7 ±2.0 meq.kg and electrical conductivity was 0.14 mS.cm. After half a year of storage, water content and electrical conductivity decreased nonsignificantly and free acidity increased nonsignificantly. Stored honey samples meet the requirements of Decree 41/2012 and 106/2012. From microbiological point of view, fresh rape honey showed relatively high microbial counts. Mean values of TPC, sporulating microorganisms, lactic acid bacteria and yeasts exceeded 2.00 log cfu/g. All spotted microbial groups decreased in the stored honey comparing with the fresh honey. We found significant (p ˂0.01) differences of TPC, lactic acid bacteria and yeasts comparing the fresh and stored honey samples. Evaluating microbiological parameters, one sample of stored honey did not meet the requirements of Codex Alimentarius SR (2014). TPC exceeded the limit value. Based on the results we can conclude that all samples meet the requirements for good quality honey. Microbial counts in the honey decreased gradually. Probably, various microorganisms have important role in creation of the honey from the nectar of plants, but non-sporulating microorganisms die in the ripe honey.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/560/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

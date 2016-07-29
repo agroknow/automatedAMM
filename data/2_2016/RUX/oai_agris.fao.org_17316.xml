@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17316">
+    <dc:title xml:lang="en">MORPHOLOGICAL COMPOSITION OF CARP CARCASSES WITH SORBING PRE-PROBIOTIC ADDITIVES USED IN THE DIET</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>МОРФОЛОГИЧЕСКИЙ СОСТАВ ТУШЕК КАРПА ПРИ ИСПОЛЬЗОВАНИИ В РАЦИОНЕ СОРБИРУЮЩЕЙ ПРЕ-ПРОБИОТИЧЕСКОЙ ДОБАВКИ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ulitko Vasily E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ulyanova Mariya V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L52</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carp</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">compound feeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal tissues</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1334</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1796</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27963</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article describes the results of an experiment on the effect of feeding carp by granulated combined feed enriched with «Biocoretron forte»bioadditive on morphological composition of its carcasses. Scientific and economic experiment was conducted in 	LLC «Rybkhoz» in Ulyanovsk district of Ulyanovsk region. There were formed 4 groups of similar carp that were placed in different isolated ponds with 250 specimens in each. Carps of experimental groups were fed by pelleted feed enriched in % to mass: in II – 0,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">III – 1</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">IV – 2. Carp of the control group consumed the same pelleted feed that wasn’t enriched by bioadditive. The results of control slaughter of carp reassure that inclusion combined feed enriched with «Biocoretron forte» bioadditive in its diet in a dose of 0,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1 and 2% of its mass has a positive influence on parameters of morphological composition of body.With the increase of «Biocoretron forte» bioadditive in combined feed composition the yield of edible parts of carp increases from 57,90% in control group to 59,06 in II, 59,90 in III and 61,35% in IV experimental groups. Carp of  II, III and IV experimental groups was characterized by bigger absolute weight by 13,21-22,74-67,85 grams and relative weight by 1,16-2,00-3,45% of edible parts against the carp of control group that was not receiving bioadditive  in composition of combined feed. As a result, absolute and relative weight of edible part of carp of control group was significantly less. Therefore, carp of experimental groups had more intensive gain of carcass weight at the expense of edible parts of the body.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">В статье описываются результаты опыта о влиянии скармливания карпу гранулированного комбикорма обогащенного биодобавкой «Биокоретрон Форте» на его морфологический состав тушек. Научно-хозяйственный опыт проводили в ООО «Рыбхоз» Ульяновского района Ульяновской области. Было сформировано 4 аналогичные группы карпа размещенных в различных изолированных прудах по 250 особей в каждой. Карпу опытных групп скармливали  гранулированный комбикорм, обогащенный в % к его массе: во II – 0,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">III – 1</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">IV – 2. Карп контрольной группы потреблял такой же гранулированный комбикорм, но без обогащения его биодобавкой. Результаты контрольного убоя карпа, убеждают, что включение в его рацион комбикорма обогащенного кормовой биодобавкой «Биокоретрон Форте» в дозе 0,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1 и 2% от его массы, оказывает положительное влияние на показатели его морфологического состава тела. При этом с увеличением в составе комбикорма добавки «Биокоретрон-Форте», выход съедобных частей карпа возрастает с 57,90% в контрольной группе до  59,06 во II, 59,90 в III и 61,35% в IV опытных группах. Карп  II, III и IV  опытных групп, характеризовался большей абсолютной на 13,21-22, 74-67,85 г и относительной на 1,16-2,00-3,45% массой съедобных частей, против карпа  контрольной группы, не получавшей в составе комбикорма  кормовой биодобавки. В результате чего абсолютная и относительная масса съедобной части карпа контрольной группы была достоверно меньше. Следовательно, у карпа опытных групп происходило более интенсивное нарастание массы туши за счет съедобных частей тела.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/1-16-ulitko.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

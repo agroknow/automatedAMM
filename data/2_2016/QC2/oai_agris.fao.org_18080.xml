@@ -1,0 +1,78 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="QC2016218080">
+    <dc:title xml:lang="en">Landscape changes in Skopje Valley [Thesis (M.Sc.)]</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Eftimovska Aleksandra</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Mediterranean Agronomic Institute of Chania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Chania (Greece)</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land cover change</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land cover mapping</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Geographical information systems</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">urban areas</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anthropogenic factors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">landscaping</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Former Yugoslav Republic of Macedonia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9000093</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9000094</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35131</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8085</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34996</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4186</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35697</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Bibliography: p. 76-78 ; ill.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The main discussion is focused on the importance of land cover and the utility of the land in order to describe the landscapes and their functions. The first section discusses the characteristics of the Skopje region and the characteristic elements contained in it, the natural conditions and the functionality. Since this topic was made at the institutional level in terms of the development plan of the region, the emphasis of this thesis is through foreseeing the positive and negative influences of man upon the development of the natural elements and the formation of the landscape and their character. The focus is on the Land Cover and the Land Use as indicators of the current state of the landscape through changes in the valley. The CORINE Land Cover map will be used for analysis on land cover/land utility</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">by that, the areas will be identified and described. In this document, the regions are divided into four major sections or areas, called anthropogenic or cultural landscapes, landscapes with many changes, landscapes with few changes or natural areas and unchanged landscapes. The partition is made upon human activities and changes that were influenced by man. Later, the components of the areas, or the little units called types of landscapes, are described. By processing these parameters and the renewed CORINE Land Use Map of 2006 the character and changes in the entire valley are analyzed.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://docs.maich.gr/thesis/T000891</dc:identifier>
+    <dc:type>Other</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <agls:availability>
+      <ags:availabilityLocation>T000891</ags:availabilityLocation>
+      <ags:availabilityNumber>891/FO/EF</ags:availabilityNumber>
+    </agls:availability>
+  </ags:resource>
+</ags:resources>

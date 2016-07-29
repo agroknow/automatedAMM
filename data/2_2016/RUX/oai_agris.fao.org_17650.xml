@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17650">
+    <dc:title xml:lang="en">THE APPLICATION OF BIOMINERAL FERTILIZERS AND BIOPREPARATIONS IN RESOURCE-SAVING TECHNOLOGIES OF CULTIVATION OF WINTER WHEAT IN THE FOREST-STEPPE VOLGA REGION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ПРИМЕНЕНИЕ БИОМИНЕРАЛЬНЫХ УДОБРЕНИЙ И БИОПРЕПАРАТОВ В РЕСУРСОСБЕРЕГАЮЩИХ ТЕХНОЛОГИЯХ ВЫРАЩИВАНИЯ ОЗИМОЙ ПШЕНИЦЫ ЛЕСОСТЕПИ ПОВОЛЖЬЯ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zakharov Sergey A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk research Institute of agriculture</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Winter wheat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">inorganic fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Forest steppe</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant condition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8412</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27870</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3053</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25398</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables, 8 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Determining the necessary application rate for agricultural crops is the first proper application of fertilizers. The chosen dose of fertilizer is made based on srednekontraktnyh doses under grain crops in the conditions of the Ulyanovsk region. In the experiment, four nitrogen nutrition background (background 1– without fertilizer, background the 2 – NH4NO3, background 3 – NH4NO3m and background 4 – ½ NH4NO3m) – these four backgrounds superimposed eight variants: 1 - control, 2 - N15P15K15, 3 - N15P15K15m processing of granules of mineral fertilizers with the biopreparation Bisolbifit 4 kg per 1 ton of fertilizer, 4 - ½ N7,5P7,5K7,5 m – processing of pellets of mineral fertilizers with the biopreparation Bisolbifit 4 kg per 1 ton of fertilizer 5 - Bisolbifit – presowing treatment + foliar fertilizer – 1 liter/ton (ha), 6 - N15P15K15 + Bisolbifit – presowing treatment + foliar fertilizer – 1 liter/ton (ha), 7 - NH4NO3m – 40 kg etc + Bisolbifit 4 kg per 1 ton of fertilizer, 8 - ½ NH4NO3m – 20 kg etc + Bisolbifit 4 kg per 1 ton of fertilizer. N15P15K15 and NH4NO3 are made simultaneously with the sowing of crops. Make a combined fertilizer with the same NPK content. Organization of field experiments, observations, laboratory tests were carried out by conventional methods and the relevant state Standards. These results were subject to mathematical processing methods of variance analysis.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В работе проведен анализ сравнительной эффективности минеральных и биоминеральных удобрений при комплексном их применении на формирование урожая озимой пшеницы. Изучены действия минеральных и биоминеральных удобрений на формирование и состояние посевов, урожайность и качество зерна зерновых культур. Определение необходимой нормы внесения под сельскохозяйственные культуры является первым условием правильного применения удобрений. Выбранные нами дозы удобрений приняты исходя из среднерекомендованных доз под зерновые культуры в условиях Ульяновской области. В опыте четыре фона азотного питания (фон 1– без удобрений, фон 2 – NH4NO3, фон 3 – NH4NO3m и фон 4 – ½ NH4NO3m) – на эти четыре фона наложены восемь вариантов: 1 - контроль, 2 - N15P15K15, 3- N15P15K15m обработка гранул минеральных удобрений биопрепаратом Бисолбифит 4 кг на 1 т удобрений, 4 - ½ N7,5P7,5K7,5 m – обработка гранул минеральных удобрений биопрепаратом Бисолбифит 4 кг на 1 т удобрений, 5 - Бисолбифит – предпосевная обработка + некорневая подкормка – 1 л/т (га), 6 - N15P15K15 + Бисолбифит – предпосевная обработка + некорневая подкормка – 1 л/т (га), 7 - NH4NO3m – 40 кг д.в + Бисолбифит 4 кг на 1 т удобрений, 8 - ½ NH4NO3m – 20 кг д.в + Бисолбифит 4 кг на 1 т удобрений. N15P15K15 и NH4NO3 вносятся одновременно с севом сельскохозяйственных культур. Вносят комбинированные удобрения с одинаковым содержанием NPK. Организация полевых опытов, проведение наблюдений, лабораторных анализов осуществлялись по общепринятым методикам и соответствующим ГОСТам. Данные результатов подвергались математической обработке методам дисперсионного анализа.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/4-15-ZakharovS.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.4(32)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

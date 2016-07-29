@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016117471">
+    <dc:title xml:lang="en">The Search for the Enterobacteriaceae in Yogurt Produced at Industrial Production</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MAÇI ALKINEDA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ÇABELI PRANVERA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>ÇOÇOLI SONILA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MEMOÇI HALIT</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Department of Food Microbiology, Food Safety and Veterinary Institute (FSVI), Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate />
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Enterobacteriaceae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">yogurt</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hygiene</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2580</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15463</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3739</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Yogurt s one of the best products of milk. It is easy and digestible for the body human. Microbiological quality
+of milk and other dairy products is influenced by the initial flora of untreated milk, processing conditions, and
+pollution from its treatment after thermal processing. Production moden yogurt, the milk main fallout, usually
+requires special attention to its quality of receipt, processing up to the benefit of the final product. Attention is
+usually from air pollution during the process of fermentation and packaging stage. Bacteriological analysis are
+critical for assessing the quality and safety of yogurt produced industrially. One of the polluters of this product
+are Enterobacteriaceae, therefore the aim of this study is the identification of these microorganisms in yogurt
+samples taken in Tirana market conditions. Total of 240 samples were tested yogurt of four different companies
+during the period December 2013 - September 2014. The samples were spontaneous market from Tirana city
+and their analysis was near Food Safety and Veterinary Institute (FSVI). Testing was conducted using the
+standard method ISO 21528-2: 2004. From the analysis of 240 samples (four companies), 83 of them resulted
+positive for the presence of Enterobacteriaceae, which were counted &gt; 300 colonies. All cases positive were
+analyzed again for the presence of Escherichia coli (E. Coli) and using by standart technique ISO 7251-2005.
+These samples resulted negative for presence E. coli.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_1_2016-1/7_ALKINEDA%20MACI%20pp%2038-40.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.15/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17654">
+    <dc:title xml:lang="en">MORPHOLOGICAL AND BIOCHEMICAL STATUS OF BLOOD OF HIGHLY PRODUCTIVE COWS WITH THE USAGE OF FEED ADDITIVES OMEGA–3 ACTIVE AND POLISOL OMEGA 3 IN THE DIET</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>МОРФО-БИОХИМИЧЕСКИЙ СТАТУС КРОВИ ВЫСОКОПРОДУКТИВНЫХ КОРОВ ПРИ ИСПОЛЬЗОВАНИИ В РАЦИОНЕ КОРМОВЫХ ДОБАВОК ОМЕГА–3 АКТИВ И ПОЛИСОЛ ОМЕГА 3</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Desyatov Оlеg А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pykhtina Lidiya А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Chernyshkova Еvdokiya V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fatty acids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Metabolism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1939</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2818</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_959</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4769</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6461</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Scientific and economic experiment was conducted on cows of black-motley breed in the conditions of the dairy complex APC named after N.K. Krupskaya of Melekessky district of Ulyanovsk region. We studied the effect of feeding feed additives biologically active omega – 3 Active and Polisol omega-3 in the amount of 4 and 14 g/head / day, respectively, on the performance of the morpho-biochemical status of blood. It is established that polyunsaturated fatty acids (PUFA) contained in their composition, possessing high biological activity, contribute to the intensification of metabolic processes in the period of their lactation, which is manifested in the increasing resistance of the organism and their level of occurrence of protein metabolism in them, by increasing the functional activity of the liver. In the blood of cows significantly increases the content of leukocytes (by 11,83 and 21,17%), erythrocytes (by 2,94 and 5,36%), hemoglobin, total protein concentration (by 5,16% and 7,21%), mainly due to the albumin fraction, the activity of transamination enzymes ASAT and Alat (by 6,64 and 9.39% and by 15,38%...18,29%). Evaluation of changes in biochemical parameters characterizing the functional activity of the liver and kidneys, shows that the concentration of urea and creatinine in the blood of cows increase in comparison with control, respectively (by 7,04 and 10,55% (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В ходе проведенного на коровах черно-пестрой породы в условиях молочного комплекса СПК им. Н.К. Крупской Мелекесского района Ульяновской области научно-хозяйственного опыта по изучению влияния скармливания в составе их рационов биологически активных кормовых добавок Омега – 3 Актив и Полисол Омега-3 в количестве 4 и 14 г/голову в сутки соответственно, на показатели морфо-биохимического статуса крови, установлено, что, содержащиеся в их составе полиненасыщенные жирные кислоты (ПНЖК), обладая высокой биологической активностью, способствуют интенсификация метаболических процессов в период их лактации, что проявляется в повышении резистентности их организма и уровне протекания у них белкового обмена, за счет усиления функциональной активности их печени. В крови коров достоверно увеличивается содержание лейкоцитов (на 11,83 и 21,17%), эритроцитов (на 2,94 и 5,36%), гемоглобина, концентрации общего белка (на 5,16% и 7,21%), в основном за счет фракции альбуминов, активность ферментов переаминирования АсАТ и АлАТ (на 6,64 и 9,39% и на 15,38%...18,29%). Оценка изменений биохимических показателей, характеризующих функциональную деятельности печени и почек, показывает, что концентрация в крови коров мочевины и креатинина увеличивается по сравнению с контролем соответственно (на 7,04 и 10,55% (Р</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/4-15-Desyatov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.4(32)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

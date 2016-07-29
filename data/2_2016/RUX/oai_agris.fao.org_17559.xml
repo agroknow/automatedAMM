@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17559">
+    <dc:title xml:lang="en">THEORETICAL UNDERPINNING OF FLAT DISK DIAMETER OF RIDGER-SEEDER’S WORKING BODY</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ТЕОРЕТИЧЕСКОЕ ОБОСНОВАНИЕ ДИАМЕТРА ПЛОСКОГО ДИСКА РАБОЧЕГО ОРГАНА ГРЕБНЕВОЙ СЕЯЛКИ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kurdyumov V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zykin Еvgeny S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sharonov I.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mechanization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7644</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1972</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7156</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4685</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Analyzed traditional methods of field pre-sowing treatment and ridged cultivation of tilled crops allowed to conclude that soil ridges during sowing are formed by various means of mechanization with active and passive working bodies, flat discs particularly. However, problem of qualitative soil ridges formation by flat disk is solved insufficiently, so it is necessary to validate optimal design and regime parameters of ridger-seeder, equipped with new working bodies. Method of tilled crop sowing and ridger-seeder for its implementation was developed, use of which allows to perform pre-sowing cultivation, sowing seeds in moist soil on compacted bed, to form soil mound of required sizes over seeds, to roll down soil mound on three sides and finally form soil ridge of required size and density in it just in one pass. Optimum diameter of flat disk of ridger-seeder’s working body was theoretically justified on the basis of its reliable rotation in soil with minimal gliding and rolling resistance, and also cutting soil lumps, weeds and soil shear from aisles to sown seeds. It was revealed that optimum diameter of flat disk depends on running depth h of working body, its angle of attack  and physico-mechanical properties of soil.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проанализированные традиционные способы предпосевной подготовки поля и гребневого возделывания пропашных культур позволили заключить, что гребни почвы при посеве формируют различными средствами механизации с активными и пассивными рабочими органами, в частности, плоскими дисками. Однако задача качественного формирования гребней почвы плоскими дисками решена недостаточно, поэтому необходимо обосновать оптимальные конструктивные и режимные параметры гребневой сеялки, оснащенной новыми рабочими органами. Разработан способ посева пропашных культур и гребневая сеялка для его осуществления, применение которого позволяет за один проход выполнить предпосевную культивацию, высев семян во влажный слой почвы на уплотненное ложе, сформировать над семенами бугорок почвы требуемых размеров, прикатывание бугорка почвы с трех сторон и окончательно сформировать гребень почвы требуемых размеров и плотности в нем. Теоретически обоснован оптимальный диаметр плоского диска рабочего органа гребневой сеялки из условий его надежного вращения в почве с минимальным скольжением и сопротивлением качению, а также разрезания комков почвы, сорных растений и сдвига почвы из междурядий на высеянные семена. Выявлено, что оптимальный диаметр плоского диска зависит от глубины хода h рабочего органа, угла его атаки  и физико-механических свойств почвы.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/1-16-kurdyumov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

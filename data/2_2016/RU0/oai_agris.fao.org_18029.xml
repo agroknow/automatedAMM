@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018029">
+    <dc:title xml:lang="en">Complex land reclamation impact on physical and chemical properties of chernozem solonetz</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние комплексной мелиорации на физико-химические свойства солонцов черноземных</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Balakay G.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dokuchayeva L.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Yurkova R.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shalashova O.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P36</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Solonetz</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land improvement</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Gypsum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ploughing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">alkalinity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7232</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28717</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3453</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6021</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8721</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the research is to investigate the impact of complex land reclamation including chemical reclamation, manure applying, and ameliorative tillage on physical and chemical properties of chernozem solonetz. The study was carried out in the Rostov region at two backgrounds: 1 – ameliorative tillage by three-tier plow: 2 – ameliorative tillage by plow-milling tool. On the base of own investigations and analysis of science publications it is shown that chernozem solonetz consisting the complex with southern chernozem from 30 to 75% needs the special reclamation considering the environment of zonal soils. Soil samples for the research were collected before reclamation and 4 years later. Data analysis obtained during the study of different variants of complex land reclamation (chemical reclamation + applying of organic fertilizers + ameliorative tillage) has shown its impact on plow and subsurface soil layers, as well as on the fertility improvement of the whole reclaimed layer. The following combinations of phosphogypsum (PG) and manure (M) are the most effective by reclamation impact: 10 t/ha PG + 20 t/ha M and 10 t/ha PG + 40 t/ha M, followed by ameliorative tillage by plow-milling tool. In these variants to the 4th year of after-action sodicity in soil layer 0–40 cm decreased by 70 and 65% respectively, and exchangeable sodium percentage reached 8–9% from the sum of exchangeable cations that is almost fit to the values of zonal soil (6–7%). Simultaneously in solonetz the alkalinity vanished and sodium persistence increased to the medium level (35 meq/100 g of soil), which was less than 10 meq/100 g of soil before the land reclamation. The leaching of toxic salts at applying of 10 t/ha PG + 40 t/ha M reaches 53–62%. While at the background of plow-milling tillage the salt leaching was higher by 15–35% comparing to the three-tier plowing.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Цель исследования – изучить влияние комплексной мелиорации, включающей химическую мелиорацию, внесение навоза и мелиоративные вспашки, на физико-химические свойства солонцов черноземных. Исследования проводились в Ростовской области на двух фонах: фон 1 – мелиоративная вспашка трехъярусным плугом (ПТН-3-40)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">фон 2 – мелиоративная вспашка плужно-фрезерным орудием (ПТН-2-40Ф). На основе собственных исследований и анализа научной литературы показано, что солонцы черноземные, составляющие комплекс с южными черноземами от 30 до 75%, нуждаются в особой мелиорации с учетом окружающих зональных почв. Образцы почв для исследования отбирали перед мелиорацией и через 4 года после. Анализ данных, полученных при изучении различных вариантов комплексной мелиорации (химическая мелиорация + внесение органических удобрений + мелиоративная вспашка), показал ее воздействие на пахотный и подпахотный слои и повышение плодородия всего мелиорируемого слоя. Самыми эффективными по мелиорирующему воздействию являются следующие сочетания фосфогипса (Ф) и навоза (Н): 10 т/га Ф + 20 т/га Н и 10 т/га Ф + 40 т/га Н, с последующим проведением мелиоративной вспашки плужно-фрезерным орудием (фон 2). Солонцеватость в слое почв 0–40 см в этих вариантах снизилась к 4-му году последействия соответственно на 70 и 65% и достигла 8–9% обменного натрия от суммы обменных катионов, то есть почти приблизилась к значениям, характерным для зональной почвы (6–7%). Одновременно в солонцах исчезла щелочность и до среднего уровня (35 мг-экв./100 г почвы) возросла содоустойчивость почвы, которая до мелиорации составляла менее 10 мг-экв./100 г. Вынос токсичных солей при внесении 10 т/га Ф + 40 т/га Н достиг 53–62%. При этом на фоне плужно-фрезерной вспашки соли вымывались лучше на 15–35% по сравнению с трехъярусной вспашкой.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.rosniipm-sm.ru/dl_files/udb_files/udb13-rec369-field6.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Scientific Journal of Russian Research Institute of Land Improvement Problems</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2222-1816</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17660">
+    <dc:title xml:lang="en">THE THEORETICAL JUSTIFICATION FOR REDUCED WEAR DETAILS OF THE PAIR &amp;quot;PISTON GROOVE PISTON RING&amp;quot;</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ТЕОРЕТИЧЕСКОЕ ОБОСНОВАНИЕ СНИЖЕНИЯ ИЗНОСА ДЕТАЛЕЙ СОПРЯЖЕНИЯ «ПОРШНЕВАЯ КАНАВКА - ПОРШНЕВОЕ КОЛЬЦО»</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Maryin Dmitriy M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khokhlov Alexey L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Glushchenko Аndrey А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farm equipment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">technical properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">wear</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">friction</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25753</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2572</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24914</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33494</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In accordance with the second rule of the classical theory of friction based on a minimum implementation of the contactee's body in mating surface, to reduce wear of the pair "piston groove piston ring" is proposed to increase the microhardness of the friction surface of the piston grooves of the piston internal combustion engine formation on its surface oxidized layer by the method of microarc oxidation. To establish the dependence of the microhardness of wear of the oxidized layer performed the calculation of the values of microhardness of oxidized layer piston grooves НV1 = 1100-1700 MPa with interval of 100 MPa, the microhardness of the piston ring НV2 = 1100 MPa, the details of the pair – 400 hours. After the calculations revealed that in order to reduce wear of the pistons the micro hardness of oxidized surface layer friction piston grooves should be between 1250-1350 MPa. In this case, the wear of the piston grooves of the piston oxidized during the calculation period detail work mate 400 x 5.7 µm, which is 1.6 times lower than that of the piston grooves of the piston model (9.5 microns). The wear of the piston ring in oxidised piston 25.8 μm, which is 1.1 times higher than that of the piston model piston ring (23,6 µm). General wear and tear mate "piston groove piston ring is a" reduced and is 31.5 μm, while a typical pairing, the wear amounts of 33.1 µm.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В соответствии со вторым правилом классической теории процесса трения, основанном на минимальном внедрении контактируемого тела в сопряженную поверхность, для снижения износа деталей сопряжения «поршневая канавка – поршневое кольцо» предлагается повысить микротвердость трущейся поверхности поршневой канавки поршня двигателя внутреннего сгорания формированием на ее поверхности оксидированного слоя методом микродугового оксидирования. Для установления зависимости износа от микротвердости оксидированного слоя выполнен расчет при значениях микротвердости оксидированного слоя поршневой канавки НV1 = 1100-1700 МПа, с интервалом в 100 МПа, микротвердости поршневого кольца НV2 = 1100 МПа, время работы деталей сопряжения – 400 ч. После проведенных расчетов установлено, что для снижения износа поршней микротвердость оксидированного слоя поверхности трения поршневой канавки должна быть в пределах 1250-1350 МПа. При этом износ поршневой канавки оксидированного поршня за расчетный период работы деталей сопряжения 400 ч составил 5,7 мкм, что в 1,6 раза ниже, чем у поршневой канавки типового поршня (9,5 мкм). Износ поршневого кольца у оксидированного поршня составил 25,8 мкм, что в 1,1 раза выше, чем у поршневого кольца типового поршня (23,6 мкм). Общий износ деталей сопряжения «поршневая канавка – поршневое кольцо» снижается и составляет 31,5 мкм, в то время как у типового сопряжения износ деталей составляет 33,1 мкм.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/4-15-MaryinD.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.4(32)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

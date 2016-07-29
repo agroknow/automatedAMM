@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016317705">
+    <dc:title xml:lang="en">FACTOR ANALYSIS METHOD OF CHINESE PROVINCES POPULATION LIFE QUALITY EVALUATION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>МЕТОД ФАКТОРНОГО АНАЛИЗА ДЛЯ ОЦЕНКИ КАЧЕСТВА ЖИЗНИ НАСЕЛЕНИЯ КИТАЙСКИХ ПРОВИНЦИЙ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Xiang Xiao Gang</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-08</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E14</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">factor analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Developing countries</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">living standards</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10728</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1327909531065</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2222</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the article the statistical multifactor analysis method application is substantiated and the indicator system for the China different provinces population life quality evaluation is determined. The experimental calculations are carried out on the basis of the PRC’s 31 regions national statistical data for the period of 2013. Comparative analysis shows that there are the obvious regional differences in the quality of life of Central, Eastern and Western provinces population. The Municipalities Index calculated and its local components can be used in region ran king and in social and economic policy direct ions justification.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье обосновано применение метода статистического многофакторного анализа и определена система индикаторов для оценки качества жизни населения в различных провинциях Китая. Экспериментальные расчеты выполнены на основе национальных статистических данных КНР по 31 региону за 2013 год. Сравнительный анализ показывает, что есть очевидные региональные различия в качестве жизни населения Центральных, Восточных и Западных провинций. Рассчитанный Индекс Муниципалитетов и его локальные компоненты могут быть использованы для ранжирования регионов и обоснования направлений социально-экономической политики</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://www.isuct.ru/e-publ/snt/sites/ru.e-publ.snt/files/2015/03/snt_2015_n03-142.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Современные наукоемкие технологии. Региональное приложение</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2413-5399</ags:citationIdentifier>
+      <ags:citationNumber>v.2015/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

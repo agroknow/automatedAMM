@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017064">
+    <dc:title xml:lang="en">Drying modes for edible food packing wrap</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Разработка режимов сушки пищевой съедобной упаковочной пленки</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Nugmanov A.Kh-Kh.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nikulina M.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q80</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">foods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">EDIBLE FILMS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biodegradability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">polymers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">drying</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3032</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35014</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28259</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32041</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2402</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The technology of drying water-soluble biodegradable food packaging films for a wide range of frozen and refrigerated semi-finished products and ready for use products as an alternative to traditional plastic packaging was developed. A new combined drying method to pllenochnym materials based on sodium alginate and carried out by infrared drying and vacuuming have been suggested. The drying kinetics was experimentally studied with experimental drying installation. Multifactorial experiments were carried out at varying levels of such factors as the initial solids content, the height of the material layer to be dried, the degree of vacuum in the drying chamber, the incident radiation flux density, the wavelength in the infrared spectrum of the generator. The statistical mathematical model of dependence of a specific dry product output on regime parameters of drying installation has been developed as a result. Mentioned model allows to plan the drying results of the object tested depending on the initial parameters of the material and the dryer. It allows reducing the time of processing by 20% while keeping the material quality. The drying process modes are developed, approved and evidence-based: vacuum depth - 720–730 Torr, the reference temperature of the dried product - 25–30 deg C</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">layer height - less than 2 mm, density of the thermal stream - less than 2.3 kW/sq.m. It is expedient to keep the content of solids in the dried solution in the range of 40-50%. A specific dry material output in optimum conditions reaches 24 kg/(m2*h).</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Разрабатывали технологию сушки инновационной биоразлагаемой водорастворимой упаковочной пищевой пленки для широкого ассортимента замороженных и охлажденных полуфабрикатов и продуктов, готовых к употреблению. Предложен комбинированный способ сушки, ранее не применявшейся к пленочным материалам на основе альгината натрия: с использованием инфракрасной сушки и вакуумирования. Кинетику сушки изучали экспериментально на опытной сушильной установке. Проведены многофакторные исследования при различных уровнях варьирования начального содержания сухих веществ, высоты слоя высушиваемого материала, глубины вакуума в сушильной камере, плотности радиационного падающего потока, длины волны излучения в спектре инфракрасного генератора. В результате была разработана статистическая математическая модель зависимости удельного выхода сухого продукта от режимных параметров сушильной установки. Указанная модель позволяет планировать результаты сушки исследуемого объекта в зависимости от исходных данных используемого материала и характеристик сушильного аппарата. Это на 20% сокращает время на обработку материала при сохранении его качественных характеристик. Разработаны, апробированы и научно обоснованы режимы процесса сушки: глубина вакуума 720–730 Торр, начальная температура высушиваемого продукта 25–30 град C</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">высоте слоя менее 2 мм, плотность теплового потока менее 2,3 кВт/м кв. Содержание сухих веществ в высушиваемом растворе целесообразно поддерживать в интервале 40-50%. Удельный выход сухого материала в оптимальных условиях достигает 24 кг/(м2*ч).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://processes.ihbt.ifmo.ru/file/article/15304.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Scientific journal NRU ITMO Series &amp;quot;Processes and Food Production Equipment&amp;quot;</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2310-1164</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

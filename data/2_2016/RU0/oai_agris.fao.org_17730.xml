@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017730">
+    <dc:title xml:lang="en">Influence of biologically active substances of bur-marigold (Bidens tripartita L.) on some immunophysiological and microbiological parameters of one-year carp</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние биологически активных веществ череды (Bidens tripartita L.) на некоторые иммунофизиологические и микробиологические показатели состояния годовиков карпа</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kurapova T.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kazimirchenko O.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carp</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bidens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Physiological functions</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">immune system</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pathogenic bacteria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1334</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26404</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5837</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27554</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34317</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results of the influence of biologically active substances contained in bur-marigold (Bidens tripartita L.) on some immunophysiological (bacteriostatic activity of the skin, intensity of bacteriostatic activity, indices of spleen, liver, kidneys) and microbiological parameters (degree of microbial contamination, the microflora composition of some organs and tissues of fish) of one-year carp are given. The experiment was carried put in 2 replications 20 fishes in each one.  1 ml of the suspension of opportunistic bacteria Aeromonas sp. was introduced into the all fish tanks having a volume of 80 l. 20% aqueous infusion of bur-marigold in an amount of 50 ml was added in experimental fish tanks. The state of fishes was estimated on days 7 and 14 after staring the experiment. In the experimental group by the end op the experiment there was revealed a reduction in carp yearlings, the kidney index from 0.69 to 0.26% and liver index from 2.4 to 1.1%. The biologically active substances contained in bur-marigold reduced the bacteriostatic activity of the fish skin (from 64.01 to 20.83%) and limited the development of opportunistic bacteria Aeromonas sp. Adding the aqueous infusion of bur-marigold into the water reduced the degree of total bacterial number (up to 60 CFU/ml) and influenced the development of opportunistic aeromonads in water. The bactericidal effect of bur-marigold on opportunistic bacteria contaminated the fish skin was revealed. Application of aqueous infusion of bur-marigold also led to an increase of aeromonads concentration in the internal organs of fish with intensive processes (in kidneys, liver and spleen).</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Приведены результаты исследования влияния биологически активных веществ череды (Bidens tripartita L.) на некоторые иммунофизиологические (бактериостатическая активность кожи, напряженность бактериостатической активности, индексы селезенки, печени, почек) и микробиологические показатели (степень микробной обсемененности, состав микрофлоры органов и тканей рыбы) состояния годовиков карпа. Опыт проводили в 2 повторностях по 20 экз. рыбы в каждой. Во все рыбоводные ёмкости объемом 80 л вносили по 1 мл суспензии культуры условно-патогенных бактерий Aeromonas sp. В рыбоводные ёмкости с опытной группой рыб добавляли 20%-ный свежеприготовленный водный настой череды в количестве 50 мл. Оценку состояния рыб проводили на 7-е и 14-е сут после начала опыта. В опытных группах к концу опыта выявлено снижение у годовиков карпа индекса почки с 0,69 до 0,26% и индекса печени с 2,4 до 1,1%. Биологически активные вещества череды оказали влияние на бактериостатическую активность кожи рыбы, статистически достоверно снижая этот показатель (с 64,01 до 20,83%) и ограничивая развитие условно-патогенных бактерий Aeromonas sp. Добавление настоя череды в воду снижало показатель общего микробного числа воды (до 60 КОЕ/мл) и влияло на развитие условно-патогенных аэромонад в воде. Выявлено бактерицидное действие череды на условно-патогенные аэромонады, обнаруженные в составе микрофлоры кожи карпа. Применение череды приводило также к увеличению концентрации аэромонад во внутренних органах рыбы с интенсивными обменными процессами (в почках, печени и селезенке).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestnik.astu.org/Content/UserImages/file/fish_2015_4/09.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Astrakhan State Technical University. Series: Fishing industry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2073-5529</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

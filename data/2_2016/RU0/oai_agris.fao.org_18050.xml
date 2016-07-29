@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018050">
+    <dc:title xml:lang="en">Brettanomyces yeast use in brewing</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Использование дрожжей р. Brettanomyces в технологии пива</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Danina M.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ivanchenko O.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">beers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Yeasts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_864</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8480</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7644</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The brewing of beer with a higher degree of wort fermentation using Brettanomyces yeast added during second bottle fermentation is considered. Its organoleptic properties are analyzed. Malt bill composition is 65% of Pilsen light malt, 20% of Vienna malt and 5% of caramel malt. 10% of inverted sugar syrup is added at boiling stage. Infusion mashing is made with mash ratio of 1:4. Fermentation is carried out at 25+-1 deg C. The effects of top-fermentation Belgian Ale Yeast - Mangrove Jacks and Belle Saison strains on fermentation process and the quality of finished beer are analyzed. M-27 and M-79 Mangrove Jacks strains are shown to have the highest degree of fermentation during main fermentation, being 97.2 and 97.8%, respectively. Fermentation of beer with B. bruxellensis yeast is carried out for 60 days at 20 deg C. In samples with B. bruxellensis yeast being added at the maturation stage the degree of fermentation is improved highly and equals 99.7%. Increased color degree (8 SRM) and active acidity (рН 4.0-3.8) are also exhibited in the samples. Organoleptic properties evaluation is carried out using 25-grade scale. The beer with M-27 Mangrove Jacks yeast used for main fermentation gets the maximum number of points (23): 5 points for taste, 5 for bitterness, 5 for flavor, 4 for opacity and 4 for color. The least balanced in taste and flavor is the beer made using M-79 Mangrove Jacks yeast: 2 points for taste, 4 for bitterness, 2 for flavor, 4 for opacity and 4 for color.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рассмотрен процесс получения пива с повышенной степенью сбраживаемости сусла и новыми вкусо-ароматическими характеристиками при использовании дрожжей р. Brettanomyces в качестве дополнительно вносимой культуры при дображивании пива в бутылках. Засыпь готовили в соотношении: светлый солод Pilsen – 65%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">венский солод (Vienna Malt) – 20%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">карамельный солод (Crystal malt) – 5%. Инвертированный сахарный сироп вносили на стадии кипячения в количестве 10%. Затирание проводили настойным способом при гидромодуле затора – 1:4. Брожение вели при t 25±1 град. C. Рассматривается влияние различных штаммов верхового брожения Belgian Ale Yeast- Mangrove Jacks и Belle Saison на ход брожения и показатели качества готового пива. Наиболее высокую степень сбраживаемости в ходе главного брожения, показали штаммы Mangrove Jacks М-27 и М-79, которая составляет 97,2 и 97,8% , соответственно. Созревание пива с дрожжами B. bruxellensis проводилось 60 сут при t 20 град. C. В образцах, в которые на стадии созревания пива были добавлены дрожжи B. bruxellensis, заметно повышена степень сбраживаемости и она составляет 99,7% . Так же в этих образцах наблюдается повышенная цветность (8 SRM) и активная кислотность (рН 4,0-3,8). Органолептическая оценка проводилась по 25-балльной шкале. Максимальное количество баллов пучило пиво, главное брожение которого вели дрожжи Mangrove Jacks М-27 – 23 балла: вкус – 5, горечь – 5, аромат – 5, прозрачность – 4 и цвет – 4 балла. Наименее сбалансированным по вкусу и аромату было пиво с использованием дрожжей Mangrove Jacks M-79: вкус – 2, горечь – 4, аромат – 2, прозрачность – 4 и цвет – 4 балла.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestnikmax.ifmo.ru/file/article/14926.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik Mezhdunarodnoi Akademii Kholoda</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1606-4313</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,33 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016117456">
+    <dc:title xml:lang="en">An Econometrical Analysis of the Auditing Agricultural Companies´ materiality as an Indicator of Quality</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>MAQELLARI MAJLINDA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculty of Economy and Agribussines, Agricultural University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">companies,which is audited and the size of auditing company. Significant findings from the research interviews are
+provided from Focus-Groups Questionnaires as a Method of Collecting Qualitative Data, in our case 215
+CPA(Certified Public Accountants) from IEKA(Authorized Accountant Experts Institute), Albania.
+We have designed questionnaires regarding audit judgment based on the materiality</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">risk assessment, size of the
+company and the impact that it has in the audit work. Albanian characteristic is that the big companies is audited by
+Big 4 and other companies by single CPA.
+The questionnaires emphasize the Albanian auditor characteristic in professional judgment, that is depended in the size
+of the society who audited or in the size of auditing society, and this audit work we see the experience versus
+calculative methods.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_1_2016-1/5_MAJLINDA%20MAQELLARI%20pp%2027-34.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationNumber>v.15/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

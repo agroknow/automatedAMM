@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016117462">
+    <dc:title xml:lang="en">Microbial Phytase as a Way to Improve Growth Performance of Weaned Piglets and to Reduce Phosphorus Excretion</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PENGU REZANA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>DELIA ETLEVA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>NEPRAVISHTA ARIANA</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculty of Veterinary Medicine, Agricultural University of Tirana, Albania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The microbial phytase preparation (Aspergillus niger, NATUPHOS) was supplemented to a basal ration 750 FTU/kg
+feed and the effects on growth performance of weaned piglets were studied.
+The supplementation of microbial phytase improved slightly Daily Weight Gain (DWG), Feed Conversion Ratio
+(FCR) and increases the digestibility and bioavailability of phosphorus from phytate, reduces the amount of inorganic
+phosphorus needed to maximize growth and bone mineralization and markedly reduces fecal excretion of phosphorus.
+At the end of experimental period, Daily Weight Gain (DWG) was increased 6.15% more and Feed Conversion Ratio
+(FCR) was decreased 4.7%, compared to the control group. Overall a positive effect of the microbial phytase on
+performance parameters was observed. The P-excretion in the faeces was reduced by 25-30%.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/ajas_1_2016-1/6_REZANA%20PENGU%20pp%2035-37.pdf?attredirects=0&amp;d=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.15/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

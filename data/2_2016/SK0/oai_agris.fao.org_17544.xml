@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017544">
+    <dc:title xml:lang="en">Forest regeneration processes and structure of biomass NPR Biely kameň</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Regeneračné procesy a Štruktúra biomasy pralesa NPR Biely kameň</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Caňo Pavol</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email:  paca33@centrum.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fagus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Regeneration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biomass</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nature reserves</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2779</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6486</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16141</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The main goal of this thesis is to compare the changes in diameter structure according to developmental stages, compare the changes of the circular base and volume according to developmental stages of the primeval forest for a period of two years (2013–2015). To analyze the spatial structure and productive utilization of the available growth area of the forest in the developmental stages. The final goal it to analyze the change in the structure of natural regeneration during developmental stages. These measurements were performed on permanent research plots (PRP) with dimensions of 50 × 50m, which characterize the developmental stages of the forest. Spatial structure, productive use of the available growth space and changes in the structure of natural regeneration was measured on a transect with dimensions of 10 × 50m, which were set out in the framework of the PRP in developmental stages. Regarding the change of diameter frequencies among developmental stages, we noticed the biggest difference in the stage of decay, where the number increased to about 196 pc.ha–1. The largest standing volume was recorded at the optimum stage of 467.91 m3.ha–1 and the biggest change, respectively increase was in stage of recruitment which was 23.89 m3.ha–1. The largest distribution of the forests shelterwood area within developmental stages was at the stage of optimum 234.79% and the lowest was recorded in stage of recruitment 167.134%. When measuring the change in the structure of natural regeneration in developmental stages, we found the largest number of individuals in the process of disintegration 18 316 pc.ha–1 and the lowest number of individuals was found in stage of optimum 9 684 pc.ha–1.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/3_3/Acta_Facultatis_Forestalis/aff_suppl_57_2015.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta  Facultatis Forestalis Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0231-5785</ags:citationIdentifier>
+      <ags:citationNumber>v.57/n.Suppl. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

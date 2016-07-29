@@ -1,0 +1,48 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="QC2016218495">
+    <dc:title xml:lang="en">Analysis of the economy of the region of western Greece: an application of the Social Accounting Matrix (SAM)   [Thesis (M.Sc.)]</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Alikaj Mirsida</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Mediterranean Agronomic Institute of Chania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Chania (Greece)</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Greece</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">state level performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">economic analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3373</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330765</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2469</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Bibliography: p. 71-74 ; ill.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Most of the countries in the European Union (EU) are currently undergoing significant economic and social changes. Consequently, economic instability has resulted in the emergence of analysis, often based on economic models, regarding the structure of the economy at a national or regional level. Within this context, a regional Social Accounting Matrix (R-SAM) was constructed in order to portray the structural characteristics of the Region of Western Greece, and to identify the most important and dynamic sectors of the local economy. The choice of the study area of this research work was justified in terms of the fact that the region holds a strategic position in the area which can contribute to the growth of the local economy. Moreover it should be noted that this has been the first attempt to analyze the economy of the Region of Western Greece through the application of a SAM. Results indicate that despite the fact that the Region of Western Greece is considered to be the main gateway of the country to Western Europe, it is rather characterized by a low level of integration. Also, multiplier analysis manifests that in general enterprises operating in the tertiary sector have the highest potential to stimulate the economy and enhance income and employment in the region.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://docs.maich.gr/thesis/T000906</dc:identifier>
+    <dc:type>Other</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <agls:availability>
+      <ags:availabilityLocation>T000906</ags:availabilityLocation>
+      <ags:availabilityNumber>906/EC/AL</ags:availabilityNumber>
+    </agls:availability>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016017919">
+    <dc:title xml:lang="id">Keanekaragaman fungi mikoriza arbuskula (FMA) pada rizosfer tanaman pegagan (Centella asiatica (L.) Urban)</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Arbuscular mycorrhizae fungi (AMF) diversity on asiatic pennywort Centella asiatica (L.) Urban) rhizosphere</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hartoyo B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ghulamahdi M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Darusman L.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aziz S.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mansur I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Balai Pengkajian Teknologi Pertanian Jawa Tengah</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F07</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mycorrhizae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">diversification</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">SOIL DEFICIENCIES</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">GLOMUS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5023</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2344</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7166</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_31772</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2867c82c5e5a</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Deficiency of phosphorus (P) is one of the limiting factors of agricultural production system in Indonesia which is generally managed on acid soils. Utilizing arbuscular mycorrhizae fungi (AMF) is one of the alternative solutions on acid soils problem, because of its ability to take up P and other nutrients from soils. The first concern which must be studied is diversity of the organism. Data on AMF diversity obtained is useful to select potential and effective AMF by increasing plant growth and production of asiatic pennywort. The aim of this research was to isolate and identity types of AMF in asiatic pennywort rhizosphere. Soil samples were taken from three locations of asiatic pennywort plantations i.e. Gunung Putri, Sukamulya, and Cicurug Experimental Stations. Isolation, identification, and trapping of spore were conducted at the Eco-physiology laboratory and glasshouse of Indonesian Medicinal and Aromatic Crops Research Institute (IMACRI), Bogor. The laboratory results of soil samples before trapping showed that there were two genus of AMF spores (Glomus and Acaulospora) in the samples from Gunung Putri, three genus (Glomus, Acaulospora, and Scutellospora) from Sukamulya, and two genus (Glomus and Acaulospora) from Cicurug. After trapping, it was identified that the soil samples from Gunung Putri, Sukamulya, and Cicurug contained five AMF species (four types of Glomus and one type of Acaulospora) five AMF species (three types of Glomus, one type of Acaulospora and Scutellosporas, and four AMF species (three types of Glomus and one type of Acaulospora) from Cicurug. Diversity of AMF variety can be utilized to get potential to increase the efficiency of fertilizer, specifically availability and uptake of nutrient P.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Jurnal Penelitian Tanaman Industri</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0853-8212</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

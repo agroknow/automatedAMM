@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P17252">
+    <dc:title xml:lang="ru">ОЗЁРНАЯ И СЕРЕБРИСТАЯ ЧАЙКИ НА ТЕРРИТОРИИ ХАКАСИИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>HERRING AND BLACK-HEADED GULLS ON THE KHAKASSIA TERRITORY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Savchenko  A.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Emelyanov  V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Karpova  N.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Savchenko  P.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kucherenko  A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biogeography</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_915</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: Khakassia, biodiversity conservation, birds, herring gull, black-headed gull, limiting factors, wetlands, viral infections, influenza A virus</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Республика Хакасия расположена в пределах северо-западных отрогов Саяно-Алтайского нагорья и занимает значительную часть Минусинской котловины. Протяженность территории с севера на юг составляет 460 км, с запада на восток (в наиболее широкой части) – 200 км. Площадь Республики Хакасия 61 900 км2. Общая протяженность рек составляет 8 тыс. км, самые крупные реки Хакасии – Енисей, Абакан, Чулым и Томь. В республике более 500 озѐр. Чайковые птицы – важнейшее звено экосистем водоѐмов Хакасии. В работе представлены результаты исследования, характеризующие современное состояние
+двух видов чайковых (озѐрной и серебристой), встречающихся на внутренних водоѐмах Республики Хака-
+сия. Представлены сведения о характере пребывания и численности. Обсуждаются причины сокращения
+численности ранее многочисленной озѐрной чайки.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The Republic of Khakassia covers the big part of Khakass-Minusinsk Depression, and located within
+the north-western spurs of the Sayan-Altai mountains. The length from north to south is 460 km, from west to east
+(in the widest part) – 200 km. Khakassia Republic Square is 61 900 km2. The total length of the rivers is 8 thousand
+km. The Yenisei, Abakan, Chulym and Tom rivers are the largest in Khakassia. There are more than 500 lakes
+in the republic. Gull birds are the important link of Khakassia pounds ecosystems. The paper presents the results of
+investigation, describing the current state of 2 gull species (black-headed and herring gulls) that inhabit the inland
+waters of the Republic of Khakassia. Information about the current species composition and distribution is presented.
+The reasons for the abundance rarity of previous large black-headed gull are discussed.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USNO_2016_5_2_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.№5 (part 2), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

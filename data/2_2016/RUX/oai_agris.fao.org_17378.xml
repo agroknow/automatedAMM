@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17378">
+    <dc:title xml:lang="en">EXPERIMENTAL STUDY OF DIESEL ENGINE D-243-648 WHEN WORKING ON MIXED SOY AND MINERAL FUELS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЭКСПЕРИМЕНТАЛЬНЫЕ ИССЛЕДОВАНИЯ ДИЗЕЛЯ Д-243-648 ПРИ РАБОТЕ НА СМЕСЕВОМ CОЕВО-МИНЕРАЛЬНОМ ТОПЛИВЕ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Godina Еlena D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ukhanov Alexander P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical Institute (branch) of FSAEI HE North-Eastern Federal University named after M. K. Ammosov</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Penza state agricultural academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biofuels</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Testing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fuels</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27465</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7683</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3136</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We conducted experimental bench research of diesel engine D-243-648 while its work withmixd soybean and mineral fuels with different ratios of biological and mineral components.The research was carried out on power, fuel  and economic and environmental indicators of diesel engine. The experiments were conducted in the laboratory of engine test in FSBEI HPE "Penza state agricultural academy" in 2014-2015. Far East soybean oil of soybean varieties "Lydia" and "Harmony" was taken. According to the results of research in the period of experiment it is established that at full load the maximum reduction in the effective power of the diesel engine was 6,2% at a ratio of 75% SoyM + 25% DF. The efficiency of the diesel engine deteriorates, the maximum increase of fuel consumption per hour is 8,2% at a ratio of 75% SoyM + 25% DF, the maximum increase in effective specific fuel consumption increased by 15,5 % with the ratio of mixed fuel 50 % SoyM + 50 % DF. Environmental indicators of diesel engine D-243-648 improve at a load of 100 % (ŉ = 2200-1, rated power mode) with the ratio of fuel 50% SoyM + 50 % DF: carbon oxide is reduced by 0,08% and the opacity by 9 %, the hydrocarbon content by 0,003 %. Effective efficiency maximum decreases by 3,9% with the ratio of mixed soybean and mineral fuels 25 % SoyM + 75 % DF, minimum by 2,8% at a ratio of 50 % SoyM + 50 % DF. Experimental studies have shown that of all the investigatedfuel blends, the best in power, fuel economic and environmental indicators of diesel engine D-243-648 is soybean and mineral fuel with ratio of the biological and mineral components 50:50.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проводили экспериментальные стендовые исследования дизеля Д-243-648 при его работе на смесевом соево-минеральном топливе с различными соотношениями биологического и минерального компонентов. Исследования проводились по мощностным, топливно-экономическим и экологическим показателям дизеля. Опыты проводились в лаборатории испытаний двигателей ФГБОУ ВПО «Пензенская ГСХА» в 2014-2015 гг. Было взято соевое масло Дальневосточных сортов сои «Лидия» и «Гармония». По результатам исследований в период опыта установлено, что при полной нагрузке максимальное снижение эффективной мощности дизеля составляло 6,2% при соотношении 75% СояМ + 25% ДТ. Ухудшается экономичность дизеля, максимальное повышение часового расхода топлива составляет 8,2% при соотношении 75% СояМ + 25% ДТ, максимальное повышение удельного эффективного расхода топлива возросло на 15,5 % при соотношении смесевого топлива 50 % СояМ + 50 % ДТ. Экологические показатели дизеля Д-243-648 улучшаются при нагрузке 100 % (ŉ = 2200-1, режим номинальной мощности) при соотношении топлива 50 % СояМ + 50 % ДТ: оксид углерода уменьшается на 0,08 %, дымность на 9 %, содержание углеводорода на 0,003 %. Эффективный коэффициент полезного действия максимально уменьшается на 3,9 % при соотношении смесевого соево-минерального топлива 25 % СояМ + 75 % ДТ, минимально на 2,8 % при соотношении 50 % СояМ + 50 % ДТ. Данные экспериментальных исследований показали, что из всех исследуемых смесевых топлив, наилучшим по мощностным, топливно-экономическим и экологическим показателям дизеля Д-243-648 является соево-минеральное топливо с соотношением биологического и минерального компонентов 50:50.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/1-16-godina.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

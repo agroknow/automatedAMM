@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016317661">
+    <dc:title xml:lang="ru">К ЗАДАЧЕ ИМПОРТОЗАМЕЩЕНИЯ ПРОДОВОЛЬСТВИЯ ВО ВЛАДИМИРСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>TO THE PROBLEM OF IMPORT-SUBSTITUTION OF FOOD IN THE VLADIMIR REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ненайденко Георгий</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-12</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">yield forecasting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">внесение удобрений в подкормку</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">arable land</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8486</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2380</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_18948</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Дан анализ фактического потребления жителями Владимирcкой области основных продуктов питания в сравнении с оптимальной нормой. Приведены объемы и доля валового производства продуктов питания в крупных сельскохозяйственных предприятиях и в целом всеми категориями хозяйств области. С учетом импортозамещения сделаны расчеты потребности населения в зерне, картофеле, овощах. Определены также необходимые объемы заготовки кормов, чтобы иметь достаточно животноводческой продукции. Намечены главные направления по самообеспечению продовольствием жителей путем последовательного вовлечения к 2020 и 2025 годам резервов пашни, увеличения доз внесения удобрений для роста урожайности сельскохозяйственных культур, развития животноводства и птицеводства. На основании научных экспериментов Ивановской ГСХА, Владимирского НИИСХ, других исследований намечены пути самообеспечения продовольствием на период до 2020–2025 годов.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The analysis of actual consumption by inhabitants of the Vladimir region of the basic foodstuffs in comparison with optimum norm is given. Describes the amount and percentage of gross food production in large agricultural enterprises and in total by all categories of farms of the region. Taking into account import substitution made the calculations needs of the population for grain, potatoes, vegetables. Defined as the necessary amounts of fodder in order to have enough livestock products. Outlined the main areas for food self-sufficiency of residents through consistent involvement by 2020 and 2025 years of arable land, increasing doses of fertilizer for growth of crop yields and development of livestock and poultry breeding. On the basis of scientific experiments Ivanovo state agricultural Academy, Vladimir research Institute of agriculture, other studies intended path of food self-sufficiency for the period up to 2020-2025 years.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://www.isuct.ru/e-publ/snt/sites/ru.e-publ.snt/files/2016/01/snt_2016_n01-129.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Современные наукоемкие технологии. Региональное приложение</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2413-5399</ags:citationIdentifier>
+      <ags:citationNumber>v.2016/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

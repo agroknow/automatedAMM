@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016016915">
+    <dc:title xml:lang="en">Population structure of brown hare (Lepus europaeus): a case study in selected  areas of Nitra region</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Štruktúra populácie zajaca poľného (Lepus europaeus): prípadová štúdia z vybraných území Nitrianskeho kraja</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Méres Juraj</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ostrihoň Miroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Slamečka Jaroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kaštier Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email:  juro.meres89@atlas.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hares</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">population dynamics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Slovak Republic</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3496</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6111</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33096</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the study was a evaluation of population dynamics of brown hare (Lepus europaeus) in selected complex hunting grounds in the district of Nitra. The parameters were rated: (1) sex and age structure, (2) proportion of sex, (3) proportion of young on discard, (4) reproductive coefficient, and (5) reproductive factor. Population dynamic was monitored from November 2011 to January 2013. Interest area consisted of seven hunting districts with a total area of 7275 ha or 72, 75 sqare kilometers. For analyzed parameters is crucial knowledge age and sex of the individual. Determination of age in the field is done by Stroh method, which is based on the degree of ossification of the distal ulna epiphysis (palpated examination – palpation epiphyseal mamelon, it is a cartilaginous inserts, which allows growth of the long arm bone). To strict determine the age of brown hare was used the laboratory method based on weighing the dried eye lenses. From hunted hares were caught whole eyeballs that were stored in sample bottles with 4% formaldehyde solution. The eyeballs were collected in the laboratory after 14 daily fixation then were extracted lenses . These are at 100 °C were dried 24 hours to constant weight is reached. Following cooling the lens ventured on an analytical balance. Their weight and gender are reported in the table. Furthermore, we divided the sample into groups of 5 mg. Observed limit between juvenile and adult subjects was 290 mg. Age structure observed in the first and second season is unbalanced, and the prevalence of adult individuals. Sex structure of the population was balanced during both seasons. Sexual indice found as a proportion of all females from the sum of all individuals caught. The parameter value of 0.51 was in season 2011/2012 and of 0.5 in the season 2012/2013. The proportion of young on discard is determined to share this year‘s hare an others. In the season 2011/2012 this ratio was 0.43 and in the season 2012/2013 had a value of 0.47 (optimum&gt; 0.50). Reproductive coefficient is the value showing the number of young hares per adult individual on discard. This parameter has the value 0.76 area examined in the season 2011/2012 season and in 2012/2013 was the parameter value of 0.92 (optimal. &gt; 1). Reproductive factor is the number of young rabbits per adult female . In season 2011 / 2012 accounted for 1.61 per female pups in season 2012/2013 to 2.1 pups (optimal.&gt; 2).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/3_3/katedry_lf/kltm/suppl._55-1-2013_web.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta  Facultatis Forestalis Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0231-5785</ags:citationIdentifier>
+      <ags:citationNumber>v.55/n.Suppl. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

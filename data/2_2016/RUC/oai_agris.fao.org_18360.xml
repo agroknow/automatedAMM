@@ -1,0 +1,77 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C18360">
+    <dc:title xml:lang="ru">Роль Парижского соглашения для лесов мира и России</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>The role of Paris Agreement for the world’s and Russian forests</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Nemova V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">climate change</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Adaptation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">emission</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Deforestation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Afforestation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1666</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_117</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331377</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15590</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_162</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">2015 год войдет в историю как дата не только принятия новых целей устойчивого развития, но и успешного завершения переговоров по новому климатическому соглашению, которое в 2030 году придет на смену Киотскому протоколу. Соглашение заключает в себе статью 5, которая посвящена роли лесов в смягчении изменений климата на планете. Рассмотрено содержание статьи 5 и ее значение как для лесов в мире, так и для лесов России. Для соблюдения хрупкого баланса важно не дать лесам из хранителя углерода превратиться в эмитентов</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">важно продолжить борьбу с обезлесением. Многие страны добились положительных результатов как в сохранении лесов, так и в устойчивом управлении ими. Ряд климатических выгод, получаемых от лесов, находится «вне» лесного сектора, но важно научиться их учитывать. На примере Бразилии показано, как себестоимость проектов по борьбе с обезлесением оказывается наименьшей по сравнению с другими вариантами. Российские леса играют важную роль в борьбе с изменением климата, так за счет стока углерода в наших лесах было компенсировано увеличение эмиссии в других государствах. Однако в связи с ростом нарушений в лесах (лесные пожары, лесозаготовки), а также с изменением возрастной структуры российских древостоев к 2030 году есть вероятность потери стока углерода в лесах. Парижское соглашение служит важной основой для национальных мер и политики, направленных на рациональное и устойчивое управление, а также для разработки крупных международных проектов для всех лесов, особенно для бореальных. Возможно, что и в России появятся крупные международные проекты, которые позволят сохранить их важную роль «легких планеты».</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">The year of 2015 will be marked in history as the year when the sustainable development goals were adopted but also as the year when the new Climate Agreement was agreed in Paris, which will replace the Kyoto Protocol in 2030. The Paris Agreement contains a whole Article 5 devoted to the role of forests in climate change mitigation and adaptation. The contents of Article 5 and its relevance reviewed in details in terms of the role for the forests on global level and for Russia in particular. It is important to keep the balance of all forest ecosystem services and such important ecosystem function as carbon sequestration. The need to stop further deforestation is also underlined. Many countries in the world achieved progress in conserving forests and managing them sustainably. However, a number of climate benefits are not included into accounting but are key to be accounted properly in future. Example of Brazil demonstrates how to achieve a reduction of deforestation at lower costs if compared to other climate change solutions. The role of Russian boreal forests is vitally important for the planet’s health and carbon balance. Due to the increase of forest fires, forest logging activities and the age structure changes of Russian forests, by 2030 there is a probability that carbon stock will be decreased. Paris Agreement is an important basis for developing national policies and measures targeted to manage forests sustainably and effectively and that large international projects will appear minimizing the risk of turning Russian forests from carbon sink to carbon emissions source and to maintain their role of “lunges of our planet”.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal.spb-niilh.ru/pdf/2-2016/spbniilh-proceedings-2-2016-6-full.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Труды Санкт-Петербургского научно-исследовательского института лесного хозяйства</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2079-6080</ags:citationIdentifier>
+      <ags:citationNumber>v.15/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

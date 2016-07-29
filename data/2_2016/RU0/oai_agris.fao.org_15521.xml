@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016015521">
+    <dc:title xml:lang="en">Accelerating column for separation of ethanol from factions of intermediate and head impurities</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Разгонная колонна для выделения этилового спирта из фракций промежуточных и головных примесей</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Agafonov G.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Perelygin V.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Torshin A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">food industry equipment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ethanol</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">purification</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">distilling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25773</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10677</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6377</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2336</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Nowadays purification of ethanol from the head and intermediate impurities is done with the selection of fractions of fusel alcohol and fusel oil from the distillation column and fractions’ head and intermediate impurities from epuration column’s condenser operating according to the hydro-selection method. At this the fraction contains at least 13% of ethanol, resulting in a reduced yield of the final product. Distillation of these fractions in the known acceleration columns requires increased consumption of heating steam for 6-8 kg/dal and increasing installation metal content. The process of distillation fraction from the epuration column’s condenser, fusel alcohol from the distillation column and subfusel liquid layer from the decanter, which is fed on a plate of supply of new accelerating column, which operates on epuration technology with the supply of hydro-selection water on the top plate and has in its composition concentrating, boiling and stripping parts, dephlagmator, condenser, boiler, was studied. Material balance equations of the column were obtained and ethanol concentrations on its plates were determined by them. Having converted the material balance equations, the dependences for the impurities ratio being drawn from the accelerating column with the Luther flows and ethanol fraction were determined. Then the equation for determining the proportion of impurities taken from the column condenser with fraction was obtained. These calculations proved that the studied impurities are almost completely selected with this faction, its ethanol content being 0.14% of the hourly output. It is recommended to use the studied column in industrial conditions.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В настоящее время для очистки этилового спирта (ЭС) от головных и промежуточных примесей производится отбор фракций сивушного спирта и сивушного масла из ректификационной колонны и фракции головных и промежуточных примесей из конденсатора эпюрационной колонны, работающей по методу гидроселекции. При этом указанные фракции содержат не менее 13% ЭС, что приводит к снижению выхода конечного продукта. Разгонка данных фракций в известных разгонных колоннах требует увеличения расхода греющего пара на 6-8 кг/дал и повышения металлоёмкости установки. Исследован процесс разгонки фракции из конденсатора эпюрационной колонны, сивушного спирта из ректификационной колонны и подсивушного слоя жидкости из декантатора, которые подают на тарелку питания новой разгонной колонны, которая работает по технологии эпюрации с подачей гидроселекционной воды на верхнюю тарелку и имеет в своём составе концентрационную, выварную и отгонную части, дефлегматор, конденсатор, кипятильник. Были получены уравнения материального баланса колонны и по ним определены концентрации ЭС на её тарелках. Преобразовав уравнения материального баланса, получили зависимости для определения соотношения количества примеси, отводимой из разгонной колонны с потоками лютера и фракции ЭС. Далее были получены уравнения для определения доли примеси, отбираемой с фракцией из конденсатора колонны. Проведенные расчеты показали, что изученные примеси практически полностью отбираются с данной фракцией. При этом содержание в ней ЭС составляет 0,14% от часовой выработки. Изученную колонну рекомендовано использовать в промышленных условиях.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik-vsuet.ru/vguit/article/download/593/560</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Proceedings of the Voronezh State University of Engineering Technologies</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2226-910X</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

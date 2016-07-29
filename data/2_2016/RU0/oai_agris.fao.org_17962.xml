@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017962">
+    <dc:title xml:lang="en">About formation of the enterprise environment in agriculture of Russia</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>К вопросу о формировании предпринимательской среды в сельском хозяйстве России</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zhirnov A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">budgets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">imports</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Exports</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9001017</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2809</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1134</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3815</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2761</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The problems of development of agriculture in the Russian Federation at the present stage are being considered and ways for their solving are being defined. The problem of material-technical base degradation within the branches of agrarian and industrial complex is being allocated. The reasons are seen in privatization, deterioration in climatic conditions that has caused a pelting of the land and deterioration in social conditions of the village. Data of territorial subjects of the Russian Federation for 2014 on reduction of purchases of agricultural machinery in comparison with 2013 are provided. Are presented with reference to statistical data for 2015 in comparison with 1985 on decrease in production of trucks, combine harvesters, tractors, reduction of acreage, production of animal husbandry, a livestock large and small cattle. Use problem is considered by domestic agriculture of modernization potential today. The situation in the field of short-term crediting in the sphere of agriculture of the Russian Federation in 2013-2015 is analyzed. Need of the high-tech modernization of production based on use of information and communication technologies that, however, is recognized problematic in connection with a new stage of an economic crisis is proved. Orders of the Russian President V. V. Putin, the prime minister D. A. Medvedev, the provision of the State program "Development of agriculture and regulation of the markets of agricultural production, raw materials, and food for 2013-2020" concerning modernization and rendering state support of agrarian and industrial complex of the Russian Federation are considered. So, in 2016 237 billion rubles will be allocated for financing of programs for support of agriculture in the country, subsidizing of discounts for purchase of an agro-technology of a domestic production is expected, 464 investment projects on import substitution for the sum about 266 billion rubles are claimed. The solution of problems of economic growth and standard of living of the population, ensuring food and national security of the country on the basis of intensive import substitution depends on the business union of the political forces and figures who have supported a course towards own independent development. 11 ref.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рассмотрены проблемы развития сельского хозяйства в Российской Федерации на современном этапе и определены пути их решения. Выделена проблема деградации материально-технической базы отраслей АПК. Причины усматриваются в приватизации, ухудшении природно-климатических условий, что повлекло за собой забрасывание земли и ухудшение социальных условий села. Приведены данные субъектов РФ за 2014 г. по сокращению закупок сельхозтехники по сравнению с 2013 г. Представлены со ссылкой на статистические данные на 2015 г. по сравнению с 1985 г. сведения по снижению производства грузовых автомобилей, зерноуборочных комбайнов, тракторов, сокращению посевных площадей, продукции животноводства, поголовья крупного и мелкого рогатого скота. Рассмотрена проблема использования отечественным сельским хозяйством модернизационного потенциала. Проанализирована ситуация в области краткосрочного кредитования в сфере сельского хозяйства РФ в 2013-2015 гг. Обоснована необходимость высокотехнологической модернизации производства, основанной на использовании информационных и коммуникационных технологий, что, однако, признано проблематичным в связи с новым этапом экономического кризиса. Рассмотрены поручения президента РФ В. В. Путина, премьер-министра Д. А. Медведева, положения Государственной программы "Развитие сельского хозяйства и регулирование рынков сельскохозяйственной продукции, сырья, и продовольствия на 2013–2020 гг. ", касающиеся модернизации и оказания господдержки АПК РФ. В 2016 г. на финансирование программ по поддержке сельского хозяйства в стране будет выделено 237 млрд р., ожидается субсидирование скидок на покупку агротехники отечественного производства, утверждено 464 инвестиционных проекта по импортозамещению на сумму около 266 млрд р. Решение проблем экономического роста и жизненного уровня населения, обеспечение продовольственной и национальной безопасности страны на базе интенсивного импортозамещения зависит от делового союза политических сил и деятелей, поддержавших курс на собственное независимое развитие. Библ.11.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>The International Technical-economic Journal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1995-4646</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 6</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

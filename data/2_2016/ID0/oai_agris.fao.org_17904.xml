@@ -1,0 +1,74 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016017904">
+    <dc:title xml:lang="id">Pertumbuhan tanaman dan kandungan total filantindan hipofilantin aksesi meniran (Phyllanthus sp. L.) pada berbagai tingkat naungan</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Plant growth and total phyllanthin and hypophyllanthin contents of Phyllanthus sp. L accession on various shading levels</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Chozin M.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Wijayanto N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ghulamahdi M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Darusman L.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Oktavidiati E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universitas Muhammadiyah Bengkulu</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Euphorbiaceae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">shading</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biomass</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2720</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7020</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Meniran (Phyllanthus sp. L.) is family member of Euphorbiaceae. The lignan, consisting of phyllanthin and hypophyllanthin in the plant, was reported as therapeutically active constituent and serve as hepatoprotective agent. The objective of this research was to investigate the effect of shading intensities on plant growth and phyllanthin and hypophyllanthin contents of Phyllanthus sp. accessions. The experiment was arranged in split plot design with three replicates. The main plot was shading intensity consisting of 0 percent (N0), 25 percent (N1), and 50 percent (N2) shades. The subplot was of Phyllanthus sp. accessions (A) consisting of A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, All, A12, and A13 taken from Bangkalan and Gresik. The results showed that 50 percent shade increased plant height but decreased number of leaves. Interaction between shading intensity and accession gave significant effect on number of branches. Referring to their responses on shades, all accessions were divided into 3 groups by DMRT. Biomass productions of accessions number 6 and 7 were greater than the other accessions. Accession number 7 was the highest in phyllanthin and hypophyllanthin contents where the shading reduced the phyllanthin but increased the hypophyllanthin contents.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ejurnal.litbang.pertanian.go.id/index.php/jptip/article/view/2067/1797</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Jurnal Penelitian Tanaman Industri</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0853-8212</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

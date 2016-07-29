@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017636">
+    <dc:title xml:lang="en">Combustion characteristics of biofuels – fallen leaves of hardwood deciduous trees</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Energetická charakteristika biopaliva – lístia z jesenného opadu stromov tvrdých listnatých drevín</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Dzurenda Ladislav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pňakovič Ľubomír</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email:  dzurenda@tuzvo.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P06</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biofuels</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">leaves</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">moisture content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">heating</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Combustion</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27465</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4243</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4886</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3524</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49928</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1777</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this contribution, there are presented the results of the analyses of the combustion characteristics of biofuels – more concretely, fallen leaves of hardwood deciduous trees. Based on experimental works there has been stated that the relative humidity of the leaf at the time of fall is Wr= 37.9−46.9 %. The average share of individual elements in the combustible is Cdaf= 49.1 %, Hdaf= 6.0 %, Ndaf= 1.2 %, Sdaf= 0.1 %, Odaf= 43.6 %. In the comparison with chemical composition of combustible - wood of deciduous trees the combustible of leaves has 7.5 times higher content of endothermic component - nitrogen. Production of ash fromdry leaves of the analyzed plants is Ad= 8.1–13.1 %. From the aspect of ash production leaves are comparable to fossil fuels - brown graded coal. Lower production of ash was observed inleaves of birch (Betula pendula Roth.) with a value Ad= 4.8 %.The higher heating value of dry fallen leaves of hardwood, deciduous trees is between Qs= 16046−19754 kJkg−1and the lower heating value on the lower limit of Qn = 15887−19573 kJkg−1. In comparison with dry fuel wood of hardwood deciduous trees the higher heating value of dry leaves is lower by 10.9 % and the lower heating value is lower by 6.5 %. The decline in basic combustion characteristics, i.e. the higher heating value and the lower heating value, is caused in the decisive extent by its high ash content and in small extent by increased content of nitrogen, it means, by the endothermic component in combustible of leaves.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/DF/fakulta_df/AFX/archive/2015/2015-1/13-01-15-dzurenda-pnakovic.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta facultatis xylologiae Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-3824</ags:citationIdentifier>
+      <ags:citationNumber>v.57/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

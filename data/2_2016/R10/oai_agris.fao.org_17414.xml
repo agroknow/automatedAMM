@@ -1,0 +1,26 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016017414">
+    <dc:title xml:lang="lg">The Relevance of Application of Gas Liquid Mixtures for the Wastewater Treatment Intensification of the Pulp and Paper Mills</dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The paper demonstrates the risk of sewage of the pulp and paper mills for the aquatic eco-systems and the possibility of their biological treatment in the aeration tanks. The existing aeration systems of the biological wastewater treatment of the pulp and paper industry of Russia and foreign countries are studied and summarized. We present the current trends of the aeration systems and the criteria for their selection. In addition, the urgency of intensifi-cation of biological wastewater treatment of the pulp and paper mills by using the high sta-bility gas-liquid mixtures with a bubble structure is proved. A mixture technique is devel-oped in a universal laboratory setting. The water is a continuous phase and the air is a dis-persed one in the observable gas-liquid mixture. The gas-liquid mixtures under considera-tion are derived by the air direct feeding into the water through the inlet of a centrifugal pump. The experimental study of the hydrodynamics of two-phase gas-liquid flow depend-ing on the size of the air bubbles is carried out. The research efforts show that the liquid-gas mixtures with the high stability air bubbles of the size from 1…8 mm and a turbulent flow regime of the two phases can be obtained by setting different fluid and air flow rates. The exponential dependences of the size of air bubbles on the fluid and air flow rates and the data of the hydrodynamic regime of the gas-liquid mixture “air – water” are established. Numerous researches and the use of the standardized methods of measurement, their analy-sis and processing confirm the accuracy of the results. This setting for the study of a gas-liquid flow is designed to remove defects of the analogues. Thus, the proposed technique of obtaining the high stability gas-liquid mixtures eliminates the costly air-blowing equipment. The set is multi-function as it can be applied for various purposes in many industries, in-cluding the pulp and paper one. We intend to study the gas-liquid mixtures in the laboratory environment and in actual practice. The practical application of the gas-liquid mixtures with a high stability bubble structure will increase the efficiency of the wastewater treatment of the pulp and paper mills due to the intensification of the biochemical processes.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://lesnoizhurnal.narfu.ru/issuesarchive/?ELEMENT_ID=244194</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ln</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Lesnoy Zhurnal (Forestry journal)</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0536-1036</ags:citationIdentifier>
+      <ags:citationNumber>v.2016/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17286">
+    <dc:title xml:lang="en">HEMODYNAMICS IN SOFT TISSUES WHEN REPLACING SHIN BONE DEFECTS THE BY THE METHOD OF DISTRACTIVE OSTEOSYNTHESIS IN COMBINATION WITH USE OF NANOSTRUCTURED CARBON IMPLANTS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ГЕМОДИНАМИКА В МЯГКИХ ТКАНЯХ ПРИ ЗАМЕЩЕНИИ ДЕФЕКТОВ КОСТЕЙ ГОЛЕНИ МЕТОДОМ ДИСТРАКЦИОННОГО ОСТЕОСИНТЕЗА В СОЧЕТАНИИ С ИСПОЛЬЗОВАНИЕМ НАНОСТРУКТУРНЫХ УГЛЕРОДНЫХ ИМПЛАНТАТОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Коnоnоvich Natalya А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>FSBI «Russian research centre «Restorative traumatology and orthopaedics» named after academician G. A. Ilizarov» of ministry of health of Russian Federation</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dogs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">implantation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bones</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal tissues</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">experimentation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2352</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3811</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1001</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27963</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2758</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">One of actual directions of modern medicine and veterinary medicine is the search of optimum materials for of bone defects replacement. The degree of osteogenesis activity depends on vascular supply of both bone and surrounding soft tissues. The goal of research: the study of hemodynamics in muscles when replacing circular defects of shin bones by the method of transosseous distraction osteosynthesis by Ilizarov in combination with the usage of non-biodegradable nanostructured carbon implants. The experiments were carried out on 16 adult mongrel dogs, which simulated a circular defect of shin bone by the amount of 13-16% from the initial segment length. The defect was replaced by Ilizarov method. After that distraction bone regenerate was partially replaced by nanostructured carbon implant. We studied peculiarities of blood circulation in different muscle groups by rheographic method. We have not revealed negative influence of shin soft tissues on the blood circulation, when using nanostructured carbon implants for partial replacement of the distraction regenerate of shin bone. We establish that under these conditions the typical reversible changes in blood circulation occur in segment soft tissues. Similar changes are observed in treatment of other bone pathology with the usage of different methods of osteosynthesis.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Одним из актуальных направлений современной медицины и ветеринарии является поиск оптимальных материалов для замещения костных дефектов. Степень активности остеогенеза зависит от кровоснабжения как костной, так и окружающих мягких тканей. Цель исследования: изучение гемодинамики в мышцах при замещении циркулярных дефектов костей голени методом чрескостного дистракционного остеосинтеза по Илизарову в сочетании с использованием небиодеградируемых наноструктурных углеродных имплантатов. Эксперименты выполнены на 16 взрослых беспородных собаках, которым моделировали циркулярный дефект костей голени на величину 13-16% от исходной длины сегмента. Дефект замещали методом Илизарова. После этого дистракционный костный регенерат частично замещали наноструктурным углеродным имплантатом. Изучали особенности кровоснабжения в разных группах мышц реографическим методом. Не выявили негативного влияния на кровоснабжение мягких тканей голени, при использовании наноструктурных углеродных имплантатов для частичного замещения дистракционного регенерата большеберцовой кости. Определили, что в созданных условиях, в мягких тканях сегмента происходят типичные обратимые изменения кровоснабжения. Подобные изменения наблюдаются и при лечении прочей костной патологии с использованием различных методов остеосинтеза.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/1-16-kononovich.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

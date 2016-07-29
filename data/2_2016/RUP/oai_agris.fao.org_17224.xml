@@ -1,0 +1,40 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P17224">
+    <dc:title xml:lang="ru">РОСТ И УРОЖАЙ ЯБЛОНЬ ПРИ ЕЖЕГОДНОЙ НЕКОРНЕВОЙ ПОДКОРМКЕ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>GROWTH AND HARVEST OF APPLE-TREES AT ANNUAL NOT ROOT TOP DRESSING</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Aliev  F.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: sorts of apples, micro fertilizer, biometric indicator, plants productivity</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Исследования посвящены изучению действие Zn, Cu и B на рост и урожай яблонь. При ежегодном некорневом питании содержание этих веществ в листьях, ветвях и корнях растений увеличивалось почти в два раза. При слабой и очень слабой обеспеченности микроэлементами почв некорневые подкормки значительно повышали урожай яблонь и качество плода.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Researches are devoted to studying action of Zn, Cu and B on growth and a harvest an apple-tree. At annual not root food the content of these substances in leaves, branches and roots of plants increased almost twice. At weak and very weak security with minerals of soils not root top dressing the apple-tree and quality of a fruit considerably raised a harvest.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USNO_2016_5_1_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.№5 (part 1), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

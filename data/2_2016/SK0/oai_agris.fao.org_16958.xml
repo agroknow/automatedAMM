@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016016958">
+    <dc:title xml:lang="en">The effect of selected stimulation preparations on creation of mycorrhiza and  growth of seedlings of spruce</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Účinok vybraných stimulačných prípravkov na rast semenáčikov smreka obyčajného (Picea Abies[L.] Karst.)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Šušlík Daniel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email:  suslikdano@gmail.com</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Picea abies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mycorrhizal infection</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">stimulants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plantlets (seedlings)</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5852</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36163</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7414</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27992</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The main aim of my work was to monitor the impact of stimulating preparation on plant biometric characteristics, growth and range of mycorrhizal symbiosis spruce seedlings. Experiment consisted of four variants with threefold repetition. To keep optimum environmental conditions whole experiment was realized in the greenhouse. Roots-free spruce seedlings grown in pots 2 years with the substrate to which they applied mycorrhizal preparation Ectovit, Mycorrhizaroots and stimulator Vetozen. After the 2nd growing season were planted to pots of Plantek 35 F. After each growing season were collected samples and evaluated the growth of seedlings, after the third growing season also mycorrhizal symbiosis on the roots of plants. For control reasons we established the control repetition without use any preparation. The collected samples, we investigated the value of the root neck thickness, height aboveground parts, root number, dry weight of aboveground and root part. In evaluating the extent of the root system colonized by symbiotic fungi after third growing season we used a magnifying glass and distinguished the roots whit and without mycorrhizal symbiosis. When we were looking mycorrhizal roots, we distinguished a different morphotypes. Observed values were evaluated by univariate analysis of variance. Based on the evaluation of each growing season, we can confirm that the product Ectovit had a most positive effect on nearly all monitored biometric parameters.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/3_3/katedry_lf/kltm/suppl._55-1-2013_web.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta  Facultatis Forestalis Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0231-5785</ags:citationIdentifier>
+      <ags:citationNumber>v.55/n.S</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

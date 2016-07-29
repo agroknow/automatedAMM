@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018062">
+    <dc:title xml:lang="en">Influence of biopreparations and growth regulators on productivity of pea of ’Angela’ variety</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние биопрепаратов и регуляторов роста на продуктивность гороха сорта Ангела</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sitalo G.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mazhara V.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Beltiukov L.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gordeeva Yu.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pisum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seed treatment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5932</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6940</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The purpose of the research was to study the effect of biopreparations and plant growth regulators on the productivity of pea of ’Angelа’ variety. The experiments were carried out in 2014-2015, in Rostov region. Soil of experimental plots is calcareous loam ordinary chernozem</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">the preceding crop is winter wheat. During the experiment there were studied the such biopreparations and growth stimulants as Rizotorfin, Ekstrasol, Vigor Forte, Mival Agro and Flavobakterin with their double use: seed was treated before sowing and was processed at vegetation in the phase of 3-5 peas leaves. Doses of biopreparations comply with the manufacturer's recommendations. Results of conducted researches revealed that all studied biopreparations effect the growth and development of pea positively. Average crop yield in the reference plot (no treatment) for 2 years is 2.43 t/ha. The highest crop performance is 3.01 t/ha, conditional net income is 13164 rubles/ha and profitability is 91% and the lowest production costs 4826 rubles/T were obtained by twice applying Mival Agro growth biological stimulant, processing by which was carried out in the following norms: 20 g/t at seed treatment + 20 g/ha in the processing at the vegetation in the 3-5 leaf stage.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Изучали влияния биопрепаратов и регуляторов роста на продуктивность гороха сорта Ангела. Опыты проводились в 2014-2015 гг. в Ростовской области. Почва опытных участков - чернозем обыкновенный карбонатный тяжелосуглинистый, предшественник – озимая пшеница. В опыте изучались следующие биопрепараты и стимуляторы роста: Ризоторфин, Экстрасол, Вигор Форте, Мивал Агро и Флавобактерин с их двукратным использованием: при обработке семян перед посевом + обработка по вегетации в фазе 3-5 листьев гороха. Дозы биопрепаратов соответствовали рекомендациям заводов-изготовителей. Результаты проведенных исследований показали, что все изучаемые биопрепараты положительно влияли на рост и развитие гороха. Средняя за 2 года урожайность в контроле без обработок составила 2,43 т/га. Наибольшие показатели по урожайности (3,01 т/га), условно чистому доходу (13164 руб./га) и рентабельности (91%), а также наименьшей себестоимости продукции (4826 руб./т) были получены при двукратном применении биостимулятора роста Мивал Агро, которым проводилась обработка в следующих нормах: 20 г/т при обработке семян + 20 г/га при обработке по вегетации растений в фазе 3-5 листьев.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://goo.gl/tf507T</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of Don Agricultural Sience</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2075-6704</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

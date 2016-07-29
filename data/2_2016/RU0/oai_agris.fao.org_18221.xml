@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018221">
+    <dc:title xml:lang="en">Formulation of consumer properties of fermented milk products on the basis of ultrasound exposure</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Формирование потребительских свойств кисломолочных напитков на основе эффектов ультразвука</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Botvinnikova  V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Krasulya O.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">KEFIR</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultured milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">intensification</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dairying</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ultrasonics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_23849</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2023</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33485</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10274</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8044</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The analytical review of advanced technologies of manufacturing functional dairy products is made. The basic approaches to formation of their properties are considered. The principles of applying ultrasonic cavitational exposure on heterogeneous food media with a liquid phase to solve process tasks of fermented milk production are examined. The experimental data on applicability of ultrasonic exposure in the formation of consumer properties of fermented milk products (FMP) are given. The research subjects were model samples of FMP produced in laboratories according to traditional and innovative technologies, namely kefir obtained using starters of kefir grains (FMP1) and a FMP based on combined starters (FMP2). The ultrasonic technological equipment “Volna” (vibration frequency (22+-1.65) kHz) has been applied. The treatments were carried out at 120, 180 and 240 W. It’s determined that the use of ultrasound enables one to reduce whey separation for FMP1 1.4 times and 1.5 times for FMP2. It’s specified that the dynamics of kefiran accumulation directly depends on modes of ultrasonic exposure and activity of starter cultures. The amount of kefiran in FMP1 is 164.24-204.94 mg/l and in FMP2- 187.7-190.7 mg/l. The optimal regimes of ultrasonic exposure which help to improve application properties of FMP and intensify accumulation of kefiran by 8–18% are specified: the duration - 3 min., the power - 240 W for FMP1 and 180 W for FMP2. The applicability of a “kefiran amount” indicator as an integral indicator of physiological value of FMP is justified. A conclusion was drawn that the use of cavitational disintegration in the technology of FMP manufacturing improves their application properties.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проведен аналитический обзор перспективных технологий производства функциональных молочных продуктов питания и проанализированы основные подходы к формированию их свойств. Рассмотрены принципы применения ультразвукового кавитационного воздействия на гетерогенные пищевые среды с жидкой фазой в решении технологических задач производства кисломолочных продуктов. Изучали возможность применения ультразвукового воздействия в формировании потребительских свойств кисломолочных напитков (КН). Объектами исследования являлись модельные образцы КН, подготовленные в лабораторных условиях по традиционной и модифицированной технологиям: кефир, полученный с применением закваски кефирного грибка (КН1), и КН на основе комбинированной закваски (КН2). Для ультразвуковой обработки применялся аппарат ультразвуковой технологический "Волна" (частота механических колебаний – (22 ± 1,65) кГц. Обработки проводили на мощностях 120, 180 и 240 Вт. Установлено, что применение ультразвука позволяет снизить отделение сыворотки для КН1 в 1,4 раза, а для КН2 в 1,5 раз. Установлено, что динамика накопления кефирана находится в прямой зависимости от режимов ультразвукового воздействия и активности заквасочных культур. Количество кефирана в КН1 составляет 164,24…204,94 мг/л, а в КН2 кефирана продуцируется меньше − 187,7…190,7 мг/л. Установлены оптимальные режимы ультразвукового воздействия, которые позволяют улучшить потребительские свойства КН и интенсифицировать накопление полисахарида кефирана на 8–18%: продолжительность воздействия 3 мин, мощность 240 Вт для КН1 и 180 Вт для КН2. Обоснована возможность использования показателя "количество кефирана" в качестве интегрального показателя физиологической ценности КН. Сделан вывод, что применение кавитационной дезинтеграции в технологии производства КН способствует улучшению их потребительских свойств.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestnik.susu.ru/food/article/view/4457/3969</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of South Ural State University</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2310-2748</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F18102">
+    <dc:title xml:lang="en">Effects of weed plants on tiller characteristics in brachiaria pasture</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Caracterização de perfilhos em relação à planta daninha no pasto de capim-braquiária</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>CARVALHO, R.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PIMENTEL, R. M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FONSECA,  D. M</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS, Manoel E. R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Solanum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Morphology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tillering</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feed crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8347</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7216</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7773</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331025</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2829</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the effects of the weed Solanum sisymbriifolium (sticky nightshade) on the number and characteristics of Urochloa decumbens cv. Basilisk tillers in pasture continuously stocked by cattle. Two sites of the same pasture were evaluated, one site located close (0.5 m) to the main stalk of the weed and the other located at a distance where no weed was growing within a radius of 2.0 m. The number, weight and morphology of the tillers were evaluated in a completely randomized design with three repetitions. At the site distant from the weed, a higher population density of defoliated tillers without apical meristem was observed. The number of basal and aerial tillers was smaller close to the weed plant. This site was also characterized by smaller numbers of vegetative, reproductive, live, dead and total tillers when compared to the site distant from the weed plant. The weight of vegetative and reproductive tillers was higher at the site close to the weed plant. Tillers close to the weed plant exhibited a greater length of the pseudostem and leaf blade, a larger number of live leaves, and fewer grazed leaves compared to distant tillers. The occurrence of S. sisymbriifolium results in spatial variability of vegetation in U. decumbens cv. Basilisk pasture.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se avaliar os efeitos da planta daninha Solanum sisymbrifolium (joá-bravo) sobre o número e as características de perfilhos de Urochroa decumbens cv. Basilisk em pasto sob lotação contínua com bovinos. Foram avaliados dois locais do mesmo pasto, sendo um próximo, localizado a 0,5 m do caule principal da planta daninha, e outro distante, onde não havia ocorrência desta planta em 2,0 m de raio, por meio da quantificação do número, peso e morfologia dos perfilhos. O delineamento foi inteiramente ao acaso com três repetições. No local distante da planta daninha houve maior densidade populacional de perfilhos com desfolhação e sem o meristema apical. Os números de perfilhos basais e aéreos foram menores próximo da planta daninha. Este local também apresentou menores números de perfilhos vegetativos, reprodutivos, vivos, mortos e totais, quando comparado ao local distante da planta daninha. Os pesos de perfilhos vegetativos e reprodutivos foram maiores no local próximo do que no distante da planta daninha. Os perfilhos próximos da planta daninha apresentaram maiores comprimento do pseudocolmo e de lâmina foliar, superior número de folha viva e inferior número de folha pastejada em relação aos distantes. A ocorrência da planta S. sisymbrifolium ocasiona variabilidade espacial da vegetação no pasto de U. decumbens cv. Basilisk.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v73n2p103</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.73/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

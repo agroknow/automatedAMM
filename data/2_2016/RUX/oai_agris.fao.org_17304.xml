@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17304">
+    <dc:title xml:lang="en">OPTIMIZATION OF PIGS LIPID METABOLISM BY USING IN ITS DIETS FEED ADDITIVES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ОПТИМИЗАЦИЯ ЛИПИДНОГО ОБМЕНА СВИНЕЙ ПОСРЕДСТВОМ ИСПОЛЬЗОВАНИЯ В ИХ РАЦИОНАХ КОРМОВЫХ ДОБАВОК</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Semyonova Yuliya V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ulitko Vasily E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Maslova Таtyana А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">piglets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fatty acids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">lipid metabolism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">animal performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5872</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2818</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4361</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5698</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables, 8 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The reseach with a goal of fattening pigs lipid metabolism optimization with a usage of fodder additives «Omega-3 Aktiv» and «Polisol Omega-3» in rations was conducted at the pig farm APC name  after N. K. Krupskaya  in the Ulyanovsk region. Feed additive «Omega-3 Aktiv» is made from linseed oil and is a source of alpha-linolenic fatty acids. «Polisol Omega-3» consists not only of the scarce unsaturated fatty acids complex, concentrated and balanced set of herbal polysaccharides and natural oligasaccharides, but also of liposomal beta-carotene, hepatoprotector, spore complex of bifidobacteria and lactic acid bacteria, sustenance components, ferments, vitamins and mineral salts. Adding of feed additives to the diet helps to increase blood concentrations of all studied characteristics of lipid metabolism: cholesterol level by 7,2...7,7% (during the first fattening period) and by 1,4…4,7% (during the second fattening period)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">high density lipoproteins by 7,9…22,5 % (during the first fattening period) and 3,8…5,8% (during the second fattening period)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">triglycerides by 12,2…19,5%, during the first fattening period and by 34,5…51,7% during the second fattening period, which indicates more intensive fat deposition. The optimization of lipid metabolism in blood serum of pigs when included in the rations of feed additives allowed to reduce the age of reaching by them live weight of 100 kg by 9 days with the «Omega-3 Aktiv» inclusion and by 23 days with the «Polysol omega-3» compared to the control group. Thus, the use feed additives in diets of fattening pig in the form of polyunsaturated fatty «Omega-3 Aktiv» and «Polisol Omega-3» acids helps to optimize lipid metabolism and assimilation processes in the body overall which positively affects their growth, development and maturing rate.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">На базе свинокомплекса СПК им. Н.К. Крупской Ульяновской области проведено испытание по оптимизации липидного обмена у откормочного поголовья свиней при использовании в их рационах кормовых добавок «Омега-3 Актив» и «Полисол Омега-3». Кормовая добавка «Омега-3 Актив» изготавливается из льняного масла и является источником альфа-линоленовой жирной кислоты. «Полисол Омега-3» состоит не только из комплекса дефицитных непредельных жирных кислот, концентрированного и сбалансированного набора растительных полисахаридов и натуральных олигосахаров, но и липосомального бета-каротина, гепатопротектора, комплекса спор бифидо- и молочнокислых бактерий, а также компонентов из питательных сред, ферментов, витаминов и минеральных солей. Добавление в рацион кормовых добавок способствует увеличению концентрации в крови всех изучаемых показателей липидного обмена: уровня холестерина на 7,2...7,7% (в первый период откорма) и на 1,4…4,7% (во второй период откорма)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">липопротеидов высокой плотности на 7,9…22,5 % (в первый период откорма) и 3,8…5,8% (во второй период откорма)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">триглицеридов на 12,2…19,5%, в первый период откорма и на 34,5…51,7% во второй период откорма, что указывает на более интенсивное жироотложение. Оптимизация уровня липидного обмена в сыворотке крови свиней при включении в их рационы кормовых добавок позволила сократить возраст достижения ими живой массы 100 кг на 9 суток при включении «Омега-3 Актив» и на 23 суток при добавлении «Полисол Омега-3» по сравнению с контрольными. Таким образом, использование в рационах свиней на откорме кормовых добавок в виде полиненасыщенных жирных кислот «Омега-3 Актив» и «Полисол Омега-3» способствует оптимизации липидного обмена и в целом ассимиляционных процессов в организме, что положительно сказывается на их росте, развитии и скороспелости.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/1-16-semyonova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

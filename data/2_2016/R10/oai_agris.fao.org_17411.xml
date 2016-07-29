@@ -1,0 +1,26 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016017411">
+    <dc:title xml:lang="ln">Environmentally Sound Technology of Sulphite Pulp Bleaching</dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The work objective is to evaluate the feasibility of bisulphite pulp bleaching with a high content of residual lignin (7.5 %) by the Elemental Chlorine Free (ECF)-technology with hydrogen peroxide in acidic conditions, sodium chlorite, and sulphite pulp – by the Total Chlorine Free (TCF)-technology with hydrogen peroxide according to the authors’ schemes. Bleaching is carried out in the laboratory conditions. The pulp processing conditions for individual bleaching stages are optimized with the use of the statistical analysis software package Statgraphics V.5.0. Both schemes of bleaching for hard bisulfite and sulfite pulp are characterized by the soft oxidative attack on the pulp components, very positive output results, quality parameters of pulp and a high degree of pulp depitching for general and “harmful” resin that helps to eliminate “pitch difficulties”. The main parameters of wash water indicate the continuing suitability of the proposed technologies by the level of con-tamination of wastewater. The proposed scheme of ECF-bleaching with the replacement of the oxygen-alkali treatment by the peroxide delignification and chlorine dioxide by the wa-ter soluble and explosion-proof sodium chlorite is designed for bleaching of sulphate and hard bisulfite pulp. The scheme can be successfully implemented in any existing pulp and paper mill without the significant capital expenditure. The introduction of TCF-bleaching with hydrogen peroxide also does not require large investments.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://lesnoizhurnal.narfu.ru/issuesarchive/?ELEMENT_ID=244195</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">lg</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Lesnoy Zhurnal (Forestry journal)</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0536-1036</ags:citationIdentifier>
+      <ags:citationNumber>v.2016/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,32 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016017413">
+    <dc:title xml:lang="ln">Using Non-Destructive Methods of Kraft Liner Quality Control</dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">paperboard</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">formation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5550</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7861</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The paper presents the results of the comparative evaluation of the magnitude and variation of the physical and mechanical characteristics of the cardboard-liner, using destructive and non-destructive measurement methods. The samples of kraft-liner – the slices from a spool – of the weight of 115, 140 and 170 g/m2 and the length of 6300 mm selected at a cardboard machine were measured. The mechanical properties profiles were obtained: thickness, burst strength, SCT, bending stiffness, and the characteristics measured by the non-destructive ultrasound method with the Lorentzen&amp;Wettre TSO-tester and by the optical method with the use of the PTA-Line Formation Tester. The variation of mechanical characteristics is considerably (4–8 fold) higher at a low degree of the thickness variability (coefficient of variation 1.6...3.7 %) and the cardboard tensile stiffness index in the machine direction (2.1...2.9 %) across the width of a cardboard machine. The reason is in the high structural imperfection. The variation of all characteristics increases when a weight of 1 m2 of card-board decreases. According to the profiling of the characteristics across the width of the CM we have established, that the variation of burst strength, compression strength and bending stiffness consists of the variation of the formation index (by the nearly points), and the var-iation of the thickness and tensile stiffness (dependence on the position of the point across the width of the CM). In order to reduce the variation of the mechanical properties it is not enough to control only the basic weight of 1m2, humidity and thickness, as well as to control the TSO-angle, but it is necessary to operate by the formation quality and plan the measures to reduce the paper pulp flocculating and jets at the headbox. According to the results of the correlation analysis we confirm the existence of the relationship between the standard phys-ical and mechanical properties and the characteristics determined by the non-destructive methods. The obtained results suggest the possibility of the predictability of the burst strength resistance values, bending stiffness and SCT of kraft liner on the basis of not only measuring the thickness and TSI profile, but also the structural imperfection of cardboard, estimated by the formation analyzer. All the original data can be obtained by the non-destructive methods and in the future with the use of the on-line measurement technologies. The results will improve the accuracy of the assessment of the cardboard quality.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://lesnoizhurnal.narfu.ru/issuesarchive/?ELEMENT_ID=244174</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ln</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Lesnoy Zhurnal (Forestry journal)</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0536-1036</ags:citationIdentifier>
+      <ags:citationNumber>v.2016/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

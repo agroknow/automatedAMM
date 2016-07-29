@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016G17806">
+    <dc:title xml:lang="ru">БАКТЕРИИ РОДА ESCHERICHIA (аналитический обзор)</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Bacteria of the genus Escherichia (analytical review)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ТЕРЕХОВ Владимир Иванович</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>СЕРДЮЧЕНКО Ирина Владимировна</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Кубанский государственный аграрный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Escherichia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Escherichia coli</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultural development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Morphology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2663</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33700</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2021</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В обзорной статье представлены современные данные о видовом составе рода Escherichia, морфологических особенностях и культурально-биохимических свойствах бактерий.
+Бактерии рода Escherichia входят в семейство Enterobacteriaceae, которое объединяет факультативно-анаэробные, хемоорганотрофные, неспорообразующие, грамотрицательные в большинстве случаев подвижные, оксидазоотрицательные, каталазоположительные, не образующие сероводород, обладающие ферментативным и дыхательным типом метаболизма прямые палочки. E.coli (кишечная палочка) является типовым видом рода, который был описан в 1885 г. Теодором Эшерихом. Несмотря на то, что основным местом обитания кишечной палочки является толстый отдел кишечника, тем не менее, предполагают, что она может свободно размножаться в воде и почвах, богатых органикой. Такие свойства эшерихий как устойчивость во внешней среде, к антибиотикам и дезинфектантам, нетребовательность к питательным субстратам и способность приобретать и передавать гены различных факторов патогенности ставят их в разряд потенциально опасных микроорганизмов, требующих осуществления постоянного микробиологического и эпидемиологического мониторинга. Использование метода ДНК-ДНК гибридизации позволило установить степень генетического родства между типовыми штаммами видов рода Escherichia. В ходе данных исследований выяснилось, что наиболее близкими между собой по составу ДНК оказались E.coli и E.albertii, а также E.coli и E.fergusonii.
+Несмотря на схожесть культурально-морфологических свойств эшерихий, они различаются по биохимическим свойствам и строению ДНК. Учитывая адаптационные способности эшерихий, их нетребовательность к условиям существования, легкость смены хозяина, нельзя недооценивать эти микроорганизмы с точки зрения биологической опасности для животных и человека. Поэтому сведения, приведенные в нашем обзоре, позволят осуществлять дифференциацию эшерихий, а, следовательно, более точно устанавливать диагноз. Табл.3. Библ.49.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Abstract. In the review article there are actual information about the species composition of the genus Escherichia, morphological features and culturally and biochemical characteristics of bacteria.
+Escherichia is a genus from the family Enterobacteriaceae. This family contains rod-shaped bacteria which are facultatively anaerobic, chemoorganotrophic, asporogenous (non-spore forming), gram-negative, usually mobile, oxidase negative, catalase positive. They do not form hydrogen sulfide and have enzymatic and respiratory type of metabolism. E.coli is a typical species of the genus that was described by Theodor Escherich in 1885. Whereas E.coli main habitat is large intestine they think that it can reproduce freely in water and organically rich soils
+Escherichia's stability in the external environment and to antibiotics and disinfectants, undemanding to nutritious substrates and the ability to acquire and transfer the genes of different pathogenicity factors place them in the category of potentially harmful microorganisms which require the permanent microbiological and epidemiological monitoring. The use of DNA-DNA hybridization helped to establish the degree of genetic relationship between the typical strains of the genus Escherichia. During these studies it became clear that the most close among themselves in DNA content are E.coli and E.albertii, and E.coli and E.fergusonii.
+Despite culturally and biochemical characteristics of E.coli they differ in biochemical properties and DNA structure. Given the Escherichia's ability of adaptation, undemanding to the conditions of their existence, the ease of host shifts, we must not be underestimated these microorganisms in terms of biological hazards for animals and humans.
+Therefore, information that is in our review allows carrying out differentiation of E. coli, and consequently more accurately establish the diagnosis. Tabl. 3. Ref. 49.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestvet.ru/biblio/terekhov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Вестник ветеринарии</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2071-3096</ags:citationIdentifier>
+      <ags:citationNumber>v.77/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

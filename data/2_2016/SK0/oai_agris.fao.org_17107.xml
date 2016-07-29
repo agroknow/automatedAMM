@@ -1,0 +1,57 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017107">
+    <dc:title xml:lang="en">The project design of model hydrogen lifts for mountain terrains</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Návrh projektu modelu vodíkovej lanovky pre horské terény</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hradský Martin</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mountains</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hydrogen</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cableways</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">models</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12676</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3724</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26178</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Persistent upward rising energy prices trend and standards pressuring environmental protection and human health, requires for keeping the production reducing the consumption of external energy supply and efficient use of internal resources. This paper presents principles, enabling a Persistent upward rising energy prices trend and standards pressuring environmental protection and human health, requires for keeping the production reducing the consumption of external energy supply and efficient use of internal resources. This paper presents principles, enabling a solution to this problem at the level of forestry in the future to areas with a predominantly mountainous terrain. For this purpose, various proposals have been processed, for project size model hydrogen lifts for mountain terrain. In particular chapters are discusses the possible technical solutions, indicating the envisaged proposal. In order to properly model properties adaptable to the reality, most of the dimensions and parameters has been reduced in scale 1:10. Specific energy parts performance are designed to a certain tolerance, according to market availability. Procedure for examining the properties of hydrogen lift by model, brings several advantages. In this way, the particular focus is on avoiding unnecessary costs on large projects and significantly reduced the production itself. Another advantage is a real examination of properties that can not be determined by calculation, or their determination would be too difficult, or unrealistic. Based on the proposed parameters, the calculation was carried out in Annex B, confirming the feasibility of this project. According to this calculation, the fully loaded modeled lift would after every load cycle use only certain anmount of gases, which consequently would leave a significant amount of unused reaction gases in the tanks unused. The results indicate that the draft design of tanks, will be reckoned with possible amendments or proposed system ensuring the possibility of withdrawing excess fuel when deploying the steeper slopes. Security measurements also needs to be tsaken into consideration in case of emergency, while providing max. safe allowable volume of gas. Produced excessive amounts of fuel could serve as a source of energy for hydro power, or CPU. When executed properly, storage may be used in terrain where there is lack of production of the reaction gases. The use of hydrogen lifts for mountain terrain offers advantages particularly in terms of direct cost savings in the form of fuel, but also in terms of ergonomics and ecology.solution to this problem at the level of forestry in the future to areas with a predominantly mountainous terrain. For this purpose, various proposals have been processed, for project size model hydrogen lifts for mountain terrain. In particular chapters are discusses the possible technical solutions, indicating the envisaged proposal. In order to properly model properties adaptable to the reality, most of the dimensions and parameters has been reduced in scale 1:10. Specific energy parts performance are designed to a certain tolerance, according to market availability. Procedure for examining the properties of hydrogen lift by model, brings several advantages. In this way, the particular focus is on avoiding unnecessary costs on large projects and significantly reduced the production itself. Another advantage is a
+real examination of properties that can not be determined by calculation, or their determination would be too difficult, or unrealistic. Based on the proposed parameters, the calculation was carried out in Annex B, confirming the feasibility of this project. According to this calculation, the fully loaded modeled lift would after every load cycle use only certain anmount of gases, which consequently would leave a significant 
+amount of unused reaction gases in the tanks unused. The results indicate that the draft design of tanks, will be reckoned with possible amendments or proposed system ensuring the possibility of withdrawing excess fuel when deploying the steeper slopes. Security measurements also needs to be tsaken into consideration in case of emergency, while providing max. safe allowable volume of gas. Produced excessive amounts of fuel could serve as a source of energy for hydro power, or CPU. When executed properly, storage may be used in terrain where there is lack of production of the reaction gases. The use of hydrogen lifts for mountain terrain offers advantages particularly in terms of direct cost savings in the form of fuel, but also in terms of ergonomics and ecology.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/3_3/katedry_lf/kltm/suppl._55-1-2013_web.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta  Facultatis Forestalis Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0231-5785</ags:citationIdentifier>
+      <ags:citationNumber>v.55/n.Suppl. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

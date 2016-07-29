@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018327">
+    <dc:title xml:lang="en">Features of microbial successions in the seasonal and long-term dynamics in chernozems of the reserved meadow steppe and black fallow</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Особенности микробных суксцессий в вегетационной и многолетней динамике в черноземах заповедной луговой степи и черного пара</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gridasova O.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Verkhovtseva N.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Protsenko A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Protsenko E.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Savchenko L.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nevedrov N.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P33</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Steppes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Gas chromatography</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mass spectrometry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">microorganisms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fallow</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chernozems</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7395</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11097</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12421</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4807</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34007</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1533</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results of the investigation of virgin land chernozem that is the high-productive soil standard may be used for fertile soil modelling. The study was carried out in Central Chernozem reserve (Kursk region) in 1986–2012. The article presents the data of a comparative monitoring of the composition and the structure of microbial communities in the chernozem treated as long-term black fallow and in the reserve mowed steppe chernozem. The data were obtained by means of method of gas chromatography – mass spectrometry with the use of fatty acids markers of microbial cell structures. The number of microorganisms defined by the surface seeding on solid nutrient media showed no statistically significant differences between the mowed plots and the long-term fallow. The coefficient of mineralization (according to E.N. Mishustin) testified a balanced mineralization of autochthonous and allochthonous organic matter. The use of GC-MS allowed reconstructing the species composition of soil microbial community in investigated samples, determining the dominant genera and species of microorganisms. The consortium of anaerobic microorganisms belonging to the phylum Firmicutes which don`t subject the soil organic matter to complete mineralization was shown to be dominant in soil microbial community both in the reserve steppe chernozem and in long-term black fallow chernozem. Apparently this characteristic is specifically associated with the long-time stability of chernozem autochthonous organic matter. The chernozem of the mowed steppe was more abundant in species which are potentially able to enrich the soil with nitrogen, vitamins, hormones, antimicrobial and antifungal compounds.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Данные, полученные при изучении целинного чернозема, эталона высокопродуктивной почвы, могут быть использованы при создании моделей плодородных почв. Исследования проводили в Центрально-Черноземном заповеднике (Курская область) в 1986–2012 гг. Представлены сравнительные результаты мониторинга состава и структуры микробного сообщества в типичном черноземе под многолетнем паром и заповедной степи в режиме сенокошения. Данные получены классическим методом поверхностного посева и молекулярным методом газовой хроматографии – масс-спектрометрии (ГХ-МС) с использованием микробных маркеров жирно-кислотного состава клеточных структур. По численности микроорганизмов, определенной методом поверхностного посева на твердые питательные среды, не выявилось статистически значимых различий между сенокосом и многолетним паром. Коэффициент минерализации по Е.Н.Мишустину свидетельствовал о сбалансированности процессов минерализации автохтонного и аллохтонного органического вещества. Использование ГХ-МС позволило реконструировать для исследованных образцов почв видовой состав микробного сообщества, выявить доминирующие роды и виды микроорганизмов. Показано, что доминирующими видами в микробиоценозах почв как в черноземе типичном заповедной степи, так и в почве парового участка являются анаэробные консорциумы микроорганизмов, относящиеся к филуму Firmicutes, которые не подвергают органическое вещество почвы полной минерализации. По-видимому, именно с этим связана многолетняя стабильность автохтонного органического вещества заповедного чернозема. Чернозем косимой степи был богаче видами, потенциально способными обогащать почву азотом, витаминами, гормонами, антимикробными и антифунгальными соединениями.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://agroproblem.soil.msu.ru/images/2015-4-37.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agrochemistry and ecology problems</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2072-0386</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

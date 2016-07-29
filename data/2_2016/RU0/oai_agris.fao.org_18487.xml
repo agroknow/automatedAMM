@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018487">
+    <dc:title xml:lang="en">Apple pectin and natural honey in the closed milk processing cycle</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Fedosova A.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kaledina M.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk products</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pectins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">whey</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Casein</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Honey</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fractionation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">flocculation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4830</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5651</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8376</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1357</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3652</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3074</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2975</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The paper is based on the methodological approach to using pectin and natural honey in the technology of production of new dairy products. The purpose of the study is to use products of the fractionation of milk by apple pectin – natural casein concentrate (NCC) and whey-pectin fraction (WPF) in natural form for the development of new functional products enriched with natural bee honey. Study of the specifics of the fractionation of whole and skim milk by Russian-manufactured apple pectin with the substantiation of the technological parameters of receiving WPF and NCC was conducted. It was established that the process runs effectively under the following conditions: preliminary heat treatment of milk at a temperature of 76 deg. C, introduction of a 5% polysaccharide solution into milk, concentration of pectin of 0.6% of the weight of milk, temperature of fractionation of 4–6 deg. C. The technological properties of the received fractions were studied. It was determined that NCC is relatively thermostable (withstands heat treatment at a temperature up to 80 deg. C), beats well at a temperature of 5 deg. C (overrun 50–60%), adding honey has a positive effect on the structure of the beaten NCC and reduces the likelihood of the separation of whey during storage. At the pectin content within 0.6–0.7% of the weight of milk (on a dry basis), the yield of WPF from skim milk was within 80–81%, from whole milk – 72–73%, solids content was 6.2–6.3%. The total protein content in WPF was 0.9–1.0%, of which whey proteins – 0.45–0.50%. When adding honey to the WPF, a dense gel was formed after a while, having a tendency to syneresis</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">in 96 hours the degree of syneresis was 10–12% for the studied concentrations of honey from 1 to 10%. On the basis of the obtained data, the closed milk processing cycle is provided by the technology and the formulations of the two products with honey on the basis of WPF and NCC – a pudding and a "Smoothie". Tables 18. Ill. 4. Ref. 11.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://frm-kemtipp.ru/files/archive/6/6.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Foods and Raw Materials</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2308-4057</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>
