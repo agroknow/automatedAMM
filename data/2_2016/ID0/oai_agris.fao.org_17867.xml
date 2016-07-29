@@ -1,0 +1,71 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016017867">
+    <dc:title xml:lang="id">Perlakuan progesteron eksogenus selama bunting untuk meningkatkan produksi susu dan pertumbuhan anak pada kambing peranakan Etawah</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Exogenous progesterone treatment during pregnancy for increasing milk production and growth of kids of Etawah grade goat</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sutama I. K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Budiarsana I G.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Supriyati .</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hastono .</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Balai Penelitian Ternak, Bogor</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L53</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Goat milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">progesterone</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed intake</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pregnancy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16083</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6218</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16126</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6166</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4829</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Naturally, progesterone in ruminant is mainly produced by corpus luteum and it is responsible for maintaining pregnancy, and  affecting udder development and milk production. Exogenous progesterone treatment is expected to give similar positive effect on milk production as the endogenous progesterone does. Fourty mature etawa grade (PE) does were synchronized for oestrus using Controlled Internal Drug Release (CIDR) followed by natural mating. Does then were treated with CIDR intravaginally, as  a source of exogenous progesterone, at day 15-75 after mating (Group A), day 75-135 after mating (Group B), and without exogenous progesterone treatment (Control). Blood samples were taken before and after exogenous progesterone treatment for determination of progesterone concentrations. Soon after birth, kids were separated from their respective dams and they were milk fed through milk bottle. Feed consumption and milk production were measured daily, while bodyweight was measured forthnightly. Results showed that response of does following exogenous progesterone treatment was not expressed by an  increase in progesterone concentration in the blood plasm. However, treatment group showed kid with birth weight of 10-13 percent  higher compared to control group. In relation to milk yield, birth weight and pre-weaning growth of kids, the positive responses of exogenous progesterone treatment were not significant, though there was a substantial decrease (71.2 percent) in pre-weaning kid's mortality.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://peternakan.litbang.pertanian.go.id/fullteks/jitv/jitv172-1.pdf?secure=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Jurnal Ilmu Ternak dan Veteriner</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0853-7380</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

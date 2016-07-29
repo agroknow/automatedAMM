@@ -1,0 +1,89 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C18352">
+    <dc:title xml:lang="ru">Прогноз влияния изменения климата на разнообразие природных экосистем и видов флористических и фаунистических комплексов биоты России</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Forecast of influence of climate change on ecosystems and natural diversity species of Russian flora and fauna biotic complexes</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sergienko V.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Konstantinov A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">climate change</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biodiversity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Flora</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">FAUNA</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mixed forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Boreal forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1666</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33949</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2983</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2821</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4874</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1014</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведен обзор литературных источников по вопросам наиболее вероятных изменений растительных зон и биоразнообразия флоры и фауны при изменении климата в пределах четырех крупных природно-территориальных комплексов России - северная и южная части Европейской России, Сибирь, Дальний Восток. Отмечено, что в бореальных лесах таежной зоны из-за угнетения более холодолюбивых видов в коренных ценозах темнохвойной тайги увеличится количество березы и осины. Вблизи южной границы хвойно-широколиственных лесов уменьшится ценотическая роль ели. В подзоне широколиственных лесов усилится возобновление древесных пород - дуба, липы, граба, бука. В лесостепи увеличится площадь, занятая широколиственными породами с участием березы и осины. К концу XXI века изменение климата значительно повлияет на биоразнообразие степных и пустынных экосистем, трансформированных хозяйственной деятельностью. Аридность климата усилится в лесостепи, степи, и полупустыне. В зоне степей и полупустынь возрастет роль мезофитных трав, наряду с возможным сокращением численности полыни и ковыля, а в Прикаспии в связи с увеличением количества осадков ценозы с полынью и кустарниками заменятся злаками и мезофитами. Дан прогноз сокращения вдвое площади лесов в Сибири из-за большей сухости климата. Граница между лесами и степью в Центральной Сибири сдвинется на 10o к северу. Площадь степной зоны в Южной Сибири увеличится на 30%, а опустыненных степей - в два раза. Прирост площади черневой тайги на 60-65% произойдет за счет среднегорной темнохвойной тайги. Трансформация растительных зон и перераспределение высотных поясов приведут к сокращению горно-тундровой растительности и биоразнообразия. На Дальнем Востоке в результате изменений муссонной циркуляции продолжится наступление пустыни, вероятны засухи. Произойдут изменения численности и характера поведения животных. В особо уязвимом положении окажутся крупные животные, обитающие в горных лесах.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The literature review on the most likely changes in vegetation zones and biodiversity of flora and fauna to climate change within the four large natural-territorial complexes of Russia - the northern and southern part of European Russia, Siberia, the Far East is given. The article gives the characteristics of boreal and subboreal Russian landscapes, which are characterized by a wide variety of types of forests, steppes, semi-deserts, deserts and mountains. It is noted that in the boreal forests of the taiga zone due to the oppression of a cold-loving species indigenous ecosystems of dark coniferous taiga will increase the number of birch and aspen. Near the southern border of the coniferous-deciduous forests will decrease role of spruce. In the subzone of broad-leaved forests will intensifies processes of reforestation of trees, including oak, linden, hornbeam, beech. In the forest will increase the area occupied by broadleaf species including birch and aspen. By the end of the XXI century climate change will affect the biodiversity of the steppe and desert ecosystems greatly transformed by economic activity. Climate aridity will increase in forest- steppe, steppe, and semidesert. In the zone of steppes and semi-deserts will increase the role of mesophytic herbs in addition with a possible reduction in the number of wormwood and feather. In the Caspian region due to the increase in rainfall ecosystems with wormwood and shrubs will replace by grasses and mesophilic species. Presents forecast of double reduction of forest area in Siberia under a dry climate in comparison with the modern. Border between forest and steppe of Central Siberia will shift to 10o north. The area of the steppe zone in southern Siberia will increase by 30%, and the desert steppes - twice. Increasing the area of black taiga 60-65% will come from middle mountain of dark coniferous taiga. Transformation of vegetation zones and reallocation altitudinal belts would reduce mining and tundra vegetation and biodiversity. In the Far East as a result of monsoon circulation changes continue the offensive of the desert, the probability of drought. There will be changes in the number and behavior of animals. Particularly vulnerable will be large animals that live in the mountain forests.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal.spb-niilh.ru/pdf/2-2016/spbniilh-proceedings-2-2016-3-full.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Труды Санкт-Петербургского научно-исследовательского института лесного хозяйства</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2079-6080</ags:citationIdentifier>
+      <ags:citationNumber>v.15/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

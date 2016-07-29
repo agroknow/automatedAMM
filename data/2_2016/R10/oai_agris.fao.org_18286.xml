@@ -1,0 +1,32 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016018286">
+    <dc:title xml:lang="ln">Pollination in Common Juniper (Juniperus communis L.): Involving of Pollen and the Male Gametophyte Influence on the Ovules and “Cypress Cones” Development</dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">By the light microscopy we studied the development of the pollinated and unpollinated ov-ules of juniper since the receptation period prior to the “cypress cones” formation. The mor-phogenesis of unpollinated ovules and macrostrobiles proceeded without the essential viola-tions prior to the beginning of the cellular gametophyte formation. Soon after the beginning of its formation there was a gradual attenuation of mitoses in the unpollinated ovules, the signs of tissue degeneration in the chalazae and archegonial complexes zones. At the same time the safety of unpollinated macrostrobiles remained high. To the beginning of a late embryogenesis almost all unpollinated female cones in the pollinated ovules were lost. The remaining single unpollinated cones showed the signs of degeneration of external protective tissue and parenchyma of the “cypress cones”. The dynamics of exudation and retraction of a pollination drop was studied in vitro in order to learn the influence of the external agents on their dynamics in juniper. 3 variants of pollination were tested: by vital pollen of juniper (a collection of the previous year)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">by freshly pollen of Scotch pine</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">without pollination. At pollination by foreign pollen the retraction delayed for at least 12 hours. In the absence of pollination the exudation activity of a micropylar zone of the ovules lasted at least 60 hours. Full retraction of the secretory fluids at the same time took place after 120 hours. The quali-tative composition of volatile fractions of organic compounds of a juniper pollination drop was studied by the gas chromatograph/mass spectrometer QP-2010 Ultra (“Shimadzu”, Japan). The amino acid composition of the juniper exudation secretion and pollen was de-fined by the aminoacid analyzer BioChrom 30+ (“Biochrom”, Great Britain). Sugar compo-sition of the juniper pollination drop and pollen was studied by a HPLC system Nexera XR (“Shimadzu”, Japan). More than 40 volatile substances belonging to the various classes of organic compounds were identified. Their ratio is the next: alkanes – 33.79 %, monoter-penes – 0.29 %, triterpenes – 16.97 %, sesquiterpene alcohols – 1.33 %, esters – 18.41 %, carboxylic acids – 1.81 %, carboxazylic acids – 8.81 %. The results of the research confirm a complex chemical composition and multifunctional performance of a pollination drop. The pollination mechanism in juniper is effective and selective. The lack of pollination leads to a destructive type of the ovules and “cypress cones” tissue development.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://lesnoizhurnal.narfu.ru/issuesarchive/?ELEMENT_ID=246795</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ln</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Lesnoy Zhurnal (Forestry journal)</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0536-1036</ags:citationIdentifier>
+      <ags:citationNumber>v./n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

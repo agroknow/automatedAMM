@@ -1,0 +1,80 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016017949">
+    <dc:title xml:lang="id">Keefektifan bakteri endofit untuk mengendalikan nematoda Pratylenchus brachyurus pada tanaman nilam</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Effectiveness of endophytic bacteria to control Pratylenchus brachyurus nematode on patchouli</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Harni R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Supramana .</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sinaga M. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Giyanto .</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Supriadi .</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Balai Penelitian Tanaman Rempah dan Aneka Tanaman Industri Sukabumi</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2011-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">POGOSTEMON CABLIN</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">PRATYLENCHUS BRACHYURUS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Biological control agents</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ENDOPHYTES</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">MELOIDOGYNE INCOGNITA</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">RADOPHOLUS SIMILIS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6050</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24791</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_920</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32439</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_31072</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24799</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The use of endophytic bacteria as biocontrol agents for nematodes, such as Meloidogyne incognito on cotton and tomatoes, Globodera sp. on potatoes and Radopholus similis on bananas has been widely studied in several crops. The aim of the study was to investigate the effectiveness of some endophytic bacteria to control P. branchyurus, penetration, reproduction, and plant fresh weight production. Five isolates, namely A. xylosoxidans TT2, A. faecalis NJ16, P. putida EH11, B. cereus MSK, and B. subtilis NJ57 were applied to the patchouli cutting roots by soaking method before planting. A week after planting, the plants were inoculated with 500 juveniles and adults of P. brachyurus. Observations were done on penetration and reproduction rates of the nematode, and growth of patchouli plant. Under greenhouse condition, A. xylosoxidans TT2, A. faecalis NJ16, P. putida EH11. B. cereus MSK, and B. subtilis NJ57 reduced penetration rate of P. brachyurus into the patchouli roots by 54.8 to 70.6 percent and suppressed nematode population with pf/pi value 0.61 to 0.94. Growth of inoculated plants increased by 37.86 to 84.71 percent compared with uninoculated (control) ones.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://balittro.litbang.pertanian.go.id/ind/images/publikasi/bul.vol.23.no.1/bakteri%20endofit%20mengendalikan%20nematoda.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Jurnal Penelitian Tanaman Industri</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0853-8212</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018001">
+    <dc:title xml:lang="en">The impact of variability of the type of Siberian cedar by seed scale apophysis on the seed peel firmness</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние изменчивости кедра сибирского по типу апофиза семенной чешуи на прочность кожуры семян</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Babich N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pastukhova N.O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tyurikova T.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khamitov R.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pinus sibirica</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Seeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Firmness</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5910</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6946</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25422</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results of the study on the seed peel firmness in Siberian cedar morphological forms (by seed scale apophysis)are shown. The existence of differences on the seed peel firmness indicators between the forms is theoretically based by the nutcracker’s activity (Nucifragacaryocatactes). Feeding the nestlings the nutcracker shells the nuts from the peel. The firmest seeds in this case should be the ones from the nuts of hook-shaped cones, but the least firmness is from the plain ones (which are more preferable). The researches have been performed in the Tchagrinsk cedar grove situated in Vologda region. The grove was established by the seedlings planting in 1900-1904. The thin planting (10x10 m) allowed a high yield cedar forest to form here. The researches on the seed peel firmness are made by the floor universal experimental machinery AG-50kNX (Shimadzu), quipped with the loading cell SFL-50KNAG, ensuring the maximum loading by 50 кН as well as the accuracy rate of ±0.5%. The change of the pressing power and the pressing plunger replacement amount were made by means of the power measurement and replacement of the universal experimental machinery. The tests were made under the compression regime conditions. The results of the experiment prove the advanced assumption about the low firmness of nuts’ peel of plain-shaped cones’ forms. Nuts from the cones with plain apophysis type require the relatively less maximum power (11.34±0.48 k/s) and tension (1.17±0.03 k/s/mm2), but more time (7.44±0.96 s) on their cracking. To use the seeds of the given morphological trees’ forms is prospective for the production of cedar kernel. It is offered to select the types with plain seed peel apophysis type for the selection on the market qualities of the cedar nut.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведены результаты исследований прочности кожуры семян морфологических форм кедра сибирского (по типу апофиза семенной чешуи). Существование отличий по показателям прочности семенной чешуи между формами теоретически обосновано деятельностью кедровки (Nucifragacaryocatactes). Исследования проведены в Чагринской кедровой роще, расположенной в Вологодской области. Роща создана редкой посадкой (10х10 м) саженцев в 1900-1904 гг.,что способствовало формированию высокоурожайного кедровника. Для проведения анализа были отобраны по 11 семян из типичных шишек (по 11 штук каждой формы) с плоским, бугорчатым и крючковатым типом апофиза семян. Обеспечивалась точность наблюдения не менее 5%.Исследования прочности кожуры семян выполнены на универсальной напольной испытательной машине AG-50kNX (Shimadzu), оснащенной нагрузочной ячейкой SFL-50KNAG, обеспечивающей максимальную нагрузку до 50 кН и класс точности ±0,5 %. Измерение силы прессования и величины перемещения прессовочного плунжера осуществляли штатными приборами испытательной машины. Испытания проводились в режиме сжатия. Наименьшим показателем прочности отличаются семена из шишек с плоским типом апофиза (11,34±0,48 кгс), а наибольшим – из крючковатых шишек (13,48±0,39 кгс). Наибольшее разрушающее напряжение необходимо для раскалывания кожуры семян из крючковатых шишек (1,17±0,03 кгс/кв. мм), а наименьшее для образцов из плоских шишек (0,97±0,04 кгс/кв. мм). Наибольшее время, затрачиваемое на разрушение кожуры выявлено у семян плоскошишечной формы (7,44±0,96 с), а наименьшее у бугорчатой (5,27±0,29 с). Таким образом, орешки из шишек с плоским типом апофиза требуют сравнительно меньшей максимальной силы и напряжения при большем времени на их раскалывание. Использование семян данной морфологической формы перспективно для производства очищенных ядрышек кедрового ореха. Предлагается осуществление отбора особей с плоским типом апофиза семенной чешуи для селекции на товарные качества кедрового ореха.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://molochnoe.ru/journal/sites/molochnoe.ru.journal/files/jrnl_publication/20-4-book_v5.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>The Dairy Farming Bulletin</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2225-4269</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

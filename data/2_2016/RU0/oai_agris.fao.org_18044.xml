@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018044">
+    <dc:title xml:lang="en">Present status of ordinary chernozems of specially protected areas of the Lower Don</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Современное состояние черноземов обыкновенных особо охраняемых территорий Нижнего Дона</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Goncharova L.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Minkina T.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mandzhieva S.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sherstnev A.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Biryukova O.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kravtsova N.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zamulina I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P33</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Humus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nature reserves</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heavy metals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chernozems</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7156</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3693</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16141</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1533</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objects of the study were ordinary chernozems carbonate medium deep and deep on loess loam of Specially Protected Natural Areas of the Lower Don: Botanic Garden of the South Federal University (SFU), Persianovskaya Reserve Steppe, protected fallow land “Priazovskaya Steppe” of study-experimental farm of SFU “Nedvigovka”. In was revealed that the different content of humus, as well as the terms of texture and elemental composition of soils, depends on the period and regime of protection of SPNA. It was found that from 1953 to 2014 humus content decreased from 4.42% to 3.55% in ordinary chernozem of Botanic Garden of SFU. In chernozems of two other sites humus content was stable from 1953. Depending on humus content and its reserves, depth of humus-accumulative horizon A and humus horizon A + B, the level of availability of macro- and micro-elements, ordinary chernozems of the study SPNA can be ranked as following: Persianovskaya Reserve Steppe - Botanic Garden of SFU - Persianovskaya Reserve Steppe. This rank is corresponding to the duration of protected regime. Botanic Garden of SFU situated in the center of megalopolis (the city of Rostov-on-Don) has higher content of lead (Pb) in the topsoil of ordinary chernozem comparing to the other soils of considering sites.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Объектами исследований являлись черноземы обыкновенные карбонатные среднемощные и мощные на лессовидных суглинках особо охраняемых природных территорий Нижнего Дона: Ботанического сада Южного федерального университета (ЮФУ), Персиановской заповедной степи, заповедной залежи "Приазовская степь" учебно-опытного хозяйства ЮФУ "Недвиговка". Установлено, что различное содержание гумуса, а также показатели гранулометрического и элементного состава почв зависит от периода и режима заповедования особо охраняемых природных территорий. Установлено, что за 1953-2014 гг. произошло снижение содержания гумуса с 4,42 до 3,55% в черноземе обыкновенном Ботанического сада ЮФУ. В черноземах 2 других участков содержание гумуса с 1953 г. не изменилось. По содержанию гумуса и его запасам, мощности гумусово-аккумулятивного горизонта А и гумусового горизонта А + В, степени обеспеченности макро- и микроэлементами черноземы обыкновенные исследуемых особо охраняемых природных территорий можно ранжировать следующим образом: Персиановская заповедная степь &gt; Ботанический сад ЮФУ &gt; Приазовская степь, что соответствует длительности режима их заповедования. Расположенный в центре мегаполиса (г. Ростове-на-Дону) Ботанический сад ЮФУ имеет более высокое содержание свинца в верхнем горизонте чернозема обыкновенного по сравнению с другими почвами рассматриваемых участков.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.rosniipm-sm.ru/dl_files/udb_files/udb13-rec382-field6.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Scientific Journal of Russian Research Institute of Land Improvement Problems</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2222-1816</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

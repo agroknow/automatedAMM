@@ -1,0 +1,26 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016018297">
+    <dc:title xml:lang="ln">The Influence of Modified Potato Starch on the Cardboard Deformation and Strength Properties</dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Starch is used as a binder for increasing the surface sized and internal sized cardboard strength and as a binder in the clay-coating composition in the pulp and paper industry (PPI). To improve the physical and mechanical cardboard properties in technology the mod-ification of starch is frequently used. The work objective was to study the effect of biocata-lytic treatment of potato starch on the physical and mechanical cardboard properties based on recycled paper. The laboratory-made cardboard, consisting of 70 % hardwood hemicellu-lose and of 30 % MS-5B (GOST 10700-97) wastepaper, was used as the cellulose carrier. As the binder was used potato starch, pretreated with enzymes Pseudomonas amylodera-mosa isoamylase or Bacillus licheniformis pullulanase (Optimax L-1000). The square formed cardboard samples with a side length of 14 cm were impregnated with enzyme-pretreated starch paste, counting 200 units of enzyme activity per 1 g of dry matter for 3 hours at 50 °C and constant stirring. The impregnated cellulosic carriers were dried convec-tively on plates of organic glass at room temperature. The stretching test of materials was performed according to ISO 1924-2–85 in a laboratory test facility that included tensile test-ing machine TC 101-0,5b (Ivanovo) and the computer. The experiments demonstrated that pretreatment of starch with isoamylase enzyme led to a slight increasing in cardboard strength properties in comparison with cardboard, impregnated with non-fermented starch, whereas starch treatment with pullulanase enzyme, on the contrary, led to a reduction of almost all of the analyzed parameters.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://lesnoizhurnal.narfu.ru/issuesarchive/?ELEMENT_ID=246800</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ln</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Lesnoy Zhurnal (Forestry journal)</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0536-1036</ags:citationIdentifier>
+      <ags:citationNumber>v./n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

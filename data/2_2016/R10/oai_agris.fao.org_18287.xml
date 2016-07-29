@@ -1,0 +1,29 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016018287">
+    <dc:title xml:lang="lg">Taxonomic Composition and Systematic Dendroflora Structure in Belozersk</dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The landscaping problems in towns are reported extremely rare in the scientific literature. The towns and cities of the European North have the same social and economic problems. Going beyond the historically developed borders, the towns occupy new territories, change a surrounding landscape and introduce the negative features of urbanization in it. In addition, the plantings created in the past, often need to be reconstructed, as they become dangerous to life and human health and functioning of municipal facilities. For the improvement of social and aesthetic impacts of green plantings on the city life the exotic species are intro-duced into the green construction. The aim of the research is the assessment of the species composition and sanitary and hygienic state of green plantations in the recreation areas of the town of Belozersk in Vologda region. The basis of the research is the total inventory method. Dendroflora of the objects of research is represented by the species of 11 families. The largest representation demonstrates the Rosaceae family, which unites 6 species: 1 abo-riginal, 4 introduced and 1 extrazonal. The Pinaceae family is presented by 2 native and 1 introduced species. The Salicaceae family is represented by balsam poplar and snap wil-low. According to the recommendations of V.N. Nilov for landscaping of the populated are-as of the North including species of 20 families, a dendroflora variety of Belozersk is esti-mated as very poor. The inventory revealed only 14 species of trees and 5 species of shrubs</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3 and 5 species respectively had been introduced. In the development of promising land-scaping plans for the northern towns and parklands restoration we should introduce new breeds from other floristic regions more widely that will contribute to a balance of the needs of urban population and opportunities of green plantings.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://lesnoizhurnal.narfu.ru/issuesarchive/?ELEMENT_ID=246787</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">lg</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Lesnoy Zhurnal (Forestry journal)</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0536-1036</ags:citationIdentifier>
+      <ags:citationNumber>v./n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

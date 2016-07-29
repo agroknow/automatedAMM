@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016A17169">
+    <dc:title xml:lang="ru">INFLUENCE OF RADIOECOLOGICAL PICTURE IN FOREST LANDS ON THE INTERNAL RADIATION OF VILLAGERS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ВЛИЯНИЕ РАДИОЭКОЛОГИЧЕСКОЙ СИТУАЦИИ В ПРИСЕЛИТЕБНЫХ ЛЕСНЫХ МАССИВАХ НА ДОЗЫ ВНУТРЕННЕГО ОБЛУЧЕНИЯ СЕЛЬСКИХ ЖИТЕЛЕЙ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>SHCHUR Alexander</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>VINOGRADOV Dmitry</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>AGEEVA Tamara</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SHAPSHEEVA Tatiana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>GRYAZIN Vladimir</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Belarus-Russian University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ryazan State Agrotechnological University named after P.A.Kostychev</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Mogilev branch of the Institute of Radiology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Volga State University of Technology</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Introduction. As a result of the catastrophe at the Chernobyl Nuclear Power Plant, more than 30 % area of Mogilev region is polluted with long-lived radionuclides 137Сs and 90Sr. Plants and animals, which became an integral food link and the source of internal irradiation of population, actively accumulated the radionuclides. There are more persons with high internal radiation dose in the villages located in a close proximity to forests. The goal of the research was to study the interdependence between internal radiation dose of villagers and radioecological situation in forestlands, bordering on the populated area. Methods. Whole-body counter measurements of 6187 persons, made with an account of the seasonable measurement repeatability in 2006-2012 in 62 villages of the five most polluted districts of Mogilev region were used in the research. 137Cs content in the organisms of villagers was measured with the use of radiation spectrometer СКГ-АТ1316 on the basis of ГАЗ-3221. To estimate the forest radiation safety, an aggregate Dl was calculated. The aggregate takes into account such characteristics as forest proximity to a populated area, its size (small, medium large forestland) and 137Cs pollution density of its separate areas. Results. The populated areas which border on the large compulsory evacuation zone, and are located 0.5 km from large forestland, pollution density of which exceeds 555.0 kBq/m2 (1480.0 kBq/m2 sometimes) showed the lowerst Dl figures (0.116 and 0.120). The populated areas with practically no forest in a radius up to 4 km and low pollution density showed the maximum figures (0.939 and 0.912). Conclusion. The factors influencing the internal radiation dose of villagers are internal radiation dose forest peculiarities (forested area, 137Cs pollution density , and farness from populated area). Statistically significant dependence on a number of inhabitants in a populated area and medium internal radiation dose was determined. Inhabitants living in small villages had three times less internal  adiation dose than the inhabitants living in large populated areas.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рассмотрено влияние степени удалённости сельских населённых пунктов Могилёвской области Республики Беларусь от лесных массивов, пострадавших в результате чернобыльской катастрофы, на дозовые нагрузки их жителей. Установлено, что наиболее значимыми радиоэкологическими факторами, влияющими на дозы внутреннего облучения сельских жителей, являются размер лесного массива, плотность его загрязнения 137Cs и удалённость от населённого пункта, а также плотность загрязнения 137Cs территории населённого пункта. Выявлена также статистически значимая зависимость между численностью жителей в населённом пункте и средней дозой внутреннего облучения: жители мелких населённых пунктов имели дозу внутреннего облучения почти в три раза выше, чем жители крупных. Показано, что величина средней дозы внутреннего облучения сельских жителей в населённом пункте не зависит от степени загрязнения молока.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journals.volgatech.net/index.php/forest/article/view/353/356</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>VESTNIK of Volga State University of Technology. Series: Forest, Ecology, Nature Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2306-2827</ags:citationIdentifier>
+      <ags:citationNumber>v.29/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018233">
+    <dc:title xml:lang="en">Study of effect of cinnamon oil extract on quality of caviar products from frozen salmon unscreened roe</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Изучение влияния масляных экстрактов корицы на качество икорных продуктов из мороженых ястыков лососей</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lazhentseva L.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">roes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">salmon</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">extracts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antimicrobial properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6634</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6756</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2767</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26756</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The quality of caviar products produced from frozen salmon unscreened roe decreases rapidly during storage due to oxidation, hydrolytic and microbial processes. Antiseptic additives used only delay the development of microorganisms in foods, but do not affect the intensity of the hydrolysis and oxidation of lipids. To preserve the quality and enhance the stability of caviar products cinnamon oil extracts (COE) having antimicrobial and antioxidant action have been used. COE samples obtained by infusion of ground cinnamon in a heated vegetable oil in the amount of 2, 5, 7 or 10%, and the further separating of a liquid portion from a thick sediment. The formulation of the caviar product includes caviar (70%), COE (25%), salt (4%) and emulsifier (1%). Studies of caviar products with added COE during cold storage (t -1-5 deg C) for 5 month showed inhibition of microorganisms and reduction of intensity of oxidative and hydrolytic processes in all samples. The best organoleptic properties had the products with added COE obtained by extraction of cinnamon in amounts of 2 and 5%. The use of COE in the caviar product technology excluding the addition of antiseptics can save their high quality and increase their shelf life up do 4–5 months.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Качество икорных продуктов, получаемых из мороженых ястыков икры лососевых рыб, в процессе хранения быстро снижается за счет окислительных, гидролитических и микробных процессов. Используемые антисептические добавки задерживают лишь развитие микроорганизмов в продуктах, но не влияют на интенсивность процессов гидролиза и окисления липидов. Для сохранения качества и повышения стойкости икорных продуктов использовали масляные экстракты корицы (МЭК), обладающие антимикробным и антиоксидантным действием. Варианты МЭК получали путем настаивания молотой корицы в количестве 2, 5, 7 или 10,0% в подогретом растительном масле и дальнейшего отделения жидкой части от плотного осадка. Рецептура икорных продуктов включала в себя 70% икорной массы, 25% МЭК, 4% поваренной соли, 1% эмульгатора. Исследования икорной продукции с добавлением МЭК в процессе хранения при t -1-5 град. С в течение 5 мес. показали, что во всех образцах отмечается ингибирование микроорганизмов, снижается интенсивность окислительных и гидролитических процессов. Наилучшими органолептическими свойствами характеризовались продукты с добавлением МЭК, полученных при экстрагировании корицы в количестве 2 и 5%. Использование МЭК в технологии икорных продуктов без добавления антисептических препаратов позволяет сохранить их высокое качество и увеличить срок хранения до 4–5 мес. МЭК.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://fptt-journal.ru/stories/archive/39/7.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Food Processing: Techniques and Technology</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2074-9414</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

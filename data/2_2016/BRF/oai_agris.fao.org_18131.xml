@@ -1,0 +1,91 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F18131">
+    <dc:title xml:lang="en">Performance and carcass traits of lambs fed diets containing different cereal grains</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Desempenho e características da carcaça de cordeiros alimentados com dietas contendo grãos de diferentes cereais</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>VIDAL, M. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>PEREIRA, A. S. C.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CAÇÃO, M. M. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SILVA, S. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>HENRIQUE, W.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FUZIKAWA, I. H. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>AFERRI, G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lambs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">diet</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed intake</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Zea mays</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">slaughter value</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4163</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2261</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16126</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8504</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35851</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the performance, apparent digestibility, and carcass and meat traits of lambs fed high-concentrate diets (92.65%) containing different cereal grains (ground corn, whole grain corn, whole grain sorghum, or replacement of 40% whole grain corn with whole grain millet). Twenty-four feedlot intact lambs of undefined breed, with a body weight of 22.35 ± 3,.71 kg, kept in individual pens for 56 days were allocated in a completely randomized design. Dry matter intake expressed as a percentage of body weight was higher (P=0.0046) for the diets containing sorghum and ground corn (3.73% and 3.39%, respectively) compared to the diets containing millet and whole grain corn (3.23% and 3.13%, respectively). Feed efficiency was higher (P=0.014) for whole grain corn and millet (0.293 and 0.269, respectively) and lower for ground corn and sorghum (0.247 and 0.226, respectively). The apparent digestibility of organic matter, dry matter and crude protein was lower for the sorghum diet (P=0.0003). The carcass traits, meat cuts traits or objective longissimus muscle tenderness were not influenced by the diets offered to the animals. Meat color (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se avaliar desempenho, digestibilidade aparente, características da carcaça e da carne de cordeiros alimentados com dietas de alta proporção de concentrado (92,65%) contendo grãos de diferentes cereais (grão moído de milho</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">grão inteiro de milho</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">grão inteiro de sorgo</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">ou substituição de 40% do grão inteiro do milho por grão inteiro de milheto). Foram utilizados vinte e quatro machos inteiros, sem raça definida, com peso corporal de 22,35 ± 3,71 kg, confinados em baias individuais por 56 dias, alocados em delineamento inteiramente casualizado. O consumo de matéria seca em porcentagem do peso corporal foi maior (P=0,0046) para as dietas com sorgo e grão moído de milho, 3,73% e 3,39%, que para milheto e grão inteiro de milho, 3,23% e 3,13%. A eficiência alimentar foi maior (P=0,0140) para grão inteiro de milho e milheto, 0,293 e 0,269, e menor para grão moído de milho e sorgo, 0,247 e 0,226. A digestibilidade aparente da matéria orgânica, matéria seca e proteína bruta foram menores (P=0,0003) para a dieta com sorgo. As características de carcaça e dos cortes cárneos não foram influenciadas pelas dietas fornecidas aos animais, bem como a maciez objetiva do músculo Longissimus. Os parâmetros de cor e luminosidade da carne foram melhores (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v73n2p134</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.73/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

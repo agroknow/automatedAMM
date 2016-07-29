@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017140">
+    <dc:title xml:lang="en">Β-Carotene content of M. Longifolia seed oil in different agro-climatic zones in Sri Lanka, the effect of heat on its stability and the composition of seed cake</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Munasinghe, Mihiri</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Wansapala,  Jagath</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">climate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oil plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carotenes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1665</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32351</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9632</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">M. longifolia is a plant with a seed rich of edible oil (more than 50%), but is still under-utilized for edible purposes in Sri Lankan context. It shows a wide distribution throughout the country representing several agro-climatic zones. No studies have done yet to discover variations of M. longifolia seed oil with respect to its different geographical locations. In this study, the content of β-carotene in M. longifolia seed oil samples obtained from four different agro-climatic zones in Sri Lanka was evaluated. The effect of heat on the stability of β-carotene in M. longifolia seed oil was also studied. Dried, fallen seeds were collected from randomly selected trees in four agro-climatic zones in Sri Lanka named low country dry zone (LD), low country wet zone (LW), low country intermediate zone (LI) and mid country intermediate zone (MI). Oil was extracted with a small scale, mechanical oil expeller (cold pressed method). β-carotene content in four samples was assessed with MPOB test method using Ultraviolet-Visible (UV-VIS) spectrophotometer and with High Performance Liquid Chromatography (HPLC) using Chase et al., (1994) method. A series of heat treatment (50 °C - 300 °C) was given and the content of β-carotene was determined at each temperature with the above mentioned two methods. There were some differences in the content of β-carotene for two types of methods. β-carotene content varies from 17.69 to 13.51 ppm in four agro-climatic zones for HPLC method and 20.46 - 27.69 ppm for spectrophotometric method. The reduction of β-carotene content up to 150 °C from the room temperature (30 °C) was not prominent. But after 150 °C, a sudden, sharp decrease was reported. Nutritional composition of seed cake varied significantly (p</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/502/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

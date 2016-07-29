@@ -1,0 +1,62 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016017819">
+    <dc:title xml:lang="id">Penampilan reproduksi kerbau post partum pada berbagai level GnRH yang disinkronisasi dengan PGF 2 alpha</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Post-partum reproductive appearance of buffalo at various levels of GnRH and synchronized with PGF 2 alpha</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Yendraliza .</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universitas Islam Negeri Sultan Syarif Kasim</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L53</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">water</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproductive performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oestrous cycle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pregnancy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Prostaglandins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8309</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5322</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6166</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6236</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A study of reproductive performance of buffalo treated with levels of GnRH was conducted on twenty buffaloes of Kampar.  The animals were divided into five groups. Group 1 received 200 micron g GnRH, the second group received 250 microng GnRH, the third group received 300 micron g GnRH, the fourth group received 350 micron g GnRH and the fifth group received 400 micron g GnRH. Each group also received 12.5 micron G PGF2 alpha at days 7 followibg GnRH injection. Sign of estrus was observed 9 days after GnRH injection. Statistical analysis was performed based on completely randomized design. Results showed that the injection of 300 micron g of GnRH that was followed by 12,5 microng of PGF2 was able to show obvious sign of post-partum oestrus, with sign of estrus appeared at  oestrus rate of 27.8 hours, following PGF2 alpha injection, with 100 percent of pregnancy rate and 100 percent of calving rate.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://oaji.net/articles/2015/1610-1424659076.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Jurnal Ilmu Ternak dan Veteriner</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0853-7380</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

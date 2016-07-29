@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017766">
+    <dc:title xml:lang="en">Animal genetic diversity in agriculture</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Dragin, Saša</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Chrenek, P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Stančic,  Ivan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Stegič,  Milan</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Nitra</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic variation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal genetics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3222</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15975</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49986</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionEdition>1 st.</ags:descriptionEdition>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Genetic diversity, in economic and social terms, is of ten measured by national wealth. Biodiversity, which presents wildlife diversity, has an impact on food safety and, for this reason, it has a specific importance for population. The diversity of natural resources enriches the social and cultural side of human life. Due to the increasing importance of biodiversity preservation, the Republic of Serbia, academic institutions, non-governmental organizations and individuals are making efforts to increase public awareness and promote appropriate policies and scientific approaches to preservation and sustainable utilization of genetic diversity . "The animal genetic diversity in agriculture" monograph, explains the concept of biodiversity and its relationship with other factors in nature and its environment. It also defines animal genetic resources, indicating their evolutionary processes and historical significance, status and characterization of the causes of genetic erosion</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">explains the global policy and scientific approach to preservation and sustainable utilization of these resources. The monograph is written for readers of different profiles, in order to promote preservation of animal genetic resources, and it can be useful for teachers, students, people from the profession and science, and all the others who want to preserve the genetic diversity of our planet, through the concept of sustainable utilization. This monograph will be a stimulus for further progress in the studying and preservation of biodiversity, especially for preservation of animal genetic resources of the Republic of Serbia and, by writting it, the authors make the contribution to preserve the natural values and leave them as a heritage for future generations.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="ags:ISBN">978-80-552-1348-4</dc:identifier>
+    <dc:type>Book</dc:type>
+  </ags:resource>
+</ags:resources>

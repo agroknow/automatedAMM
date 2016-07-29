@@ -1,0 +1,68 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017373">
+    <dc:title xml:lang="en">Effect of snowmaking on vegetation of submontane ski area</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Vplyv zasnežovania na vegetáciu podhorského lyžiarskeho strediska</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Mikloš Michal</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Slobodníková Lenka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Babálová Darina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Škvarenina Jaroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ujházy Karol</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email:  karol.ujhazy@tuzvo.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">snow cover</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biological diversity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">tourism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vegetation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7125</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33950</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7822</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Artificial snow cover that remains on the ski slope of Košútka ski centre four weeks longer, after disappearing of natural snow is obviously artificial. In comparison with natural snow, following characteristics were different: i.) 1.8 times higher density, ii.) higher snow depth, iii.) irregular distribution on the ski slope as a result of the distance from snow lances. The main reason for its prolonged melting is higher density and depth of the snow cover on the ski slope (average density of artificial snow, measured in the end of the winter season 2012, was 0,612 g.cm-3). Moreover, after disappearing of natural snow had been depth of artificial snow on the ski slope still between 
+0–160 cm. The maximums were in the close proximity of the snow lances while snow depth was linearly decreasing to the edge of ski run from here. Plant communities, which were situated on the least disturbed part of slope were classified to the Violion caninae alliance. Statistical analyses confirmed significant effects of the artificial snow on the vegetation. There was found lower average species richness, species pool and herb-layer cover of plant communities. On the other hand, significantly higher evenness and percentage of bare soil under the artificial snow cover compared to the natural situation was observed. However, generall validity of the current findings from the Košútka ski resort (serving as a pilot locality in the submontane zone), has to be proved by a series of similar studies in another ski resorts representing broader geographical range.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/3_3/Acta_Facultatis_Forestalis/aff_suppl_57_2015.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta  Facultatis Forestalis Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0231-5785</ags:citationIdentifier>
+      <ags:citationNumber>v.57/n.Suppl. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

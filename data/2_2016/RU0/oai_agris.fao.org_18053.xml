@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018053">
+    <dc:title xml:lang="en">Prospective trends in cheese and butter manufacturing for Black Earth region dairy cluster</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Перспективные направления в секторе производства молокоемкой продукции в условиях молочного кластера Черноземья</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ovsyannikova G.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gridyaeva N.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk products</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Breeds (animals)</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">raw milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genotypes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Casein</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4830</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1357</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Analysis of Voronezh Region dairy complex’s condition is given. Breeding resources and genetic potentialities of different breeds are shown. Breed influence on milk productivity, composition and technological properties is analyzed. It is demonstrated that in Voronezh Region milk from cattle stock (96.7% in protein content and 97.8% in fat content) exceeds basic values by 10-15%. Polymorphism of kappa-casein gene has been studied in servicing bulls used in Voronezh Region taking into account their linear appurtenance. Research reveals that 46 heads have AA genotype (50.0%), 39 heads have AB genotype (42.4%), whereas only 7 heads have BB genotype (7.6%). A-allelic frequency in bulls of all breeds in population reaches 0.77 on the average</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">B-allelic frequency is 0.57. Red Spotted, Simmental, Black Spotted Holstein bulls carry BB homozygous genotype, which has not been found in Red Spotted Holstein bulls. Bulls of Mountwick Chieftain and Reflection Souvering lines carry desired BB genotype, whereas bulls of Vis Back Ideal do not possess it. Maximum number of desired homozygous BB genotype has been discovered in bulls of Red Spotted breed (Voronezh type, with B-allelic frequency of 0.65). Milk obtained from Red Spotted cows (population share is 64.8%) born from bull having kappa-casein B-allele demonstrates better technological properties. Protein content in milk of these cows exceeds other genotypes’ milk-protein index by 0.08-0.12%, fat content – by 0.1-0.12%, milk clots 10-14 minutes faster, i.e. it is more suitable for cheese-making. Cows born from bull having AA genotype demonstrate higher level of milk productivity. Bull’s genotype in kappa-casein can serve as extra-criterion for cattle stock selection. In order to improve cheese-making properties of milk one should to maintain proper number of animals carrying kappa casein B gene allele in their genome in herds.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Проанализировано состояние молочного комплекса Воронежской области. Показаны племенные ресурсы и генетические возможности разных пород. Изучено влияние породы на молочную продуктивность, состав и технологические свойства молока. Показано, что в условиях Воронежской области молоко 96,7% животных по содержанию массовой доли белка и 97,8% по содержанию массовой доли жира на 10-15% превышает базисные показатели. Исследован полиморфизм гена каппа-казеина у быков-производителей, использующихся в Воронежской области с учетом линейной принадлежности. Выявлено: 46 голов имеют генотип АА (50,0%), 39 голов – генотип АВ (42,4%) и только 7 голов генотип ВВ (7,6%). Частота аллеля А в среднем по быкам всех пород в популяции достигла 0,77</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">частота аллеля В – 0,57. У быков красно-пестрой, симментальской, голштинской черно-пестрой пород имеются носители гомозиготного генотипа ВВ. У быков голштинской красно-пестрой породы данный генотип отсутствует. Быки линии Монтвик Чифтейн и Рефлекшн Соверинг имеют желательный генотип ВВ, у быков линии Вис Бэк Айдиал он отсутствует. Наибольшее число желательных гомозиготных генотипов ВВ выявлено среди быков красно-пестрой породы (Воронежский тип – частота аллеля В составляет 0,65). Молоко, полученное от коров красно-пестрой породы (удельный вес в структуре популяции – 64,8%), являющихся дочерьми быка, содержащих В-аллель каппа-казеина, имеет лучшие технологические свойства. Содержание белка в молоке этих коров превышало показатели белковомолочности других генотипов на 0,08-0,12%, содержание жира на 0,1-0,12%, молоко свертывалось на 10-14 мин быстрее, т. е. оно лучше подходит для сыроделия. Особи, рожденные от быка с генотипом АА, имеют более высокий уровень молочной продуктивности. Генотип быка по каппа-казеину может служить дополнительным критерием при отборе животных. Для улучшения сыропригодности молока следует поддерживать в стадах необходимое количество животных, несущих в своем геноме аллель В гена каппа-казеина.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestnikmax.ifmo.ru/file/article/14927.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik Mezhdunarodnoi Akademii Kholoda</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1606-4313</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

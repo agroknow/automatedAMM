@@ -1,0 +1,69 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="QC2016218082">
+    <dc:title xml:lang="en">Burned area delineation from ASTER multispectral imagery combined with different image classification techniques  [Thesis (M.Sc.)]</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Abbi Said Yahia</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Mediterranean Agronomic Institute of Chania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Chania (Greece)</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U40</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fires</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Burning</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cartography</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">imagery</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">image analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land classification</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2915</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9499</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1344</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36760</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36762</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15991</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Bibliography: p. 90-107 ; ill.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Information on burned area estimates is of vital importance in environmental and ecological studies as well as in fire management including damage assessment and planning of post-fire recovery of affected areas. The aim of this thesis is to evaluate the capability of satellite imagery from the ASTER sensor to delineate burned area estimates in conditions characteristic of a Mediterranean environment using as a case study a fire that occurred close to the capital of Greece during the devastating fires of 2007, combined with different supervised classification algorithms, namely the Maximum Likelihood, the Support Vector Machines and the object-based classification. The specific objectives of the work to be conducted in the framework of the present thesis include evaluating the ability of ML, SVM and OBIA semi-automatic image processing algorithms in obtaining burned area cartography and investigating the effect of atmospheric and topographic corrections to derive accurately the estimates of burned areas when the above image processing techniques are combined with ASTER imagery. The last objective is appraising the effect of inclusion of ASTER shortwave infrared (SWIR) bands to the burned area retrievals. Moreover, at least in our case study, the object-based image analysis approach seems to be a promising method in the field of burned area mapping as it showed the best detection efficiency rate (0.928), absolute percentage difference from the available estimate for the study region (7.5%) and common burned area (44.72 km2) within all the scenarios examined in the present work.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://docs.maich.gr/thesis/T000892</dc:identifier>
+    <dc:type>Other</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <agls:availability>
+      <ags:availabilityLocation>T000892</ags:availabilityLocation>
+      <ags:availabilityNumber>892/FO/AB</ags:availabilityNumber>
+    </agls:availability>
+  </ags:resource>
+</ags:resources>

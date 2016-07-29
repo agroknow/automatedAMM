@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018302">
+    <dc:title xml:lang="en">Soil-forming processes and ESP concept in modern soil</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Почвообразовательные процессы и концепция ЭПП в современных почвенных классификациях</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gerasimova M.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P32</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil classification</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil genesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil profiles</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7162</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7173</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_14402</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Identification and systematic of elementary soil-forming processes (ESP) is an important contribution of I.P. Gerasimov to pedology. The ESP concept was derived from the ideas of S.S.Neustruyev, and is now implemented and advanced by the pupils and followers of I.P. Gerasimov</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">it was comprehensively discussed in the monograph published in 1992 under the same title. In his paper of 1975, I.P. Gerasimov described 13 ESP sensu stricto, categorized them, and proposed to use them for the diagnostics of most well-known soils of the USSR. He proposed "process and profile codes" that were later modified into "profile formulae" and efficiently introduced into the Russian system of soil classification. An analysis of Russian and world soil classification systems in terms of the role of soil-forming processes has shown that genetic concepts are not directly used as differentiating criteria (with few exceptions) although their knowledge contributes to a better understanding of soils and soil properties. Nevertheless, soil-forming processes, similar to the ESP in their essence, perform an important function of controlling the choice, definitions and discriminative boundaries of diagnostic tools (horizons, properties and materials). In accordance with the traditions of the Dokuchaev’s School much attention is paid to soil-forming processes in the Russian system: the ESP serve as criteria to specify the genetic features for the identification of the subtypes.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Обоснование и систематизация элементарных почвенных процессов (ЭПП) – важный вклад И.П. Герасимова в генетическое почвоведение. Концепция ЭПП основана на идее С.С. Неуструева конца 1920-х годов, предложившего использовать ее в классификации почв. В 1975 г. И.П. Герасимовым выделены 13 собственно ЭПП, они ранжированы на трех уровнях, определено их диагностическое значение для наиболее изученных почв СССР. Для них составлены процессные и профильные коды, которые в качестве "формулы профиля" впоследствии успешно реализованы в классификации почв России. Концепция развивается учениками и последователями И.П. Герасимова, в частности, под редакцией Н.А. Караваевой и С.В. Зонна опубликована одноименная монография в 1992 г. с подробным описанием расширенного спектра ЭПП. Анализ отечественных и мировых почвенных классификаций с позиций значения в них генезиса, т.е. процессов почвообразования, показал, что, за редким исключением, генетические концепции непосредственно не используются. Тем не менее, почвообразовательные процессы, по существу своему близкие ЭПП, выполняют в современных классификациях важную контролирующую функцию выбора и определения диагностических показателей (горизонтов, признаков, субстратов в международной и американской классификациях) и их критериев. В соответствии с традициями докучаевской почвенной школы, в классификации почв России процессам уделено много внимания. Кроме контролирующей функции в отношении диагностических горизонтов – основы идентификации типов почв – ЭПП непосредственно используются для выделения генетических признаков, идентифицирующих подтипы.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://yadi.sk/i/-9mM72a-kYmRq</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of V.V. Dokuchaev Soil Science Institute</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0136-1694</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 81</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

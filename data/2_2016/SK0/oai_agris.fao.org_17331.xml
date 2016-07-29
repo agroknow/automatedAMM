@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017331">
+    <dc:title xml:lang="en">Total polyphenols content in fruits of selected cultivars of strawberries in relation to concentrations of cadmium and lead in soil</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Trebichalský, Pavol</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Molnárová,  Juliana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bajčan,  Daniel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Timoracká Mária</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Musilová Janette</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Harangózo,  Ľuboš</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fertilization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Polyphenols</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">strawberries</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2863</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7443</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The key aim of our study was to define the correlation of total polyphenols contents in seven cultivars of strawberries (Clery, Sonata, Alba, Korona, Ázia juh, Anthea, Joly) grown in the parcels with exceeded levels of pseudo-total Cd and mobile Pb in soil. Strawberries were grown in rows long 200 m, the distance of the plants was 0.35 m and inter-row distance was 1 m. Following fertilizing was applied - at the beginning of vegetation period the doses of elements (in kg.ha) were: N48.2 +P78.3 +K66.3 +Mg7.2, afterwards 23 days of elements were applied in liquid irrigation in amount: N46.5 +P34.8 +K118.7. Heavy metals in contamination soil were analysed by the method of atomic absorption spectroscopy and total contents of polyphenols spectrophotometrically. The highest content of all monitored parameters (pseudo-total and mobile Cd and Pb, as well as the amount of total polyphenols) was found in Ázia juh cultivar. There was statistically significant positive relation of total polyphenols contents in Anthea cultivar to levels of all monitored forms of metals in soil and contrary, in Clery cultivar there was found non-correlation of total polyphenols contents on levels of monitored heavy metals in soil (mainly of mobile contents of Cd and Pb contents). Contents of mobile forms of individual heavy metals positively correlated with total polyphenols (except of Clery and Ázia juh cultivars). Varietal relation on levels of total polyphenols was confirmed in experiment prior to relation of these organic compounds to the presence of monitored heavy metals in soil.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/507/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

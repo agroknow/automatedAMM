@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P17008">
+    <dc:title xml:lang="ru">НАЧАЛО ИНТЕГРАЦИИ РЫНКА СЕЛЬСКОХОЗЯЙСТВЕННОЙ ПРОДУКЦИИ СЕВЕРНОГО КАВКАЗА В ОБЩЕРОССИЙСКИЙ (40 – 50-Е ГГ. XIX В.)</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>HOME MARKET INTEGRATION OF AGRICULTURAL PRODUCTS OF NORTH CAUCASUS INTO THE RUSSIAN (40 - 50-IES OF XIX C.)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Dzuganov  T.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">B50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">history</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3635</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: Russia, North Caucasus, agricultural products, market, exchange-yard</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье исследуется начальный этап интеграции кавказского рынка сельскохозяйственной продукции в общероссийский рынок. Анализируется политика царской администрации по выработке и регламентации порядка торговли на меновых пунктах. Изучается условия становления и развития торговых отношений горских народов с казачеством Черномории и русскими переселенцами. Устанавливается взаимосвязь между массовым проникновением русского населения на Северный Кавказ и началом модернизации сельского хозяйства горских народов, появлением признаков многоукладности и возникновением рыночных
+(капиталистических) отношений в экономике этих народов.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This article explores the initial phase of the integration of the agricultural market of the Caucasus into the Russian market. The imperial administration to develop policies and regulations concerning trading in exchange-offices is analyzes. We study the conditions of formation and development of the trade relations of Mountain Peoples of Black Sea coast with the Cossacks and Russian immigrants. Relationship between the mass penetration of the Russian population of the North Caucasus and the beginning of the modernization of agriculture of the mountain peoples, the appearance of signs of multiculturalism and the emergence of the market (capitalist) relations in the economy of these peoples is set up.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.modernsciencejournal.org/release/USN_2016_4_4_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№4 (part 4), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

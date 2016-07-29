@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P16930">
+    <dc:title xml:lang="ru">ФЛУКТУАЦИОННАЯ ИЗМЕНЧИВОСТЬ ДОЛГОЛЕТНЕГО СЕНОКОСНОГО ФИТОЦЕНОЗА ПРИ РАЗНЫХ УРОВНЯХ МИНЕРАЛЬНОГО ПИТАНИЯ В УСЛОВИЯХ ВИЛЮЙСКОЙ ЗОНЫ ЯКУТИИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>FLUCTUATING MUTATION OF A LONGSTANDING AND MEADOW PHYTOCENOSIS IN THE EQUAL CONDITIONS OF MINERAL ALIMENTATION IN YAKUTIA AND ITS ZONE VILUY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Barashkova  N.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fedorova  A.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gabysheva  L.K.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: fluctuation, a longstanding phytocenosis, a phytocenosis, dominant, mineral fertilizings</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Впервые дан сравнительный анализ закономерностей флуктуационной изменчивости сенокосного фитоценоза в зависимости от уровня минерального питания при естественном увлажнении.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">For the first time it’s given a comparative analyzing of the fluctuating mutation and its characteristics according to degrees of mineral nutrition in case of natural weiting.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USN_2016_4_1_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.6/n.№4 (part 1), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

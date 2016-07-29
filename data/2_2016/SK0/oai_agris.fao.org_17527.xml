@@ -1,0 +1,51 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017527">
+    <dc:title xml:lang="en">Assessing expression of TAS2R16 receptor on the tongue of elderly persons</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Fekete Tomáš</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Židek Radoslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Maršálková Lenka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">S01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">elderly nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">tongue</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49892</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34818</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7809</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In conducted study, we assessed expression of TAS2R16 receptor gene on the tongue of elderly persons. The TAS2R16 receptor belongs to family of G-protein coupled bitter taste receptors and is expressed in type 2 taste cells, which are a part of taste buds. The taste buds are distributed across the tongue's surface on the specialised structures called papillae. The TAS2R16 receptor mediates bitter taste in response to β-glucopyranosides such as salicin. The purpose of conducted study was to examine, whether the ageing process influence gene expression and hence the perception of taste at the molecular level. Ageing process is often related to either decreased or total lost perception of taste qualities. It is due to physiological changes in the oral cavity. The changes in taste cell membranes involve altered function of ion channels and receptors, which ultimately lead to decreased tasting ability of elderly people. In addition, various causes, such as oral and systemic diseases, drug administration, lifestyle (i.e. smoking) and some oral conditions (wearing dentures, dental caries and coated tongue), may extracerbate this issue. Loss of taste may become a large factor in reduction of appetite, which may lead to malnutrition. To accomplish the objective of this study, we recruited ten elderly persons. One 25-year old human was used as calibrator. We used non-invasive scrapping method for collecting taste cells from fungiform papillae of each subject. A multiplex TaqMan real-time PCR was performed to amplify cDNA of TAS2R16 and PGK1 genes, whereas the last one served as housekeeping gene. The TAS2R16 gene expression for elderly persons relative to that of young one was calculated according to the 2-ΔCT formula. Results pointed out to increased expression of TAS2R16 gene by 2-fold in 5th and 8th seniors. It is assumed that they perceive more intense bitterness from salicin at the molecular level than 25-year old person. The 2nd, 3rd, 7th and 10th elderly persons have had decreased expression level about 70%, whereas in case of 6th one that was even about 90%. It is supposed that these subjects, in particular last one, respond to salicin very weakly. This data may show evidence of almost total loss of taste. The causes and consequences are discussed in more detail.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/574/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

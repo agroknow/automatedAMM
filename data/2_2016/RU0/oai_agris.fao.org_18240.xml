@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018240">
+    <dc:title xml:lang="en">Research on forms of moisture links in semi-hard cheeses</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Исследование форм связи влаги в полутвердых сырах</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Bryukhanov M.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ermolaev V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tretyakova N.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">moisture content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Thermogravimetric analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4886</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37379</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the course of drying of foodstuffs, a number of physical and chemical, biological, structural and mechanical transformations take place. They should be considered when developing appropriate technologies of dehydration. As the object of the research, semihard cheeses of the following brands were chosen: “Gollandsky”, “Kostromskoy” and “Poshekhonsky”. To analyze the forms of moisture links the method of the differential thermal analysis was used. By means of thermogravimetry the graphs of dependence of weight change and rate of weight change on the temperature of heating of the studied samples in the course of heat treatment were obtained. A derivatogram of semihard cheeses enabled to find characteristic temperature sites of dehydration steps, intervals of stability of intermediate compounds, and steps of substance destruction, which are defined by peaks of endothermic reactions which are characterized by intensive moisture evaporation and extraction of gaseous compounds. Basing on the obtained data the dependence of extent of substance transformation on heating temperature has been calculated. The kinetics of dehydration of semihard cheeses has been analyzed. The temperature intervals corresponding to the steps of substance dehydration and destruction have been established. It has been revealed that the greatest part of moisture in the studied cheeses: from 60.3% (“Poshekhonsky”) to 69.7% (“Kostromskoy”) is free moisture. For “Gollandsky” cheese the most moisture is extracted at 73-172 deg. C. For “Kostromskoy” and “Poshekhonsky” cheeses, the temperature ranges are within 78-196 deg. C and 94-242 deg. C respectively. Destruction of substances begins at 178 deg. C, 192 deg. C and 211 deg. C for “Gollandsky”, “Kostromskoy” and “Poshekhonsky” cheeses respectively. The presented research results can be useful to food industry experts and researchers.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В процессе сушки пищевых продуктов происходит целый ряд физико-химических, биологических и структурно-механических преобразований, которые следует учитывать при разработке соответствующих технологий обезвоживания. В качестве объекта исследования были выбраны полутвердые сыры следующих марок: «Голландский», «Костромской» и «Пошехонский». Для анализа форм связи влаги использовался метод дифференциально-термического анализа. С помощью термогравиметрии получены графики зависимости массы и изменения массы по температуре нагрева исследуемых образцов в процессе термической обработки. По дериватограмме полутвердых сыров обнаружены характерные температурные участки ступеней дегидратации, интервалы устойчивости промежуточных соединений, а также ступени деструкции веществ, которые определяются пиками эндотермических реакций, характеризующихся интенсивным испарением влаги и выделением газообразных соединений. По полученным данным рассчитана зависимость степени превращения вещества от температуры нагрева. Проанализирована кинетика дегидратации полутвердых сыров. Установлены температурные интервалы, соответствующие ступеням дегидратации и деструкции веществ. Обнаружено, что наибольшая часть влаги в исследуемых сырах, от 60,3% («Пошехонский») до 69,7% («Костромской») приходится на свободную влагу. Для сыра «Голландский» извлечение основной массы влаги наблюдается на температурном участке 73-172 град. С. Для сыров «Костромской» и «Пошехонский» температурные диапазоны лежат в пределах 78-196 град. С и 94-242 град. С соответственно. Температура, при которой начинается процесс деструкции веществ, составляет 178, 192 и 211 град. С соответственно для сыров «Голландский», «Костромской» и «Пошехонский». Представленные результаты исследований могут быть полезны работникам научной сферы и пищевой промышленности.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://fptt-journal.ru/stories/archive/39/16.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Food Processing: Techniques and Technology</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2074-9414</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

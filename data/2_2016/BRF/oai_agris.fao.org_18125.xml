@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F18125">
+    <dc:title xml:lang="en">Performance of weaned piglets fed diets containing spray dried plasma</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Desempenho de leitões desmamados alimentados com dietas contendo plasma spray dried</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>BUDIÑO, F. E. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MONFERDINI, R. P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SITANAKA, N. Y.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>FERRACIOLI, L. B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MORAES, J. E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CASTRO, A. M. M. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CASTRO JÚNIOR, F. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Swine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">diarrhoea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">alternative agriculture</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed consumption</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7555</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10363c60eea16</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28792</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2838</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16124</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to evaluate the effect of spray dried plasma (SDP) on the performance and incidence of diarrhea in early weaned piglets. Fifty-six piglets from the same lineage, with an approximate live weight of 3.87 ± 0.65 kg and approximate age of 14 days, were used. Four levels of inclusion of SDP in the piglet diets were tested during two consecutive periods, 14 to 28 days of age (period 1) and 29 to 42 days of age (period 2). The levels of SDP used were 0%, 2%, 4% and 6% for period 1 and 0%, 1%, 2% and 3% for period 2. During period 3 (42 to 56 days of age), all piglets received a diet without SDP. For performance evaluation, the piglets were weighed fortnightly and on the last day of the trial when the age of the batch was 56 days. Daily feed intake, average daily weight gain, and feed conversion were analyzed. No significant difference (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">O objetivo do presente trabalho foi avaliar o efeito do plasma spray dried (PSD) sobre o desempenho e incidência de diarreia em leitões desmamados precocemente. Foram utilizados 56 leitões, homogêneos quanto à linhagem, com aproximadamente 3,87±0,65kg de peso vivo e idade aproximada de 14 dias. Foram testados quatro níveis de inclusão de PSD em dietas de leitões em dois períodos consecutivos, 14 a 28 dias de idade (período 1), e 29 a 42 dias de idade (período 2). Os níveis de PSD utilizados foram de 0%, 2%, 4% e 6% para o período 1 e de 0%, 1%, 2% e 3% para o período 2. No período 3 (42 aos 56 dias de idade) todos os leitões foram alimentados com dieta isenta de PSD. O desempenho dos leitões foi avaliado através de pesagens quinzenais e no último dia do ensaio, quando a idade do lote foi igual a 56 dias. As variáveis analisadas foram o consumo diário de ração, ganho diário de peso e conversão alimentar. Não houve diferença estatística (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v73n2p127</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.73/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

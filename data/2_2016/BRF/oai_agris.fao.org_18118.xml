@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="BR2016F18118">
+    <dc:title xml:lang="en">Lactation curves of crossbred Taurine x Zebu cows</dc:title>
+    <dc:title xml:lang="pt">
+      <dcterms:alternative>Curvas de lactação de fêmeas mestiças Taurino x Zebu</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>PEREIRA, M. A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>MENEZES, M. L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>OLIVEIRA,  V. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LIMA, M. S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>CARVALHO, C. T. G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>SANTOS, A. D. F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">lactation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crossbreeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mathematical models</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">models</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic parameters</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4829</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4140</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1976</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24199</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24847</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The objective of this study was to compare mathematical equations described in the literature, to identify the equation that best describes milk yield, and to estimate some components of the lactation curve of cows of high genetic variability resulting from the crossing of taurine (Bos taurus) and Zebu animals (Bos indicus), raised in a semi-intensive production system in Sergipe. A total of 1,496 milk yield records were used. Test-day milk yields were obtained at intervals of 30 days from 2011 to 2012. The following four mathematical models were applied to fit the average curve: model of Nelder, 1966 (ND), Wood, 1967 (WD), Bianchini Sobrinho, 1984 (BS) and Wilmink, 1987 (WK). The criteria used to verify the goodness-of-fit of each function were the adjusted coefficient of determination (Ra2), residual plot, and percentage of deviation between observed and expected production. The mean Ra2 values were higher than 0.80 for the models used, except for the WK model. All curves exhibited typical patterns. The WD and WK functions underestimated 305-day cumulative milk yield and presented greater deviations from the observed production. The remaining functions exhibited a similar trend in the residual plot. However, the inverse polynomial function (ND) provided better estimates of the variables that comprise the lactation curve of cows resulting from crossings of Bos taurus x Bos indicus animals.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="pt">Objetivou-se comparar equações matemáticas descritas na literatura, identificar a que melhor descreve a produção de leite e estimar alguns componentes da curva de lactação de vacas de alta variabilidade genética, resultante de cruzamento taurino (Bos taurus) x zebuíno (Bos indicus), em sistema de produção semi-extensivo em Sergipe. Foram utilizados 1496 registros de produção de leite. Os controles leiteiros foram realizados em intervalos de 30 dias no período de 2011 a 2012. O ajuste foi feito para a curva média, fazendo-se o uso de quatro modelos matemáticos: modelo de Nelder, 1966 (ND), Wood, 1967 (WD), Bianchini Sobrinho, 1984 (BS) e Wilmink, 1987 (WK). Os critérios utilizados para verificar a qualidade do ajuste para cada função foram: coeficiente de determinação ajustado (Ra2), gráfico de distribuição dos resíduos e porcentagem de desvios entre a produção observada e as estimadas. Os valores médios de Ra2 foram maiores que 0,80 para os modelos empregados, exceto para o modelo WK. Todas as curvas apresentaram padrões típicos. As funções WD e WK subestimaram a produção de leite acumulada aos 305 dias e apresentaram maiores desvios em relação à produção observada. As demais funções apresentaram comportamento semelhante no gráfico de distribuição dos resíduos, no entanto, função polinomial inversa (ND) proporcionou melhor estimativa das variáveis que compõem a curva de lactação de vacas provenientes de cruzamentos de Bos taurus x Bos indicus.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://dx.doi.org/10.17523/bia.v73n2p118</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">pt</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Boletim de Indústria Animal</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+      <ags:citationNumber>v.73/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

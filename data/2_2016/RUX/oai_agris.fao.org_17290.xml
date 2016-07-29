@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17290">
+    <dc:title xml:lang="en">WAY TO PRESERVE A PRODUCTIVE HEALTH OF BRED HEIFER</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>СПОСОБ СОХРАНЕНИЯ ПРОДУКТИВНОГО ЗДОРОВЬЯ НЕТЕЛЕЙ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Leontyev L.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Кulmakova N.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Russian State Agrarian University - MTAA named after K.A. Timiryazev</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproductive health</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">trace elements</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1939</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_959</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7834</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6461</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables, 14 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We have developed a way to preserve a productive health of bred heifers and calves born by them. The experiments were performed under the conditions of a dairy complex in Cheboksary district of the Chuvash Republic. There were formed 2 groups of bred heifers of black-motley breed of 7 month of pregnancy. Bred heifers of the experimental group hadpoly-salt of microelements inserted in their diets, zeolite-containing 	kizelgur for 60 days before delivery and succinic acid – 30 days before and after childbirth. The main criteria for evaluating the effectiveness of the way to preserve productive health bred heifers was: consideration of the metabolic processes level, activity of cell and humoral factors of organism nonspecific protection, productivity, reproductive function, increase in liveweight gain of calves born by them. It was proved that the application of the method contributes to the activation of metabolic processes, increases of resistibility, productivity and reproductive function of bred heifers after delivery. Calves born by them are characterized by higher energy of growth and development.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Разработали способ сохранения продуктивного здоровья нетелей и нарождающихся от них телят. Опыты проведены в условиях молочного комплекса Чебоксарского района Чувашской Республики. Были сформированы 2 группы нетелей черно-пестрой породы, 7 месячной беременности. Нетелям опытной группы в рацион включали полисоли микроэлементов, цеолитсодержащий трепел в течение 60 дней до родов и янтарную кислоту – за 30 дней до и после родов.  Основными критериями оценки эффективности способа сохранения продуктивного здоровья нетелей были: учет уровня обменных процессов, активности клеточного и гуморального факторов неспецифической защиты организма, продуктивности, воспроизводительной функции, увеличение прироста живой массы телят, полученных от них. Доказано, что применение способа способствует активации процессов обмена веществ, повышает резистентность, продуктивность и воспроизводительную функцию нетелей после родов. Телята, полученные от них, характеризуются более высокой энергия роста и развития.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/1-16-leontyev.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

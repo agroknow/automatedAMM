@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017646">
+    <dc:title xml:lang="en">Hot-water pretreatment of poplar and black locust wood for bioethanol production</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Horúcovodná predúprava topoľového a agátového dreva pre výrobu bioetanolu</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kačík František</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ďurkovič Jaroslav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zenková Eva</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email:  kacik@tuzvo.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P06</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Populus euramericana</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Robinia pseudoacacia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hydrolysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biomass</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biofuels</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26635</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6625</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24940</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27465</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Fast growing trees are a suitable raw material for bioethanol production. The first step in its making includes pre-treatment with water or dilute acids at an elevated temperature. In this step, the hemicelluloses are hydrolysed and make more accessible the crystalline part of cellulose for subsequent enzymatic hydrolysis. In this paper the carbohydrate composition of Populus ×euramericana'I-214' and Robinia pseudoacacia L. as well as the concentration of carbohydrates in hydrolysates arising at the hot water 
+pre-treatment at 180 °C during 5, 10, 20, 30 and 50 minutes are presented. Saccharides were analysed by the method of high performance liquid chromatography according to the National Renewable Energy Laboratory (NREL) analytical procedure. Wood of Populus ×euramericana'I-214' contain 50.98% of glucose, 21.49% of xylose, 3.43% of mannose, 0.66 % of galactose and 0.54 % of arabinose, respectively. Optimum yields of carbohydrates were found at the hydrolysis time of 30 minutes 
+(5.93 g∙dm-3), which represents 15.43% of total carbohydrates in the native poplar wood.Wood of Robinia pseudoacacia L. contain 51.82% of glucose, 16.26% of xylose, 2.25% of mannose, 2.74% of galactose and 1.28% of arabinose, respectively. Optimum yields of carbohydrates were found at the hydrolysis time of 20 minutes (5.24g∙dm‒3), which represents 14.12% of total carbohydrates in the native black locust wood.In the early stages of the process,mainly polysaccharides are released into the aqueous solution which are further hydrolysed to monosaccharides and partially degraded 
+to 2-furaldehyde. The predominant carbohydrate in solution was xylose, which is the main hemicellulose monosaccharide in poplar wood. From the comparison of both fast growing trees can be concluded that black locust wood releases comparable amounts of carbohydrates during aqueous pretreatment and would be suitable for this type of treatment.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/DF/fakulta_df/AFX/archive/2015/2015-2/12-02-15.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta facultatis xylologiae Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-3824</ags:citationIdentifier>
+      <ags:citationNumber>v.57/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,32 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016017391">
+    <dc:title xml:lang="ln">Mathematical Modeling of the Scheme of the Pine Forest Types of Bryansk Region on the Basis of the Resource and Ecological Zoning</dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Due to the complex geological conditions of Bryansk region, an important issue is the im-provement of the forest types scheme used by the forest management. The fundamental in-dicators in the description of the forest areas are a forest type sensu V.N. Sukachev</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">a forest site type sensu P.S. Pogrebnyak</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">a quality class according to the scales of M.M. Orlov. These three classifications, with their advantages and disadvantages, are firmly included in the practice of forestry. The purpose of the research is to define the relationship between the forest site types and the quality classes, and refinement the existing scheme of the pine for-est types of natural origin in the forests of the region. The objectives of the research are the plantations of natural origin with a predominance of Scots pine. The features of 47181 plants are used to simulate the dynamics of height of pine forest stands. Scots pine of natural origin is dominated in the structure of these stands. The area of these pine forests is 177093 ha. Plantings are represented by sixteen forest site types (A0...A5, B2...B5, C2...C5, D2, D3). The mathematical model of the height dynamics of pine stands according to the forest site types is developed. All the coefficients of the equation for the forest site types, soil produc-tivity classes and the average temperature of the warmest month in the year are obtained at the significance level of α</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://lesnoizhurnal.narfu.ru/issuesarchive/?ELEMENT_ID=244105</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ln</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Lesnoy Zhurnal (Forestry journal)</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0536-1036</ags:citationIdentifier>
+      <ags:citationNumber>v.2016/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

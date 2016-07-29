@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016G17817">
+    <dc:title xml:lang="ru">РАЗВИТИЕ КЛИНИЧЕСКОГО МЫШЛЕНИЯ КАК УСЛОВИЕ ПОДГОТОВКИ ВРАЧЕЙ ВЕТЕРИНАРНОЙ МЕДИЦИНЫ</dc:title>
+    <dc:title xml:lang=" ">
+      <dcterms:alternative>DEVELOPMENT OF CLINICAL REASONING WHEN TRAINING OF VETERINARIAN-TO-BE</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>КУРДЕКО Александр Павлович</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>КОВАЛЕНОК Юрий Казимирович</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>УО &amp;quot</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Витебская государственная академия ветеринарной медицины&amp;quot</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate />
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">veterinary medicine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">veterinarians</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Training</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">symptoms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Diagnosis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">therapy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8206</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8203</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7861</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7566</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2238</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7715</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Описаны особенности мышления врача ветеринарной медицины, связанные с постоянным изменением состояния животного, наличием большого количества и постоянного обновления методов исследования, появлением все новых и новых лекарственных средств.
+Главной задачей высшего ветеринарного образования была и остается подготовка грамотных врачей, способных максимально эффективно выполнить свои профессиональные функции в условиях реальной клинической практики. Действующие белорусский образовательный стандарт высшего образования специальности "Ветеринарная медицина" и российский федеральный государственный образовательный стандарт высшего профессионального образования специальности "Ветеринария" содержат четко сформулированные требования к профессиональным компетенциям врача. В частности, специалист должен быть способен и готов анализировать закономерности функционирования организма животных, проводить диагностику, лечение и профилактику различных болезней. Фактически это является важнейшей профессиональной, врачебной компетенцией выпускника, который должен быть готов к клинической работе.
+Мышление врача отличается от мышления представителей других профессий спецификой задач, стоящих перед ним. Объектами изучения для врача ветеринарной медицины являются животное, патологический процесс, болезнь, оказание больному квалифицированной помощи, предупреждение дальнейшего распространения болезни.
+Мышление врача ветеринарной медицины имеет свои особенности. Они обусловлены специфичностью ветеринарной профессии и отсутствием языковой связи врача со своими пациентами. Вследствие постоянного изменения состояния животного, наличия большого количества и постоянного обновления методов исследования, появления все новых и новых лекарственных средств, оно должно быть динамичным, рациональным и логичным. Это составные части клинического мышления, которое позволяет по комплексу симптомов и признаков выявлять у пациента изменения на различных стадиях болезни, осмыслить их с патогенетической точки зрения, провести дифференциальную диагностику, назначить фармакотерапию и контролировать ее эффективность в течение всего периода лечения. Библ. 18.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Abstract. In the article there are features of veterinarian's mindset about changes in the animals' state, plenty new medicines and methods of researches.
+The main objective of higher veterinary education was and is training competent doctors which can most effectively carry out their professional functions in clinical practice. Acting Belarusian educational standard of higher education of specialty "Veterinary Medicine" and Russian federal state educational standard of higher education of specialty "Veterinary science" contain clearly defined requirements for the professional competence of a doctor. In particular, the expert must be able and ready to analyze regularities of functioning an organism of animals, perform diagnostics, treatment and prevention of various diseases. Actually it is the most important professional medical competence of graduate, which must be ready for clinical work.
+There are differences between doctor's mindset and mindset of other professions because of specifics challenges facing them. The objects of study for doctor of Veterinary Medicine are an animal, a pathological process, a disease, providing skilled care to the patient, preventing the further spread of the disease.
+The mindset of doctor of Veterinary Medicine has its own features. They are due to specificity of the veterinary profession and absence of language communication of doctor with their patients. It must be dynamic, rational and logical due to permanent changes in the animal's condition, the presence of a large number and permanent updating of research methods, the emergence of more and more new medicines. This is component of the clinical thinking, which allows detect the patient changes at different stages of the disease, understand them from the pathogenic standpoint, conduct differential diagnostics, appoint pharmacotherapy and monitor its efficiency during the whole treatment period due of the complex of symptoms and feature. Ref. 18.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestvet.ru/biblio/kurdeko.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Вестник ветеринарии</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2071-3096</ags:citationIdentifier>
+      <ags:citationNumber>v.77/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

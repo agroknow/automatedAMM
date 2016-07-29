@@ -1,0 +1,100 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018423">
+    <dc:title xml:lang="en">Taxons of chicken cecum microbiom are abundant, and influenced by the combined feed composition and decreased metabolizable energy</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Таксономическое разнообразие микробиома слепых отростков кишечника у цыплят-бройлеров и его изменение под влиянием комбикормов с подсолнечным шротом и сниженной обменной энергией</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ilina L.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Jyldyrym E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nikonov I.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Filippova V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Laptev G.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Novikova N.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Grozina A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lenkova  T.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Manukyan V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fisinin V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Egorov I.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L51</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cecum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">microbial flora</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oilseed cakes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">body weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">meat performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1540</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9683</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16367</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5336</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15846</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32877</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Currently the processed sunflower products are considered an alternative to soybean cake and meal in the poultry diet. Using modern molecular methods of NGS-sequence analysis and real-time PCR, we investigated the number of bacteria and the structure of bacterial community in cecum of 36-day-old Cobb 500 broiler chickens fed with diets containing soybean meal or sunflower meal. This study showed that the feed containing 25% sunflower meal caused a 14.7-fold increase in total number of bacteria while the number of phylum Bacteroides amylolytics was 1.4-times lower, the family Clostridiaceae was 1.2-times less abundant and the cellulosolytics families Ruminococcaceae and Lachnospiraceae were 1.16-times and 1.48-times depressed, respectively, thus indicating limitations in the metabolism of hydrolysable components and cellulose in the poultry gut. Moreover, the obligate bacterial intestinal flora changed in number. Particularly, there were a 3.04-fold increase in genera Lactobacillus sp., a 1.5-fold increase in order Bacillales, 3-fold decrease in genera Bifidobacterium sp. and 10-fold decrease in genera Enterococcus sp. Also the bacterial number in genera Escherichia sp. was found to be 55-fold lower, and families Sutterellaceae and Erysipelotrichaceae, including species that might cause disbiotic diseases, were depressed 2.5 times and 1.8 times, respectively. The weight of 36-day-old chickens (males and females) was the highest in the control group not fed with sunflower meal (2142.0±45.40 g) compared to the experimental poultry (2017.0±53.30 g) in which the feed consumption increased by 13%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В настоящее время продукты переработки подсолнечника рассматриваются в качестве альтернативы соевым жмыхам и шротам в рационе сельскохозяйственной птицы. Используя NGS-секвенирование и ПЦР в реальном времени, мы сравнили численность и состав бактериального сообщества в слепых отростках кишечника у цыплят-бройлеров кросса Сobb 500 в возрасте 36 сут, которые получали рационы на основе комбикормов, содержащих соевый и подсолнечный шроты. Установлено, что включение в рецептуру комбикорма 25% подсолнечного шрота приводило к увеличению общей бактериальной численности в 14,70 раза, а также к снижению доли амилолитических бактерий семейств из филы Bacteroidetes в 1,40 раза и семейства Clostridiaceae — в 1,20 раза, целлюлозолитических бактерий семейств Ruminococcaceae — в 1,16 раза, Lachnospiraceae — в 1,48 раза, что свидетельствует об уменьшении метаболизма легкогидролизуемых компонентов и клетчатки корма. Также изменялось содержание облигатных представителей кишечной нормофлоры птицы: доля бактерий рода Lactobacillus sp. увеличивалась в 3,04 раза, порядка Bacillales — в 1,50 раза, тогда как родов Bifidobacterium sp. и Enterococcus sp. — уменьшалась соответственно в 3 и 10 раз. В слепых отростках бройлеров, получающих в составе комбикорма 25% подсолнечного шрота, отмечалось достоверное снижение доли бактерий рода Escherichia sp. (в 55 раз), а также семейств Erysipelotrichaceae (в 2,50 раза) и Sutterellaceae (в 1,80 раз), включающих ряд видов, способных вызывать дисбиотические нарушения в макроорганизме. Живая масса как у петушков, так и у курочек оказалась максимальной (2142,0±45,40 г) в 36-суточном возрасте в контрольной группе, не получавшей подсолнечной шрот, по сравнению с показателем в опытной группе (2017,0±53,30 г). Наряду с этим затраты корма на выращивание птицы в опытной группе возросли на 13%. (Табл. 2. Ил. 0. Библ. 29)</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.agrobiology.ru/articles/6-2015ilina-rus.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agricultural Biology</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0131-6397</ags:citationIdentifier>
+      <ags:citationNumber>v.50/n.6</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

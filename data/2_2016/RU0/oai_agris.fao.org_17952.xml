@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017952">
+    <dc:title xml:lang="en">Assessment of immunostimulating effect of globulinsorbin and results of its application in the system of antiepizootic measures in case of cattle salmonellosis</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Оценка иммуностимулирующего эффекта глобулинсорбина и результаты его применения в системе противоэпизоотических мероприятий при сальмонеллёзе крупного рогатого скота</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Litvinova Z.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Calves</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">SALMONELLOSIS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">VACCINATION</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">immunity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1219</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6758</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15123</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3802</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It is recommended to take vaccination against the background of application of immunomodulators to make an active specific immunity of calves to salmonellosis. The state of immunity of calves vaccinated against salmonellosis against the background of globulinsorbin application (colostric serum of the first milking preserved with sorbic acid) was studied. The investigation was taken on the base of the farm of the Amur Region. Two groups of one-day calves were selected, 7 calves for each group. During ten days beginning from the first day of life the calves of the test group were given 200 ml of globulinsorbin to drink three times a day, 30 minutes before feeding. The animals of the control group were not given globulinsorbin. All the calves were vaccinated against salmonellosis twice. The blood tests were taken on the 5th, 9th, 18th and 30th days of the calves’ life. Test results prove that vaccination was taken against the background of immunodeficiency, thereby the organism got low titres of specific antibodies. In case the calves drink globulinsorbin from the first day of life real increase of red and white cells content (by 2.15-3.37%), protein level (by 19.38-26.01%), immunoglobulin, bactericidal and lysozyme activity of the blood serum was noted every day of the test. Giving the preparation to the calves’ ration caused more intensive production of specific antibodies. Antisalmonella antibodies titer in calves’ blood after birth was 1:14-1:22. On the 30th day the calves of the test group it amounted to 1:94+/-3.17 which exceeds the background by 23.68%. The obtained data show a distinctive immunobiological reaction of the calves’ organism to two-time injection of the vaccine against salmonellosis against the background of globulinsorbin application.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Для создания активного специфического иммунитета телят к сальмонеллёзу рекомендуется проводить вакцинацию на фоне применения иммуномодулирующих препаратов. Изучали состояние иммунитета телят, вакцинированных против сальмонеллёза, на фоне применения препарата глобулинсорбин (молозивная сыворотка первого удоя, консервированная сорбиновой кислотой). Исследование проведено на базе хозяйства Амурской области. Были подобраны две группы однодневных телят по 7 голов в каждой. Телятам опытной группы с первого дня жизни ежедневно выпаивали три раза в день 200 мл глобулинсорбина за 30 минут до кормления в течение 10 дней. Животным контрольной группы глобулинсорбин не задавали. Всех телят двукратно вакцинировали против сальмонеллёза. Взятие крови для исследования проводили на 5-е, 9-е, 18-е и 30–е сутки жизни телят. Анализ полученных данных показывает, что вакцинация проводилась на фоне иммунодефицитного состояния, в результате чего организм отвечал низкими титрами специфических антител. Выпаивание телятам глобулинсорбина с первого дня их жизни способствовало достоверному увеличению во все дни опыта содержания эритроцитов и лейкоцитов (на 2,15-3,37%), уровня общего белка (на 19,38-26,01%), иммуноглобулинов, бактерицидной и лизоцимной активности сывороток крови. Введение в рацион телят препарата способствовало более интенсивной выработке специфических антител. Титр противосальмонеллёзных антител в крови телят после рождения составлял 1:14-1:22. На 30-й день опыта у телят опытной группы он достигал 1:94±3,17, что было на 23,68% выше фона. Полученные данные свидетельствуют о выраженной ответной иммунобиологической реакции организма телят на двукратное введение вакцины против сальмонеллёза на фоне применения глобулинсорбина.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.dalgau.ru/images/gurnal/vipusk_2016/nomer_1/Litvinova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Far Eastern Agrarian Herald</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1999-6837</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

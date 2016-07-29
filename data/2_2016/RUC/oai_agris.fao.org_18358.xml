@@ -1,0 +1,95 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016C18358">
+    <dc:title xml:lang="ru">Рост и развитие сосны скрученной (Pinus contorta Loud. var. latifolia S. Wats) в условиях северной тайги</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Growth and development of a lodgepole pine (Pinus contorta Loud. var. latifolia S. Wats) in a northern boreal forest</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Demidova N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Durkina T.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gogoleva L.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Demidenko S.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bykov Y.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Paramonov A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pinus contorta</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plantation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">volume tables</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Boreal forests</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5895</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5992</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24417</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1014</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Исследования проводились на плантациях хвойных интродуцентов в дендрологическом саду ФБУ «СевНИИЛХ имени В.Н. Нилова» и в посёлке Боброво Приморского района Архангельской области. Цель работы - исследование целесообразности использования сосны скрученной (Pinus contorta Loud. var. latifolia S. Wats) для плантационного выращивания в бореальных условиях. На плантациях хвойных интродуцентов проводился сплошной перечёт с замером диаметров на высоте груди, измерение высот и рубка модельных деревьев сосны скрученной для проведения анализа хода роста (для контроля бралась сосна обыкновенная). Установлено, что сосна скрученная превосходит в росте сосну обыкновенную по текущему приросту по диаметру, по объёму и по величине среднего прироста по объёму. Отмечено, что эти тенденции сохранились по истечении 18-20 лет, но показатели роста снизились. Сосна скрученная является одной из перспективных пород-интродуцентов для ускоренного выращивания древесины, которая является ценным сырьем для получения целлюлозы как сульфитным, так и сульфатным способами. По результатам проведённых исследований впервые были рассчитаны видовые числа и видовые высоты по модельным деревьям сосны скрученной и составлена таблица объемов стволов по диаметру и высоте (расхождение со значениями объемов стволов сосны обыкновенной на Европейском Севере составляет 6-7%). Для принятия решений о целесообразности использования этого вида сосны для плантационного выращивания на Европейском Севере России необходимы дополнительные наблюдения за ее ростом и развитием.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The research was conducted on plantations of exotic conifers species in the “Dendrological garden of the FBU SevNIILH named after V.N. Nilov” and nearby Bobrovo village in the Primorsky district of the Arkhangelsk Region. The aim of the work is the feasibility of the lodgepole pine (Pinus contorta Loud. var. latifolia S. Wats.) use for plantation cultivation in the boreal forests. The overall measurements of the diameters at breast height, the lodgepole pine trees height measurements and model trees cutting were carried out on the coniferous plantations. It was assigned that the lodgepole pine exceeds the scotch pine in current increment in diameter, volume and in range of mean volume increment. It is noted that the lodgepole pine’s trend to superiority over the Scotch pine remained after 18-20 years of cultivation, but the growth rate decreased. The lodgepole pine is one of the most promising exotic species for fast growing wood. An interest in this tree species is caused by the fact that the lodgepole pine wood is a valuable raw material for a cellulose processes. The value of the study lies in the fact that for the first time the form factors and height form factors based on model trees of the lodgepole pine and a table of tree stem volumes in diameter and height were calculated (the difference with the values of the scotch pine tree volumes in the conditions of the European North of Russia is 6-7%). In order to make decisions on the feasibility of the lodgepole pine use for cultivation on plantations at the European North of Russia, further observations of its growth and development should be implemented.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://journal.spb-niilh.ru/pdf/2-2016/spbniilh-proceedings-2-2016-4-full.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Труды Санкт-Петербургского научно-исследовательского института лесного хозяйства</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2079-6080</ags:citationIdentifier>
+      <ags:citationNumber>v.15/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

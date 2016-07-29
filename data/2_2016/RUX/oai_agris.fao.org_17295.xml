@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17295">
+    <dc:title xml:lang="en">INFLUENCE OF FAT LEVELS IN DIETS OF HIGH YIELDING CATTLE FROM DIFFERENT PRODUCTION GROUPS ON THE USE OF NITROGEN FEED</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ВЛИЯНИЕ УРОВНЕЙ ЖИРА В РАЦИОНАХ ВЫСОКОПРОДУКТИВНОГО КРУПНОГО РОГАТОГО СКОТА РАЗНЫХ ПРОИЗВОДСТВЕННЫХ ГРУПП НА ИСПОЛЬЗОВАНИЕ АЗОТА КОРМОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Petrov Oleg Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Mari State University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nitrogen metabolism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_429</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5197</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6461</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>4 tables, 8 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the research was the study main parameters characterizing the use of nitrogen in organism of highly productive cattle in different production groups depending on the level of lipid content in dry matter of their rations. Modification of fat level in diets of cows was carried out by additional inclusion of vegetable oil in concentrated feedstuff in their rations. It was established that the organism of high productive animals positively responds to fat level increase, that affects the increase of retention level of nitrogenous substances in body. Modification of fat level in diets of replacement heifer and bred heifer also has a significant positive influence on the assimilation of nitrogen feed. In this case, the nitrogen in urine significantly reduces and the degree of its retention in the body increases both from taken with food and from digested, which, of course, provides an increase in live weight of young stock. Optimization of fat level in feed system of cows improves protein metabolism even in physiologically stressful periods of production cycle (lactation and pregnancy), and, respectively, the use of nitrogen received from food for milk happens in their body more efficiently. Optimization of fat level in diets of bull-calves causes strengthening of redox processes and the use of protein, and, consequently, the metabolism, provides higher realization level of inherited producing ability, which is manifested in increased intensity of protein metabolism processes, that is evidenced by increased retention rate of nitrogenous substances in body. Therefore, nitrogen-saving effect is clearly manifested during optimization of fat content in diets of highly productive animals.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью исследований явилось изучить основные показатели, характеризующие использование азота в организме высокопродуктивного крупного рогатого скота разных производственных групп в зависимости от уровня содержания липидов в сухом веществе их рационов. Изменение уровня жира в рационах коров проводили путем дополнительного включения в их рационы растительного жира в комбикорм-концентрат. Установлено, что организм высокопродуктивных животных позитивно реагирует на повышение уровня жира, что отражается на увеличении степени удержания азотистых веществ в теле. Изменение уровня жира в рационах ремонтных телок и нетелей также оказывает заметное положительное влияние на усвоение ими азота кормов. При этом, существенно уменьшается выделение азота с мочой и возрастает степень его удержания в теле от принятого с кормом и от переваренного, что, безусловно, обеспечивает увеличение живой массы молодняка. Оптимизация уровня жира в системе питания коров улучшает состояние белкового обмена даже в физиологические напряженные периоды производственного цикла (лактация и стельность), соответственно, в их организме с большей эффективностью происходит использование азота на молоко от принятого с кормом. Оптимизация уровня жира в рационах бычков обусловливает усиление окислительно-восстановительных процессов и использование протеина, а, следовательно, и процессов обмена веществ, обеспечивает более высокий уровень реализации наследственно обусловленной продуктивности, что проявляется в повышении интенсивности процессов белкового обмена, о чем свидетельствуют увеличение степени удержания азотистых веществ в теле. Следовательно, при оптимизации содержания жира в рационах высокопродуктивных животных четко проявляется азотсберегающий эффект.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/1-16-petrov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

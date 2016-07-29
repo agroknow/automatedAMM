@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018016">
+    <dc:title xml:lang="en">Analysis and optimization of parameters of drying flax bales</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Анализ и оптимизация параметров сушки рулонов льнотресты</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Shushkov R.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Michailov A.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Biryukov A.L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">flax</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">drying</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2970</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2402</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49928</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The research subject is the pattern of drying flax, pressed into a bale (FB). The research has been carried out in the Vologda region. The device that allows drying FB evenly along the height was proposed. When placing the heat carrier inside the FB, the multifactor experiment aimed at determining the effect of the main factors (the heat carrier temperature and velocity, flax density) on the course of the process, characterized by the duration of drying bales and the specific energy consumption for moisture evaporation has been implemented to assess the final FB drying. To determine the influence of the selected factors on the optimization parameters Box-Benken three-level matrix of the 2-nd order has been used for the three factors. It was determined that the drying process should be carried out at the temperature of heating flax close to the maximum one that allows ensuring safety of its quality</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">the drying process should be performed when the speed of the heat carrier allows its maximum dehumidification capacity</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">the optimal values of the FB density should be determined to increase the coefficients of the heat and moisture exchange. The mathematical models, allowing to evaluate the influence of operating factors on the FB drying period, and specific energy consumption necessary for moisture evaporation were obtained. The optimum parameters of FB drying when the air is inside the bale are the following: the pressing density - 100-110 kg/m3</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">the heat carrier temperature 52-70 deg. C</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">the heat carrier velocity is 7.6-8.0 m/sec. It is recommended to use active final drying of wet FB with placing the heat carrier inside the FB to preserve flax while harvesting in adverse climatic conditions.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Предмет исследований – закономерности процесса сушки льнотресты, спрессованной в рулон (РЛ). Исследования проведены в Вологодской области. Предложено устройство, позволяющее сушить РЛ равномерно по высоте. Для оценки досушивания РЛ при подаче теплоносителя внутрь РЛ был реализован многофакторный эксперимент, направленный на определение влияния основных факторов (температура и скорость теплоносителя, плотность прессования льнотресты) на ход процесса, характеризуемый временем сушки рулона и удельным расходом электроэнергии на испарение влаги. С целью определения влияния выбранных факторов на параметры оптимизации использовали матрицу трехуровневого плана 2-го порядка Бокса-Бенкена для трех факторов. Выявлено, что процесс сушки необходимо проводить при температуре нагрева льнотресты близкой к предельно допустимой, обеспечивающей сохранность её качества</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">выполнять процесс сушки при скорости теплоносителя, позволяющей максимально использовать его влагопоглотительную способность</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">для увеличения коэффициентов тепло- и влагообмена необходимо определить оптимальные значения плотности прессования РЛ. Получены математические модели, позволяющие оценить влияние управляющих факторов на продолжительность сушки РЛ и удельный расход электроэнергии на испарение влаги. В результате исследований определены оптимальные параметры досушивания РЛ при подаче воздуха внутрь рулона: плотность прессования – 100-110 кг/куб. м</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">температура теплоносителя – 52-70 град. C</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">скорость теплоносителя – 7,6-8,0 м/с. Таким образом, для сохранения льносырья при уборке в неблагоприятных природно-климатических условиях рекомендуется использовать технологию активного досушивания влажных РЛ при подаче теплоносителя внутрь РЛ.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://molochnoe.ru/journal/sites/molochnoe.ru.journal/files/jrnl_publication/20-4-book_v5.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>The Dairy Farming Bulletin</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2225-4269</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

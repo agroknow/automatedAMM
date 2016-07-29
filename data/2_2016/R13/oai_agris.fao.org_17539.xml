@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016317539">
+    <dc:title xml:lang="ru">ПРЕДПОСЕВНАЯ ОБРАБОТКА СЕМЯН ЯРОВОЙ ПШЕНИЦЫ ОЗОНОВОЗДУШНЫМ АГЕНТОМ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PRESOWING TREATMENT OF SEEDS OF SPRING WHEAT OZONE AIR AGENT</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Тышкевич Евгений</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-10</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seed germinability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">озонизация</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34874</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье представлены результаты исследований по определению оптимальных параметров предпосевной обработки семян яровой пшеницы озоновоздушным агентом с использованием генератора озона ГОБОС–01. Это оказывает наибольший эффект на энергию прорастания и всхожесть семян. Актуальность работы состоит в экологической направленности инновационной технологии обработки семян сельскохозяйственных культур, способствующей частичному или полному отказу от токсичных пестицидов.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article presents the results of researches by definition of optimum parameters of presowing treatment of seeds of spring wheat ozone agent using ozone generator GOBOS–01. It has the most effect on germination energy and germination of seeds. The relevance of the work is ecological orientation innovative technologies of processing of seeds of agricultural crops, contributing to the partial or total elimination of toxic pesticides.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://www.isuct.ru/e-publ/snt/sites/ru.e-publ.snt/files/2015/04/snt_2015_n04-210.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Современные наукоемкие технологии. Региональное приложение</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2413-5399</ags:citationIdentifier>
+      <ags:citationNumber>v.2015/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

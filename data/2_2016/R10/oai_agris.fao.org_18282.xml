@@ -1,0 +1,26 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016018282">
+    <dc:title xml:lang=" ">SOIL CONDITIONS IN THE GREEN AREAS OF SAINT PETERSBURG</dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Currently, there is a high rate of urbanization, resulting in the degraded natural environment, especially the soil. The article presents the results of 25-year investigations of the silvicultural soil characteristics of the ecosystems of St. Petersburg of varying degrees of urbanization. The metropolis territory was flooded by the waters of the Littorina Sea a few million years ago. Some terraces with different levels A.S.L. after the dereliction of the sea were formed. The authors propose the urban ecosystems classification for St. Petersburg, based on the similarity of the morphological and ecological features of the biotope, and give a brief characteristic of an anthropogenic effect. The urban ecosystem soils are presented by the fill ground, contami-nated with heavy metals and compounds of sodium and chlorine and contain construction de-bris and wood residues. 4 degrees of an anthropogenic effect on the metropolis natural ecosys-tems are obtained: low-disturbed (urban forests), averagely disturbed (city parks), highly dis-turbed (gardens and parks) and degraded (line plantings and plantings of habitable territories). The boundaries of the urban ecosystems are numerous waterways. The ecological state of soil and plant resources is estimated according to a set of criteria: botanical, biochemical, soil, spa-tial and dynamic. Representative objects with laying out of at least 5 soil profiles in the specif-ic areas for each ecosystem are selected and examined. Control samples were taken from the upper soil horizons. They were the basis to establish in the laboratory the silvicultural parame-ters of the root zone in a 5-fold repeatability. The exchangeable and hydrolytic acidity, total absorbed bases, degree of base saturation, humus level, mobile nitrogen and labile phospho-rus, exchange potassium and sodium, chloride and physical clay content, humidity, soil density and a groundwater level were determined. These silvicultural parameters of the root zone of soil were compared for the selected urban ecosystems. The soils in the urban ecosystems vary according to the particle size distribution, agrochemical properties and transformation ratio of the soil profile. They are in need of the urgent measures for their improvement. A sustaining tactic of the natural ecosystems is proposed.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://lesnoizhurnal.narfu.ru/issuesarchive/?ELEMENT_ID=246792</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <dc:language scheme="ags:ISO639-1">lg</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Lesnoy Zhurnal (Forestry journal)</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0536-1036</ags:citationIdentifier>
+      <ags:citationNumber>v./n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

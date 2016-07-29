@@ -1,0 +1,74 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016017882">
+    <dc:title xml:lang="id">Pertumbuhan kambing peranakan Etawah prasapih yang diberi susu pengganti</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Pre-weaning growth performance of Etawah Crossbred goats fed milk replacer</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Supriyati .</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Balai Penelitian Ternak, Bogor</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L52</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">goats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crossbreds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">preweaning period</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">proximate composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3324</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1975</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36849</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32803</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In this experiment the effect of feeding milk replacer and dairy milk on the growth performance of pre-weaning of Etawah Crossbred goats was studied. Thirty eight heads of pre-weaning of Etawah Crossbred kids were divided into 2 groups, group A  receiving dairy milk and Group B receiving formulated milk replacer. All kids were fed with colostrum at the first 3 days. The milk replacer was formulated from skim milk, cassava flour, soy flour, corn flour, vitamin, mineral, salt and amino acids (lysine and methionine). The milk replacer was diluted ten times with warm water, then probiotic and sugar were added. The pre-weaning kids fed 300-600 ml milk twice a day, in the morning and in the afternoon. The liveweight of pre-weaning kids were measured every 2 weeks. The experiment was carried out for 12 weeks. The parameter measured were nutrient intakes, ADG and mortality rate. Data was analysed by T test. The proximate analysis results of milk replacer were DM 93.50 percent, CP 22.20 percent,  fat 4.62 percent, GE 3869 kcal/kg, CF 1.31 percent, ash 4.22 percent, Ca 0.60 percent and P 0.46 percent. The DM and CP intakes were 111.98 and 28.93 g/d</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">97.31 and 23.10 g/d, with ME 659 and 379 kcal/kg for groups A and B, respectively. The ADG of pre-weaning kids for Group A and B were significantly different (P &lt; 0.05) which were 96.03 +- 11.83 and 83.62 +- g/d</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">mortality rates were 0 percent and 10 percent group A and B, respectively. It is concluded that the rate of the pre-weaning kids of Crossbred Etawah goat fed formulated milk replacer grew slower than kids receiving dairy milk.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://peternakan.litbang.pertanian.go.id/fullteks/jitv/jitv172-8.pdf?secure=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Jurnal Ilmu Ternak dan Veteriner</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0853-7380</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

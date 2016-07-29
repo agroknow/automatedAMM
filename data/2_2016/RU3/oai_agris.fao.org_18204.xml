@@ -1,0 +1,24 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016318204">
+    <dc:title xml:lang="ru">Бухгалтерский учет в системе стратегического управления сельскохозяйственной организацией</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Рябченко А.В.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E20</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье исследована роль бухгалтерского учета в системе стратегического управления сельскохозяйственной организацией. Рассмотрены вопросы интеграции МСФО в учетную практику и проблемы релевантности бухгалтерской информации сельскохозяйственных организаций при переходе на МСФО. Анализ МСФО 41 показал наличие трудностей, связанных с учетом активов и обязательств сельскохозяйственных организаций по справедливой стоимости. Рассмотрены возможные манипуляции при расчетах с использованием справедливой стоимости биологических активов и сельскохозяйственной продукции. В этой связи разработан ряд рекомендаций, направленных на адаптацию принципиальных аспектов МСФО и снижение возможности использования манипулятивных управленческих (учетных) практик, связанных с расчетом справедливой стоимости.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Международные научные исследования</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2076-9563</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017193">
+    <dc:title xml:lang="en">Seasonal dynamics of optical density of sulfuric acid extracts as a reflection of soil humic substances mobility in the conditions of humid cultivated land</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Сезонная динамика оптической плотности сернокислых вытяжек как отражение подвижности гумусовых веществ почв в условиях гумидного агроландшафта</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Antsiferova O.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P33</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">absorbance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Humus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33924</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7156</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3693</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Investigations were carried out on two reference plots situated in the Zelenograd district of the Kaliningrad region, within the Sambiyskaya hilly moraine plain. Optic density of soil extracts was measured (at a wavelength of 440 nm), obtained by the treatment of fresh soil lots 0.1n H2SO4 at a ratio of soil to solution of 1:5. Weather conditions during the study period (November-December 2013) were close to the long-term average ones. Soils with acidic reaction of the humus horizon were studied. Staining of sulfuric acid extracts is on 83% stipulated by the presence of organic substances of fulvoacid nature. In gleyic soils of hilltops and slopes found weak correlation between optical density moisture dynamics has been found. In soils accumulating geochemical flows substances connection with moisture is of average degree (gley burozems and little humus content of sod-gley soil of surface of long-term waterlogging). The higher humus content is the more marked the amplitude of the seasonal changes in the optical density is and the closer correlation with moisture is. The maximum seasonal variations in the optical density have been revealed in high humus content sod-gley soils of closed depressions with acid reaction of the humus horizon. Monitoring of pH dynamics (water and salt extraction) on different soil areas is carried out. Seasonal dynamics of pH in the humus horizon of soils with various degrees of hydromorphism is equal to 0.3 - 0.5. In most soils tendency is observed of increase in optical density of sulfuric acid extracts in November and December. At the same time, pH is reduced by 0.2 - 0.4. This is due to the accumulation of decomposition products of fresh herbaceous vegetation litter in an acidic reaction of environment.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Исследования проводили на двух ключевых участках в Зеленоградском районе Калининградской области в пределах Самбийской холмисто-моренной равнины. Измеряли оптическую плотность вытяжек (при длине волны 440 нм), получаемых при обработке навески свежей почвы 0,1 н Н2SO4 при соотношении почва:раствор 1:5. Погодные условия в период исследований (ноябрь-декабрь 2013 г.) были близки к средним многолетним. Изучены почвы с кислой реакцией среды гумусового горизонта. Окраска сернокислых вытяжек на 83% обусловлена наличием органических веществ фульвокислотной природы. В глееватых почвах вершин холмов и склонов выявлена слабая корреляционная связь динамики оптической плотности с влажностью. В почвах, аккумулирующих геохимические потоки веществ, связь с влажностью средняя (буроземы глеевые и малогумусные дерново-глеевые почвы длительного поверхностного заболачивания). Чем выше содержание гумуса, тем более выражена амплитуда сезонных изменений оптической плотности и теснее корреляционная связь с влажностью. Максимальные сезонные колебания оптической плотности выявлены в многогумусных дерново-глеевых почвах замкнутых понижений с кислой реакцией среды гумусового горизонта. Проведен мониторинг динамики уровня рН (водная и солевая вытяжки) на разных почвенных ареалах. Сезонная динамика рН в гумусовом горизонте почв разной степени гидроморфизма составляет 0,3 – 0,5 ед. В большинстве почв просматривается тенденция увеличения оптической плотности сернокислых вытяжек в ноябре – декабре. Одновременно достоверно снижается величина рН на 0,2 – 0,4 ед. Это связано с накоплением продуктов разложения свежего опада травянистой растительности в почвах с кислой реакцией среды.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.klgtu.ru/science/magazine/news_kstu/2015_39/antsiferova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>KSTU News</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1997-3071</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 39</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

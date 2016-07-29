@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017703">
+    <dc:title xml:lang="en">Assessing the state support of agriculture</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Оценка государственной поддержки сельского хозяйства</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Epstein D.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land policies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">subsidies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Prices</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_195</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7484</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6178</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Assessing the value of the state support for the agriculture is important for solving the problems of regional and federal agrarian policy. In the result of calculations carried out under the state support assessment procedure of the Organization of Economic Cooperation and Development (OECD) based on comparing domestic and world (reference) process for products and resources  inadequate conclusions on the support of agriculture in Russia and its agrarian policy are made. According to the results of applying said procedure it turns out that Russia is one of world leaders in the support to agriculture. For comparing the results for different countries the reference prices must apparently satisfy the so called fit hypothesis. Import and export commodities must be similar in quality composition. The dynamics of prices for similar commodities in dollars for different countries must correlate, as substantially  those are world prices of export or import of the same kind of products. Prices for different countries may differ by the value of transport expenses (from the producer to the port of consumer’s country). Analyzing the reference prices for 5 products (wheat, milk, beef and veal, pork, poultry meat) for Russia, the USA and the EU from 2007 till 2012 has shown that these demands are not fulfilled. Therefore, the fit hypothesis for reference prices is not confirmed. Large differences in the value of such prices do not permit stating that the groups of products with the same name are similar in the quality composition for different countries. During calculating reference prices they are not corrected with reference to the quality. These prices in definite years for different countries of goods of the same name in dollars vary in different directions. Reference prices differ for various countries not only by the value of transport expenses wherein the differences are not stable and not proportional to prices. The approaches to estimating the value of state support to agriculture should be improved, including regionally.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Оценка величины государственной поддержки сельского хозяйства важна для решения вопросов региональной и федеральной аграрной политики. В результате расчетов, проводимых по методике оценки господдержки Организации экономического сотрудничества и развития (ОЭСР), основанной на сопоставлении внутренних и мировых (референтных) цен на продукцию и ресурсы, делаются неадекватные выводы о поддержке сельского хозяйства России и ее аграрной политике. По результатам применения указанной методики оказывается, что Россия – один из мировых лидеров в поддержке сельского хозяйства. Для сравнимости результатов по разным странам референтные цены должны, очевидно, удовлетворять т.н. гипотезе совместимости. Товары импорта и экспорта должны быть однородны по качественному составу. Динамика цен на одноименные товары в долларах для различных стран должна коррелировать, т. к. по сути это мировые цены экспорта или импорта одного и того же вида продукции. Цены для разных стран могут отличаться на величину транспортных расходов (от производителя до порта страны потребителя). Анализ референтных цен по 5 продуктам (пшеница, молоко, говядина и телятина, свинина, мясо птицы) для России, США и ЕС с 2007 по 2012 г. показал, что эти требования не выполняются. Следовательно, гипотеза сопоставимости для референтных цен не подтверждается. Большие различия в величине таких цен не позволяют утверждать, что группы товаров с одним и тем же наименованием однородны по качественному составу для разных стран. При расчете референтных цен не производится корректировка с учетом качества. Эти цены в определенные годы для разных стран на одноименные товары в долларах изменяются в противоположных направлениях. Референтные цены для разных стран отличаются не только на величину транспортных расходов, причем различия нестабильны и не пропорциональны ценам. Необходимо совершенствовать подходы к оценке величины государственной поддержки сельского хозяйства, в т.ч. на региональном уровне.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vniiesh.ru/documents/document_20717_Epstein.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agribusiness Sector: Economics, Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0235-2443</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 12</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="QC2016218465">
+    <dc:title xml:lang="en">The effect of the crisis on residential housing prices in the region of Chania, Greece [Thesis (M.Sc.)]</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kulyk Iryna</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Mediterranean Agronomic Institute of Chania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Chania (Greece)</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">housing</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">real estate</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forecasting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">econometric models</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Greece</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3678</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13767</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3041</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10531</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3373</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Bibliography: p. 60-67 ; ill</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Valuation of property, paticularly due to the recent subprime mortgage crisis in the real state market, is one of today’s most popular study fields. The aim of the present research is to identify key determinants of residential price formation based on the data gathered at the Chania (Greece) municipality and to formulate econometric models capable of describing and predicting their movements. Such a model will improve the precision of property valuations and be a useful aid in making real estate related investment decisions. The prediction models examined are stepwise regression, neural network, decision and boosted tree. The model building process was based on a variety of factors with a dataset of 737 detached houses. The data, provided by the Bank of Greece, included eight variables and captured information on transactions taking place during a period of 8 years (2006-2013). The results from applying data mining techniques to predict residential real estate values showed that the boosted tree model generally performed better than all the other three techniques in building a predictive model. This model has the highest R2 and the smallest RASE as well as AAE criteria, which indicate the most accurate prediction performance of this model compared to others. Nevertheless, the model-averaging technique was used in order to shrink the estimates on the weaker term and to yield better predictions. According to the defined aim of the study, two parameters were outlined as the most significant determinants while predicting house prices in Chania.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://docs.maich.gr/thesis/T000903</dc:identifier>
+    <dc:type>Other</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <agls:availability>
+      <ags:availabilityLocation>T000903</ags:availabilityLocation>
+      <ags:availabilityNumber>903/EC/KU</ags:availabilityNumber>
+    </agls:availability>
+  </ags:resource>
+</ags:resources>

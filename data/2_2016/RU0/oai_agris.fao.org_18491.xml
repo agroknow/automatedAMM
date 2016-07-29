@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018491">
+    <dc:title xml:lang="en">Preparation and use of whey protein microparticulate in synbiotic drink technology</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Melnikova E.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Stanislavskaya E.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Korotkov E.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ultrafiltration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">beverages</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">health foods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">food composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24097</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_896</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25396</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10961</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A crucial task of the dairy industry is the modification of the composition and properties of cheese whey to level its organoleptic characteristics for use of qualitatively new food products in technology, including the one of functional use. The work purpose is the optimization of technological parameters of the microparticulation process of ultrafiltration cheese whey concentrate for its use in the production of low-calorie synbiotic drinks. The research objects are cheese whey, food composition based on it (whey protein microparticulate) and synbiotic drink. For mathematical support of experimental results different methods of statistics and optimization, including the method for artificial neural networks were used. The technology of producing milk fat simulator provides pre-cleaning of whey from casein particles and fat, fractionation and concentration of whey proteins using ultrafiltration, as well as thermomechanical processing of the obtained concentrate. The whey protein microparticulate is close to skimmed milk by physical and chemical properties and chemical composition, and its organoleptic properties simulate drinking cream. The new food composition is characterized by a pronounced prebiotic activity. During the development of synbiotic drink formulation the great importance was given to the selection of probiotic cultures able to synthesis of exopolysaccharides. The research results suggested the formulation and component solution of the synbiotic drink, which involves the replacement of 27% skimmed milk by the new food composition, with the exception of cream, stabilizer and skimmed milk powder. The main advantages of the new technology solution are the implementation of a closed cycle of production, the expansion of low-calorie products of high biological value and the reduction of economic costs.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://frm-kemtipp.ru/files/archive/6/12.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Foods and Raw Materials</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2308-4057</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

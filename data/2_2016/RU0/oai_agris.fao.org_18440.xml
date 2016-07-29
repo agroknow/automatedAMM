@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016018440">
+    <dc:title xml:lang="en">Development of multiplex microsatellite panel to assess the parentage verification in and differentiation degree of reindeer populations (Rangifer tarandus)</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Разработка мультиплексной панели микросателлитов для оценки достоверности происхождения и степени дифференциации популяций северного оленя Rangifer tarandus</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kharzinova V.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gladyr E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fedorov  V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Romanenko T.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shimit  L.D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Layshev  K.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kalashnikova L.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zinovieva N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reindeer</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Breeds (animals)</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Microsatellites</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biodiversity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6494</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36574</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33949</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Reindeer (Rangifer tarandus), the only member of the genus Rangifer, is one of the most interesting object to investigate genetic diversity. The aim of the current study was the development of multiplex panel of STR (short tandem repeats)markers and assessment of its application to assign the parents and to study biodiversity of reindeer of Even (EVN, n = 44), Evenk (EVK, n = 44), Nenets (n = 45) breeds and Tyva population (TUV, n = 35). The studied populations of reindeer were characterized by relatively high levels of genetic diversity. The average number of alleles per locus was 6.11±0.56 in TUV, 6.67±0.50 in NEN, 8.00±0.76 in EVN and 8.89±0.65 in EVK. The smallest effective number of alleles per locus was detected in TUV (3.37±0.47), the maximal value was in EVK (4.89±0.46 alleles per locus), and EVN and NEN occupied an intermediate position (4.42±0.53 and 3.90±0.38, respectively). The number of alleles in single loci ranged from four in NVHRT21 and NVHRT24 for TUV to twelve in RT7 for EVK and RT1 for EVN. The probability of matching genotypes (PI) for the nine loci ranged from 1.84½10-9 in NEN to 5.9½10-11 in EVK, showing the high power of the proposed marker panel for parentage identification. The highest degree of genetic differentiation was shown for TUV and for NEN. The EVN and EVK population were close to each other, and a clear clustering between them was not observed. An estimation of Rst (AMOVA) showed that 11.4% of the total molecular variability was caused by differences between populations, and 88.6% was due to individual differences between animals (p &lt; 0.01). TUV population was the most distinct comparing to other populations (DNei = 0,283-0,502, Fst = 0,299-0,452). The minimal genetic differences were observed between EVN and EVK (DNei = 0,068, Fst = 0,032). The results show high functional power of the developed STR panel to identify the parentage and to study biodiversity in Russian reindeer populations.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Северный олень (Rangifer tarandus), единственный представитель рода Rangifer, принадлежит к числу наиболее интересных объектов исследования генетического разнообразия. Целью настоящей работы стала разработка мультилокусной панели анализа STR (short tandem repeats) маркеров и оценка ее информативности для контроля достоверности происхождения и изучения биоразнообразия эвенской (EVN, n = 44), эвенкийской (EVK, n = 44), ненецкой пород (n = 45) и тувинской популяции (TUV, n = 35) северного оленя. Среднее число аллелей на локус составило 6,11±0,56 у TUV, 6,67±0,50 — у NEN, 8,00±0,76 — у EVN и 8,89±0,65 — у EVK. Наименьшим числом эффективных аллелей на локус характеризовалась популяция TUV (3,37±0,47), максимальным — EVK (4,89±0,46), популяции EVN и NEN занимали промежуточное положение (соответственно 4,42±0,53 и 3,90±0,38). Число аллелей в отдельных локусах варьировало от 4 (в локусах NVHRT21 и NVHRT24 у TUV) до 12 (в локусе RT7 у EVK и в локусе RT1 у EVN). Вероятность совпадения генотипов (PI) по девяти локусам составила от 1,8½10-9 у NEN до 5,9½10-11 у EVK, что подтвердило высокую информативность предложенной панели в контроле достоверности происхождения. Наибольшей генетической обособленностью характеризовались популяции TUV и NEN. Изучаемые популяции пород EVN и EVK были дифференцированы в меньшей степени, и четкой кластеризации между ними не обнаружили. Общая молекулярная изменчивость была на 11,4% обусловлена различиями между популяциями и на 88,6% — индивидуальными различиями между животными (p &lt; 0,01). Популяция TUV характеризовалась наибольшей удаленностью от остальных (DNei = 0,283-0,502, Fst = 0,299-0,452). Минимальные генетические различия отмечались между EVN и EVK (DNei = 0,068, Fst = 0,032). Полученные результаты подтвердили высокую функциональную емкость разработанной STR панели как для анализа достоверности происхождения, так и для изучения биоразнообразия российских популяций северного оленя. (Табл. 3. Ил. 3. Библ. 45)</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.agrobiology.ru/articles/6-2015kharzinova-rus.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agricultural Biology</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0131-6397</ags:citationIdentifier>
+      <ags:citationNumber>v.50/n.6</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

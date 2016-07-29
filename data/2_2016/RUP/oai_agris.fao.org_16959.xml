@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P16959">
+    <dc:title xml:lang="ru">ОБОСНОВАНИЕ НЕОБХОДИМОСТИ ОБНОВЛЕНИЯ ОСНОВНЫХ ПРОИЗВОДСТВЕННЫХ ФОНДОВ НА ПРЕДПРИЯТИЯХ АПК</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE SUBSTANTIATION OF NECESSITY OF RENEWAL OF BASIC PRODUCTION ASSETS AT THE ENTERPRISES OF AGROINDUSTRIAL COMPLEX</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Savelieva  I.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Makarova  E.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aliyev  N.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aliyeva  N.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E16</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">production economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26808</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: fixed assets, depreciation, material and technical base, agricultural machinery, agricultural production, leasing, lending, Finance lease</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье анализируются объемы износа основных фондов в сельском хозяйстве. Рассматривается средний возраст материально-технической базы отрасли. Приводятся данные по закупке техники для агропромышленных производств. Для аграриев лизинг может стать эффективными инструментом и оптимальным способом модернизации парка техники и расширения производственной базы, приобретения современного оборудования и внедрения новых технологий в производственный процесс. В качестве реализации программ государственной поддержки сельхозтоваропроизводителей рассматривается субъект ОАО «Росагролизинг», который действует в рамках национальной системы аграрного лизинга как формы инве-
+стиций на федеральном и региональном уровнях. Акционерное общество выступает основным двигателем
+технической модернизации отрасли для проведения сезонных полевых работ, а так же является поставщи-
+ком племенного скота.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article analyzes the amounts of depreciation of fixed assets in agriculture. The average age of the material and technical base of the industry is considered. The data on the purchase of equipment for the agricultural industries are given. For farmers, leasing can be an effective tool and the best way to upgrade your fleet and expand the production base, acquisition of modern equipment and introduction of new technologies in the production process. As the implementation of programs of state support of agricultural producers the subject of "Rosagroleasing" is considered, which operates within the national system of agrarian leasing as a form of investment on Federal and regional levels. Joint-stock company is the main engine of technical modernization of the industry to conduct seasonal field work, as well as a supplier of breeding cattle.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USN_2016_4_2_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№4 (part 2), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

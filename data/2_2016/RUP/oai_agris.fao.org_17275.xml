@@ -1,0 +1,45 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P17275">
+    <dc:title xml:lang="ru">ТЕОРЕТИЧЕСКИЙ АНАЛИЗ ПЕРСПЕКТИВНОЙ ТЕХНОЛОГИЧЕСКОЙ ЛИНИИ ПРОИЗВОДСТВА РАСТИТЕЛЬНОЙ ПРОДУКЦИИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THEORETICAL ANALYSIS OF THE PERSPECTIVE TECHNOLOGICAL LINE PRODUCTIONS OF VEGETABLE PRODUCTION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gasanov  A.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E21</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agroindustry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28831</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: agroleasing, Agroservice, manufacturing line, agroclavine, plant products, process map</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Агролизинг и его районные филиалы Агросервиса играют важную роль в техническом обеспечении производства растительной продукции. Для этого для производства каждой культуры составляется технологическая карта. Технологическая карта являясь документом дает возможность для правильной организации производства, определения затрат, на производства марок и количества тракторов и с/х машин для выполнения механизированных работ с соблюдением агротехнических требований и норм.
+Основной целью составления технологической карты является обоснование выбора технологии дающей
+основание увеличения производительности с использованием ресурсов производственных процессов, внедрения комплексной механизации, уменьшения затрат труда, и затрат на производство продукции.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Agroleasing and its regional Agroservice branches play an important role in technical support of the plant production. To do this, for the production of each culture technological map is made. Process map as a document allows for proper organization of production, costing, production and brands of tractors and agricultural machines to perform mechanical work in compliance with agrotechnical requirements and standards.
+The main purpose of drawing up technological map is the justification of the choice of technology allowing the
+increase productivity from resource use production processes and the introduction of complex mechanization, reduce
+labor costs, and costs of production.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USNO_2016_5_3_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№5 (part 3), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

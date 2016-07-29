@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017733">
+    <dc:title xml:lang="en">Influence of disrupting conditions of eggs incubation on survival and genetic polymorphism of larvae of Russian sturgeon (Acipenser guldenstadtii Brandt)</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние нарушений условий инкубации икры на выживаемость и генетический полиморфизм личинок русского осетра (Acipenser guldenstadtii Brandt)</dcterms:alternative>
+    </dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sturgeons</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Caviar</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic variation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">lighting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7476</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1398</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15975</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4326</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The experiments were conducted on the small portions of embryos or larvae (about 1000 specimens) of Russian sturgeon (Acipenser guldenstadtii Brandt) under the conditions of the Aleksandrovskiy sturgeon fish-farming plant (the Astrakhan region). In the 1st experiment (3 versions), the fluctuations of the boxes of apparatus "Sturgeon" with developing embryos from 3 females of sturgeon (beginning from the stage of neurula) were stopped for 24 hrs, whereas the control boxes continued to move in standard regime. The absence of movement of incubation boxes led to worsening of oxygen regime and decreasing of the number of hatching larvae of all three females. In the 2nd experiment (2 versions), the incubation of embryos was performed in conditions of constant light, or in constant darkness in combination with the limitation of amplitude of fluctuations of incubation boxes, which led to sharp decrease in hatching larvae in the 2nd version. The larvae were grown further in the same conditions of constant light or constant darkness as before hatching. At the stage 44, all larvae were frozen for the subsequent genetics-biochemical analysis, which was carried out by the method of electrophoresis in polyacrylamide gel. The genetic heterogeneity of samples was evaluated by the frequency of occurrence of alleles, by the level of the observed and expected heterozygosity and by the criterion chi squared. In the experiment 1, the studies of influence of flowage on the locus of malate dehydrogenase showed the absence of any differences between experimental and control progeny, however, in progeny of females No. 2 and No. 3 the decrease of the portion of homozygous genotype В′В′ was noted. The displacement of equilibrium D in direction to heterozygosity was noted. On the locus of esterase the equilibrium also was disordered due to an increase in heterozygotes number. In the experiment 2, the increased mortality of larvae at constant light, on the contrary, led to displacement of equilibrium in direction of homozygosity on the both investigated loci. The results of the experiments suggested to optimize the process of rearing up of sturgeon larvae and fry for releasing into natural reservoirs by changing the plant conditions for natural conditions.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Эксперименты проводились на небольших количествах икры или личинок (до 1000 шт.) русского осетра (Acipenser guldenstadtii Brandt) на Александровском осетровом рыбоводном заводе (Астраханская обл.). В эксперименте 1 (3 варианта) колебания ящиков аппарата "Осетр" с раздельно заложенной на инкубацию икрой 3 самок осетра приостанавливали, начиная со стадии нейрулы, на одни сутки (контрольные ящики продолжали колебаться в стандартном режиме), что приводило к нарушению кислородного режима и уменьшению выклева личинок всех самок. В эксперименте 2 (2 варианта) инкубация икры проходила либо при постоянном освещении, либо в постоянной темноте в сочетании с ограничением амплитуды колебаний инкубационных ящиков, что резко уменьшило количество вылупляющихся личинок во втором варианте. Полученные личинки содержались далее в тех же условиях: либо при постоянном освещении, либо в постоянной темноте. На стадии 44, предшествующей началу экзогенного питания, все личинки замораживались для генетико-биохимического анализа, проводившегося методом электрофореза в полиакриламидном геле. Генетическую гетерогенность выборок оценивали по частоте встречаемости аллелей, уровню гетерозиготности – наблюдаемой и ожидаемой, критерию хи-квадрат. Исследование влияния проточности в эксперименте 1 по локусу малатдегидрогеназы показало отсутствие каких-либо различий между опытным и контрольным потомством, однако в потомстве самок № 2 и 3 отмечалось уменьшение доли гомозиготного генотипа В′В′. Смещение равновесия D происходило в основном в пользу гетерозигот. По локусу эстеразы смещение равновесия наблюдалось также в сторону гетерозиготности. В эксперименте 2 следствием повышенной смертности личинок при постоянном освещении, наоборот, было смещение равновесия в сторону гомозиготности по обоим исследованным локусам. Для уменьшения селективности рыбоводства предложено оптимизировать процесс выращивания молоди осетровых для выпуска в природные водоёмы, приблизив заводские условия к природным.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestnik.astu.org/Content/UserImages/file/fish_2015_4/10.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

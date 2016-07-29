@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016015516">
+    <dc:title xml:lang="en">The development of innovative design of the conical rotary- and film apparatus</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Разработка инновационной конструкции конического ротационно-пленочного аппарата</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Altajuly S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shakhov S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kretov I.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Derkanosova A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">food industry equipment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Emulsions</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Evaporation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">equipment characteristics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25773</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10593</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2739</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25689</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A design of the conical rotary and film apparatus (RFA) for carrying out the process of dripping phosphatidic emulsion of vegetable oils. RFA can be used in the various industries that use the evaporation of moisture from the high-heat-labile concentrates. In RFA created as a result of experimental studies the inner cavity of the rotor is divided into a supply and distribution of the original product (OP) and vapor removal zone with a barrier that hosts spheroconical insert shapes with reverse bend of the conical part, the top of which is directed towards the delivery of the OP. In the area of supply and distribution of OP the perforations of the rotor have a slit shape, and in the cavity of the rotor curved blades are placed whose generators have the form of the curve obtained by approximation of the polyline. The nozzle for inputting of OP having tangentially formed holes on both ends is placed so that it could be rotated in the central part of the conical body along its axis, one end of which is placed in the interior of the perforated rotor in the supply and distribution zone of the OP, and the other one is placed in the chamber for the OP, which is connected in series with the heater and the delivery pump for OP. Scientific novelty of the innovative design is reduction of the amplitude of the oscillation of the RFA by reducing friction of particles suspension on the rotor blades, that caused higher dynamic loads, ensured even distribution of OP on the inner surface of the housing, and reduced the energy consumption.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Разработана конструкция конического ротационно-пленочного аппарата (РПА) для проведения процесса влагоудаления из фосфатидных эмульсий растительных масел. РПА может использоваться в различных отраслях промышленности, применяющих выпаривание влаги из термолабильных высоковязких концентратов. В сконструированном по результатам экспериментальных исследований РПА внутренняя полость перфорированного ротора разделена на зону подачи и распределения ИП и зону удаления пара перегородкой, на которой размещена вставка сфероконической формы с обратным изгибом конической части, вершина которой направлена навстречу подаче ИП. В зоне подачи и распределения ИП отверстия перфорации ротора имеют щелевидную форму, и в полости ротора данной зоны установлены криволинейные лопасти, образующие которых имеют вид кривой, полученной аппроксимацией ломаной линии. Патрубок для ввода ИП, имеющий с обоих концов тангенциально выполненные отверстия, установлен с возможностью вращения в центральной части конического корпуса по его оси, один конец которого размещен во внутренней полости перфорированного ротора в зоне подачи и распределения ИП, а другой размещен в камере для ИП, которая последовательно соединена с калорифером и насосом подачи ИП. Научной новизной инновационной конструкции является снижение амплитуды колебаний РПА путем уменьшения трения частиц суспензии о лопасти ротора, вызывающего повышенные динамические нагрузки, обеспечения равномерного распределения ИП по внутренней поверхности корпуса, а также снижение энергозатрат.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik-vsuet.ru/vguit/article/download/589/556</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Proceedings of the Voronezh State University of Engineering Technologies</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2226-910X</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

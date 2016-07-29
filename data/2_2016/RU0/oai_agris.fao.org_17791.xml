@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017791">
+    <dc:title xml:lang="en">Influence of fertilizers on forage quality of goat’s rue agrocenoses</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние минеральных удобрений на качество корма козлятниковых агроценозов</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Minnullin Gennady</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vafina L.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vafin N.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Khismatullin M.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Galega orientalis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crude protein</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crude fat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nitrates</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed units</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24642</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2867c82c5e5a</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24013</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32416</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5187</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Study was done in 2013-2015 in the Republic of Tatarstan. Field experiment was done on typical leached chernozem with average humus, mobile phosphorus and exchangeable potassium content. Soil environment reaction was close to neutral. PureEastern galega (EG) crops, herbage mixture of EG and red clover, and the one of EG, clover and awnless brome were grown. Fertilizers (NPK) were introduced under planned green mass yield of 30, 35 and 40 t/hectare. During NPK norm increase crude protein gross collection increased by 1, 42 and 48% respectively. EG, clover and brome herbage mixture green mass, grown without fertilizers, is ideal summer forage by sugar-protein ratio. It is reasonable to prepare other forage types. From 1 hectare of goat’s-rue and rump grass we can prepare 54 centners of loose or 62 centners of rolled hay, 280 centners of silage, 216 centners of ordinary or 232 centners of small-rolled haylage. The maximum content of feed units (0.48) was in the rolled hay, and the minimum (0.14) - in silage. The highest gross yield of fodder units per 1 hectare of EG agrocoenosis was provided by 2 types of haylage (ordinary and small-rolled) - 56.2 and 74.2 centners/hectare with the cost of 22.4-29.7 thousand rub/hectare. The profitability of small-rolled layhage is 56-60%, despite the additional costs of acquiring a special packaging material. At productivity of 232 centners of raw materials with a moisture content of 50% from 1 hectare one can prepare 33 pieces of small-rolled haylage in the package, additionally spending 3.7 thousand rubles when the cost of value of gross production is 29.7 thousand rub/hectare. Stocking the rolled hay from the same raw materials, the farm would get products worth 11.9 thousand rub/hectare. The use of mineral fertilizers, estimated taking into account the botanical composition goat’s-rue agrocoenosis, is a powerful factor in improving food quality and increase the gross harvest of fodder units per 1 hectare of sown pastures.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Исследования проведены в 2013-2015 гг. в Республике Татарстан. Полевой опыт проводился на типичных выщелоченных черноземах со средним содержанием гумуса, подвижного фосфора и обменного калия. Реакция почвенной среды была близка к нейтральной. Выращивали одновидовые посевы козлятника восточного (КВ), травосмесь из КВ и клевера лугового, а также травосмесь из КВ, клевера и костреца безостого. Вносили удобрения (NPK) под планируемую урожайность зеленой массы 30, 35 и 40 т/га. По мере увеличения нормы NPK валовой сбор сырого протеина увеличился на 1, 42 и 48% соответственно. По сахаро-протеиновому соотношению зеленая масса травостоя КВ, клевера и костреца, выращенная без применения удобрений, является идеальным летним кормом. Остальные виды кормов целесообразно заготавливать. C 1 га козлятниково-кострецового травостоя можно заготовить 54 ц рассыпного сена или же 62 ц рулонного, 280 ц силоса, 216 ц обычного или же 232 ц мелкорулонного сенажа. Максимальное содержание кормовых единиц (0,48) было в рулонном сене, а минимальное (0,14) – в силосе. Самый высокий валовой сбор кормовых единиц с 1 га агроценозов КВ обеспечили 2 вида сенажа (обычный и мелкорулонный) – 56,2 и 74,2 ц/га со стоимостью 22,4-29,7 тыс. руб./га. Рентабельность производства мелкорулонного сенажа составляет 56-60%, несмотря на дополнительные затраты на приобретение специального упаковочного материала. При урожайности 232 ц сырья с влажностью 50% с 1 га можно заготовить 33 шт. мелкорулонного сенажа в упаковке, дополнительно затрачивая 3,7 тыс. руб. при стоимости валовой продукции 29,7 тыс. руб./га. Заготавливая из этого же сырья рулонное сено, хозяйство получило бы продукцию лишь на сумму 11,9 тыс. руб./га. Применение минеральных удобрений, рассчитанных с учетом ботанического состава козлятниковых агроценозов, является мощным фактором повышения качества корма и увеличения валового сбора кормовых единиц с 1 га сеяных лугов.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik-kazgau.com/images/archive/2015/4/17_minnulin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Kazan State Agrarian University</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2073-0462</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

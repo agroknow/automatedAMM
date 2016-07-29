@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016317770">
+    <dc:title xml:lang="ru">МОДЕЛЬНОЕ ОБОСНОВАНИЕ ПРОИЗВОДСТВЕННОЙ ПРОГРАММЫ СЕЛЬСКОХОЗЯЙСТВЕННОГО ПРЕДПРИЯТИЯ С УЧЕТОМ ФАКТОРОВ РИСКА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>MODEL BACKGROUND PRODUCTION PROGRAM FOR AGRICULTURAL ENTERPRISE RISK MANAGEMENT</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Гонова Ольга</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-09</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">planning</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">risk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop forecasting</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">погода</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">inflation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farm income</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6612</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10170</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15292</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3857</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10746</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрены вопросы моделирования экономических процессов сельскохозяйственного производства, предложено авторское обоснование производственной программы с учетом погодных условий, инфляции и изменения цен реализации на продукцию сельскохозяйственного предприятия. Расчеты выполнены с использованием пакета прикладных программ MS Excel «Поиск решения».</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The paper deals with the economic modeling of agricultural production, the author's proposed study of the production program, taking into account weather conditions, inflation, changes in prices of sales management using software package MS Excel “Finding the solution”.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://www.isuct.ru/e-publ/snt/sites/ru.e-publ.snt/files/2012/04/snt_2012_n04_23.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Современные наукоемкие технологии. Региональное приложение</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2413-5399</ags:citationIdentifier>
+      <ags:citationNumber>v.2012/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017074">
+    <dc:title xml:lang="en">Carob tree gum impact on the properties and quality of wheat bread</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние камеди рожкового дерева на свойства и качество пшеничного хлеба</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Andreev A.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dmitrieva Yu.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q05</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bread</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">doughs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hydration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Colloids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food handling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">volume</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1071</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26776</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3712</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1763</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9001004</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8288</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The influence of carob gum on structural and mechanical properties of dough, its machining, specific volume, and the shelf life of wheat bread is analyzed. Series of experiment were carried out on wheat bread made according to a formula for “Nareznoy” loaf (State Standard 27844-88), in which the bakery yeast cake was replaced with soluble Saf-Instant “Red” yeast in the ratio of 3:1. To evaluate physicochemical and organoleptic parameters the dough was worked into loafs and baked directly on the oven floor</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">and to evaluate specific volume and rheological indicators of crumb the dough was baked in the forms. The amount of gum added was 0.2 and 0.5%. The amount of additional water was chosen experimentally to be 5% of general water amount in formulae. Thus, hydration degree was 52% in general, and 57% for control samples. Crumb freshness was evaluated according to rheological parameters in terms of compression strain, residual crumb strength and resilience on the second and eighth day of storage using penetrometer. It is shown that the use of hydrated carob gum with the degree of hydration of 57% at a dosage of 0.5% of the flour weight improves rheological properties of dough and its machining, increases the relative amount of wheat bread by 10%, forms soft crumb during baking, and prolongs shelf life of the product up to eight days, that results in improving bread quality and digestibility.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Выявляли влияние камеди рожкового дерева на структурно-механические свойства теста, машинную обработку тестовых заготовок, удельный объем и сохранение свежести пшеничного хлеба. Серии испытаний проводились с хлебом пшеничным, который вырабатывался по рецептуре батона нарезного (ГОСТ 27844-88), в которой дрожжи хлебопекарные прессованные были заменены растворимыми дрожжами Саф-Инстант "красный" в соотношении 31. Для определения физико-химических и органолептических показателей тестовые заготовки формовали в виде батонов и выпекали на поду</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">для определения удельного объема, реологических характеристик мякиша тестовые заготовки укладывали и выпекали в формах. Камедь рожкового дерева вносили в опару в количестве 0,2 и 0,5%. Размер добавочного количества воды определялся экспериментально и составлял 5% от общего количества воды по рецептуре. Таким образом, доля контроля гидратации составляла 52%, для опытных образцов – 57%. Свежесть мякиша хлеба оценивалась по реологическим характеристикам на пенетрометре по общей деформации сжатия, остаточной деформации мякиша и его упругости на 2 и 8 сут хранения. Установлено, что использование гидратированной камеди рожкового дерева со степенью гидратации 57% в дозировке 0,5% от массы муки улучшает реологические свойства теста и машинную обработку тестовых заготовок, увеличивает удельный объем пшеничного хлеба на 10%, формирует мягкий мякиш при выпечке и увеличивает срок сохранения свежести изделия до 8 сут, улучшая качество и усвояемость хлеба.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://processes.ihbt.ifmo.ru/file/article/15328.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Scientific journal NRU ITMO Series &amp;quot;Processes and Food Production Equipment&amp;quot;</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2310-1164</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

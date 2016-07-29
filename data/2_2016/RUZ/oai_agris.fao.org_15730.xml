@@ -1,0 +1,34 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016Z15730">
+    <dc:title xml:lang="ru">ПРАВО НА РЕЛИГИОЗНОЕ ОБРАЗОВАНИЕ В СВЕТСКОМ ГОСУДАРСТВЕ (НА ПРИМЕРЕ РОССИЙСКОЙ ФЕДЕРАЦИИ)</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>The RIGHT to RELIGIOUS EDUCATION IN A SECULAR STATE (ON THE EXAMPLE OF THE RUSSIAN FEDERATION)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Пибаев   И.А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">D50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">law</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12106</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">в статье рассмотрены вопросы реализации  прав на религиозное образование в светском государстве (на примере Российской Федерации)</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://media.wix.com/ugd/fa28f8_447e20521588465ba4e9ae73f4a3c0c0.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Право и национальная безопасность</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2524-0773</ags:citationIdentifier>
+      <ags:citationNumber>v.500/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P17266">
+    <dc:title xml:lang="ru">ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ И УПРАВЛЯЮЩИЕ СИСТЕМЫ В СОВРЕМЕННОМ АГРОПРОМЫШЛЕННОМ КОМПЛЕКСЕ ПО ПРОИЗВОДСТВУ МОЛОКА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INFORMATION TECHNOLOGY AND CONTROL SYSTEMS IN MODERN AGRICULTURE FOR THE PRODUCTION OF MILK</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Litvinov  V.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gracheva  N.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rudenko  N.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zaharova  O.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E21</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agroindustry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28831</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: milk production, information technology, control systems</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье приведены основные концепции разработки информационных технологий и управляющих систем в современном агропромышленном комплексе по производству молока.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article presents the basic concepts of the development of information technology and control systems in a modern agro-industrial complex for the production of milk.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USNO_2016_5_3_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.№5 (part 3), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

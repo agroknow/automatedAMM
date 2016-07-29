@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017181">
+    <dc:title xml:lang="en">Genetic Variability in Populations of Hybridogenous Complex  Abies alba– A. borisii-regis – A. cephalonica</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Genetická variabilita populácií v hybridogénnom komplexe  Abies alba– A. borisii-regis – A. cephalonica</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Voleková Michaela</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>1Technical University in Zvolen, TG Masaryka 24, SK-960 53 Zvolen, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Abies alba</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic variation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Abies cephalonica</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Abies borisii regis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15975</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26317</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34586</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Analyzed hybridogenous complex occurs in southern Balkans. It consists of parapatric taxons Abies alba Mill., A. cephalonica Loud. and A. borisii-regis Mattf. which are able to hybridize naturally. It is difficult to differentiate these taxons according to their morphological traits. Eighteen fir populations of the hybridogenous complex were analyzed using mitochondrial marker nad 5–4 . The result is the geographical distribution of maternally inherited mitochondrial DNA haplotypes. Two haplotypes were found in the studied populations</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">in A. alba populations from Bulgaria, Macedonia and Greece only the 150 bp haplotype was revealed, whereas in A. cephalonica population from Greece the 341 bp one. All populations of A. borisii-regis originate in Greece. The northern A. borisii-regis populations show only the A. alba haplotype. The southern populations show a low rate of  the A. alba haplotype and the haplotype of A. cephalonica. Geographical distribution of haplotypes in A. borisii-regis populations is quite strict. It indicates a hybrid zone with extremely narrow cline along the latitudinal gradient. The center of the cline is located at 39°07’N, its width represents only 31 km. A. borisii-regis is probably the species of a hybrid origin from recent hybridization of its parental species A. alba and A. cephalonica A. borisii-regis creates a hybrid swarm in the contact zone of the parental species.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/3_3/Acta_Facultatis_Forestalis/aff_suppll_56_1_2014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta  Facultatis Forestalis Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0231-5785</ags:citationIdentifier>
+      <ags:citationNumber>v.56/n.Suppl. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

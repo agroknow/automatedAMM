@@ -1,0 +1,92 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X16924">
+    <dc:title xml:lang="en">INFLUENCE OF TOP DRESSING ON TECHNOLOGICAL QUALITY OF ROOTS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ВЛИЯНИЕ ВНЕКОРНЕВОЙ ПОДКОРМКИ НА ТЕХНОЛОГИЧЕСКИЕ КАЧЕСТВА КОРНЕПЛОДОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Oshkin Vladimir А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kostin V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Smirnova Natalya V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F61</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sugarbeet</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">trace elements</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant growth substances</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">alkali metals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nitrogen</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crop performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Processing quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7499</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7834</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5968</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_264</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5192</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35199</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29772</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI 10.18286/1816-4501-2016-1-72-75
+tables, 3 graphs, 14 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We conducted analysis of sugar beet processing qualities of and loss of sugar in molasses with top dressing by non-reutilized trace elements (boron, zinc, manganese) and growth regulator Melapfen. The experiment was conducted in 2012-2015 on the beet-growing peasant farm enterprise «Syapukov E. F.» in Tsylninsky district of Ulyanovsk region on crops Manon hybrid. Top dressing by microelements and growth regulator was carried out 2 times during the vegetational season. Sugariness of beets was determined by the method of hot water digestion, potassium and sodium content was determined by the potentiometric method, the α-amine nitrogen – by the colorimetric method of the «blue numbers». Standard loss of sugar during the formation of molasses was calculated by using the formula of Braunshveygskaya. Studies have shown that the yield of sugar beet roots increases with top dressing by microelements and growth regulator. In a combined application of used factors (Zn + Mn + B + Melaphen) this value is significantly higher than with all other options. At the same time, top dressing causes a decrease in content of potassium, sodium and alpha-amino nitrogen in roots. Standard sugar losses in molasses are also reduced with the application of microelements and growth regulator, mainly due to the low content of potassium and alpha-amino nitrogen. Bulk yield of sugar in the variant with combined application of non-reutilized microelements and growth regulator Melapfen was 8.7 t/ha, for control – 6.4 t/ha. Productivity evaluation of bulk yield of cleaned sugar has shown that the variant with application of boron, zinc, manganese and Melafen significantly exceeds the control, by 7.7 t/ha and 5.3 t/ha respectively. The obtained results allow to conclude that sugar beet cultivation is more efficient with the double top dressing by solutions of boric acid, sulphate of zinc and manganese and growth regulator Melapfen.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проводили анализ технологических качеств сахарной свёклы и потерь сахара в мелассе при внекорневой обработке нереутилизующимися микроэлементами (бор, цинк, марганец) и регулятором роста мелафеном.Опыт проводили в 2012-2015 гг. в свеклосеющем КФХ «Сяпуков Е.Ф.» Цильнинского района Ульяновской области на посевах гибрида Манон.Внекорневую подкормку микроэлементами и регулятором роста проводили 2 раза за вегетационный период.Сахаристость корнеплодов определяли методом горячего водного дигерирования, содержание калия и натрия определяли потенциометрическим методом, α-аминный азот – колориметрическим методом «голубого числа». Стандартные потери сахара при образовании мелассы вычислялись по Брауншвейгской формуле. Исследования показали, что с внекорневым внесением микроэлементов и регулятора роста растёт урожайность корнеплодов сахарной свеклы. При совместном применении используемых факторов (Zn + Mn + B + Мелафен) этот показатель существенно выше всех остальных вариантов. В то же время внекорневая обработка вызывает уменьшение содержания калия, натрия и альфа-аминоазота в корнеплодах. Стандартные потери сахара в мелассе также уменьшаются с внесением микроэлементов и регулятора роста, в основном за счет низкого содержания калия и альфа-аминоазота.Валовой сбор сахара в варианте с совместным внесением нереутилизующихся микроэлементов и регулятора роста мелафена составлял 8,7 т/га, на контроле – 6,4 т/га. Оценка продуктивности по валовому сбору очищенного сахара показала, что вариант с применением бора, цинка, марганца и мелафена значительно превосходит контроль, 7,7 т/га и 5,3 т/га соответственно.Полученные результаты позволяют сделать вывод о наиболее продуктивном возделывании сахарной свеклы с двукратным внекорневым внесением растворов борной кислоты, сульфатов цинка и марганца, и регулятора роста мелафена.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/1-16-oshkin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

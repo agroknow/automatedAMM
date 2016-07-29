@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016018280">
+    <dc:title xml:lang="en">Decay inhibition of maple wood with nano-zinc oxide used in combination with essential oils</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Reinprecht Ladislav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vidholdová Zuzana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gašpar František</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email:  reinprecht@tuzvo.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Acer</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biodeterioration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">INHIBITION</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_63</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27464</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28427</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This work investigates the anti-decay efficiency of nano-zinc oxide (ZnO-Nano: 0.1, 0.33, 1 or 3% ethanol dispersions), three essential oils (clove, oregano and thyme: 1 or 3% ethanol solutions), as well as their mixtures – introduced into samples 25×25×3 mm (L×R×T) of maple wood (Acer pseudoplatanus) by dipping at 20°C/1h our. The anti-decay efficiency of all treating substances was valued against the white-rot fungus Trametes versicolor, based on a drop of mass losses of treated samples in relation to untreated ones during their 6 week’s exposure in fungal mycelia in petri dishes. The best decay inhibition of maple wood was achieved after its treatment with the 3% nano-zinc oxide (retention of ca 5 kg·m-3) when the mass losses of wood decreased from 20.4% (untreated wood) to 5% (treated wood). On contrary, the anti-decay efficiency of essential oils against the T.versicolor was either poor (using clove and thyme oils) or even none (using oregano oil). Individual essential oils did not have synergetic/promoting effect for increasing the anti-decay efficacy of nano-zinc oxide.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/DF/fakulta_df/AFX/archive/2016/2016-1/06-01-16.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta facultatis xylologiae Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-3824</ags:citationIdentifier>
+      <ags:citationNumber>v.58/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

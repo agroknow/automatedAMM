@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016317541">
+    <dc:title xml:lang="ru">МОЛОЧНАЯ ПРОДУКТИВНОСТЬ ОВЕЦ РОМАНОВСКОЙ ПОРОДЫ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE MILK PRODUCTIVITY OF ROMANOV SHEEP BREED</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Костылев Михаил</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-4</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">lactation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sheep</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4140</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрены влияния возраста животного, происхождения, количества ягнят в приплоде на молочную продуктивность овец романовской породы и представлен химический анализ молока в разные периоды лактации.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article considers the influences of animal age, origin , number of lambs in litter on milk productivity of Romanov sheep breed and is presented the chemical analysis of milk during different periods of lactation.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://www.isuct.ru/e-publ/snt/sites/ru.e-publ.snt/files/2015/04/snt_2015_n04-179.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Современные наукоемкие технологии. Региональное приложение</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2413-5399</ags:citationIdentifier>
+      <ags:citationNumber>v.2015/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

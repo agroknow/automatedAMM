@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X18506">
+    <dc:title xml:lang="en">FOODS HIGH IN VITAMIN C</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ПРОДУКТЫ С ВЫСОКИМ СОДЕРЖАНИЕМ ВИТАМИНА С</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Chesalkina K.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Muryvanova N.N.</ags:creatorPersonal>
+    </dc:creator>
+    <ags:creatorConference>Материалы V Всероссийской студенческой научной конференции &amp;quot;В мире научных открытий&amp;quot;</ags:creatorConference>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">S01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">vitamin C</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ascorbic acid</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">foods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15229</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_661</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3032</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>tables, 4 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This article analyzes the content of vitamin C in some foods. In the process, they have been identified and are recommended for permanent
+use of the products most rich in vitamin.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Статья посвящена анализу содержания витамина С в отдельных
+продуктах питания. В процессе работы были выделены и рекомендованы для постоянного употребления продукты наиболее
+богатые витамином.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Conference presentation</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+  </ags:resource>
+</ags:resources>

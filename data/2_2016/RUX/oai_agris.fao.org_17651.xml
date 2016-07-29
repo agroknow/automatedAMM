@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17651">
+    <dc:title xml:lang="en">AGRO-ECOLOGICAL AND TECHNOLOGICAL EVALUATION OF USE OF MICROELEMENT IN SUGAR BEET PRODUCTION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>АГРОЭКОЛОГИЧЕСКАЯ И ТЕХНОЛОГИЧЕСКАЯ ОЦЕНКА ПРИМЕНЕНИЯ МИКРОЭЛЕМЕНТОВ В СВЕКЛОСАХАРНОМ ПРОИЗВОДСТВЕ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Oshkin Vladimir А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kostin Vladimir I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Isaychev Vitaly A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sugarbeet</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">MANGANESE</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">boron</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Zinc</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heavy metals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sucrose</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7499</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4570</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8517</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7495</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>5 tables, 18 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Long term studies data on study of the effect of two foliar dressing of vegetating plants of sugar beet agrophytocenosis was presented in the article (Beta vulgaris). The experiments were carried out on beet-growing PFE in Ulyanovsk region. Samples of sugar beet roots were chosen as the object of research. Aqueous solutions of microelements of bor, zinc and manganese in tank mixture together with herbicides were used for foliar dressing. Main and concurrent observations were carried out by standard methods. Sucrose was determined by an optical method on colorimetric saccharimeter, juice quality by Silin, heavy metals by atomic absorption spectrophotometry method. Modified by Wininger and Kubadinov method of Stanek and Pawlas was used to determine α-amine nitrogen. The results showed that sucrose content increases from 16,85 to 17,75%. In addition to sucrose, adequate juice quality and hydrogen index (pH) have been determining technological parameters. Under the influence of studied microelements adequate juice quality has improved from 85,68 to 88,13 c.u. due to increment of sucrose content in normal juice. PH for juice under the influence of microelements has hardly changed and fluctuated between 6.2 and 6.5, close to neutral environment. Content of «harmful» α-amine nitrogen decreased from 0,0808 to 0,0670% of beet weight. Physiological barriers for heavy metals accumulation in roots are generated under the influence of used factors , as a result there is a reduction of its content, which, consequently, improves ecological purity of beet-raw materials.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приведены данные многолетних исследований по изучению влияния 2-х разовой внекорневой обработки вегетирующих растений агрофитоценоза сахарной свёклы (Beta vulgaris). Опыты проводили в свеклосеющем КФХ в Ульяновской области. Объектом исследований были выбраны образцы корнеплодов сахарной свёклы. Для внекорневой подкормки использовали водные растворы микроэлементов бора, цинка и марганца в баковой смеси совместно с гербицидами. Основные и сопутствующие наблюдения проводили по стандартным методикам. Сахарозу определяли оптическим методом на колориметрическом сахариметре, доброкачественность сока по Силину, тяжёлые металлы – методом атомно-абсорбционной спектрофотометрии. Для определения α-аминного азота использовали модифицированный Винингером и Кубадиновым метод Станека и Павласа. Результаты исследований показали, что содержание сахарозы увеличивается с 16,85 до 17,75%. Определяемыми технологическими показателями, кроме сахарозы, являлись доброкачественность сока и водородный показатель (pH). Под действием исследуемых микроэлементов улучшалась доброкачественность сока, за счёт увеличения содержания сахарозы в нормальном соке, с 85,68 до 88,13 у.е. Водородный показатель для сока под действием микроэлементов практически не менялся и колебался в пределах 6,2-6,5, близко к нейтральной среде. Уменьшалось содержание «вредного» альфа-аминоазота с 0,0808 до 0,0670% к массе свёклы. Под влиянием используемых факторов создаются физиологические барьеры для аккумуляции тяжёлых металлов в корнеплодах, в результате происходит уменьшение их содержания, что, соответственно, улучшает экологическую чистоту свеклосырья.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/4-15-Oshkin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.4(32)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

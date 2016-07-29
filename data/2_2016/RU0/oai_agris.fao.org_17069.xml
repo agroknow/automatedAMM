@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017069">
+    <dc:title xml:lang="en">Conservation of fruit and berry breeding material at ultralow temperatures</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Сохранение селекционного материала плодовых и ягодных культур при сверхнизких температурах</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pavlov A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Porotnikov I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Verzhuk V.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vorobeykov G.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">MALUS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Prunus cerasifera</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ribes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cryopreservation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pollen</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cuttings</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">buds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4553</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6282</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6585</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24155</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6070</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2048</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1135</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The influence of very low temperatures (minus 183–185 degree С) on the viability of an apple tree pollen, buds and cuttings of plum and cherry plum is analyzed. Cutting of shanks was carried out to Michurinsk the Tambov region and Pavlovsk (the district of St. Petersburg), when air temperature was lower than -5-6 deg. C for 6-7 days. 5-8 cm long shanks were dried to humidity being 28–34% at the temperature of -4-5 deg. C. Then they were frozen by two-level method and immersed in nitrogen vapors. Viability of shanks after storage was measured by inoculations and budding in a garden on mature trees. The viability of varieties of apple pollen Bolotovskii was studied after low-temperature storage (at -18 deg. C) for 9 years and after cryopreservation (at -185 deg. C) for a week (the pollen was frozen by direct immersion in vapors of liquid nitrogen). The pollen was couched for 24 h on the agar nutrient medium with various concentrations of sucrose in the darkness and in the light. The optimum concentration of sucrose for germination is shown to be 10 and 15%. Pollen germinated in the darkness has 1.5–2 times higher viability than the one germinated in the light. After the cryopreservation by ultra-low temperature the viability of pollen was 36.4% which is 1.5 times higher than the one after low temperature storage (during germination in the dark when the sucrose concentration is 15%). The viability of plum cuttings after storage in nitrogen were in the range of from 76.7+-3.3% to 46.6+-3.8% depending on the variety. The maximum indicator belongs to a grade Haritonyevsky late. Grafted cuttings of plum after storage in nitrogen vapor showed about the same survival rate – from 60.0+-4.3% to 45.2+-3.1%. The cryopreservation method is recommended for application in scientific and practical work.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучено влияние сверхнизких температур (минус 183–185 град С) на жизнеспособность пыльцы яблони, почек и черенков сливы и алычи. Нарезку черенков проводили в г. Мичуринск Тамбовской области и г. Павловск (район Санкт-Петербурга), когда температура воздуха была ниже -5-6 град. С в течение 6-7 сут. Черенки длиной 5–8 см подсушивали до влажности 28–34% при температуре -4–5 град. C. Затем замораживали двухступенчатым методом и погружали в пары азота. Жизнеспособность черенков после хранения  учитывали путем прививок и окулировок в саду на взрослых деревья. Жизнеспособность пыльцы яблони сорта Болотовское оценивали после низкотемпературного хранения (при -18 град. С) в течение 9 лет и после криоконсервации (при -185 град. С) в течение недели (пыльцу замораживали прямым погружением в пары жидкого азота). Проращивали пыльцу в течение 24 ч на агаризованной питательной среде с различной концентрацией сахарозы в темноте и на свету. Показано, что оптимальными для прорастания являются концентрации сахарозы 10 и 15%. Жизнеспособность пыльцы при проращивании в темноте в 1,5–2 раза выше, чем на свету. При действии сверхнизких температур при криоконсервации жизнеспособность пыльцы составляет 36,4%, что в 1,5 раза выше, чем после низкотемпературного хранения (при проращивании в темноте при концентрации сахарозы 15%). Выявлено, что жизнеспособность черенков сливы после хранения в азоте находится в диапазоне от 76,7±3,3% до 46,6±3,8% в зависимости от сорта. Максимальный показатель относится к сорту Харитоньевская поздняя. Привитые черенки алычи после сохранения в парах азота выявили схожую со сливой приживаемость: от 60,0±4,3% до 45,2±3,1%. Способ криоконсервации рекомендован для применения в научной и практической работе.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://processes.ihbt.ifmo.ru/file/article/15312.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Scientific journal NRU ITMO Series &amp;quot;Processes and Food Production Equipment&amp;quot;</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2310-1164</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

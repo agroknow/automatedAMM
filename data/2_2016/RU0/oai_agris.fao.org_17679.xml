@@ -1,0 +1,118 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017679">
+    <dc:title xml:lang="en">Cow milk performance when using silage made with a new enriching preservative in the diet</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Молочная продуктивность коров при использовании в рационе силоса</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>заготовленного с новым консервантом-обогатителем</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gorlov I.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bozhkova S.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Slozhenkina M.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Demidova I.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q55</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">silage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">preservatives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">diet</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7060</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1939</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49892</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6172</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2261</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24276</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49874</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The scientific and commercial experiment involved 3 groups of Black-Pied cows</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">15 cows in each group. The experiment was conducted in 2006-2014 at one of the farms in the Volgograd region. The trial groups included full-grown analogous type cows on the 2nd month of lactation</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">their performance, calving time and live weight were taken into account. The studies revealed additional reserves for increasing cow milk performance and milk quality improvement through the inclusion in the diet of lactating cows the silage made with the preservatives Sulfur + mustard press cake</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">the usage of sulfur of 1.8-2.0 kg and mustard press cake of 30 kg per 1 ton of green forage, and Laktofid biological preservative of 67 ml per 1 ton of ensilaged mass. The use of the preservatives enables increasing the forage quality as following: solids content increase by 0.7-1.1%, crude protein content increase by 0.3-0.5%, and lactic acid content increase in the total acids by 5.9-7.5%. Feeding lactating cows with the silage made with the studied preservatives increases milk production by 4.0-11.2%, butterfat content by 0.08-0.09%, and protein content by 0.06-0.1%. The milk production profitability increases by 2.2-6.0%. To increase the productivity of milk cows, improving the milk quality and economic efficiency of production, it is invited to use silage prepared with the preserving enriching agents based on sulfur and mustard press cake in their feeding.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">В научно-хозяйственном опыте использовались 3 группы коров черно-пёстрой породы по 15 гол. в каждой. Опыт проводили в 2006-2014 гг. на одной из ферм в Волгоградской обл. Подопытные группы формировались из полновозрастных коров на 2-м месяце лактации по типу аналогов, с учётом уровня продуктивности, времени отёла, живой массы. В результате исследований установлены дополнительные резервы повышения продуктивности коров, улучшения качества молока за счёт включения в рацион лактирующим коровам силосов, заготовленных с консервантами: "Сера + горчичный жмых" при расходе серы 1,8-2,0 кг и горчичного жмыха 30 кг на 1 т зелёных кормов и "Лактофид" при дозе внесения 67 мл на 1 т силосуемой массы. Использование консервантов позволяет повысить качество кормов: увеличить содержание сухих веществ на 0,7-1,1%, сырого протеина – на 0,3-0,5, молочной кислоты в общем объёме кислот – на 5,9-7,5%. Скармливание лактирующим коровам силосов, заготовленных с исследуемыми консервантами, способствует увеличению удоев на 4,0-11,2%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">содержания жира в молоке – на 0,08-0,09</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">белка – на 0,06-0,1%. Уровень рентабельности производства молока при этом возрастает на 2,2-6,0%. Для повышения продуктивности молочных коров, повышения качества молока, а также экономической эффективности производства предлагается использовать в их кормлении силос, заготовленный с консервантом-обогатителем на основе серы и горчичного жмыха.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.asau.ru/files/vestnik/2015/11/091-096.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of Altai State Agricultural University</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1996-4277</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 11</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

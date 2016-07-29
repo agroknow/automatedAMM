@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017340">
+    <dc:title xml:lang="en">Mycobiota of Slovak wine grapes with emphasis on Aspergillus and Penicillium species in the small carpathian area</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Felšöciová Soňa</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>TANČINOVÁ D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rybárik Ľubomír</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mašková Zuzana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kačániová Miroslava</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">wines</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">grapes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">aspergillus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">penicillium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8406</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3359</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_672</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5671</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The Slovak wine-growing region is divided into six viticulture areas. The largest in size and the most important over the centuries has been the Small Carpathian area (around 5800 ha of vineyards) spreads in the western of Slovakia. The objectives of this study were: to gain more knowledge about mycobiota on grapes originating from Slovakia, with a focus on genera Aspergillus and Penicillium and their ability to produce mycotoxins in in vitro conditions by thin layer chromatography method. From the twelve vineyards were collected 14 samples of wine grapes (white 6, blue 8) during harvesting 2011, 2012 and 2013. Fifty wine grapes per bunch (approximately 7-8 berries per plate) that showed no symptoms were randomly selected on Dichloran Rose Bengal Chloramphenicol agar medium. The plates were then incubated aerobically at 25 ±1 °C for 5 to 7 days in the dark. Of these samples were identified 22 genera. Ninety-three percent of samples were colonies by the genus Penicillium and 79% by the genus Aspergillus. During the survey, 251 isolates belonging to 14 Penicillium species (P. aurantiogriseum, P. citrinum, P. coprophylum, P. crustosum, P. expansum, P. funiculosum, P. glabrum, P. griseofulvum, P. chrysogenum, P. oxalicum, P. polonicum, P. purpurogenum, P. roqueforti and P. thomii) and 37 isolates belonging to 7 Aspergillus species (A. clavatus, A. flavus, A. section Nigri, A. ostianus, A. parasiticus, A. versicolor and A. westerdijkiae) were isolated and identified from exogenous contamination. The main occurring penicillium species of the samples were P. chrysogenum (36% Fr), followed P. crustosum (29% Fr), P. griseofulvum (21% Fr) and P. expansum (21% Fr). The main occurring aspergillus species of the samples were A. section Nigri (64%). Thirteen potentially toxigenic species were tested for their toxigenic ability. It was confirmed the production of various mycotoxins such as aflatoxin B1, G1, citrinin, griseofulvin, patulin, cyclopiazonic acid, penitrem A, roquefortin C and sterigma-tocystin. Out of 124 strains, 84% produced at least one mycotoxin.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/529/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

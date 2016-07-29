@@ -1,0 +1,29 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016017395">
+    <dc:title xml:lang="ln">Fir Spruce Growth and Development Under the Influence of Intraspecific Polymorphism</dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">The researches carried out in the territory of Vologda region in the subzones of the southern and middle taiga in the sorrel and bilberry spruce stands were focused on the characteristics of intraspecific variation of fir spruce (Picea abies) which had been formed in the felling sites of previous years as well as the assessment of the their productivity and identification of the most promising for the cultivation intraspecific forms. Collecting of material and es-tablishment of the sampling areas were carried out according to the requirements of the State Standard of the RF 16128–70, Industrial Standard of the RF 56-69–83 and guidelines of V.N. Sukachev and S.V. Zonn in the young, middle-aged, ripening and mature stands. The nature of the bark structure was determined at a breast height, the branching type – at the branches growing in the middle of the crown. We revealed 4 forms of spruce according to the nature of the bark structure: smooth, scaly, platelike and longitudinally fissured bark. With age there was a redistribution of forms occurrence due to the transformation of one form into another. More clearly the transformation was observed in the middle-aged plant-ings where the share of trees with smooth bark was reduced by 35 % in the number of stems and by 27 % – in the stock. We revealed 3 forms of spruce according to the branching type: flat, corymbose and comb-shaped. Spruce with corymbose and comb-shaped branching types was the most productive. All three branching types occurred at the trees with differing nature of the bark structure. The smooth form of bark with the flat branching type predomi-nated in the young stands (22 %), the scaly forms with the comb-shaped branching type – in the middle-aged and ripening stands (23 % and 14 % respectively). The average diameter of trees with longitudinally fissured bark was longer than of the other forms. Trees with plate-like and longitudinally fissured bark had higher indicators of average values of height. In general, the leaders in all indicators were the spruce forms with longitudinally fissured and platelike bark, corymbose and comb-shaped branching types. According to the Kraft domi-nance class distribution spruce with smooth bark was concentrated mostly in the III class</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">scaly and platelike forms occupied a dominant position, and longitudinally fissured form of bark made the predominant canopy. The results of the research can serve as a basis for the determination of promising forms of spruce for further cultivation and for the selective method of assortment of trees.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://lesnoizhurnal.narfu.ru/issuesarchive/?ELEMENT_ID=244104</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ln</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Lesnoy Zhurnal (Forestry journal)</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0536-1036</ags:citationIdentifier>
+      <ags:citationNumber>v.2016/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

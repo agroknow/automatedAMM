@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="AL2016117430">
+    <dc:title xml:lang="en">The Ratio between Leave and Fruit Parameters on ‘William’ Pear Orchard Affected by Regulated Deficit Irrigation and Mulching</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>LEPAJA LAVDIM</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KULLAJ ENDRIT</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>LEPAJA KUJTIM</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>AVDIU VAHID</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>KRASNIQI NAIM</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Faculty of Agriculture and Veterinary, University of Prishtina, Kosovo</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">drought stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">wood chips</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24993</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8423</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This field experiment was designed to assess the ratio between leave and fruit parameters on young ‘William’
+pear trees after applied regulated deficit irrigation (RDI) and mulching. Experiments related to deficit irrigation
+and particularly regulated deficit irrigation (RDI) or partial rootzone drying depend heavily on weather
+conditions. Using a water budget methodology, four levels of irrigation, specifically 100% of evapotranspiration
+(ET) as control and deficits of 80%, 60% and 40%, were applied to 10 trees during the season, 5 of which were
+mulched with wood chips at a 10 cm layer in first year of experiment while, 20 cm in second year. The
+experiment was conducted in Kosovo during 2013-2015 on a pear orchard of 10 ha using a nested experimental
+design. Using two-way ANOVA we found significant changes in a series of leave and fruit parameters. Our
+results confirmed that a moderate water stress increase yield while, reducing excessive vegetative growth.
+Regulated deficit irrigation (40 %) has contributed to the reduction on leaf surface, leaf area, LAI. In addition,
+RDI affected to increase fruit numbers but decreasing fruit size. Compared with first year of experiment during
+2015 in treatment 40 % were achieved 5 kg more than 2013 year. Except this, mulching had a positive effect on
+all parameter values measured compared to non-mulched trees. Our result indicated that regulated deficit
+irrigation can be successfully applied to pear also, RDI is an ideal water saving technique.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://sites.google.com/a/ubt.edu.al/rssb/lepaja_a</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Albanian Journal of Agricultural Sciences</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2218-2020</ags:citationIdentifier>
+      <ags:citationNumber>v.15/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,80 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016017925">
+    <dc:title xml:lang="id">Produksi hijauan dan benih puero (Pueraria javanica) pada taraf intensitas cabaya yang berbeda</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Forage and seed production of puero (Pueraria javanica) in a different light intensity level</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Fanindi A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sutedi E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Prawiradiputra B.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Balai Penelitian Ternak, Bogor</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">PUERARIA PHASEOLOIDES</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Seeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forage</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">integration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Digestibility</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">IN VITRO EXPERIMENTATION</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6357</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6946</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36108</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2266</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16131</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Puero (Pueraria javanica) is forage that can serve as a cover crop in plantations. The limiting factor for plant growth in the plantation is the light intensity, therefore the influence of light intensity on forage and seed production of Puero needs to be examined. Research was conducted at Kaum Pandak Research Station of Indonesian Research Institute for Animal Production Bogor and Laboratory of Agrostology Faculty of Animal Husbandry, Bogor Agricultural University, for 16 months. Four levels of light intensity i.e. 100, 80, 60 and 40 percent were applied, leguminosainous species Puero (Pueraria javanica), was used. The treatments were arangged in randomized completely block design with 3 replications. Data collected were analyzed by ANOVA and Duncan's Multiple Range Test. Forage production was evaluated in one year. The forage quality and digestibility (in vitro) were assessed. Seed production was recorded accumulatively from seasonal seed production during one year. Results showed that light intensity affected (P &lt; 0.05) forage and seed production, chlorophyll a and total chlorophyll of Puero, but did not affect (P &gt; 0.05) quality and digestibility of Puero. The highest forage and seed production of Puero were obtained from full light intensity (100 percent). and seed production of Puero was affected (P &lt; 0.05) by light intensity. The seed quality of Puero was also affected by light intensity. The best seed quality of Puero was achieved by from 80 percent light intensity.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://peternakan.litbang.pertanian.go.id/fullteks/jitv/jitv182-1.pdf?secure=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Jurnal Ilmu Ternak dan Veteriner</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0853-7380</ags:citationIdentifier>
+      <ags:citationNumber>v.18/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017797">
+    <dc:title xml:lang="sk">Popôrodný anestrus kráv</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Post partum anestrus of cows</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Šťastná,  Danka</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Šťastný,  Pavel</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Nitra</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L53</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproduction</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">perinatal period</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6507</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_29378</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1939</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Post partum infertility and anestrus are complicated phenomena controlled by many factors which work either separately or together with the aim to reduce production potential of cattle. Many of the factors which influence postnatal reproduction cannot be eliminated. When the management decides what to do with postnatal anestrus it is necessary to consider not only potential advantages influencing postnatal fertility, but also costs of the treatment. Maximum fertility is not favourable for most of production systems. Optimal fertility for the respective production unit is such which brings the biggest profit in a certain time. 
+Unfortunately, only limited data is available about costs of most procedures which affect postnatal fertility, so the decision is up to individual breeders. 
+l. 
+The crucial effect which affects the postnatal fertility of beef breeds is the length of the mating season and balance of puerperal homeostasis and lactation in case of dairy breeds. To have the season limited to 45 days and less has many advantages (e.g. even the age of groups of calves). In case the mating season lasts for 45 days or less then there is high probability that all cows will be gravid from the beginning of the season, because they are not affected by uterus involution, short cycle and main impacts of anestrus if the proper principles of reproduction process organization of beef breeds were kept. On the contrary, if the mating season exceeds 45 days, it is possible that more and more cows will have lower probability of fertilization at the beginning of the next season. Cows which calved in the last 2 weeks in case of 60 day mating season, or those which caI ved in the last 6 weeks in case of 90 day season will have increasing problems with anestrus, short oestral cycles and uterus involution. Every cow, which gets covered after 82nd day in the long season, will not calve at the beginning of the next season, but significantly later. Cows which are currently in the long season cannot be trans form ed into a season with short mating period. Therefore, it is better and easier to place transferred heifers in the system with short mating period. This can, based on the size of the herd, last for several years, but in the end we get a uniform herd with short season up to 45 days in postnatal estrum. In case of dairy herds it is not possible to change the season in such a manner since p.p. in today' s technologies does not influence sucking of calves because they are weaned immediately or within several hours. This period is more influenced by the amount of early lactation, health and nutrition regime. 
+2. 
+Nutrition has decisive role in decreasing pospartal infertility of cows. Nutrition level and BCS have the biggest impact on anestrus and potential fertility. The best way how to monitor the nutrition level is to observe the body weight and changes and BCS. Checking by measuring weight is a practicaI model, but in case of systematic BCS assessment it can be fully replaced and the state can be optimized to BCS 3 - 3.5 (in case of 5 point scale, or 5 - 7 
+in case of 10 point scale). BCS higher than 4 or 7.5 is not inevitable and desired and,moreover, it can cause problems in peripartal period. BCS lower than 3 or 5 causes decrease of fertility, especially in cases when also the postnatal nutrition level is inadequate. It is very difficult and very expensive to change the inappropriate state of prenatal nutrition after birth. Therefore, it is important to keep in mind before calving what kind of breed it is, what is its potential production and what is the experience with calving difficulties (dystocia) and based on all these facts set the nutrition or BCS of the gravid breeding-cow group. High reproduction performance in the period after birth requires prevention of metabolic diseases in peripartal period and high intake of dry substance after calving. 
+3.  
+Minimisation of stress from difficult births of cows positive ly affects the postpartal infertility. In case of beef cows and cows without market production the placement of bull tester (unable to fertilize) into the herd in the early postnatal stadium and using of existing 
+biotechnicaI methods of cycle management on the basis of medicament treatment. Negative impacts of dystocias can be minimized by careful selection of heifer placed into the cow herd, by selection of breeding-rnales which should be allowed to cover heifer, by adequate treatment and assistance at calving. 
+4.
+Shortening the period of sucking in case of beef cattle and cows without market production and complete prevention of sucking in case of dairy cows positive ly affects the puerperal anestrus, but it can also have negative impact on caI ves in connection to higher 
+frequency of sickness or lower weight at weaning, and in case of some unstable breeding- cows also the weaning stress, although it happens immediately after calving. 
+5. 
+Successful treatment of post partum anestrus is possible only on the basis of precisely set diagnose which cannot be determined only by rectal examination. For this purpose it is necessary to use the most effective diagnostic procedure with the use of ultrasonography or in combination with cowshed or laboratory (in case of serious and long- lasting problems) progesterone test. Selective procedure is also important (non-treatment of breeding cows when they have insufficient condition or in case of confirmed metabolic troubles) in case of harmonaI treatment and strict observance of verified procedures (protocols) of treatment.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="ags:ISBN">978-80-552-1310-1</dc:identifier>
+    <dc:type>Book</dc:type>
+  </ags:resource>
+</ags:resources>

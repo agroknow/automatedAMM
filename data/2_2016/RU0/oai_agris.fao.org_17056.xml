@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017056">
+    <dc:title xml:lang="en">Morphometric parameters and phytomas of the Siberian larch Larix sibirica Ledeb. trees in the Eastern Khentey (Northern Mongolia)</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Морфометрические параметры и фитомасса деревьев лиственницы Larix sibirica Ledeb. в Восточном Хэнтэе (Северная Монголия)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Danilin I.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tsogt Z.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Larix sibirica</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biomass</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mongolia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4202</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_926</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4908</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In order to solve various research tasks actual morphometric parameters of trees and forest phytomass assessment data are of the high scientific interest and intended for multipurpose applications. The records of morphometric parameters and above-ground phytomass of the Siberian larch (Larix sibirica Ledeb.) trees, measured on coordinate sample plots established in Eastern Khentey, northern Mongolia, are presented in the paper. The morphometric parameters and phytomass of the trees are considered as the main characteristics, that determines course of the processes in forest ecosystems, and might be used for environmental monitoring, sustainable forestry, forest productivity modeling, taking into account global changes, studying the structure and biodiversity of forest cover, assessment of forest carbon sequestration. The study of morphological structure and phytomass of trees seems necessary because the various structural parameters and fractions have different content of nutrient elements and different contribution to annual production of forest stands. On the basis of biometric statistics allometric equations relating morphometric and production parameters of the larch trees have been calculated, which can be used in ecological modeling, forest inventory and thematic forest interpretation of aerial- and satellite scenes in northern Mongolia.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Для решения различных исследовательских задач представляют интерес исходные фактические данные оценки фитомассы в лесных насаждениях, дополненные характеристикой морфометрических параметров деревьев, предназначенные для многоцелевого применения. Приводятся фактические данные о морфометрических параметрах и надземной фитомассе деревьев лиственницы сибирской (Larix sibirica Ledeb.), полученные на координатных пробных площадях, заложенных в Восточном Хэнтэе (Северная Монголия). Морфометрические параметры и фитомасса деревьев рассматриваются как основные характеристики, определяющие ход процессов в лесных экосистемах и используемые в целях экологического мониторинга, устойчивого ведения лесного хозяйства, моделирования продуктивности с учетом глобальных изменений, изучения структуры и биоразнообразия лесного покрова, оценки углерододепонирующей емкости лесов. Изучение морфоструктуры и фитомассы деревьев представляется необходимым потому, что различные структурные параметры и фракции имеют разное содержание элементов питания и разный вклад в годичную продукцию лесных насаждений. На основании полученных биометрических характеристик рассчитаны аллометрические уравнения связи морфометрических и продукционных показателей деревьев лиственницы, которые могут найти применение при экологическом моделировании, проведении лесоинвентаризационных работ и лесотаксационном дешифрировании аэрокосмических снимков в Северной Монголии.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://goo.gl/SL38VA</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Siberian Journal of Forest Science</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2311-1410</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 5</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

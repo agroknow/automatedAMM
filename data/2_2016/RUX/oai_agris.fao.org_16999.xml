@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X16999">
+    <dc:title xml:lang="en">TECHNOLOGY OF MEAT PRODUCTS WITH A USE OF LAMB AND POULTRY MEAT</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ТЕХНОЛОГИЯ МЯСНЫХ ПРОДУКТОВ С ИСПОЛЬЗОВАНИЕМ МЯСА БАРАНИНЫ И ПТИЦЫ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Коlоsоv Yury A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shirokova Nadezhda V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Коlоsоv Аnаtоly Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Don state agrarian university</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Mutton</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sausages</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5015</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_437</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6824</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>4 tables,9 ref. DOI 10.18286/1816-4501-2016-1-94-97</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the prevailing conditions of domestic raw materials deficit and the prevalence of imported meat which in not always of acceptable quality, an important task of  meat processing  is the search for new technological methods and development of new meat products of high nutritional value by means of use of poultry meat of domestic production. Share of this component in total structure of meat balance increases annually. Price is the lowest in comparison with other types of raw meat. So the use of this type of meat in sausage products allows to obtain less expensive products, and therefore more competitive. During the development of a new recipe for semi-smoked sausage our primary objective was the use of the best combination of raw meat and product-line expansion of sausages, as well as reducing the сost of goods sold of the finished product. The results showed that the combination of lamb meat and white poultry meat in the production of semi-smoked sausages not only enhances the flavor of product, but also doesn’t deteriorate the nutritive and biological value.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В сложившихся условиях дефицита отечественного сырья и преобладания импортного мяса, не всегда приемлемого качества, важной задачей мясоперерабатывающей отрасли является поиск технологических приемов и создание новых мясных продуктов высокой пищевой ценности за счет использования мяса птицы отечественного производства. Доля этого компонента в общей структуре мясного баланса ежегодно возрастает. Цены по сравнению с другими видами мясного сырья наиболее низкие. Поэтому использование данного вида мяса в колбасных изделиях позволяет получить менее дорогие виды продукции, а следовательно и более конкурентоспособные .  Основной задачей при разработке новой рецептуры полукопченной колбасы являлось использование наилучшего сочетания мясного сырья и расширение ассортимента колбасных изделий, а также уменьшение себестоимости готового продукта. Результаты исследования показали, что сочетание мяса баранины и светлого мяса птицы при производстве полукопченых колбас  не только улучшает вкус продуктов, но и не ухудшает пищевую и биологическую ценность.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/1-16-kolosov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

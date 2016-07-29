@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P16933">
+    <dc:title xml:lang="ru">ОСОБЕННОСТИ РЕАЛИЗАЦИИ МОДЕЛИ ИННОВАЦИОННОГО ОБРАЗОВАТЕЛЬНОГО ПРОСТРАНСТВА НА ПРИМЕРЕ ПОДГОТОВКИ АГРОПЕДАГОГОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>IMPLEMENTATING MODELS OF INNOVATIVE EDUCATIONAL ENVIRONMENT ON THE EXAMPLE OF AGRO TEACHERS TRAINING</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Komarov  K.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">C10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">education</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2488</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: modernization of vocational education system, territorial educational environments, innovative educational activities</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проектирование разработки многоуровневых моделей формирования и развития территориальных образовательных пространств являются актуальными в современной педагогической науке. В частности, необходимо научное обоснование теоретических основ проектирования и создания инновационных образовательных пространств различной отраслевой направленности. Данная статья посвящена ана-
+лизу успешного опыта реализации инновационного образовательного пространства.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Development of multi-level models of the formation and development of regional educational spaces are relevant in modern pedagogical science. In particular, scientific substantiation of the theoretical foundations of development and creating of innovative educational environments within various industries is necessary. This article concerns analysis of successful experience in implementing innovative vocational education environment.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USN_2016_4_1_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№4 (part 1), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

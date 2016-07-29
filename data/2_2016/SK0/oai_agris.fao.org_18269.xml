@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016018269">
+    <dc:title xml:lang="en">Washing of soda pulp cooked from rapeseed straw</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Potůček František</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hájková  Kateřina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>University of Pardubice, Faculty of chemical technology, Institute of chemistry and technology of macromolecular materials, Studentská 95, 532 10 Pardubice, Czech Republic. E-mail: frantisek.potucek@upce.cz [nid:14088]</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rapeseed</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">straw</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chemical pulp</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pulping</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fibres</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25499</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7441</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1518</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26811</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2879</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of this work was to investigate the displacement washing process of soda pulp cooked from rapeseed straw from the point of view of chemical-engineering analysis. Displacement washing process was described by displacement washing curves recorded for alkali lignin like a tracer. The shape of the washing curves obtained experimentally indicated that the displacement of black liquor was non-ideal, i.e., it was between the ideal limits of plug flow and perfectly mixed flow. Mathematical treatment of the washing curves, which were obtained as a response to the step input signal, gave the dimensionless number known as the Péclet number characterizing the displacement of lignin from the pulp pad. For detailed description of displacement washing process, further parameters, such as the traditional wash yield, as well as axial dispersion coefficient, were also evaluated.The preliminary results obtained showed that,similarly as for kraft softwood and hardwood fibres, the wash yield determined for soda rapeseed pulp was found to be lower than that for non-porous incompressible particles. Comparing our results for soda pulp with those reported for softwood and hardwood pulps earlier, the displacement front becomes irregular owing to the heterogeneity of soda pulp fibre bed having much greater hydraulic resistance. With respect to this fact, the greater scatter of the longitudinal dispersion coefficient was achieved for soda pulp fibres.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/DF/fakulta_df/AFX/archive/2016/2016-1/04-01-16.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta facultatis xylologiae Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-3824</ags:citationIdentifier>
+      <ags:citationNumber>v.58/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X17298">
+    <dc:title xml:lang="en">SORBENT USE IN FEEDING BROILER CHICKENS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ИСПОЛЬЗОВАНИЕ СОРБЕНТА В КОРМЛЕНИИ ЦЫПЛЯТ-БРОЙЛЕРОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pskhatsiyeva Zemfira V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>FSBEI Gorsk SAU</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">broiler chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">body weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">microbial flora</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15846</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16367</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>7 tables, 14 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We studied the effect of different concentrations of sorbent "Kovelos-Sorb" on economically useful traits of broiler chickens. The experiments were conducted on 180 broiler chickensunited in three groups. The first received the basic diet, the second - sorbent "Kovelos-Sorb" in the amount of 0,1% by weight of the rind, and the third - sorbent "Kovelos-Sorb" in the amount of 0,2% by weight of the feed. The research was conducted at the poultry farm "Leningradskaya"in Leningrad district of Krasnodar region. Duration of feeding was 42 days for the broiler chickens of the Czech cross "Cobb-500" cell content in batteries BKM-3D. Body weight, growth gain, feed conversion, slaughter (SSS R 52837-2007 - agricultural Poultry for slaughter. Specifications), histology of the liver (the liver was fixed in 10% formalin with subsequent filling with paraffin) were studied. The sections with a thickness of 7-8 microns. The sections were stained with hematoxylinand eosin.While the analysis of histological slide the microfiber  of transmitted light µVizo – 101 was used for microphotography and the PC in the laboratory «Agrokhimlaboratoriya» of Gorsk SAU, the coefficients of digestibility of forage nutrients, microbiocenosis of the intestine of broiler chickens (R.V. Epshteyn-Litvak and F.L. Vilshanskaya, 1982). Based on the research results, it was concluded that when applying feed supplement "Kovelos-Sorb" in the amount of 0,1% by weight of the feed the body weight, safety, growth gain and slaughter yield increase.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучали влияние различных концентраций сорбента «Ковелос-Сорб» в кормлении на хозяйственно-полезные признаки цыплят-бройлеров. Опыты проводились на  180 цыплятах-бройлеров, объединенных в три группы. Первая получала основной рацион, вторая – сорбент «Ковелос-Сорб» в количестве 0,1% от массы кора, третья – сорбент «Ковелос-Сорб» в количестве 0,2% от массы корма.Исследования проводились на птицефабрике «Ленинградская» Ленинградского района Краснодарского края. Продолжительность кормления составила 42 дня на цыплятах-бройлерах чешского кросса «Кобб-500» клеточного содержания в батареях БКМ-3Д. Исследовались живая масса приросты, конверсия кормов, убой (ГОСТ Р 52837-2007 - Птица сельскохозяйственная для убоя. Технические условия), гистология печени (печень фиксировали в 10% растворе формалина с последующей заливкой парафином. Срезы толщиной 7-8 микрон. Срезы окрашивались гемотоксилином и эозином. При анализе гистопрепаратов для микрофотографий использовали микровизор проходящего света µVizo – 101 и ПК в лаборатории «Агрохимлаборатория» Горского ГАУ, коэффициенты переваримости питательных веществ корма, микробиоценоз кишечника цыплят-бройлеров (Р.В. Эпштейн-Литвак и Ф.Л. Вильшанской, 1982).По итогам исследований был сделан вывод о том, что при применении кормовой добавки «Ковелос-Сорб» в количестве 0,1% от массы корма повышается живая масса, сохранность, приросты, убойный выход.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/1-16-pskhatsiyeva.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1(33)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

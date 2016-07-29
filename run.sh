@@ -1,14 +1,15 @@
 #!/bin/bash
 
-
+echo "RUNNING UNTIL THE VARIABLE SET!"
 
 
 #SET=RUX
 
-for SET in AL1 BR2 BR3 BRF CO0 ES1 GE0 IN1 IN4 QV0 RU1 RU2 RU3 RUA RUC RUD RUE RUH RUK RUP RUX SK0 UA0
+#for SET in AL1 BR2 BR3 BRF CO0 CN3 ES1 GE0 GE1 ID0 IN1 IN4 QC2 QV0 R10 R13 RU0 RU1 RU2 RU3 RUA RUC RUD RUE RUG RUH RUK RUP RUX RUZ SK0 UA0
+for SET in RUZ
 do
 	FROM="1000-01-01"
-	UNTIL="2016-01-15"
+	UNTIL="2016-07-15"
 
 	cd conf/
 	FROM="$(cat ${SET}.from)"
@@ -24,7 +25,7 @@ do
 	fi
 
 	if [ -z "${UNTIL}" ]; then
-	        UNTIL="2016-01-15"
+	        UNTIL="2016-06-15"
 	fi
 
 	NDATE=$(date +%Y-%m-%d -d "$UNTIL + 1 month")
@@ -34,8 +35,8 @@ do
 
 	cd ../scripts/
 	./setIngest${SET}.sh ${FROM} ${UNTIL}
-	cd ../check_inexistent
-	./check.sh ${SET}
+	#cd ../check_inexistent
+	#./check.sh ${SET}
 	cd ../notify
 
 	message="Hello"

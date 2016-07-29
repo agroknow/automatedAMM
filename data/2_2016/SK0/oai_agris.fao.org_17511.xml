@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017511">
+    <dc:title xml:lang="en">The effect of dietary alfalfa meal on the chicken meat quality</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tkáčová Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Haščík Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Angelovičová Mária</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pavelková Adriana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bobko Marek</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Medicago sativa</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_118</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4693</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The purpose of this study was to investigate the effect of feed mixtures with proportion of alflafa meal 4% on body weight of broiler chickens, fat content their meat and oxidative stability meat fat under storage conditions. Final hybrid Cobb 500 chickens were used in the experiment. The broiler chickens were fed with feed mixtures starter from the 1st to the 18th day, grower from the 19th to the 31st day and finisher from the 32nd to the 38th ad libitum. An alfalfa meal of 4% was added in the feed mixtures of experimental group. In our experiment, we used alfalfa meal, which was made from Medicago sativa L. harvested in the bud's phase. The carcasses of broilers were stored at -18° C for a period of nine months. The average weight of chickens at the end of our experiment, the control group was 1685.6 g. In experimental group with addition of 4% alfalfa meal in feed mixtures, the chickens weighed 1709.6 g. The difference in body weight between the groups was not statistically significant (p &gt;0.05). The average fat content in chicken meat was lower in the group with a share of 4% alfalfa meal 2.33 g.100g compared to the fat content in meat chickens control group 2.59 g.100g. Differences in fat content in meat between the groups were not statistically significant (p &gt;0.05). In our experiment, the average peroxide value of fat in meat under storage conditions 9 months at -18°C was lower in the group with a share of 4% alfalfa meal 2.42 µmol O2.g compared with an average value of peroxide number 5.79 µmol O2.g in the control group. Medicago sativa L. is an interesting object for research. It is characterized by high content of protein and biologically active substances that are effective for the promotion of health, and also an improvement the nutritional value and technological properties of the poultry food, when is used in feed mixtures.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/565/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

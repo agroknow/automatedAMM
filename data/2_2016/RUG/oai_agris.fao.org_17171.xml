@@ -1,0 +1,49 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016G17171">
+    <dc:title xml:lang="ru">ИЗУЧЕНИЕ ГАСТРОПРОТЕКТОРНЫХ СВОЙСТВ &amp;quot;НОРМОТРОФИНА&amp;quot; В УСЛОВИЯХ ЭКСПЕРИМЕНТАЛЬНОГО УЛЬЦЕРОГЕНЕЗА СЛИЗИСТОЙ ОБОЛОЧКИ ЖЕЛУДКА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>STUDY OF THE GASTROPROTECTIVE CHARACTERISTICS OF NORMOTROPHIN UNDER EXPERIMENTAL ULCEROGENESIS IN MUCOUS COAT OF STOMACH</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>МЕДЕТХАНОВ ФАЗИЛ АКБЕРОВИЧ</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Казанская государственная академия ветеринарной медицины</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rats</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">stomach</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">stomach ulcer</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6464</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7422</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16471</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье приводятся результаты исследования терапевтических свойств "Нормотрофина" при экспериментальной гастропатологии. Табл. 1. Библ. 3.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results of investigation of the Normotrophin therapeutic characteristics by experimental gastropathology are given in the article. Tabl. 1. Ref. 3.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestvet.ru/biblio/medetkhanov_63.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Вестник ветеринарии</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2071-3096</ags:citationIdentifier>
+      <ags:citationNumber>v.63/n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016018339">
+    <dc:title xml:lang="en">Determining the heat transfer coefficient of log-cabin walls based on one dimensional thermal transmittance</dc:title>
+    <dc:title xml:lang="sk">
+      <dcterms:alternative>Stanovenie súčiniteľa prechodu tepla zrubových stien na základe jednorozmerného šírenia tepla</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Jochim Stanislav</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Technical University in Zvolen, T.G. Masaryka 24, 960 53 Zvolen, Slovak Republic,  email:  jochim@tuzvo.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">heating</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">heat transfer</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">buildings</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Logs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3524</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3521</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1142</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4420</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">An accurate calculation of heat transfer coefficient (U-value) for the specific log-cabin walls (elements and layers with non-constant cross-sectional thickness) can be directlydetermined using the more complex method of two-dimensional heat conduction. For the specific software, the graphic geometric input of wall structure is required to process.In the programs themselves, processing of graphics input of the specific log construction is rather complicated. Therefore, other compatible graphics software CAD are used for graphic processing. The method of calculation of thermal resistance and heat transfer coefficient for building components is given in the current standard STN EN ISO 6946. The standard does not provide any special simplified procedure of calculation of thermal resistance or U-value for the specific log-cabin building components of external walls.The aim of the work is to determinate heat transfer coefficient for the log-cabin walls using modified method according to the STN EN ISO 6946 on one-
+dimensional thermal transmittance. For modification of the method for substitution of profile elements of the log walls of constant thickness, it will be necessary to determine and analyze the dimensional and areal substitution method. The paper presents methodically reliable procedure for the exact determination of  U-value for specific log-cabin walls based on one dimensional thermal transmittance in accordance with the calculation method according to the EN EN ISO 6946.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.tuzvo.sk/files/DF/fakulta_df/AFX/archive/2016/2016-1/09-01-16.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">sk</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Acta facultatis xylologiae Zvolen</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-3824</ags:citationIdentifier>
+      <ags:citationNumber>v.58/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

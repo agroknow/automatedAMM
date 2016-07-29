@@ -1,0 +1,59 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016017824">
+    <dc:title xml:lang="id">Pengaruh imbangan konsentrat-jerami padi amoniasi dan lama penggemukan terhadap bobot badan dan kualitas fisik daging sapi pesisir</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Influence of concentrate rice straw ammoniated ratio and fattening period on body weight and meat physical quality of pesisir cattle</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Khasrad .</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rusdimansyah .</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universitas Andalas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rice straw</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">body weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16032</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15846</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12459</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Pesisir cattle, an original local cattle of West Sumatra, have good genetic potential because they adapt very well to both the low-quality feed, and changes in ambient temperature. This research was conducted to determine body weight, feed consumption and conversion, daily gain and meat quality (tenderness, water holding capacity, cooking loss and pH) of Pesisisr cattle in  different ration composition and feedlot period. This experiment was done based on randomized block design in 2 x 2 factors with 3 groups. The first factor (factor A) was two kinds of diet,  A1 =50 percent concentrate + 50 percent ammoniated rice straw and A2 = 75 percent concentrate + 25 percent ammoniated rice straw. The second factor (factor B) was duration of fattening 3 months (B1) and  4 months (B2) . There was no interaction between the level of the diet with duration fattening on body weight, daily gain,  tenderness, water holding capacity and cooking loss on meat of pesisir cattle (P &gt; 0.05). Body weight in A2 group was significantly higher than A1 beginning from second month of treatment. Factor A had significant effect on daily gain. The pH value of meat of cattle received 75 percent concentrate was lower than that received 50 percent concentrate. The higher the percentage of concentrate in diet caused better body weight, daily gain, consumption, feed conversion and tenderness. Duration of fattening did not resulted in significant effect on all parameters except final weight.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://peternakan.litbang.pertanian.go.id/fullteks/jitv/jitv172-9.pdf?secure=1</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Jurnal Ilmu Ternak dan Veteriner</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0853-7380</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

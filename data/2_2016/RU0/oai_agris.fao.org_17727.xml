@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017727">
+    <dc:title xml:lang="en">Use of various algae species in the feed composition for sea cucumber juveniles</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Применение разных видов водорослей в составе кормов для молоди трепанга</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kadnikova I.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Aminina N.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mokretsova N.D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rogov A.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q54</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">feeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sargassum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cystoseiraceae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ahnfeltiaceae</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2843</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37593</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49766</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49794</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Use of various algae species (Ahnfeltia, Cystoseira, Laminaria saccharina)for replacement of the Sargassum in the sea cucumber juveniles feed is studied. Difference of the Sargassum pallidum chemical composition from that of other red and brown algae species is shown. S. pallidum contains the maximum number of minerals (31.7%), non-protein nitrogen (0.58%), protein (11.8%), readily hydrolysable polysaccharide (20.8%) and minimum of alginic acid (12.5%). Sargassum proteins have a high content of essential amino acids (26.9% of the amount of amino acids). The high amount of glycine (10.4 g/100 g of protein), proline (92 g/100 g of protein), arginine (7.1 g/100 g of protein), leucine (5.8 g/100 g of protein), and lysine (5.2 g/100 g of protein) was found in the Ahnfeltia tobushiensis proteins. Data on the chemical composition of the experimental feed and the results of their biological tests on the sea cucumber juveniles are presented. Chemical composition of feeds is significantly different in the content of minerals, protein, polysaccharides depending on the introduced algae composition. Feed based on A. tobushiensis differs in the increased protein content (20.6), based on S. pallidum – in the increased content of minerals (28.9%) and readily hydrolysable polysaccharides (30.3%), Saccharina japonica – in the increased content of alginic acid (19.1%). Assessment of the feed efficiency with various algae species by the criterion of the sea cucumber juveniles mass gain for 30 days is given. The maximum gain of the sea cucumber juvenile body mass (on average 67.0 mg) is provided by the feeds on Cystoseira crassipes basis , minimum one - that based on Laminaria saccharina (on average - 42.0 mg). When using various algae species in feed recipes it is necessary to consider the differences in their chemical composition and to adjust the feed composition by the introduction of other components.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Исследовано применение разных видов водорослей (анфельция, цистозира, сахарина) для замены саргассума в кормах для молоди трепанга. Показано отличие химического состава саргассума от состава других видов используемых красных и бурых водорослей. Саргассум содержит максимальное количество минеральных веществ (31,7%), небелкового азота (0,58%), белка (11,8%), легкогидролизуемых полисахаридов (20,8%) и минимальное – альгиновой кислоты (12,5%). Белки саргассума характеризуются высоким содержанием незаменимых аминокислот (26,9% от суммы аминокислот). В белках анфельции обнаружено высокое количество глицина (10,4 г/100 г белка), пролина (9,2 г/100 г белка), аргинина (7,1 г/100 г белка), лейцина (5,8 г/100 г белка), лизина (5,2 г/100 г белка). Представлены результаты исследования химического состава экспериментальных кормов и данные их биологических испытаний на молоди трепанга. Химический состав предложенных вариантов кормов значительно отличается содержанием минеральных веществ, белка, полисахаридов в соответствии с составом введенных водорослей. Корм на основе анфельции отличается повышенным содержанием белка (20,6%), на основе саргассума – минеральных веществ (28,9%) и легкогидролизуемых полисахаридов (30,3%), на основе сахарины – содержанием альгиновой кислоты (19,1%). Проведена оценка эффективности кормов с использованием разных видов водорослей по приросту массы молоди трепанга за 30 сут. Максимальный прирост массы молоди трепанга (в среднем 67,0 мг) обеспечил корм на основе цистозиры, минимальный (42,0 мг) – на основе сахарины. При использовании разных видов водорослей в рецептурах кормов необходимо учитывать различия в их химическом составе и корректировать состав кормов за счет введения других компонентов.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestnik.astu.org/Content/UserImages/file/fish_2015_4/08.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Astrakhan State Technical University. Series: Fishing industry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2073-5529</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

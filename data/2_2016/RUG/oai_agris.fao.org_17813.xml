@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016G17813">
+    <dc:title xml:lang="ru">БИОХИМИЧЕСКИЕ ПОКАЗАТЕЛИ КРОВИ СОБАК ПРИ ОВАРИОГИСТЕРЭКТОМИИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>BLOOD BIOCHEMICAL PARAMETERS IN DOGS SUBJECTED TO OVARIOHYSTERECTOMY</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>ИЛЬНИЦКИЙ Николай Григорьевич</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>СЛЮСАРЕНКО Дмитрий Викторович</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Белоцерковский национальный аграрный университет</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">dogs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biochemistry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2352</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_959</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_910</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье приведены результаты исследования биохимических показателей крови собак при выполнении овариогистерэктомии с премедикацией ксилазином и 2%-ным лидокаином и послеоперационным обезболиванием 0,2%-ным бупивакаином.
+В ветеринарной практике имеется широкий выбор препаратов для общей и местной анестезии животных, а также для послеоперационной анальгезии. Дифференцированный подход к выбору и применению этих препаратов, относящихся к разным фармакологическим группам, в анестезиологии является важным аспектом, влияющим на состояние животного и на динамику его выздоровления.
+Решению проблемы влияния различных видов анестезии и анальгезии на организм животного посвящен ряд литературных публикаций, однако в полной мере этот вопрос нельзя считать изученным, поскольку отсутствуют точные описания влияния разных схем операционного обезболивания на организм разных видов животных, а по вопросам послеоперационного обезболивания данных еще меньше.
+Для послеоперационной анальгезии рекомендуются к применению препараты разных фармакологических групп - нестероидные противовоспалительные, опиаты, местные анестетики.
+Были проведены исследования по изучению параметров эпидуральной блокады с применением катетерной техники 0,2% -ным бупивакаином у собак.
+Исследование продолжалось 10 дней, включало выполнение овариогистерэктомии и взятие проб крови для исследования у животных опытной и контрольной групп. В качестве показателей, иллюстрирующих состояние обмена веществ, а также проявления стрессовой и воспалительной реакции в организме, проводили исследование уровня общего белка, мочевины, креатинина, глюкозы в сыворотке и фибриногена плазмы.
+У собак, подвергнутых овариогистерэктомии с применением рекомендуемой нами схемы предоперационной анестезии и послеоперационной анальгезии, содержание общего белка, мочевины, креатинина и глюкозы в крови достоверно не изменялось в течение послеоперационного периода наблюдения в сравнении с исходными данными. Табл. 1. Библ. 15.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Abstract. In the article there are the results of the study of biochemical parameters of dogs' blood after ovariohysterectomy with xylazine and 2% lidocaine premedication, and postoperative anesthesia with 0.2% bupivacaine.
+In veterinary practice there is wide choose of medications for general and local anesthesia. In anesthesiology differentiated approach to the selection and using of medications of different pharmacological groups is important aspect which influencing to the condition of the animal and the dynamics of his convalescence.
+A number of literary publications is devoted to solution of problem of influence of different types of anesthesia and analgesia to an animal. But this question isn't studied, because there aren't accurate description of the influence of various schemes of operating anesthesia on the organism of different animal species and data about postoperative analgesia is even less.
+For postoperative analgesia the medications of different pharmacological groups are recommend - non-steroidal anti-inflammatory, opioids, local anesthetics.
+Studies on the parameters of epidural blockade with catheter technique with 0.2% bupivacaine in dogs were conducted
+The studies lasted 10 days, included perform of ovariohysterectomy and blood sampling for research animals of the experimental and control groups. As indicators that illustrating the state of metabolism and manifestations of stress and inflammatory reactions in organism was study of total protein level, urea, creatinine, glucose in serum and plasma fibrinogen.
+In dogs, which were subjected to ovariohysterectomy with our recommended scheme of preoperative anesthesia and postoperative analgesia, content of total protein, urea, creatinine, glucose in blood did not significantly changed during the postoperative follow-up period in comparison with the original data. Tabl. 1. Ref. 15.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestvet.ru/biblio/ilnitsky.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Вестник ветеринарии</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2071-3096</ags:citationIdentifier>
+      <ags:citationNumber>v.77/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

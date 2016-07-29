@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017214">
+    <dc:title xml:lang="en">Detection and characterisation of Plum pox virus (PPV) isolates from Eastern Slovakia revealed the presence of three main viral strains</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Rozák, J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Predajňa, L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gálová, Z.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Glasa, M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Central Controlling and Testing Institute in Agriculture, Department of Diagnostic, Osada 281, 044 57 Haniská pri Košiciach, Slovakia. E-mail: julius.rozak@gmail.com</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Institute of Virology, Department of Plant Virology, Slovak Academy of Sciences, Dúbravská cesta 9, 84505 Bratislava, Slovakia, E-mail: Lukas.Predajna@savba.sk</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2014-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Prunus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">viroses</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">diversification</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plum pox potyvirus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6276</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8260</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2344</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32516</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Plum pox virus (PPV), the agent responsible for Sharka disease, is the most important viral pathogen of stone fruit trees world-wide, having an endemic status in Slovakia. To increase knowledge of PPV diversity in Slovakia, a set of 11 isolates, originated from the eastern part of the country, was characterised. The isolates were chip-budded from their original Prunus hosts to the susceptible GF305 indicators, exhibiting the symptoms of variable severity. A genomic region encompassing the partial NIb and the hypervariable 5´terminal region of the CP gene was amplified from all 11 isolates in RT-PCR and directly sequenced. The phylogenetic analysis revealed the grouping of the 11 Slovak isolates into 3 distinct clusters, representing the PPV-M (2 isolates), D (7 isolates) and Rec strains (2 isolates). The strain affiliation of isolates was further confirmed by strain-specific RT-PCR, using which the presence of additional mixed infection by minor PPV variants was detected in 2 samples. The results further contribute to the understanding of PPV diversity in Slovakia and confirm the specificity and sensitivity of molecular approaches used for the virus strain determination.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/cisla/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.8/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

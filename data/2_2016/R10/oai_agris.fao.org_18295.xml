@@ -1,0 +1,29 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016018295">
+    <dc:title xml:lang="lg">Effect of Shear Connections Rigidity in Calculating the Ribbed Panels on a Wooden Frame</dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">forestry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3055</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Ribbed plates and panels with coatings of leaf (MDF) materials are used in the construction of civil, industrial and agricultural buildings and structures. They are the universal enclosing and supporting structures and can be used as coatings, floorings, wall envelopes. Coating plates serve simultaneously as lintels, flooring, boarding, provide thermal protection of buildings. They are characterized by commonality, high degree of prefabrication, factory inspection of the strength, acoustic and thermal insulation properties, low density of the used materials that reduce the cost of the building foundations. The plywood cost increases due to the rising cost of the raw materials and low efficiency of the output of finished products. The oriented strand boards – OSB-plates have been used as the cladding panel covers and floorings in recent years. The cost of these plates is below the plywood cost, as their raw material is mostly the wood of the soft-wooded broadleaved species. The article presents a study of the stress-strain state of the panels on a wooden frame with an OSB coatg with the variants of connecting with the ribs. A software computer complex “Scad Office 21.1” is used for the numerical experiment for the strength and deformation analysis of structures by the finite element method. The character of the stress distribution in the flooring panel cov-er, working as a part of the whole structure, as well as the effect of the shear connections rigidity on the stress distribution in the coating are determined. The effect of shear rigidity of compliant digital connections on the reduction coefficient, characterizing the uneven dis-tribution of normal compressive stresses in the cross-section of a coating is determined</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">the composition coefficients, taking into account the compliance of connections in determining the deflection and the strength of composite structures, are obtained. The increase in the diameter of the screws without the additional reinforcing elements (claw-type washers) has no significant effect on the proportion of the covering involvement in the activity of the panel in bending. The use of the compounds with claw-type washers “Bulldog” contributes to the effective involvement of the compressed covering in the process.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://lesnoizhurnal.narfu.ru/issuesarchive/?ELEMENT_ID=246797</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ln</dc:language>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Lesnoy Zhurnal (Forestry journal)</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0536-1036</ags:citationIdentifier>
+      <ags:citationNumber>v./n.4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

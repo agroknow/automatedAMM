@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016015511">
+    <dc:title xml:lang="en">Diffusion model of creamy- and vegetable spreads mixing</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Диффузионная модель перемешивания сливочно-растительных спредов</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ostrikov A.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Slusarev M.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gorbatova A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shendrik T.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">foods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">emulsifying</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Diffusion</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">models</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Agitating</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3032</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2554</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24936</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_193</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A mathematical model of the process of mixing cream- and vegetable spread was developed. In modeling the diffusion understanding of the nature of the process were used, allowing escape from the apparatus geometry. After turning on the mixer the mixing process begins. Its duration can be determined by the behavior of the tracer particles introduced into the agitated medium in a predetermined quantity through the free liquid surface within a short period of time. If tracer particles have the same density with the surrounding bulk liquid phase, then the path of movement of the particles and the fluid are identical. The degree of homogeneity of the composition can be stirred calculated by the coefficient of variation, which is identified by the local concentrations of tracer particles in the volume of stirred medium. The task of a one-dimensional particle transport in the plane layer of the mixed liquid is solved for their calculation. The calculated ratios obtained allow us to calculate the particle concentration at any point in the volume being mixed at random times. Based on the experiment effective mixing coefficients are identified and relations for their assessment, depending on the Reynolds number of the mixer in the range studied variations of process are offered. Using the time dependence of the variation coefficient characterizing the homogenity of the system being mixed, it is possible to determine the duration of mixing to obtain the product with the desired uniformity and homogeneity of the product under the definition of a predetermined duration of the mixing process. The variation coefficient Cvar=3.2%, indicating a sufficiently good uniformity of the spread composition was found by obtained estimated relations for the spread mixed with a stirrer rotating at a speed of n=150 prm, and the dimensionless length of the process Fo=0.0935. Using the proposed calculation algorithm one can estimate the homogeneity of the product at any time.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Разработана математическая модель процесса перемешивания сливочно-растительных спредов. При моделировании использованы диффузионные представления о характере протекания процесса, что позволяет отвлечься от геометрии аппарата. После включения мешалки начинается процесс перемешивания, продолжительность которого можно определить по поведению частиц трассера, вводимых в перемешиваемую среду в заданном количестве через свободную поверхность жидкости в течение короткого промежутка времени. Если частицы трассера имеют одинаковую плотность с окружающими их объемами жидкой фазы, то траектории движения частиц и жидкости совпадают. Степень однородности перемешиваемой композиции можно рассчитать через коэффициент вариации, который идентифицируется через локальные концентрации частиц трассера в объеме перемешиваемой среды, для расчета которых решена задача одномерного переноса частиц в плоском слое перемешиваемой жидкости. Полученные расчетные соотношения позволяют рассчитать концентрацию частиц в любой точке перемешиваемого объема в произвольные моменты времени. На основании проведенного эксперимента идентифицированы коэффициенты эффективного перемешивания и предложены соотношения для их оценки в зависимости от числа Рейнольдса мешалки в исследованном интервале изменения параметров процесса. С использованием временной зависимости для коэффициента вариации, характеризующего однородность перемешиваемой системы, возможно определение продолжительности перемешивания до получения продукта заданной однородности и определение однородности продукта при заданной длительности процесса перемешивания. Для спреда, перемешиваемого мешалкой, вращающейся с частотой n=150 об/мин, при безразмерной длительности процесса Fо=0,0935 по полученным расчетным соотношениям найдено значение коэффициента вариации Kvar =3,2%, свидетельствующее о высокой однородности получаемой спредовой композиции. Используя предложенный алгоритм расчета, можно оценить однородность продукта в любой момент времени.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik-vsuet.ru/vguit/article/download/587/554</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Proceedings of the Voronezh State University of Engineering Technologies</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2226-910X</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

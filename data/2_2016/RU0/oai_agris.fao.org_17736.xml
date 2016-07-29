@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017736">
+    <dc:title xml:lang="en">Reference values of physiological and immunological indicators of hydrobionts of different species</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Референсные значения физиолого-иммунологических показателей гидробионтов разных видов</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pronina G.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Koryagina N.Yu.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">FISHES</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crayfish</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Physiological functions</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood disorders</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biochemical indicators (organisms)</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2943</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1950</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5837</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_964</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25220</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The purpose of the research is to define the reference values of blood parameters of fish and crayfish hemolymph – as a continuation of the researches on the expansion of the methodological component of the physiological and immunological evaluation of aquatic organisms. The objects of the study were fishes: carp (Cyprinidae), catfish (Siluridae), sturgeon (Acipenseridae), pike (Esocidae) and crayfish: long-fingered (Pontastacus leptodactylus) and broad-fingered (Astacus astacus). The samples of the circulating fluid were selected in vivo with the preservation of life and health of hydrobionts: blood – from the tail vein of fish, hemolymph – from the ventral sinus of crayfish. The hematologic parameters such as hemocyte and leukocyte formula were determined. The immunological indicators (oxygen independent factors of cellular immunity) were evaluated by the content of lysosomal cationic protein in phagocytes using cytochemical method, adapted to aquatic poikilothermic hydrobionts. The biochemical indicators (total protein and fractions, glucose, creatinine, cholesterol), the activity of some enzymes (alanine aminotransferase, aspartate aminotransferase, alkaline phosphatase, creatine kinase) in serum of the fish were determined using the analyzer Chem Well Awarenes Technology with the reagents Vital. Hemolymph of crayfish before the biochemical studies were centrifuged at 3000 rot/min and the temperature +6 deg. C during 5 minutes. The studies determined the range of variations of indicators for aquatic organisms of different species and presented the reference values. The high ductility of the most indicators is noted. It has been concluded that the synthetic and catabolic reactions of poikilothermic hydrobionts actively occur in a wide range of the temperatures.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Цель исследований – определение референсных значений показателей крови рыб и гемолимфы речных раков – как продолжение исследований по расширению методической составляющей физиолого-иммунологической оценки гидробионтов. Объектами исследования являлись рыбы: карповые (Cyprinidae), сомовые (Siluridae), осетровые (Acipenseridae), щуковые (Esocidae), речные раки: длиннопалый (Pontastacus leptodactylus) и широкопалый (Astacus astacus). Пробы циркулирующих жидкостей отбирали in vivo с сохранением жизни и здоровья гидробионтов: кровь – из хвостовой вены рыб, гемолимфу – из вентрального синуса речных раков. Определялись гематологические показатели: гемоцитарная и лейкоцитарная формула. Иммунологические показатели (кислороднезависимые факторы клеточного иммунитета) оценивались по содержанию катионного лизосомального белка в фагоцитах цитохимическим способом, адаптированным для пойкилотермных гидробионтов. Биохимические показатели (содержание общего белка и фракций, глюкозы, креатинина, холестерола), активность ряда ферментов (аланинаминотрансфераза, аспартатаминотрансфераза, щелочная фосфатаза, креатинкиназа) в сыворотке крови рыб определяли на анализаторе Chem Well Awarenes Technology с использованием реактивов Vital. Гемолимфу речных раков перед биохимическими исследованиями центрифугировали при 3000 об/мин и температуре +6 град. С в течение 5 минут. В результате исследований определены диапазоны изменений показателей для гидробионтов разных видов и представлены референсные значения. Отмечена высокая пластичность большинства показателей. Сделан вывод, что у пойкилотермных гидробионтов синтетические и катаболические реакции активно протекают в широком диапазоне значений температуры.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://vestnik.astu.org/Content/UserImages/file/fish_2015_4/13.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Astrakhan State Technical University. Series: Fishing industry</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2073-5529</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

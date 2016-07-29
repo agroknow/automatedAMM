@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017754">
+    <dc:title xml:lang="en">Investigation of hygroscopic properties of powder of semifinished kvass wort concentrate, malt extract of barley and chicory extract</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Исследование гигроскопических свойств порошкообразных полуфабрикатов концентрата квасного сусла</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>солодового экстракта ячменя и экстракта цикория</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Magomedov G.O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Shakhov S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Magomedov M.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Saranov I.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Barley</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sorption</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hygroscopicity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chicory</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">extracts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_823</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7250</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28410</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9786</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2767</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Powdered food products (PP) and semifinished foods (PSF) gained wide popularity in the market of foods and in manufacturing. Due to the caking and low wettability of fine PSF, there is an urgent need for modifying their properties by instanting. The study of hygroscopic properties of PP and PSF (chicory extract - CE, barley malt extract - BME, kvass wort concentrate – KWC), obtained by spray drying with an average dispersed composition of 10-20 microns, was done to find optimal conditions for packaging, storage and theoretical justification of the instanting process conditions. The data were obtained on the experimental device for the study of hygroscopic properties of PSF by accelerated method with the creation of the fluidized bed. The results are given in the form of sorption isotherms, by which monomolecular, polymolecular and capillary forms of binding of moisture with the PP and PSF are determined. Theoretical nomogram to determine the binding energy of the moisture with the PSF is given. Mathematical dependences of equilibrium humidities in the studied PP and PSF on the air relative humidity in the range of 15-85% at a temperature of 22 deg C were obtained. Optimal humidity properties of the resulting products for their production and subsequent storage and for the instanting processes were determined. The recommended humidity of storage rooms shouldn't exceed 50%, 54% and 58% respectively. The equilibrium humidity values, at which aggregates and agglomerates start forming in the materials, for PSF KWC, CE and BME are 6.5%, 5.9% and 6.3% respectively.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">На рынке продуктов питания и производстве широкую популярность набрали пищевые порошкообразные продукты (ПП) и полуфабрикаты (ППФ). Из-за слеживаемости и низкой смачиваемости высокодисперсных ППФ, существует острая необходимость модифицирования их свойств инстантированием. Исследовали гигроскопические свойства ПП и ППФ (экстракта цикория - ЭЦ, солодового экстракт ячменя - СЭЯ, концентрата квасного сусла - ККС), полученных распылительной сушкой, со средним дисперсным составом 10-20 мкм, с целью поиска оптимальных условий упаковывания, хранения и теоретического обоснования условий проведения процесса инстантирования. Данные получали на экспериментальной установке для исследования гигроскопических свойств пищевых ППФ ускоренным методом с созданием псевдоожиженного слоя. Результаты исследований представлены в виде изотерм сорбции, по которым определены мономолекулярные, полимолекулярные и капиллярные формы связи влаги с исследуемыми ПП и ППФ. Приведена теоретическая номограмма для определения энергии связи влаги с ППФ. Получены математические зависимости равновесных влажностей в исследуемых ПП и ППФ от относительной влажности воздуха в диапазоне от 15 до 85% при температуре 22 град. C. Рекомендуемая влажность помещений для хранения не должна превышать 50, 54 и 58% соответственно. Значения равновесной влажности, при которой в материалах начинают образовываться агрегаты и агломераты, для ППФ ККС, ЭЦ и СЭЯ составляют 6,5, 5,9 и 6,3% соответственно.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik-vsuet.ru/vguit/article/view/795/757</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Proceedings of the Voronezh State University of Engineering Technologies</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2226-910X</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

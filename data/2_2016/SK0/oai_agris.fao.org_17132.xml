@@ -1,0 +1,72 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016017132">
+    <dc:title xml:lang="en">Oxidative stability of cnicken thigh meat after treatment of abies alba essential oil</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pavelková Adriana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bobko Marek</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Haščík Peter</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kačániová Miroslava</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tkáčová Jana</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Slovak University of Agriculture, Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Quality</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oxidative stability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_118</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6400</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35879</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the present work, the effect of the Abies alba essential oil in two different concentrations on oxidative stability of chicken thigh muscles during chilled storage was investigated. In the experiment were chickens of hybrid combination Cobb 500 after 42 days of the fattening period slaughtered.  All the broiler chickens were fed with the same feed mixtures and were kept under the same conditions. The feed mixtures were produced without any antibiotic preparations and coccidiostatics. After slaughtering was dissection obtained fresh chicken thigh with skin from left half-carcass which were divided into five groups (n = 5): C - control air-packaged group</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">A1 - vacuum-packaged experimental group</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">A2 - vacuum-packaged experimental group with ethylenediaminetetraacetic acid (EDTA) solution 1.50% w/w</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">A3 - vacuum-packaged experimental group with Abies alba oil 0.10% v/w and A4 - vacuum-packaged experimental group with Abies alba oil 0.20% v/w. The Abies alba essential oil was applicate on ground chicken things and immediately after dipping, each sample was packaged using a vacuum packaging machine and storage in refrigerate at 4 ±0.5 °C. Thiobarbituric acid (TBA) value expressed in number of malondialdehyde was measured in the process of first storage day of 1st, 4th, 8th, 12th and 16th day after slaughtering and expressed on the amount of malondialdehyde (MDA) in 1 kg sample. The treatments of chicken things with Abies alba essential oil show statistically significant differences between all testing groups and control group, where higher average value of MDA measured in thigh muscle of broiler chickens was in samples of control group (0.4380 mg.kg) compared to experimental groups A1 (0.124 mg.kg), A2 (0.086 mg.kg), A3 (0.082 mg.kg) and A4 (0.077 mg.kg) after 16-day of chilled storage. Experiment results show that the treatment of chicken thigh with Abies alba essential oil positively influenced on the reduction of oxidative processes in thigh muscles during chilling storage and use of essential oil is one of the options increase shelf life of fresh chicken meat.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.potravinarstvo.com/journal1/index.php/potravinarstvo/article/view/523/pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Potravinárstvo</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1337-0960</ags:citationIdentifier>
+      <ags:citationNumber>v.9/n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

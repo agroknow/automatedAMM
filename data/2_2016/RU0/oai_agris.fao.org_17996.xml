@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016017996">
+    <dc:title xml:lang="en">Phylogenetic affinity of isolates of cucumber mosaic virus (CMV) from cucumber (Cucumis sativus), pepper (Capsicum annuum), and ageratum (Ageratum houstonianum)</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Филогенетические взаимосвязи изолятов вируса огуречной мозаики (Cucumber mosaic virus) из огурца (Cucumis sativus)</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>перца (Capsicum annuum) и агератума (Ageratum houstonianum)</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gnutova R.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nesmelov I.B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cucumis sativus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">capsicum annuum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ageratum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cucumber mosaic cucumovirus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Nucleotide sequence</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2004</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1288</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33277</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15959</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27583</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">As known, vegetable and ornamental crops cultivated in Far East are diseased mainly by Cucumber mosaic virus (CMV) and tobacco mosaic virus. The nucleotide sequences of two strains of CMV isolated from cucumber (2014) and ageratum (CMV-Ag, 2012) in the Primorsk region and one strain from pepper isolated in the North Korea (CMV-NK, 2002) have been studied. The phylogenetic relations among isolated strains and CMV strains from Genbank have been revealed, aiming qualification position of new strains from Far East within the group.  2b CMV genes from 10 cucumber varieties were sequenced by PCR. It was shown that disease symptoms were caused by monoinfection of CMV-C in all these samples. 2b CMV gene sequence can be used as reliable diagnostic marker during PCR-diagnostics of the virus using primers to 2b CMV gene. Using this method, the virus was revealed in field material (leaves of diseased cucumber plants), as well in tobacco plants of Xanty variety. These tobacco plants have been using for continuous culture of CMV-NK (longer than 10 years) and CMV-Ag (last two years). Realized phylogenetic analysis of nucleotide sequences of above-mentioned strains allows to classify Russian Far East CMV population to CMV I group. This Far East group includes strains of subgroups IA (isolates from ageratum and pepper) and IB (isolates from cucumber). CMV-С strains had high affinity to strains from Primorski Krai isolated from ornamental plants formerly and to strains from China. CMV-NK and CMV-Ag were similar to vegetable strains from Khabarovsk, Japan and Hungary. Probably, Far East CMV strains revealed in Primorski Krai are result of anthropogenic invasion from neighbouring East-Asia states.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Известно, что овощные и декоративные культуры, возделываемые на Дальнем Востоке, поражаются преимущественно вирусами огуречной мозаики (Cucumber mosaic virus, CMV) и табачной мозаики. Изучали нуклеотидные последовательности 2 приморских изолятов CMV, выделенных в 2014 г. из растений огурца и в 2012 г. из агератума Хоустона (CMV-Ag), а также северокорейского изолята, выделенного в 2002 г. из перца (CMV-NK). Выявляли филогенетические взаимосвязи между ними и изолятами вируса, депонированными в Genbank, для уточнения внутригруппового статуса дальневосточных изолятов, учитывая их большое разнообразие. Секвенирование 2b гена CMV в образцах 10 сортов огурца проводили методом ПЦР. Показано, что у всех этих образцов симптомы заболевания вызывала моноинфекция CMV-C. Последовательность 2b гена CMV можно использовать как надежный диагностический маркер при ПЦР-диагностике вируса с праймерами к 2b гену CMV. Данным методом вирус был выявлен не только в полевом материале (в листьях растений огурца с вирусоподобными симптомами), но в растениях табака сорта Ксанти, на которых более 10 лет поддерживали северокорейский изолят из перца, и в последние два года – изолят вируса из агератума. Проведенный филогенетический анализ нуклеотидных последовательностей новых дальневосточных изолятов CMV позволил отнести российскую дальневосточную популяцию к группе CMV I. На Дальнем Востоке эта группа включает изоляты CMV субгрупп IА (изоляты из агератума и перца) и IВ (изоляты из огурца). Изолят CMV-C проявлял высокое сходство с ранее выделенными изолятами из Приморского края (с декоративных культур) и из Китая. Изоляты CMV-NK и CMV-Ag обладали высоким сходством с овощными изолятами из Хабаровска, а также из Японии и Венгрии. Вероятно, изоляты CMV дальневосточной популяции, обнаруженные в Приморском крае, были занесены антропогенно с территорий сопредельных восточноазиатских государств.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vegetables.su/jour/article/view/235/235</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vegetable Crops of Russia</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2072-9146</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

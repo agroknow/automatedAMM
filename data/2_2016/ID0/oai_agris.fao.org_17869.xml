@@ -1,0 +1,83 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016017869">
+    <dc:title xml:lang="id">Pemanfaatan kromium organik limbah penyamakan kulit untuk mengurangi stres transportasi dan memperpendek periode pemulihan pada sapi potong</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Utilization of organic chromium from tannery waste on reducing transportation stress and shortening recovery period at beef cattle</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Santosa U.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tanuwiria U. H.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Yulianti A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Suryadi U.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universitas Padjadjaran</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2012-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beef cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Chromium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">TANNING</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">LEATHER INDUSTRY</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">industrial wastes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">weight gain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_862</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1595</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7605</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4242</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11763</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7452</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8350</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Transportation increases stress that subtantially decreases body weight and feed comsumption even weight gain loss after arriving at the location of fattening. A research has been conducted to study the effects of organic chromium from tannery wastes on the level of transportation stress and recovery period in beef cattle fattening. Twenty Ongole crossbreed cattles were transported from the Wirasaba feedlot at Purbalingga in Central Java to the Agro Buana Semesta Feedlot  in Malangbong, Garut in West Java for about 18 hours. Completely randomized design (CRD) was applied with four repetitions. The Cr-organic was given seven days before and after transportation. Dose of Cr-organic used: R0 = control diet without Cr-organic, R1 = R0 + 1.5 ppm, R2 = R0 + 3.0 ppm, R3 = R0 + 4.5 ppm, R4 = R0 + 6.0 ppm. Results showed that 3.0 ppm organic chromium of the dry matter of ration tended to affected physiology and haematological conditions, as well as decreased weight loss, shortened recovery time, and improved weight gain. It is concluded that organic chromium supplementation was able to lowered stress levels, shortened recovery time, and increased daily gain for one week recovery process, especially at dose of 3.0 ppm.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://peternakan.litbang.pertanian.go.id/index.php?option=com_content&amp;view=article&amp;id=3608%3Ajitv&amp;catid=165%3Avolume%3A-17-nomor%3A-2</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Jurnal Ilmu Ternak dan Veteriner</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0853-7380</ags:citationIdentifier>
+      <ags:citationNumber>v.17/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

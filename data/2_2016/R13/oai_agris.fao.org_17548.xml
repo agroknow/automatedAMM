@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="R12016317548">
+    <dc:title xml:lang="ru">СПОСОБЫ СОДЕРЖАНИЯ ОВЦЕМАТОК РОМАНОВСКОЙ ПОРОДЫ В ЗАВИСИМОСТИ ОТ ТЕХНОЛОГИИ ПОЛУЧЕНИЯ МОЛОКА</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>WAYS OF KEEPING EWES ROMANOV BREED</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>DEPENDING ON TECHNOLOGY OF MILK</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Костылев Михаил</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-04</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sheep</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье приведены результаты применения разных способов содержания овец. Авторами разработаны различные схемы содержания дойного стада овцематок романовской породы. Предложены три схемы содержания животных, использование которых на производстве напрямую связано с технологией, применяемой на той или иной ферме. Подробное описание этих схем приведено в статье.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article presents the results of applying different ways of keeping sheep. The authors have developed various schemes of keeping dairy herd of ewes Romanov breed. The proposed three schemes of animal content, whose use in production is directly related to the technology used on this or other farm. A detailed description of these schemes is given in the article.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://www.isuct.ru/e-publ/snt/sites/ru.e-publ.snt/files/2015/03/snt_2015_n03-157.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Современные наукоемкие технологии. Региональное приложение</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2413-5399</ags:citationIdentifier>
+      <ags:citationNumber>v.2015/n.3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>
