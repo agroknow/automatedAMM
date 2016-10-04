@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019279">
+    <dc:title xml:lang="en">Creation of soft drinks recipe on the basis of cloudberries</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Разработка рецептуры безалкогольного напитка с использованием ягод морошки</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sharoglazova L.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Velichko N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rubus chamaemorus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chemical composition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6685</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1794</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the production of carbonated soft drinks (SD) a large variety of plant materials, including berries, containing valuable biologically active compounds is used. The aim of the work was to develop formulations of SD on the basis of the juice of wild fruits of cloudberry. The study of chemical composition of wild cloudberry fruits, has shown that they contain high amounts of vitamins C (0.87% oven dry weight - ODW.), P (1.21 mg% ODW.), flavonoids (0.59% ODW), pectins (2.43% ODW), tannins (of 5.06% ODW). SD formulations are developed without synthetic components, comprising per 100 daL of the finished product of: the juice of wild cloudberry - 95.50 l, honey - (55.90 kg (in the recipe No. 3), color - 0.35 kg (in formulation No. 1), sugar - 26–75.16 kg. Organoleptic and physicochemical characteristics of SD are defined. SD is: non-transparent liquid of yellow color, pleasant berry smell of cloudberries. Physicochemical indicators are: mass fraction of dry matter is 7.10–8.20%, acidity is 2.65–3.50 ml of 1M NаОН solution per 100 ml of beverage, mass fraction of carbon dioxide is 0.40%. The obtained products fully comply with the standards for SD. Using a juice from wild cloudberry allowed not only expanding the range of non-alcoholic carbonated beverages, but also enriching them in complex of biologically active substances.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В производстве газированных безалкогольных напитков (БН) используется большое разнообразие растительного сырья, в том числе ягодного, содержащего в своем составе ценные биологически активные соединения. Целью работы явилась разработка рецептуры БН на основе сока дикорастущих плодов морошки. Исследование химического состава дикорастущих плодов морошки показало, что они содержат высокое количество витаминов С (0,87% абсолютно сухой массы - АСМ), Р (1,21 мг% АСМ), флавоноидов (0,59% АСМ), пектиновых (2,43% АСМ), дубильных (5,06% АСМ) веществ. Разработаны рецептуры БН, не содержащие синтетических компонентов, включающие на 100 дал готового продукта: сок дикорастущих ягод морошки – 95,50 л, мед – 55,90 кг (в рецептуре №3), колер 0,35 кг (в рецептуре №1), сахар (19,26–75,16 кг). Определены органолептические и физико-химические показатели БН. Напитки представляют непрозрачную жидкость желтого цвета, приятного ягодного аромата морошки. Физико-химические показатели: массовая доля сухих веществ – 7,10–8,20%, кислотность – 2,65–3,50 мл 1М раствора NаОН на 100 мл напитка, массовая доля диоксида углерода – 0,40%. Полученные продукты полностью соответствуют нормам, предъявляемым к БН. Использование сока из дикорастущих ягод морошки позволило не только расширить ассортимент газированных БН, но и обогатить их комплексом биологически активных веществ.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.kgau.ru/vestnik/2016_2/content/16.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of KrasGAU</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1819-4036</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

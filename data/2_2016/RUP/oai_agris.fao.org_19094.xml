@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P19094">
+    <dc:title xml:lang="ru">АНАЛИЗ ИЗМЕНЧИВОСТИ МОРФОЛОГИИ ЛИСТА В ПРЕДЕЛАХ РОДА SPIRAEA L</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ANALYSIS OF VARIABILITY OF LEAF MORPHOLOGY WITHIN THE GENUS SPIRAEA L.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kryuchkova  V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Isachkin  A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Growth</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25189</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3394</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331049</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: spiraea, analysis of variability, morphology of leaf, ornamental gardening, Spiraea</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучена изменчивость качественных и количественных признаков листа видов спиреи, выделены группы по форме, длине, ширине листовой пластинки, оценена овальность листовой пластинки. Изучены модальности качественных признаков: тип края листовой пластинки, опушение верхней и нижней стороны листовой пластинки, окраска верхней и нижней стороны листовой пластинки. С точки зрения декоративного садоводства выделены группы: узколистные, крупнолистные, мелколистные. Определены дополнительные признаки, помогающие идентифицировать видовую принадлежность в нецветущем состоянии.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We investigate the variability of qualitative and quantitative traits of the leaf of species of Spiraea, the selected group according to shape, length, width of the leaf blade, estimated the roundness of the leaf blade. The modalities of qualitative characteristics: the type of edge of the leaf, pubescence of the upper and lower sides of the leaf blade, color of upper and lower sides of the leaf blade are studied. From the standpoint of ornamental gardening-marked groups are given: narrow-leaved, large-leaved, small-leaved. The additional characteristics are given
+that help to identify the species without flowers in the state.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USNO_2016_7_2_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.№7 (part 2), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

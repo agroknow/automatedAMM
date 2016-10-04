@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019200">
+    <dc:title xml:lang="en">Identification of root rot pathogens isolated on spring grain crops in Republic of Mordovia</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Видовой состав возбудителей корневой гнили на яровых зерновых в Республике Мордовия</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kiseleva M.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zhemchuzhina N.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dubovoi V.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lapina V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">spring crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fusarium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Bipolaris</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pathogenicity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24918</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3156</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_31546</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5629</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The root rot caused by fungi of Fusarium and Bipolaris genera has damaged both winter and spring cereals. In the paper the study of fungal species causing root rot and leaf spot of cereals in the Republic Mordovia territory, and also pathogenic properties of widespread and infrequent Fusarium spp. has been represented. Damaged plants of spring wheat, barley and oats (a total of 38 cultivars) in heading stage were sampled. There were a total of 457 isolates of pathogenic and saprophytic fungi. No clear specialization of fungi species to cereals was shown. The several species of genera Fusarium (F. heterosporum, F. sporotrichioides, F. oxysporum) and Bipolaris (В. sorokiniana) prevailed on roots of wheat, barley and oat plants. Isolates of F. redolens, F. verticillioides, F. tricinctum were few. There were many accompanying saprophytic isolates allocated together with pathogenic fungi, such as Alternaria alternatа, Mortierella elongatа var. elongatа, Papulaspora appendicularis, Clonostachys rosea f. catenulatа, Acremonium strictum, Trichoderma hamatum, etc. As a result of monosporous selections, 24 strains of Fusarium spp. and Bipolaris sp. with stable morphology have been isolated. The wide rang of plant-hosts was found out for F. heterosporum, F. sporotrichioides, F. oxysporum and Bipolaris sorokiniana. The widespread species of fungi had various pathogenic and toxic properties, indicating their strong intraspecific variability. Rare fungal species possessed toxicity to test-plant seedlings, but were not pathogenic. This fact possibly explains their low frequency in the root rot mycobiota. В. sorokiniana strains were highly pathogenic and toxic to tests plants.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Корневые гнили, вызываемые грибами из родов Fusarium и Bipolaris, поражают как озимые, так и яровые культуры. Изучали видовой состав грибов, вызывающих корневые гнили и пятнистости листьев культурных злаков в различных районах Республики Мордовия, а также патогенные свойства у ряда штаммов широко распространенных и редко встречающихся видов рода Fusarium. Материалом для исследований служили образцы растений яровой пшеницы (Triticum L.), ячменя (Hordeum L.) и овса (Avena L.), которые в стадии колошения имели признаки поражения. В результате микологических исследований в чистую культуру были выделены 457 изолятов патогенных и сапрофитных грибов разных видов. Четкую специализацию видов в отношении разных культур зерновых не отмечали. В микологических пробах с корней пшеницы, ячменя и овса с наибольшей частотой встречались виды грибов из родов Fusarium (F. heterosporum, F. sporotrichioides, F. oxysporum) и Bipolaris (В. sorokiniana). Виды F. redolens, F. verticillioides, F. tricinctum обнаруживали с меньшей частотой. Наряду с патогенными видами грибов в чистую культуру были выделены сапрофитные виды Alternaria alternatа, Mortierella elongatа var. elongatа, Papulaspora appendicularis, Clonostachys rosea f. catenulatа, Acremonium strictum, Trichoderma hamatum и др. В результате моноспоровых отборов были получены 24 штамма грибов из родов Fusarium и Bipolaris, характеризующиеся стабильными морфолого-культуральными признаками. Для видов рода Fusarium (F. heterosporum, F. sporotrichioides, F. oxysporum) и Bipolaris установлен широкий круг хозяев. Штаммы редко встречающихся видов грибов были токсичными для проростков тест-культуры, но оказались непатогенными, что объясняет их незначительную представленность в микобиоте корневых гнилей. Штаммы В. sorokiniana обладали высокой патогенностью и токсичностью для тест-растений. (Табл. 3. Ил. 4. Библ. 25)</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.agrobiology.ru/articles/1-2016kiseleva-rus.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agricultural Biology</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0131-6397</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

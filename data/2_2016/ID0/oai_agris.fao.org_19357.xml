@@ -1,0 +1,71 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016019357">
+    <dc:title xml:lang="id">Aktivitas antioksidasi ekstrak fenol umbi sarang semut (Hydnophytum sp.) pada berbagai suhu penyeduhan</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Antioxidant activity of sarang semut tubers (Hydnophytum sp.) extracts toward stepping treatment</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Dominika Dominika</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universitas Tanjung Pura</ags:creatorCorporate>
+    </dc:creator>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q03</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">TUBERS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">drug plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">extracts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Phenolic compounds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antioxidants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">BOILING</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Temperature</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7998</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2393</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2767</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5772</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_988</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7657</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Antioxidant activity of Sarang Semut tubers (Hydnophytum sp.) extracts toward stepping treatments was investigated. Powder of Sarang Semut tubers was diluted in 200 ml of distilled water then its being subjected to stepping treatment of three different treatments: cooked at 60, 80 and 100 deg. C for 2, 4 and 6 minutes. Effect of stepping treatment of Sarang Semut tuber juices on the antioxidant activity and the total phenol contents was investigated. Antioxidant activity of Sarang Semut tuber juices was estimated according to DPPH methods. The total phenol content in the tuber juices was measured with Folin-Ciocalteu reagent using gallic acid as a standard. The results showed that stepping treatment did not affect antioxidant activity of Sarang Semut tuber juices. Stepping treatment of Sarang Semut tuber juices at 100 deg. C exhibited the highest total phenol contents.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">https://jurnal.ugm.ac.id/agritech/article/view/9867/7430</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agritech: Majalah Ilmu dan Teknologi Pertanian</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0216-0455</ags:citationIdentifier>
+      <ags:citationNumber>v.28/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

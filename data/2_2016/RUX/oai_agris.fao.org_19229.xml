@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19229">
+    <dc:title xml:lang="en">OPTIMIZATION OF SELECTION OF PREDECESSORS OF WINTER WHEAT IN CROP ROTATIONS IN FOREST-STEPPE OF VOLGA REGION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ОПТИМИЗАЦИЯ ПОДБОРА ПРЕДШЕСТВЕННИКОВ ОЗИМОЙ ПШЕНИЦЫ В СЕВООБОРОТАХ ЛЕСОСТЕПИ ПОВОЛЖЬЯ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Тоygildin Аlexander L.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Podsevalov Mikhail I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Тоygildina Irina А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F08</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Winter wheat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">bare fallow</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pisum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop rotation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crop modelling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">linear programming</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8412</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34009</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5932</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6662</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9000024</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28903</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables, 3 graphs, 23 ref. DOI: 10.18286/1816-4501-2016-2-49-56</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The goal of this work was the determination of methodology for optimization of predecessors selection for winter wheat as the leading cereal crop for the conditions of forest-steppe of Volga region. According to our experimental data (average for 12 years) winter wheat yield on a clean fallow was to 4,01 t/ha of grain, which is by 0,7 t/ha more than after a pea, apparently this could be explained by the greater moisture supply of crops. Analysis of the recieved data showed that yielding ability of winter wheat in seeded fallow (after a pea) had a direct average dependence on the amount of precipitation in July-August period of the previous year (r=0,58). There was revealed an average inverse dependence (r=-0,447) of the increase of yielding ability of winter wheat by clean fallow on the amount of precipitation in July-September period. With the amount of precipitation &gt; 150 mm, the yielding ability of winter wheat by predecessors aligns. Evaluation of links productivity showed that grain yield in the link with pea was higher and equaled 3,02 t/ha or by 1,02 t/ha (50,1 %) more than with clean fallow, therefore, in conditions of forest-steppe zone of Volga region it is relevant to consider the possibility of replacing the clean fallow with the seeded one. In this regard, it is relevant to determine the optimal ratio of share of clean and seeded fallow used for winter wheat as a predecessor. We propose the linear programming method with the inclusion in the model parameters of production expenses, productivity of links by the grain yield, with a goal of maximum value capture from realization of the resulting product. The solution of linear programming problem for optimization of clean and seeded fallow share shows that the optimal ratio of predecessor (clean fallow:pea) is respectively 0,4:0,6</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью данной работы явилось определение методологии по оптимизации подбора предшественников для озимой пшеницы как ведущей зерновой культуры для условий лесостепи Поволжья. По нашим экспериментальным данным (в среднем за 12 лет) урожайность озимой пшеницы по чистому пару составила 4,01 т/га зерна, что на 0,7 т/га больше чем после гороха, по видимому это объясняется большей влагообеспеченностью посевов. Анализ полученных данных показал, что урожайность озимой пшеницы в занятом пару (после гороха) имела прямую среднюю зависимость от количества осадков в период июль-август предшествующего года (r=0,58). Выявлена средняя обратная зависимость (r=-0,447) прибавки урожайности озимой пшеницы по чистому пару от количества осадков в период июль-сентябрь. При сумме осадков &gt;150 мм, урожайность озимой пшеницы по предшественникам выравнивается. Оценка продуктивности звеньев показала, что выход зерна в звене с горохом выше и составил 3,02 т/га или на 1,02 т/га (50,1%) больше чем с чистым паром, поэтому в условиях лесостепной зоны Поволжья актуально рассматривать возможность замены чистых паров на занятые. В этой связи актуально определить оптимальное соотношение доли чистого и занятого паров используемых для озимой пшеницы в качестве предшественников. Нами предлагается метод линейного программирования с включением в модель показателей производственных затрат, продуктивности звеньев по выходу зерна, с целью получения максимальной выручки от реализации получаемой продукции. Решение задачи линейного программирования по оптимизации доли чистого и занятого пара показывает, что оптимальное соотношение предшественников (чистый пар : горох) составляет соответственно 0,4:0,6</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Toygildin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

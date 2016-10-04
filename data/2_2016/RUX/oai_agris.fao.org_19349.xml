@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19349">
+    <dc:title xml:lang="en">INFLUENCE OF KAPPA-CASEIN GENOTYPE ON MILK PRODUCTIVITY AND TECHNOLOGICAL PROPERTIES OF MILK OF RED-MOTLEY BREED COWS IN THE REPUBLIC OF MORDOVIA</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ВЛИЯНИЕ ГЕНОТИПА КАППА-КАЗЕИНА НА МОЛОЧНУЮ ПРОДУКТИВНОСТЬ И ТЕХНОЛОГИЧЕСКИЕ СВОЙСТВА МОЛОКА КОРОВ КРАСНО-ПЕСТРОЙ ПОРОДЫ В РЕСПУБЛИКЕ МОРДОВИЯ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Теlnov Nikita О.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Agricultural institute of Mordovian state university named after N.P.Ogarev</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Dairy cows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cow milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Polymorphism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">DNA</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26767</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16080</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6088</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2347</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables, 7 ref. DOI: 10.18286/1816-4501-2016-2-160-163</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We conducted the genotyping of developing povolzhskiy type of red-motley breed cattle in the Republic of Mordovia by locus that determines economically valuable traits. DNA purification from blood samples was performed according to the method of Laura-LeeBoodram (2004). Gene polymorphism of milk proteins was performed by method of polymerase chain reaction (PCR) according by the method of G. Bram and B. Branding. Restriction analysis was performed using the endonuclease HinfI, products of restriction were separated by electrophoresis in polyacryl amide gel. Milk productivity was determined monthly by control milkings. On the basis of control milkings we calculate total milk productivity for 305 days of lactation. Fat content in milk was determined by acid method of Gerberg, and protein content– by the method of measurement the mass fraction of total nitrogen by Kjeldahl method and determination of protein mass fraction. To determine cheese-fitness of milk we used rennet and rennet-fermentation samples. It was established that productivity of cows with BB genotype of kappa-casein gene was higher compared with AA genotype. Milk of cows with AA genotype of kappa-casein gene contained less protein than milk of cows with BB genotype. Yield of milk fat from milk of cows with BB genotype of kappa-casein gene was greater than that from a milk of cows with AA genotypes. Studies have shown that cows with BB genotype of kappa-casein had the best cheese-making properties of milk , they had the maximum output of desirable dense rennet clot and the shortest duration of milk coagulation. On this parameters, they were better then animals with AA genotype. Improvement of genetic structure of red-motley breed cows population of Mordovia selection is possible by increasing the frequencies of occurrence of alleles A and B of kappa-casein gene, which affects milk productivity and cheese-making properties of milk as a «hidden» genetic reserve for the improvement of economically valuable traits.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Было проведено генотипирование формирующегося поволжского типа крупного рогатого скота красно-пестрой породы в Республике Мордовия по локусам, определяющим хозяйственно-ценные признаки. Выделение ДНК из проб крови проводили по методике Laura-LeeBoodram (2004). Полиморфизм генов белков молока проводили методом полимеразной цепной реакции (ПЦР) по методике Г. Брэма и Б. Брендинга. Реcтрикционный анализ проводили с помощью эндонуклеазы HinfI, продукты рестрикции разделяли с помощью электрофореза в полиакрил амидном геле. Молочную продуктивность определяли ежемесячно путём проведения контрольных доек. На основании контрольных доек рассчитывали общую молочную продуктивность за 305 дней лактации. Содержание жира в молоке определяли кислотным методом по Гербергу, а содержание белка – методом измерения массовой доли общего азота по Кьельдалю и определения массовой доли белка. Для определения сыропригодности молока использовали сычужную и сычужно-бродильную пробы. Установлено, что продуктивность коров с генотипом ВВ гена каппа-казеина была выше по сравнению с генотипом АА. Молоко коров с генотипом АА гена каппа-казеина содержало меньше белка, чем молоко коров с генотипом ВВ. Выход молочного жира из молока коров с генотипом ВВ гена каппа-казеина был больше, чем из молока коров с генотипами АА. Исследования показали, что наилучшими сыродельческими свойствами молока обладали коровы с генотипом ВВ каппа-казеина, у них наибольший выход желательного плотного сычужного сгустка и наименьшая продолжительность свёртывания молока. По этим показателям они превосходили животных с генотипом АА. Улучшение генетической структуры популяции коров красно-пестрой породы мордовской селекции возможно за счет увеличения частот встречаемости аллелей А и В гена каппа-казеина, влияющего на молочную продуктивность и сыродельческие свойства молока как «скрытого» генетического резерва для улучшения хозяйственно-полезных признаков.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Telnov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

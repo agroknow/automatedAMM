@@ -1,0 +1,46 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P19086">
+    <dc:title xml:lang="ru">РАСХОД ЭНЕРГИИ ПРИ ИЗМЕЛЬЧЕНИИ ЗЕРНОВЫХ КОРМОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE POWER CONSUMPTION AT CRUSHING OF GRAIN FEED</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vergieva  T.Z.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">statistical methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7377</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: grain feed, stroke, energy, grain crusher, energy, grain surface, the amount of grain, medium grain size, dependence schedule</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В данной статье приводится результат проведенных расчетов. При проектировании малогабаритных молотковых корм дробилок основное внимание отводится к снижению энергоемкости процесса измельчения, которая прямо пропорционально с себестоимостью продукта.
+Данные исследований показали, что потребление энергии при измельчения зерна пропорционально по-
+верхности и объему зерна и применяя теории кривых были разработаны графики зависимостей в этих отношениях.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">This article is the result of the calculations. When designing a small hammer forage crusher the main
+attention is given to reducing energy consumption of the grinding process, which is directly proportional with the
+cost of the product.
+These studies show that the energy consumption for crushing grain is proportional to the surface and the volume
+of the grain and applying the theory of curves has been developed dependency graphs in this relationship.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USNO_2016_7_2_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№7 (part 2), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

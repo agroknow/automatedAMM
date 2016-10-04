@@ -1,0 +1,109 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019065">
+    <dc:title xml:lang="en">Assessing the development of agricultural production of EAEU countries in pre-reform and reform periods</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Оценка развития сельхозпроизводства стран ЕАЭС в дореформенный и пореформенный периоды</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Borkhunov N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land policies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">USSR</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">analysis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agricultural development</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_195</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8118</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2481</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49928</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_199</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Изучали возможные резервы повышения эффективности производства в странах Евразийского экономического союза (ЕАЭС). Создание ЕАЭС (РФ, Казахстан, Белоруссия, Армения и Киргизия) направлено на свободу движения товаров, услуг, капитала и рабочей силы, проведение скорректированной или единой политики в экономике. Анализ состояния сельского хозяйства в дореформенный период показал, что положение с. х. предприятий этих стран было устойчивым, финансовые отношения благоприятствовали развитию сельского хозяйства. Отмечается, что к 1990 г. агропромышленный комплекс СССР достиг верхней точки развития. С 1986 по 1990 г. производство продукции АПК увеличилось на 10%, сельского хозяйства - на 5, продуктов питания - на 17%. Соотношение цен на реализуемую сельскохозяйственную продукцию с включением в них всех видов надбавок и цен на приобретаемую промышленную продукцию, тарифы на услуги было близко к 1, что свидетельствует о паритетности обмена промышленной и сельскохозяйственной продукции. Переход от плановой экономики к рыночной сопровождался изменениями в организации и методах управления, использовании денежно-кредитных и валютных инструментов. Объемы производства и доходов населения, инвестиции - эти и другие параметры развития на начальном этапе реформирования снизились, а далее стали восстанавливаться или превзошли исходный уровень. Показатели развития РФ, Белоруссии, Казахстана, Киргизии, Армении в 2014 к 1991 г. (%): валовой внутренний продукт – 124, 201, 215, 198 соответственно</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">промышленная продукция – 94, 210, 129, 73, 123 соответственно</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">с. х. продукция – 99, 132, 112, 132. 239 соответственно</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">инвестиции в основной капитал – 83, 214, 104, 208 (в 4,4 раз соответственно)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">оборот розничной торговли – 312, 694, 278, 185, 161% соответственно, зарплата – в 1,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1,4</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">- 1,2 раза. Предлагается совершенствовать финансовую систему, чтобы укрепить ресурсный потенциал сельского хозяйства, восстановить рациональный межотраслевой обмен в отраслях АПК ЕАЭС.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Изучали возможные резервы повышения эффективности производства в странах Евразийского экономического союза (ЕАЭС). Создание ЕАЭС (РФ, Казахстан, Белоруссия, Армения и Киргизия) направлено на свободу движения товаров, услуг, капитала и рабочей силы, проведение скорректированной или единой политики в экономике. Анализ состояния сельского хозяйства в дореформенный период показал, что положение с. х. предприятий этих стран было устойчивым, финансовые отношения благоприятствовали развитию сельского хозяйства. Отмечается, что к 1990 г. агропромышленный комплекс СССР достиг верхней точки развития. С 1986 по 1990 г. производство продукции АПК увеличилось на 10%, сельского хозяйства - на 5, продуктов питания - на 17%. Соотношение цен на реализуемую сельскохозяйственную продукцию с включением в них всех видов надбавок и цен на приобретаемую промышленную продукцию, тарифы на услуги было близко к 1, что свидетельствует о паритетности обмена промышленной и сельскохозяйственной продукции. Переход от плановой экономики к рыночной сопровождался изменениями в организации и методах управления, использовании денежно-кредитных и валютных инструментов. Объемы производства и доходов населения, инвестиции - эти и другие параметры развития на начальном этапе реформирования снизились, а далее стали восстанавливаться или превзошли исходный уровень. Показатели развития РФ, Белоруссии, Казахстана, Киргизии, Армении в 2014 к 1991 г. (%): валовой внутренний продукт – 124, 201, 215, 198 соответственно</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">промышленная продукция – 94, 210, 129, 73, 123 соответственно</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">с. х. продукция – 99, 132, 112, 132. 239 соответственно</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">инвестиции в основной капитал – 83, 214, 104, 208 (в 4,4 раз соответственно)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">оборот розничной торговли – 312, 694, 278, 185, 161% соответственно, зарплата – в 1,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1,4</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">- 1,2 раза. Предлагается совершенствовать финансовую систему, чтобы укрепить ресурсный потенциал сельского хозяйства, восстановить рациональный межотраслевой обмен в отраслях АПК ЕАЭС.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vniiesh.ru/documents/document_20723_Borkhunov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agribusiness Sector: Economics, Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0235-2443</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

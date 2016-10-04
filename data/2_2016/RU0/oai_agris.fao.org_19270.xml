@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019270">
+    <dc:title xml:lang="en">The research of chemical and toxic properties of nepheline slime with the purpose of their use in agriculture</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Исследование химических и токсичных свойств нефелиновых шламов для использования в сельском хозяйстве</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Shepelev I.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Styglits I.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Eskova E.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zhyzhaev A.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P33</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Calcium</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Wastes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">acid soils</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1196</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8307</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_89</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the Krasnoyarsk region sour soils make up 30.1% of arable lands area, therefore the problem of their amelioration is urgent. A research objective was the assessment of possibility of waste alumina production using as an ameliorant of sour soils for increasing of soils fertility of the Krasnoyarsk region. The object of researches was nepheline slimes (NS), i.e. waste of alumina production. With applying the physical and chemical methods of the analysis and electronic microscopy the chemical and mineralogical composition of this waste was defined and their physical and chemical, morphological and toxic properties were investigated. It was noted that NS which were stored on a slurry field are 80–85% of dicalcium silicate. The humidity of NS arriving from a slime storage during sampling was within 18.5–3.5%. The NS density was in the range of from 2.9 to 3.0 g per cubic meter. According to the phase analysis, NS is presented generally larnite with a small impurity of rankinite. Also the presence of weak lines of soda and calcium carbonates was noted. The results of the analysis showed that the content of calcium oxide in NS reached 55% and generating thereby a high alkaline pH. It points to a high neutralized ability of alumina production waste. A possibility of using calcium-containing waste of alumina production as ameliorants for deoxidation of gray forest soils of the western areas of the Krasnoyarsk region is confirmed.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В Красноярском крае кислые почвы составляют 30,1% площади пахотных земель, поэтому актуальна проблема их мелиорации. Целью исследования являлась оценка возможности использования отходов глиноземного производства в качестве мелиоранта кислых почв для повышения плодородия почв Красноярского края. В качестве объекта исследований выбраны нефелиновые шламы (НШ) – отходы глиноземного производства. С применением физико-химических методов анализа и электронной микроскопии определен химический и минералогический состав данных отходов и исследованы их физико-химические, морфологические и токсичные свойства. Отмечено, что НШ, хранящийся на шламовом поле, на 80–85% представляет собой двухкальциевый силикат. Влажность НШ, поступающего из шламохранилища в период отбора проб, находилась в пределах 18,5–31,5%. Плотность НШ – в диапазоне от 2,9 до 3,0 грамм на куб. метр. По данным фазового анализа, НШ представлен в основном ларнитом с небольшой примесью ранкинита. Отмечено также присутствие слабых линий соды и карбонатов кальция. Результаты проведенного анализа показали, что содержание оксида кальция в НШ достигает 55%, что создает высокощелочной рН среды. Это указывает на высокую нейтрализующую способность отходов глиноземного производства. Подтверждена возможность использования кальцийсодержащих отходов глиноземного производства в качестве мелиорантов для раскисления серых лесных почв западных районов Красноярского края.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.kgau.ru/vestnik/2016_2/content/3.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of KrasGAU</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1819-4036</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

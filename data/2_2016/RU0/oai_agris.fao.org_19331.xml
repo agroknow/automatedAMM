@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019331">
+    <dc:title xml:lang="en">Analysis of the causes of hoof diseases of high yielding cows in industrial complex conditions</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Анализ причин возникновения заболеваний копытец у высопродуктивных коров в условиях промышленного комплекса</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Yarovan N.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Smagina T.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hoof diseases</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Oxidative stress</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_11591</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_959</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37481</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The results of bacterial test of pathologic material and life-time diagnostics of hoof diseases of black-and-white Holstein cows, kept in the conditions of one of the biggest agricultural enterprises of the Orel region, are shown. In 2013-2014 115 diseased animals were examined. 97.76% had affected pelvic limbs, while 78.48% had both of them being affected</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">7.25% of cows had affected thoracic limbs. The dominating hoof diseases were dermatitises of the interdigital cleft’s crest (44.6%), pododermatitises (30.51%), purulo-necrotic chancres of the hoof’s plantar surface (14.81%), crown phlegmons (4.81%) and arthritises of the hoof joint (5.71%). F.necrophorum gram-negative threads weren't found in tissue smears from pathological material, but Enterococcus (in 8 samples), Escherichia coli (in 5 ones), Clostridium perfringens (in 7 ones), Staphylococcus (in 10 ones), Pseudomonas aeruginosa (in 6 ones), Fusobacteriales (in 8 ones) were noted. Bacteroides bacteria (B. nodosus, B. melaninogenicus, B. fragilis and B. levii) were found in the material from the affected limbs. According to the results of the biological test and microbiological analysis the diagnosis of necrobacillosis wasn’t determined. Assessment of oxidative and antioxidative status of cows with hoof diseases in comparison with healthy animals (2 groups with 10 animals in each) was done. The results of the research demonstrated the presence of oxidative stress due to disorder of oxidation-reduction reactions and other metabolic diseases. It is likely that the possible reasons of hoof diseases of high-producing cows in the conditions of industrial complexes without pathological microorganism’s exposure is violation of management and feeding conditions that leads to metabolism pathologies and distortion of immunobiochemical status.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Приведены результаты бактериологического анализа патологического материала и прижизненной диагностики заболеваний копытец у черно-пестрых голштинизированных коров, содержащихся в условиях одного из крупных с.-х. предприятий Орловской области. В 2013-2014 гг. было обследовано 115 больных животных. У 97,76% были поражены тазовые конечности, причем у 78,48% - обе</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">у 7,25% коров поражения имелись на грудных конечностях. Доминирующими заболеваниями копытец являлись дерматиты свода межпальцевой щели (44,6%), пододерматиты (30,51%), гнойно-некротические язвы подошвенной поверхности копытец (14,81%), флегмоны венчика (4,81%) и артриты копытцевого сустава (5,71%). В мазках-отпечатках из патологического материала не было обнаружено грамотрицательных нитей F.necrophorum, но были выявлены энтерококки (в 8 пробах), кишечная палочка (в 5), Clostridium perfringens (в 7), стафилококки (в 10), синегнойная палочка (в 6), фузобактерии (в 8). В материале из пораженных конечностей обнаружены бактерии из р. Bacteroides – B. nodosus, B. melaninogenicus, B. fragilis и B. levii. По результатам биопробы и микробиологического анализа диагноз некробактериоз установлен не был. Была проведена оценка оксидантно-антиоксидантного статуса коров с заболеваниями копытец в сравнении со здоровыми животными (на примере 2 гр. по 10 гол.). Результаты исследований показали наличие окислительного стресса, протекающего на фоне нарушений окислительно-восстановительных реакций и других метаболических нарушений. Вероятно, одной из возможных причин возникновения заболеваний копытец у высокопродуктивных коров в условиях промышленных комплексов при отсутствии воздействия патологических микроорганизмов является нарушение условий содержания и кормления, что приводит к патологиям обмена веществ и нарушению иммунобиохимического статуса.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ej.orelsau.ru/vestnik/vestnik-2015-05.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik OrelGAU</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1990-3618</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 5</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

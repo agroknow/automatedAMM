@@ -1,0 +1,91 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19304">
+    <dc:title xml:lang="en">BREEDING AND GENETIC MONITORING OF REPRODUCTION OF PIGS IN INDUSTRIAL TECHNOLOGY</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>СЕЛЕКЦИОННО-ГЕНЕТИЧЕСКИЙ МОНИТОРИНГ ВОСПРОИЗВОДСТВА СВИНЕЙ ПРИ ПРОМЫШЛЕННОЙ ТЕХНОЛОГИИ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Кrasavtsev Yury F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Basonov Оrest А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Коzminskaya Alisa S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Nizhny Novgorod State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Swine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">reproductive performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic inheritance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pregnancy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">monitoring</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">PHENOTYPES</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7555</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3869</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6166</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4911</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5776</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18286/1816-4501-2016-2-136-140</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article is devoted to the problem of breeding and genetic monitoring of reproduction of pigs. There is presented the data of literaturesources and personal observations of the authors. In the article there are discussed the methods of control of reproduction (fertility, pregnancy, fitness), as well as prevention and control of hereditary anomalies. There is justified the prospectivity of use of the method of «guarding» phenotypes for control of pigs genetic burden. The goal of the research is justification and assessment of methods for breeding and genetic monitoring of reproductive qualities in populations of pigs in industrial technology which opens up new possibilities in breeding and genetic assessment of pigs. The research tasks are the assessment of genetic burden of pigs populations, the selection of highly adaptive animals and the control of variability level throughout the industry. The studies were carried out on the basis of the department of obstetrics, zoohygiene and agricultural animals breeding of Nizhny Novgorod state agricultural academy and stud farm JSC «Ilyinogorskoe» in Nizhny Novgorod region in 2012 – 2013. Monitoring of reproductive parameter (prolificacy, milking capacity, weight of the nest to weaning, service-period, gestation, age at first insemination, etc.) was carried out on a database of pedigree and general zootechnical accounting on pig breeds large white, landrace and duroc. In industrial technologyconditions it showed their high standartization (assessment by the variation coefficient– Cv), low heritability (h2 = 0,2 – 0,3) and low repeatability (rn = 0,15 – 0,25). Analysis of the distribution structure of reproductive traits revealed differences in traits development level of sows</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">they are associated with the genotype, number and season of farrowing, technology. Parameters of variability and the nature of traits distribution can be the criteria of compliance assessment of environment to genotype. There are offered the monitoring of fitness parameters (complex of traits of reproduction, growth and development, viability)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">for genetic monitoring of diseases there are offered 12 «guarding» phenotypes.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Статья посвящена проблеме селекционно-генетического мониторинга репродукции свиней. Приводятся данные литературных источников и собственные наблюдения авторов. В статье обсуждаются методы контроля показателей воспроизводства (плодовитость, беременность, фитнес), а так же профилактики и борьбы с наследственными аномалиями.Обоснована перспективность использования метода «сторожевых» фенотипов для контроля генетического груза свиней. Цель исследований – обоснование и оценка методов для селекционно-генетического мониторинга воспроизводительных качеств в популяциях свиней при индустриальной (промышленной) технологии, что открывает новые возможности в селекционно-генетической оценке свиней.Задачи исследования – оценка генетической отягощенности популяций свиней, выделение высокоадаптивных животных и контроль уровня изменчивости в масштабах отрасли.Исследования были выполнены на базе кафедры акушерства, зоогигиены и разведения сельскохозяйственных животных Нижегородской государственной сельскохозяйственной академии и племенного завода ОАО «Ильиногорское» Нижегородской области в 2012 – 2013 годах. Мониторинг показателей воспроизводства (многоплодие, молочность, масса гнезда к отъему, сервис-период, супоросность, возраст при первом осеменении и др.) проводился на базе данных племенного и общезоотехнического учета по породам свиней крупная белая, ландрас и дюрок. В условиях промышленной технологии он показал их высокую стандартизированность (оценка по коэффициенту вариации – Cv), невысокую наследуемость (h2 = 0,2 – 0,3) и низкую повторяемость (rn = 0,15 – 0,25). Анализ формы распределений репродуктивных признаков выявил различия в уровне развития признаков маток</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">они связаны с генотипом, номером и сезоном опороса, технологией. Параметры изменчивости и характер распределения признаков могут быть критериями оценки соответствия среды генотипу.Предложен мониторинг по показателям фитнеса (комплекс признаков репродукции, роста и развития, жизнеспособности)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">для генетического мониторинга болезней предложены 12 «сторожевых» фенотипов.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Krasavtsev.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

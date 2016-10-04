@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019347">
+    <dc:title xml:lang="en">Guarantee the competitiveness of dairy complex in Siberia</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Обеспечить конкурентоспособность молочного комплекса Сибири</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zadkov А.P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">evaluation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">profit</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2736</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6213</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4829</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the examination is the assessment of regional and branch competitiveness of the dairy complex in Siberia, the substantiation of proposals, directed to implementing its potential. Under current economic conditions of great importance is selecting competitive kinds of the agricultural production for separate territories, which would provide the required profitability for agricultural enterprises. For Siberia such is the production of quality milk, which can be obtained here with minimum expenditures. In practice the dairy complex in Siberia does not use its potential, not giving a high income. The examination, conducted with applying the Michael Porter’s 5 forces method , has given a paradoxical result. Having a high rating of nationwide competitiveness, the dairy branch of Siberia loses in competitiveness of the grain branch of the region, and this when outside Siberia the demand for local grain is not significant. As a way out of such a situation, the agricultural producers are invited to develop the own base of milk processing and selling, including the use of opportunities of productive cooperation. Apart from helping in organization of the given measures the state should employ a number of administrative measures, directed to normalization of the situation at the dairy market. In particular, participating in establishment of “price corridors” by concluding appropriate agreements between milk producers and processors. As concerns the competition within the dairy branch in Siberia, agricultural enterprises, which use the technologies traditional for the region for keeping and feeding animals, local cattle breeds have a priority herein. Those enterprises get the milk of high quality having a prime cost by 25-30% lower than at large dairy complexes and mega farms. Developing dairy units will permit the guarantee of maximum employment of the rural population in the region.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Цель исследования - оценка региональной и отраслевой конкурентоспособности молочного комплекса Сибири, обоснование предложений, направленных на практическую реализацию его потенциала. В сложившихся экономических условиях крайне важен выбор конкурентоспособных видов с.-х. производства для отдельных территорий, который обеспечивал бы необходимую рентабельность сельхозпредприятиям. Для Сибири таковым является производство качественного молока, которое здесь можно получить с минимальными затратами. На практике молочный комплекс Сибири не использует свой потенциал, не дает высокого дохода. Исследование, проведенное с применением методики 5 сил Майкла Портера, дало парадоксальный результат. Имея высокий рейтинг конкурентоспособности в масштабах страны, молочная отрасль Сибири проигрывает в конкурентоспособности зерновой отрасли региона, при том, что за пределами Сибири спрос на местное зерно незначителен. В качестве выхода из такого положения сельхозпроизводителям предлагается развивать свою базу переработки и реализации молока, в том числе используя возможности производственной кооперации. Помимо помощи в организации данных мероприятий государству следовало бы применить и ряд административных мер, направленных на нормализацию положения на молочном рынке. В частности, участвовать в установлении "ценовых коридоров" путем заключения соответствующих соглашений между производителями и переработчиками молока. Что касается конкуренции внутри молочной отрасли Сибири, то здесь приоритет имеют сельхозпредприятия, использующие традиционные для региона технологии содержания и кормления животных, местные породы скота. Данные предприятия получают молоко высокого качества при себестоимости на 25-30% ниже, чем на крупных молочных комплексах и мегафермах. Развитие молочных хозяйств позволит обеспечить максимальную занятость сельского населения региона.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vniiesh.ru/documents/document_20738_Zadkov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agribusiness Sector: Economics, Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0235-2443</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

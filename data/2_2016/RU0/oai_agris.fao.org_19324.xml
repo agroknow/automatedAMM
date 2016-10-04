@@ -1,0 +1,58 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019324">
+    <dc:title xml:lang="en">Complex of actions for creation of economic prerequisites for activization of a turn of agricultural grounds</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Комплекс мероприятий по созданию экономических предпосылок для активизации оборота сельскохозяйственных угодий</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Savkin V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Eryomin A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">land markets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agricultural land</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Land distribution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4175</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15735</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37734</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The condition of the market for of lands of agricultural purpose in modern Russia is analyzed and the complex of actions for economic prerequisites creation for activization of farm land rotation is offered. The state has to undertake urgently measures to increase the control not only over intended use of lands and their involvement in an agricultural rotation, but also over agriculture rationality. The international experience shows the active usage of land resources as pledge. Removal of obstacles of pledge transactions development is also needed in Russia. Beside the legislative contradictions settlement, in Russia it is necessary to take measures for expansion of the state support of agrarian business by means of allocating investment support and subsidizing, decrease in interest rates for the credits. It is necessary to focus attention on expediency to increase investment input attractiveness into a complex of incentive measures of different directions. The state participation in the development of infrastructure of the agricultural production markets, donation state food policy, demonopolization of credit, transport and processing infrastructure components, and also taking urgent measures to strengthen the state and municipal control of farm land rotation is necessary.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проанализировано состояние рынка земель с.-х. назначения в современной России, предлагается комплекс мероприятий по созданию экономических предпосылок для активизации оборота с.-х. угодий. Государству необходимо срочно предпринимать меры по усилению контроля не только над целевым использованием земель и их вовлечением в с.-х. оборот, но и над рациональностью земледелия. Мировой опыт свидетельствует об активном использовании земельных ресурсов в качестве залога. Устранение препятствий для развития залоговых операций необходимо и в России. Помимо урегулирования законодательных противоречий, в России необходимо принимать меры по расширению государственной поддержки аграрного бизнеса посредством дотирования и субсидирования, снижения процентных ставок по кредитам. Следует акцентировать внимание на целесообразности повышать привлекательность вложения инвестиций в комплекс поощрительных мер различной направленности. Необходимо участие государства в развитии инфраструктуры рынков с.-х. продукции, дотационная государственная продовольственная политика, демонополизация кредитной, транспортной и перерабатывающей инфраструктурных составляющих, а также срочное принятие мер по усилению государственного и муниципального контроля за оборотом с.-х. угодий.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ej.orelsau.ru/vestnik/vestnik-2015-05.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik OrelGAU</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1990-3618</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 5</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

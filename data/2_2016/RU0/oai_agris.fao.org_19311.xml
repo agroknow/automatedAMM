@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019311">
+    <dc:title xml:lang="en">The effect of wheat sawfly on the ear productivity indices of spring durum wheat in the Ob River forest-steppe of the Altai Region</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Влияние стеблевого хлебного пилильщика на параметры продуктивности колоса яровой твёрдой пшеницы в Приобской лесостепи Алтайского края</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ziborov A.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rozova M.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum durum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">spring crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Grain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spikes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">measure</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Tolerance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7955</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24918</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3346</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24086</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330493</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37740</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Significant losses of wheat yield in the agricultural production of the Altai Region are caused by the negative effect of different pests including wheat stem sawfly which abundance and harmfulness increase year by year. The negative effect is determined both by direct losses of fallen and unthreshed stems and indirect losses caused by decreased grain weight of injured productive shoots. The research results on the study of the effect of wheat stem sawfly on the ear productivity indices of the modern durum wheat varieties widely grown in the Altai Region are discussed. The research was conducted in 2013 and 2015 in the Altai Region. The genotypes were sown in the nursery of competitive variety trails. The studied plants were divided into two groups: inhabited and uninhabited by stem sawfly larvae. The sample number was 20 stems per group. The kernel number per ear, thousand-kernel weight and kernel weight per ear were compared. The study of durum wheat samples revealed a large number of plants inhabited by wheat stem sawfly larvae, 40.8% on the average. The line of the varieties ranked according this index is as following (in ascending order): Altayskiy yantar (31.4%), Aleyskaya (35.4%), Salyut Altaya (38.9%), Omskiy korund (42.7%), Pamyaty Yanchenko (47.0%) and Solnechnaya 573 (48.5%). It was found that the ear productivity of the injured durum wheat plants was 7.2-21.6% was lower than that of the intact plants (on average 0.95 g against 1.12 g), which is largely due to the decreased 1000-kernel weight. There was no significant difference in the ear grain content in the compared groups. The variety Omsky korund was found to be rather tolerant to stem sawfly injury, and it revealed the least decrease of the thousand-kernel weight and ear productivity as compared to the other varieties.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Значительные потери урожая зерна пшеницы в с.-х. производстве Алтайского края связаны с негативным влиянием различных вредителей, в том числе стеблевого хлебного пилильщика, распространённость и вредоносность которого ежегодно увеличиваются. Отрицательный эффект обусловлен как прямыми потерями от упавших и необмолоченных стеблей, так и косвенными – снижением массы зерна повреждённых продуктивных побегов. Представлены результаты исследований по изучению влияния хлебного пилильщика на параметры продуктивности колоса современных сортов твёрдой пшеницы, распространённых в производстве Алтайского края. Исследования проведены в 2013 и 2015 гг. в Алтайском крае. Образцы высевали в питомнике конкурсного сортоиспытания. Анализируемые растения разделяли на две группы: заселённые и не заселённые личинкой хлебного пилильщика. Объем выборки составил 20 стеблей в каждой группе, которые сравнивали между собой по озернённости колоса, массе 1000 зёрен, массе зерна колоса. При изучении образцов твёрдой пшеницы выявлено значительное количество растений, заселённых личинкой хлебного пилильщика, в среднем 40,8%. Ранжированный ряд сортообразцов по этому показателю выглядит следующим образом (в порядке возрастания): Алтайский янтарь (31,4%), Алейская (35,4%), Салют Алтая (38,9%), Омский корунд (42,7%), Памяти Янченко (47,0%), Солнечная 573 (48,5%). Установлено, что продуктивность колоса у поврежденных пилильщиком растений сортов твёрдой пшеницы на 7,2-21,6% ниже, чем у неповреждённых (в среднем 0,95 г против 1,12 г), что, главным образом, связано со снижением массы 1000 зёрен. Существенных отличий по озернённости колосьев в контрастных группах не выявлено. Относительную толерантность к повреждению пилильщиком проявил сорт Омский корунд, характеризующийся минимальным в наборе снижением крупности зерна и продуктивности колоса.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.asau.ru/vestnik/2016/4/011-014.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of Altai State Agricultural University</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1996-4277</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

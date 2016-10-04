@@ -1,0 +1,115 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019209">
+    <dc:title xml:lang="en">Condition of grain market of CIS member-counties</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Состояние рынка зерна государств–участников СНГ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Altukhov A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Markets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Grain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">European Union</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Exports</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">imports</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">processed products</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Division of labour</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">production</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Associations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4626</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3346</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34779</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2761</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3815</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15742</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2345</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6200</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37955</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The state of grain economy and grain market has been considered in the CIS and Europe-Asia economic union, which is positioned as a new and closer stage of joining its countries-members. There is determined influence on the grain trade between countries by internal and external factors. The role of Russia is shown as the leader in integrating processes at the economic space of the CIS and forming the common grain market, developing the internal trade of grain and products of its processing. There are revealed reasons of the low effectiveness in functioning of the common grain market and export operations with grain and products of its processing. There are proposed measures for mitigating negative trends and liquidating ‘narrow’ places in the grain trade at the economic space of the CIS as a whole and between countries-members of Europe-Asia economic union. The main measures must include: elaborating the strategy of development in the agroindustrial production of EAEU and substantiating the uniform pattern of territorial labor division in the grain production</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">elaborating the long-term program for developing the common grain market of EAEU with putting forward in it priority kinds of grain, joint measures for over national regulation of the grain market, creating interregional and interstate grain clusters</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">forming interstate mechanisms for stimulating the development of grain production with the aims of increasing the internal consumption and creating the export potential, preventing the essential deformation of trade relations between countries-participants</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">organizing the grain trade between countries-participants of EAEU via the uniform agrarian exchange with the status of interstate one</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">essential improving the informational guarantee for all countries-participants in the grain market of EAEU on the basis of creating the full value integrated subsystem «Common grain market».</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Рассмотрено состояние зернового хозяйства и рынка зерна в СНГ и Евразийском экономическом союзе, который позиционируется как новый и более тесный этап объединения входящих в него стран-участниц. Определено влияние на зерновую торговлю между странами внутренних и внешних факторов. Показана роль России как лидера в интеграционных процессах на экономическом пространстве СНГ и формировании общего зернового рынка, развитии внутренней торговли зерном и продуктами его переработки. Вскрыты причины низкой эффективности функционирования общего зернового рынка и экспортных операций с зерном и продуктами его переработки. Предложены меры по смягчению негативных тенденций и ликвидации узких мест в зерновой торговле на экономическом пространстве СНГ в целом и между странами–участницами Евразийского экономического союза. К основным мерам следует отнести: разработку стратегии развития агропромышленного производства ЕАЭС и обоснование единой схемы территориального разделения труда в зерновом производстве</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">разработку долгосрочной программы развития общего зернового рынка ЕАЭС с выделением в ней приоритетных видов зерна, совместных мероприятий по наднациональному регулированию зернового рынка, созданию межрегиональных и межгосударственных зерновых кластеров</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">формирование межгосударственных механизмов стимулирования развития зернового производства в целях увеличения внутреннего потребления и создания экспортного потенциала, предотвращения существенной деформации торговых отношений между странами-участницами</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">организацию зерновой торговли между странами–участницами ЕАЭС через единую аграрную биржу со статусом межгосударственной</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">существенное улучшение информационного обеспечения всех стран–участниц зернового рынка ЕАЭС на основе создания полноценной интегрированной подсистемы "Общий зерновой рынок".</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vniiesh.ru/documents/document_20729_Altukhov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agribusiness Sector: Economics, Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0235-2443</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

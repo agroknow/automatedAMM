@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19364">
+    <dc:title xml:lang="en">TO THE ANALYSIS OF KINEMATICS OF ROTARY CONICAL SHAPE WORKING BODY</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>К АНАЛИЗУ КИНЕМАТИКИ РОТАЦИОННОГО РАБОЧЕГО ОРГАНА КОНУСНОЙ ФОРМЫ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Мukhametshin Ilshat S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Valiev A.R.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Kazan state agrarian university</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">machinery industry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farm equipment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">technology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">technical properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4497</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25753</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7644</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2572</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18286/1816-4501-2016-2-179-182</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">One of necessary conditions for creation of effective working bodies, providing high quality tillage with low energy intensity of process is the search for optimal geometric and kinematic parameters of working body of tillage tools. This problem is successfully solved for working bodies, performing simple flat movement. At the same time, a significant share of working bodies of agricultural machinery has relatively complicated working organs performing rotation around its axis along with transportable rectilinear movement. Thus, many rotary working bodies rotate around non-intersecting axes and move progressively in a direction that neither coincide nor intersect with instantaneous axis of rotation. Despite the large number of papers on the kinematics of rotary working bodies, derived laws of motion are specific cases for each of discussed types of working bodies. Thus, in many cases, movement process of working surface points remains analytically unexplored. One of the promising designs of working bodies for deep tillage of soil is rotary conical shape body. However, for its efficient operation it is necessary to establish optimal kinematic and geometric parameters. For derivation of motion equation of an arbitrary point of working cone shape body it is necessary to use a Cartesian coordinate system. Basing on known general motion equations of an arbitrary point of rotary bodies and substituting the appropriate values of geometric parameters that define the shape of working body, we will get a system of equations whereby it is possible to determine position of any point of working body when working.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Одним из необходимых условий создания эффективных рабочих органов, обеспечивающих высокое качество обработки почвы при возможно более низкой энергоемкости процесса, является поиск оптимальных геометрических и кинематических параметров рабочего органа почвообрабатывающего орудия. Данная задача успешно решается для рабочих органов, совершающих простое плоское движение. В то же время, значительная доля рабочих органов сельскохозяйственных машин имеет относительно сложные рабочие органы, совершающие наряду с переносным прямолинейным движением вращательное вокруг своей оси. Так, многие ротационные рабочие органы вращаются вокруг непересекающихся осей и перемещаются поступательно по направлению, не совпадающему и не пересекающемуся с мгновенной осью вращения. Несмотря на большое количество работ, посвященных кинематике движения ротационных рабочих органов, полученные законы движения являются частными случаями для каждого из рассмотренных видов рабочих органов. Таким образом, во многих случаях, процесс движения точек рабочей поверхности остается аналитически не исследованным. Одной из перспективных конструкция рабочих органов для глубокого рыхления почвы является ротационный орган конусной формы. Однако для его эффективной работы необходимо установить оптимальные кинематические и геометрические параметры. Для вывода уравнения движения произвольной точки рабочего органа конусной формы необходимо использовать декартовую систему координат. Основываясь на известных общих уравнениях движения произвольной точки движения ротационных органов и подставляя соответствующие значения геометрических параметров, определяющих форму рабочего органа, получим систему уравнений, с помощью которых можно определить положение любой точки рабочего органа при его работе.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Mukhametshin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

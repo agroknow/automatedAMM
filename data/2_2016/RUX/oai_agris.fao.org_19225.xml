@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19225">
+    <dc:title xml:lang="en">INFLUENCE OF MINERAL FERTILIZERS, BIOPREPARATIONS AND MANURE AFTEREFFECT ON BIOLOGICAL PROPERTIES OF SOIL AND YIELDING ABILITY OF SPRING WHEAT</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ВЛИЯНИЕ МИНЕРАЛЬНЫХ УДОБРЕНИЙ</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>БИОПРЕПАРАТОВ И ПОСЛЕДЕЙСТВИЯ НАВОЗА НА БИОЛОГИЧЕСКИЕ СВОЙСТВА ПОЧВЫ И УРОЖАЙНОСТЬ ЯРОВОЙ ПШЕНИЦЫ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Nikitin Sergey N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zakharov Sergey A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk SRIA</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spring wheat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">inorganic fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">organic fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7337</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27870</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4592</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2 tables, 2 graphs, 16 ref. DOI: 10.18286/1816-4501-2016-2-37-42</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the work there was performed comparative effectiveness of mineral and organic fertilizers in case of their complex use in combination with biopreparations on the yield formation of spring wheat. The studies established that the largest percentage of linen tissue decomposition was observed on the background of manure aftereffect 20 t/ha in combination with various biopreparations, where this parameter ranged from 44,5 to 48,3%. The yielding ability of spring wheat is directly dependent on the microbiological activity of leached chernozem. Combination of manure aftereffect and presowing processing of seeds by biopreparations allowed to form high yielding abilitythe of spring wheat in this experiment, which ranged between 3,6-4,1 t/ha, which is higher than the absolute control by 0,32-0,87 t/ha.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В работе проведена сравнительная эффективность минеральных и органических удобрений при комплексном их применении в сочетании с биопрепаратами на формирование урожая яровой пшеницы. Исследованиями установлено, что наибольший процент разложения льняной ткани наблюдался на фоне последействия навоза 20 т/га в сочетании с различными биопрепаратами, где этот показатель варьировал от 44,5 до 48,3%. Урожайность яровой пшеницы находится в прямой зависимости от микробиологической активности чернозема выщелоченного. Сочетание последействия навоза с предпосевной обработкой семян биопрепаратами позволило сформировать высокую в данном опыте урожайность яровой пшеницы, которая варьировала в пределах 3,6-4,1 т/га, что выше абсолютного контроля на 0,32-0,87 т/га.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Nikitin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

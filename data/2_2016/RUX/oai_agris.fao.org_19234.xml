@@ -1,0 +1,151 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19234">
+    <dc:title xml:lang="en">FORMATION OF CROPS AND BARLEY YIELDING ABILITY DEPENDING ON APPLICATION OF CHAFF AND BIOLOGICAL PREPARATION BAIKAL EM-1 IN SYSTEM OF FERTILIZERS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ФОРМИРОВАНИЕ ПОСЕВОВ И УРОЖАЙНОСТИ ЯЧМЕНЯ В ЗАВИСИМОСТИ ОТ ПРИМЕНЕНИЯ В СИСТЕМЕ УДОБРЕНИЯ СОЛОМЫ И БИОЛОГИЧЕСКОГО ПРЕПАРАТА БАЙКАЛ ЭМ-1</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Khisamova Каdriya Ch.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Yashin E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Кulikova Аlevtina Kh.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>FSBI «Station of agrochemical service «Ulyanovskayaя»»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F08</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hordeum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">straw</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Photosynthesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">leaf area</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3660</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2867c82c5e5a</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7441</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5812</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16110</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Tables, 3 graphs, 11 ref. DOI: 10.18286/1816-4501-2016-2-65-73</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The work is based on three-year field studies conducted  on the basis of stationary experiment of the department of soil science, agrochemistry and agroecology of the FSBEI HE Ulyanovsk SAA, in 5-field grain-herb crop rotation, green-manured fallow– winter wheat – millet – spring wheat – barley. The scheme of experiment included 12 variants of fertilizers systems in barley crops: 1. without fertilizer (control)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">2.Chaff of predecessor</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3. Chaff + 10 kg N/ t of chaff</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4. Chaff + biopreparation (Baikal EM-1)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">5. Chaff + 10 kg N/t of chaff + biopreparation</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6. Biopreparation</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7.N59Р39К36</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">8.N59Р39К36 + chaff</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">9. N59Р39К36 + chaff +10 kg N/ t of chaff</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10.N59Р39К36 + chaff + biopreparation</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">11. N59Р39К36 + chaff + 10 kg N/ t of chaff + biopreparation</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">12. N59Р39К36 + biopreparation. The object of study – barley (Preriya variety). We used azophoska mineral fertilizer (by potassium and phosphorus, demand for which is the smallest), to fill the lack of nitrogen the calurea was introduced at presowing cultivation. As the organic fertilizer the chaff of previous crop rotation was sealed into the soil (spring wheat). In the autumn chaff was processed by Baikal EM-1 biopreparation. To improve activity of microorganisms, additional nitrogen in the dose of 10 kg/t of chaff in a form of calurea was introduced to soil. It was experimentally proven that system of fertilizers with the use of chaff in combination with biopreparation and mineral fertilizers have positive effect on formation of leaf surface of barley plants (average for vegetation period 2013-2015, it has increased by 1,1–1,3 times in relation to the control, dry matter accumulation – by 0,1–0,7 t/ha (2-10 %), on the background of fertilizers – by 0,3–2,0 t/ha (4–25 %). Productivity of photosynthesis in variants with introduction of chaff , biopreparation and mineral fertilizers has increased by 25-30 %. The increase in yielding ability of barley grain was established when using chaff and biopreparation Baikal EM-1in the system of fertilizers (from 2,16 in the control to 3,30 t/ha). The highest yielding ability of barley was formed in the variant with joint use of chaff, nitrogen and biopreparation on the background of mineral fertilizers and amounted 3,30 t/ha.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Работа базируется на трехлетних полевых исследованиях, проведенных на базе стационарного опыта кафедры почвоведения, агрохимии и агроэкологии ФГБОУ ВО Ульяновской ГСХА, в 5-польном зернотравянном севообороте: пар сидеральный – озимая пшеница – просо – яровая пшеница – ячмень. Схема опыта предусматривала 12 вариантов систем удобрения в посевах ячменя: 1. Без удобрений (контроль)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2.Солома предшественника</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3. Солома + 10 кг N/ т соломы</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4. Солома + биопрепарат (Байкал ЭМ-1)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">5.Солома + 10 кг N/т соломы + биопрепарат</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">6.Биопрепарат</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">7.N59Р39К36</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">8.N59Р39К36 + солома</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">9. N59Р39К36 + солома+10 кг N/ т соломы</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">10.N59Р39К36 + солома + биопрепарат</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">11. N59Р39К36 + солома + 10 кг N/т соломы + биопрепарат</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">12. N59Р39К36 + биопрепарат. Объект исследования – ячмень (сорт Прерия). Из минеральных удобрений использовали азофоску (по калию и фосфору, потребность в которых наименьшая), для восполнения недостатка азота под предпосевную культивацию вносили мочевину. В качестве органического удобрения почву заделывалась солома предшествующей культуры севооборота (яровая пшеница). Солому осенью обрабатывали биопрепаратом Байкал ЭМ-1. Для улучшения деятельности микроорганизмов в почву был внесен дополнительный азот в дозе 10 кг/т соломы в виде мочевины. Экспериментально доказано положительное влияние систем удобрения с применением соломы в сочетании с биопрепаратом и минеральными удобрениями на формирование листовой поверхности растений ячменя (в среднем за вегетацию 2013–2015 гг. она увеличилась в 1,1–1,3 раза относительно контроля, накопление сухого вещества – на 0,1–0,7 т/га (2–10 %), на фоне удобрений – на 0,3–2,0 т/га (4–25 %). Продуктивность фотосинтеза на вариантах с внесением соломы, биопрепарата и минеральных удобрений увеличилась на 25–30 %. Установлено повышение урожайности зерна ячменя при применении в системе удобрения соломы и биопрепарата Байкал ЭМ-1 (от 2,16 на контроле до 3,30 т/га). Наиболее высокая урожайность ячменя сформировалась на варианте с совместным применением соломы, азота и биопрепарата на фоне минеральных удобрений и составила 3,30 т/га.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Khisamova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

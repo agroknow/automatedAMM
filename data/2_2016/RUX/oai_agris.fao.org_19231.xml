@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19231">
+    <dc:title xml:lang="en">MOISTURE AVAILABILITY AND PRODUCTIVITY OF CROP ROTATION WITH SPRING RAPESEED IN CONDITIONS OF NORTHERN KAZAKHSTAN</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ВЛАГООБЕСПЕЧЕННОСТЬ И ПРОДУКТИВНОСТЬ СЕВООБОРОТОВ С РАПСОМ ЯРОВЫМ В УСЛОВИЯХ СЕВЕРНОГО КАЗАХСТАНА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Тulkubayeva Saniya А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vasin Vasily G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Samara State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F08</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Brassica napus</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop rotation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil water content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rapeseed</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1066</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6662</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7208</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25499</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>7 tables, 7 ref. DOI: 10.18286/1816-4501-2016-2-57-64</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Aim of the research is the study the moisture availability and productivity of spring rapeseed for oilseeds in different crop rotations, and its role as a predecessor for spring wheat. Experimental studies were carried out in Kostanay scientific research institute of agriculture (Republic Kazakhstan). In the experiment there were evaluated predecessors of spring rapeseed in field crop rotations with different structures and a set ofagricultural crops (grains, grain-fodder, oil-bearing). On average during 2009-2011 years of studies it was established that the crops of spring rapeseed for oilseeds on pure herbicidal fallow are better provided with productive moisture during spring period. Moisture reserves here (164,8 mm) reached minimum soil water capacity. On the second culture after a fallow they were up to 124,2 mm (or 75,4% of the first culture), the third – 124,5 mm (75,5% of the first). The influence of fallow fields on soil moisture availability emerged on the first culture. During the summer fallowing period in the field of pure (herbicidal) fallow the content of productive moisture in a meter layer of soil in 2011 increased by only 12,3 mm, or by 18,6%. For the period of 2009-2011, the highest yielding ability of grain and oil-bearing cultures was obtained in 4-field diversificated crop rotation – 19,0 C/ha. Spring rapeseed for oilseeds has proved himself as a good predecessor for wheat, providing a yield of 21,1 C/ha. For the rapeseed itself the best predecessor was herbicidal fallow – 15,1 C/ha. The pea in 4-field diversificated crop rotation, the highest yield was obtained in favourable 2009 and 2011 – 23,9 and 21,8 C/ha, respectively. On average for 3 years the yielding ability has amounted to 20,1 C/ha. The sunflower in 5-field grain-fallow-intertillage crop rotation also demonstrated a good yield – 18,7 C/ha. The average yielding ability of oat during the period of 2009-2011 was 23.3 C/ha.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Целью исследований является изучение влагообеспеченности и продуктивности ярового рапса на маслосемена в различных севооборотах, и его роли как предшественника для яровой пшеницы. Экспериментальные исследования проводились в Костанайском научно-исследовательском институте сельского хозяйства (Республика Казахстан). В опыте оценивались предшественники ярового рапса в полевых севооборотах с различной структурой и набором сельскохозяйственных культур (зерновые, зернофуражные, масличные). В среднем за 2009-2011 годы исследований установлено, что лучше обеспечены продуктивной влагой в весенний период посевы ярового рапса на маслосемена по чистому гербицидному пару. Запасы влаги здесь (164,8 мм) достигали наименьшей влагоемкости почвы (НВ). На второй культуре после пара они составляли уже 124,2 мм (или 75,4% от первой культуры), на третьей 124,5 мм (75,5% от первой). Влияние парового поля на влагообеспеченность почвы проявилось на первой культуре. За летний период парования в поле чистого (гербицидного) пара содержание продуктивной влаги в метровом слое почвы в 2011 году увеличилось всего на 12,3 мм, или на 18,6%. За 2009-2011 годы самая высокая урожайность зерновых и масличных культур получена в 4-польном плодосменном севообороте – 19,0 ц/га. Яровой рапс на маслосемена проявил себя как хороший предшественник для пшеницы, обеспечив урожайность 21,1 ц/га. Для самого рапса лучшим предшественником оказался гербицидный пар – 15,1 ц/га. У гороха в 4-польном плодосменном севообороте высокий урожай получен в благоприятные 2009 и 2011 годы – 23,9 и 21,8 ц/га соответственно. В среднем за 3 года урожайность составила 20,1 ц/га. Подсолнечник также продемонстрировал в 5-польном зернопаропропашном севообороте хороший урожай – 18,7 ц/га. У овса средняя урожайность за 2009-2011 годы составила 23,3 ц/га.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Tulkubayeva.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

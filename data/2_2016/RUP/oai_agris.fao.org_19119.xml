@@ -1,0 +1,44 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P19119">
+    <dc:title xml:lang="ru">ЧУВСТВИТЕЛЬНОСТЬ К АНТИМИКОТИЧЕСКИМ ПРЕПАРАТАМ ДРОЖЖЕВЫХ И ПЛЕСНЕВЫХ ГРИБОВ, ВЫДЕЛЕННЫХ У СВИНЕЙ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>SENSITIVITY TO ANTIFUNGAL PREPARATIONS OF YEAST AND FUNGI ISOLATED FROM PIGS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vilkova  E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ilyina  N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hygiene</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3739</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: sensitivity, intestines, resistance, Candida spp., fungi of the genus Aspergillus spp., fungi of the genus Mucor spp</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье рассмотрен видовой состав дрожжевых и плесневых грибов, выделенных из испражнений поросят. Методом диффузии в агаре с использованием бумажных дисков определена чувствительность микроскопических грибов к антимикотическим препаратам. Установлено, что резистентность противогрибковому препарату амфотерицина В, у изученных плесневых и дрожжевых грибов, кроме
+Сandida krusei выявлено не было.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article considered the species composition of yeasts and molds, isolated from the faeces of pigs. The agar diffusion method, using paper discs to determine the sensitivity of microscopic fungi to antimycotic drugs is described. It was found that the resistance of antifungal drug amphotericin B, have studied molds and yeast, in addition to Candida krusei have been identified.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USN_2016_7_4_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№7 (part 4), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

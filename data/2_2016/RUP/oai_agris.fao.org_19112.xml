@@ -1,0 +1,52 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P19112">
+    <dc:title xml:lang="ru">СОЗДАНИЕ МЕТОДА ПЕТЛЕВОЙ ИЗОТЕРМИЧЕСКОЙ АМПЛИФИКАЦИИ ДЛЯ ИССЛЕДОВАНИЯ ПОДВИДА ПАТОГЕННЫХ МИКОБАКТЕРИЙ (MAP) У КОРОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>CREATING A METHOD OF ISOTHERMAL AMPLIFICATION LOOP FOR RESEARCH SUBSPECIES PATHOGENIC MYCOBACTERIA (MAP) IN COWS</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hu  Binhong</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Chen  Kuo</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zhou  Weiwei</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pest control</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5726</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: subspecies pathogenic mycobacteria (MAP); isothermal amplification loop; test</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Используя исследования технологии петлевой изотермической амплификации, мы намереваемся из MAP последовательности гена IS900, как целевого гена, сконструировать специфический праймер, создать MAP особенный метод исследования петлевой изотермической амплификации. За счѐт улучшения условий реакции, результаты исследования показали, что созданный метод петлевой изотермической амплификации обладает отличной специфичностью, самый низкий показатель 0,53 пг</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">не имеет перекрѐстных реакции с другими патогенами. Соответствие теста клинической пробы с отраслевыми стандартами 100%. Метод тестирования петлевой изотермической амплификации может быть использован для стандартного карантина MAP.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Using the research loop isothermal amplification technology, we aim of the MAP sequence IS900 gene as a target gene construct specific primer to create a special method of MAP study isothermal amplification loop. Due to the improvement of the reaction conditions, the results showed that the established method of isothermal amplification loop has excellent specificity, the lowest 0.53 m</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">It does not cross-react with other pathogens. Compliance with clinical trial test with the industry standards to 100% is given. Test Method loop isothermal amplification can be used for MAP standard quarantine.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USNO_2016_7_5_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.№7 (part 5), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

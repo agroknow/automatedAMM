@@ -1,0 +1,64 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19252">
+    <dc:title xml:lang="en">GAMMA-GLUTAMYL TRANSFERASE IN DUODENUM TISSUES OF INFANT RABBITS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ГАММА-ГЛУТАМИЛТРАНСФЕРАЗА В ТКАНЯХ ДВЕНАДЦАТИПЕРСТНОЙ КИШКИ У КРОЛЬЧАТ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ignatyev N.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Теrеntyeva Маya G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Chuvash state agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lagomorphs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Enzymes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">animal nutrition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">duodenum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4156</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2603</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27925</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10486</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18286/1816-4501-2016-2-101-105</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">It was established that during the first days of infant rabbits life the physiological role of gamma-glutamyl transferase in tissues of mucous layer of mucous membrane of duodenum is high. The intensity of metabolic processes associated with activity of gamma-glutamyl transferase in tissues of mucous layer is slowing down since twelve days to two-month age of infant rabbits. By three-month age of rabbits, the activity of gamma-glutamyl transferase in mucous layer tissues of studied parts of bowel rises again, and the value of enzyme in metabolic processes in this layer of bowel increases. The activity of enzyme in muscle layer of proximal and medial parts of bowel during the first six, twelve days of infant rabbits life is relatively low and approximately equal. With the age it increases and during the period between twelve and eighteen days of infant rabbits life in tissues of proximal part, between eighteen and forty-five days of rabbits life in tissues of medial part is determined by maximum values. The activity of gamma-glutamyl transferase is revealed  in minimal, relatively equal values since the age of twenty-four days in muscle layer tissues of proximal part, since the age of two months – in muscle layer tissues of medial part. The activity of enzyme in tissues of muscle layer of this part of bowel is relatively high in rabbits during the first six days of their lives, moderate – from twelve to forty-five days old and then again relatively high since the age of two months. Age-related changes of gamma-glutamyl transferase activity occur by phases. In tissues of mucous and muscular layers, it changes more intensively during the first, the third phase of milk and during the second phase a plant-based feeding. The activity of gamma-glutamyl transferase stabilizes in tissues of mucous layer of proximal, medial and distal parts since the age of three-months, and muscle layer – in tissues of proximal part since 1 month, medial and distal parts – since two-months old.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Установлено, что физиологическая роль гамма-глутамилтрансферазы в течение первых суток жизни крольчат в тканях слизистого слоя слизистой оболочки двенадцатиперстной кишки высокая. Интенсивность обменных процессов, связанных с активностью гамма-глутамилтрансферазав тканях слизистого слоя с двенадцатисуточного по двухмесячный возраст крольчат, замедляются. К трехмесячному возрасту крольчат активност гамма-глутамилтрансферазы в тканях слизистого слоя изучаемых частей кишки вновь повышается и значение фермента в обменных процессах в этом слое кишки, увеличивается. Активность фермента в тканях мышечного слоя проксимальной и медиальной частей кишки в первые шесть, двенадцать суток жизни крольчат относительно низкая и примерно равная. С возрастом она повышается и в течение с двенадцати по восемнадцати суток жизни крольчат в тканях проксимальной части, в течение с восемнадцати по сорока пяти суточный возраст крольчат в тканях медиальной части определяется максимальными величинами. С двадцати четырех суточного возраста крольчат в тканях мышечного слоя проксимальной части, с двухмесячного возраста в тканях мышечного слоя медиальной части активность гамма-глутамилтрансферазы выявляется минимальными, относительно равными величинами. Активность фермента в тканях мышечного слоя этой части кишки относительно высокая у крольчат в течение первых шести суток их жизни, умеренная с двенадцати суточного по сорока пяти суточный возраст и снова относительно высокая с двухмесячного возраста. Возрастные изменения активности гамма-глутамилтрансферазы происходит по фазно. В тканях слизистого и мышечного слоев она более интенсивно изменяется в первую, третью фазу молочного и во вторую фазу растительного питания. В тканях слизистого и мышечного слоев она более интенсивно изменяется в первую, третью фазу молочного и во вторую фазу растительного питания. Активность гамма-глутамилтрансферазы стабилизируется в тканях слизистого слоя проксимальной, медиальной и дистальной частей с трехмесячного, а мышечного слоя- в тканях проксимальной части с месячного, а медиальной и дистальной частей – с двухмесячного возраста.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Ignatyev.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

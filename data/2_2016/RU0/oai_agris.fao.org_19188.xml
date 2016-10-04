@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019188">
+    <dc:title xml:lang="en">Adaptiveness of productivity and photosynthesis in buckwheat (Fagopyrum esculentum Moench) landraces and varieties produced at different periods</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Адаптивный потенциал фотосинтеза и продукционного процесса у местных форм и сортообразцов гречихи (Fagopyrum esculentum Moench) разных периодов селекции</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Amelin A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Fesenko A.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Chekalin E.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zaikin V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fagopyrum esculentum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant breeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Adaptability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">measure</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Adaptability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Transpiration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2777</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5956</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35024</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330493</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35024</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7871</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We studied the norm of reaction to environment changes in buckwheat (Fagopyrum esculentum Moench) cultivars and landraces as reflecting plant adaptation potential for photosynthesis and yield production to be further involved in breeding. A total of 11 buckwheat cultivars of which Kalininskaya, Bogatyr’ and Shatilovskaya 5 have been developed in 1930-1970, and Chatyr-Tay, Batyr, Devyatka, Dizain, Demetra, Dikul’ and Bashkirskaya krasnostebel’naya are the modern cultivars, together with landraces k-406 and k-1709 (VIR collection, St. Petersburg) were investigated. In dry 2010 the seed production in modern cultivars was not reliably different from that in landraces and old cultivars, while in 2011-2013 at more favorable water supply and temperature it was on average 67.5% higher. When drought occurred during the seed filling phase the photosynthetic activity in leaves decreased on average by 32.1%, dry mass of the aboveground parts and seeds was lower by 46.7% and 67.5%, respectively, compared to those under favorable conditions in 2011-2013. At soil moisture of 30% of full capacity the activity of photosynthesis in buckwheat plant leaves was on average 4.4 times less, and seed production was 41.8% less compared to the optimal moistening. At that, the losses were significantly higher in modern cultivars, e.g. in the k-1709 plants a 66.1% decrease was found compared to 78.8% in Dikul’ and Dozhdik plants. Thus, the obtained data suggests a low adaptive potential of modern buckwheat varieties. So, we propose to improve the seed formation homeostasis in buckwheat plants.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">У сортообразцов гречихи (Fagopyrum esculentum Moench) разных периодов селекции изучали норму реакции на изменение условий произрастания, отражающую способность растений адаптировать процессы фотосинтеза и формирования урожая к изменению условий произрастания для последующего использования этих данных в селекции культуры на повышение урожайности. В работе были использованы 13 сортообразцов гречихи, условно разделенных на 3 группы в зависимости от характера и срока селекции: местные (к-406, к-1709, коллекция ВИР, г. Санкт-Петербург), полученные селекционерами в 1930-1970-х годах (Калининская, Богатырь и Шатиловская 5) и современные сорта (Чатыр-Тау, Батыр, Девятка, Дизайн, Деметра, Дождик, Дикуль и Башкирская красностебельная). В засушливом 2010 г. cовременные сорта по семенной продуктивности достоверно не отличались от местных и старых сортов, тогда как в сравнительно благоприятные по температурному и водному режиму 2011-2013 гг. превышение по анализируемому показателю составило в среднем 67,5%. В засуху в фазу налива семян интенсивность фотосинтеза в листьях была снижена в среднем на 32,1%, сухая масса надземных органов - на 46,7%, а масса семян - на 67,5%, по сравнению с показателями в благоприятные по температурному режиму и увлажнению 2011-2013 гг. При влажности почвы 30% от полной влагоемкости у растений гречихи интенсивность фотосинтеза листьев снижалась в среднем в 4,4 раза, а продуктивность - на 41,8%, по сравнению с показателями в варианте с оптимальным увлажнением. При этом более значимое уменьшение обоих показателей отмечали скорее у современных сортов: если у местного сортообразца к-1709 интенсивность фотосинтеза уменьшилась на 66,1%, то у сортов Дикуль и Дождик - в среднем на 78,8%. Полученные данные указывают на низкий адаптивный потенциал современных сортов гречихи. Предлагается изменить принципы селекции культуры, направив ее на повышение гомеостаза плодообразования посредством отбора автогамных форм и создания самоопыляющихся сортов гречихи. (Табл. 2. Ил. 3. Библ. 45)</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.agrobiology.ru/articles/1-2016amelin-rus.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agricultural Biology</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0131-6397</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

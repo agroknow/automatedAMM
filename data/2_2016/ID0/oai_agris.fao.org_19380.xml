@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016019380">
+    <dc:title xml:lang="id">Pengembangan metoda pengukuran kemampuan daur ulang kertas</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Development of paper recyclability determination method.</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hidayat T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Balai Besar Pulp dan Kertas</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2009-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Paper</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">recycling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">pulp</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5548</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6478</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6364</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4788</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The increasing of using paper raw material from recycled paper needs paper recyclability determination method. Until this research was done,· there were no national or international standards for this method. The criterion of paper recyclability is determined as the ability of redispersion paper in water. Thus, we need to know the determination steps and the interpretation of the result. In the development of this method, the determination method based on the number of undefibered part of paper in dispersion process. This can be indicated by the formation changing during refining process. The method then tried to apply for corrugated board (CB) grade A and Z. The result of trial application concluded that paper could be recycled if there was a sharp area in the beginning of refining at formation curve as the function of formation value from refining time. The quality of the paper and waste paper could be observed at two factors, the slope of sharp area and the value of the flat area of the curve. The descending recyclability ratings of the observed samples were CB grade A, sorted white ledger, coated CB, and CB grade Z.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Berita Selulosa</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0005-9145</ags:citationIdentifier>
+      <ags:citationNumber>v.44/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

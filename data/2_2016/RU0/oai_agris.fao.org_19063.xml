@@ -1,0 +1,70 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019063">
+    <dc:title xml:lang="en">Social-economic development of agroindustrial production in Siberian federal district</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Социально-экономическое развитие агропромышленного производства Сибирского федерального округа</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pershukevich P.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tyu L.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Afanasiev Ye.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Golovatyuk S.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E21</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">production location</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Production specialization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agroindustry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6205</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7279</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28831</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">There were revealed the tendencies of developing agricultural production in the regions of Siberia, as well as self-production of population with foods in the . Concentrated in the region are 23.9% of country agricultural lands, 19.4 - of arable lands, 30.8% of natural green lands. Per capita of the population fall 1.2 ha of arable lands, which is 50% greater, than on average in the country, but per conditional cattle head (without pigs and poultry) 4 ha of hay fields and pastures. The conducted analysis convincingly testifies to significant opportunities of the region in growing the production of agricultural goods. At present the Siberian federal district produces 15.4% of grain, 18.2% - of potato, 11.4% of vegetables, 13.9% - of meat in slaughter mass, 17.6% - of milk and 14.5% of eggs. For further growing the production and raising the efficiency of agricultural goods, it is suggested improving the structure of sown areas. Taking into account that the mixed economy has been formed in the district, in average term perspective for each type of management, it is suggested to solve various tasks: for individual subsidiary farms - forming the efficient system of purchase-sale cooperation</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">for large and medium agricultural commodity producers - modernizing and innovative developing the production. The mechanism for using limited investment resources must be formed depending on the type of agrarian structures, which predominate in that or other region. - It is purposeful to form zones of large scale production of goods for interregional exchange, to elaborate the whole Russian pattern of development and location of agroindustrial production.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Выявляли тенденции развития с.х. производства в регионах Сибири, а также самообеспечения населения в регионах продуктами питания. В регионе сосредоточено 23,9% сельхозугодий страны, 19,4 - пашни, 30,8% естественных кормовых угодий. На душу населения приходится 1,2 га пашни, что на 50% больше, чем в среднем по стране, а на 1 условную голову скота (без свиней и птицы) естественных сенокосов и пастбищ - 4 га. Проведенный анализ убедительно свидетельствует о значительных возможностях региона в наращивании производства сельхозпродукции. Ныне Сибирский федеральный округ производит 15,4% зерна, 18,2 - картофеля, 11,4 овощей, 13,9 - мяса в убойной массе, 17,6 - молока и 14,5% яиц. Для дальнейшего наращивания производства и повышения эффективности сельхозпродукции предлагается совершенствовать структуру посевных площадей. Учитывая, что в округе сформировалась многоукладная сельская экономика, в среднесрочной перспективе для каждого типа хозяйствования предлагается решать различные задачи: для ЛПХ - формирование эффективной системы закупочно-сбытовой кооперации</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">для крупных и средних сельхозтоваропроизводителей - модернизация и инновационное развитие производства. Механизм использования ограниченных инвестиционных ресурсов должен формироваться в зависимости от типа аграрных структур, преобладающих в том или ином регионе. Целесообразно сформировать зоны крупномасштабного производства продуктов для межрегионального обмена, разработать общероссийскую схему развития и размещения агропромышленного производства.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vniiesh.ru/documents/document_20723_Pershukevich.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agribusiness Sector: Economics, Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0235-2443</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

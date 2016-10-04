@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P19160">
+    <dc:title xml:lang="ru">ПРОГНОЗ ОБЪЕМОВ ИМПОРТОЗАМЕЩЕНИЯ МЯСА И МЯСОПРОДУКТОВ ПО КИРОВСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>FORECASTING VOLUMES OF IMPORT SUBSTITUTION OF MEAT AND MEAT PRODUCTS IN KIROV REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sofyina  E.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zhuikov  V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E16</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">production economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26808</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: strategy, import substitution, import tariffs, imports of meat, production, processing and consumption of meat and meat products, quotas, regional policy, optimized land use, agricultural land</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рассмотрен научный подход через оптимизацию сельскохозяйственного землепользования как основного фактора импортозамещения продуктов питания для населения к прогнозированию мяса и мясопродуктов на региональном уровне. Дана оценка проблемам в агропромышленном комплексе из-за сложившейся экономически неблагополучной ситуации в Кировской области.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article examines scientific approaches to future forecasting for meat and meat products production at the regional level, the optimization of the agricultural land use being the best strategy for replacing imported consumer food products. The authors gave an assessment of agro-industrial problems that arose due to the economically unfavorable situation in Kirov Region.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USN_2016_7_3_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.№7 (part 3), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,103 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019295">
+    <dc:title xml:lang="en">Variability and inheritance of grain weight per spike of spring soft wheat hybrids in the forest-steppe of the Middle Volga Region</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Изменчивость и наследование массы зерна с колоса у гибридов яровой мягкой пшеницы в условиях лесостепи Среднего Поволжья</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Demina I.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kosenko S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">spring crops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hybrids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic inheritance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic variation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">measure</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Grain</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Spikes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heterosis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24918</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3707</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3869</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15975</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330493</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3346</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24086</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3705</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">A series of crosses by a complete top-cross scheme was performed from 2002 to 2004 to study the features of inheritance of the productivity characters one of which is the grain weight per spike  (GWS) and to determine the combining ability of spring soft wheat accessions under the conditions of the forest-steppe of the Middle Volga region (the Penza region). It has been found that the studied varieties significantly differed in spike productivity. The GWS in the maternal varieties made up 1.1-1.2 g. The variety Omskaya 20 was characterized by a high GWS among paternal forms -1.2-1.7 g. The variability of the GWS was as follows in hybrids: F1– 16.9-19.7%</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">F2 – 33.0-34.3%. The growing season conditions and the interaction “genotype-year” make the greatest contribution to the variability of this character, 35.4% and 24.9%, respectively. The closest correlation of the character was observed with the ear grain content per plant (r = 0.719**-0.805**) and per spike (r = 0.658**-0.904**), and the grain weight per plant (r = 0.867**-0.884**) and plant weight (r = 0.634**-0.762**). This character was inherited mostly by the type of superdominance and hybrid depression. The greatest negative heterosis (depression) was recorded in 2005 in 58.4% of hybrid combinations. The analysis of the combining ability and heritability coefficient in the quantitative characters of spring wheat shows that the varieties Tulaykovskaya 10, Erythrospermum 2375 and Alexandria (USA) may be considered as the best donors, in the combinations involoving these varieties the GWS selection is possible in F2. In general, the spike productivity selection should be carried out in later generations.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">В условиях лесостепи Среднего Поволжья (Пензенская обл.) для изучения особенностей наследования признаков продуктивности, одним из которых является масса зерна с колоса (МЗК), а также определения комбинационной способности образцов в 2002-2004 гг. выполнена серия скрещиваний по схеме полных топкроссов. Установлено, что изученные сорта существенно различались по продуктивности колоса. У материнских сортов МЗК составила 1,1-1,2 г. Среди отцовских форм высокой МЗК отличался сорт Омская 20 – 1,2-1,7 г. Показана изменчивость МЗК: у гибридов F1 – 16,9-19,7%, гибридов F2 – 33,0-34,3%. В изменчивость данного признака наибольший вклад вносят условия вегетации (35,4%), а также взаимодействие "генотип-год" (24,9%). Наиболее тесная корреляционная связь признака наблюдалась с озернённостью растения (r=0,719**-0,805**) и колоса (r=0,658**-0,904**), а также массой зерна с растения (r=0,867**-0,884**) и массой растения (r=0,634**-0,762**). Данный признак наследовался в основном по типу сверхдоминирования и гибридной депрессии. Наибольший отрицательный гетерозис (депрессия) отмечен в 2005 г. у 58,4% гибридных комбинаций. Анализ комбинационной способности и коэффициента наследуемости по количественным признакам гибридов яровой мягкой пшеницы показывает, что лучшими донорами могут считаться сорта Тулайковская 10, Эритроспермум 2375 и Alexandria (США), в комбинациях с участием этих сортов отбор возможен по МЗК в F2. В целом отборы по продуктивности колоса нужно проводить в более поздних поколениях.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.asau.ru/vestnik/2016/3/005-009.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of Altai State Agricultural University</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1996-4277</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

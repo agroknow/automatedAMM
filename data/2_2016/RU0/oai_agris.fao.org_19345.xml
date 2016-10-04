@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019345">
+    <dc:title xml:lang="en">Interproductive calculation as a factor of raising the effectiveness in control of agrarian enterprise</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Внутрипроизводственный расчет как фактор повышения эффективности управления аграрным предприятием</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Butorin S.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Business management</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2809</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1161</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the study is elaborating practical proposals on raising the own effectiveness of agrarian enterprises and improving thereby the financial results of their activity under the limited financial means. An analysis of the activity of a specific enterprise shows that the consumption of resources (diesel fuel, electric energy, fodder) in different brigades distinguish on average by 3%, and in comparison with the standards - by 20% and higher. The labor expenditures: the labor intensity within one enterprise at productions with the same technologies varies up to 15%. Relatively constant expenditures per unit of gross products also differ in brigades. Analyzing the financial results in the activity of agricultural organizations in the Perm region since 2009, it is possible to make the conclusion that the situation with a low own effectiveness is typical for many agrarians of the region, whose activity is unprofitable in the majority of cases. The instrument of forming the efficient system for managing an agrarian enterprise and raising the own effectiveness can be intraproductive calculation. There are formulated basic principles of the intraproductive calculation, disclosing its two possible models, to which different levels of developing economic relations in the agrarian enterprise correspond. This is a contract to normatively form a collective fund for residual labor compensation. There has been system of assessing the indices of intraproductive calculation tested in the conditions of a dairy commercial complex when introducing in 2015 competitive intraproduction economic relations.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Цель исследования - выработка практических предложений по повышению внутренней эффективности агарных предприятий и улучшению за счет этого финансовых результатов их деятельности в условиях ограниченных финансовых средств. Анализ деятельности конкретного предприятия показывает, что расход ресурсов (топлива дизельного, электроэнергии, кормов) по разным бригадам различается в среднем на 3%, а в сравнении с нормативами - на 20% и выше. Трудозатраты внутри одного предприятия на производствах с одинаковыми технологиями варьирует до 15%. Также отличаются по бригадам условно-постоянные затраты в расчете на единицу валовой продукции. Анализируя финансовые результаты деятельности сельхозорганизаций в Пермском крае с 2009 г., можно сделать вывод, что ситуация с низкой внутренней эффективностью характерна для многих аграриев края, деятельность которых в большинстве случаев убыточна. Инструментом формирования эффективной системы управления аграрным предприятием и повышения внутренней эффективности может стать внутрипроизводственный расчет. Сформулированы базовые принципы внутрипроизводственного расчета, раскрыты две возможные его модели, которым соответствуют разные уровни развития экономических отношений в аграрном предприятии. Это подряд с нормативным образованием коллективного фонда оплаты труда и подряд с формированием коллективного фонда оплаты труда по остаточному принципу. Разработана система оценки показателей внутрипроизводственного расчета, апробированная в условиях молочно-товарного комплекса при внедрении в 2015 г. конкурентных внутрипроизводственных экономических отношений.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vniiesh.ru/documents/document_20738_Butorin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agribusiness Sector: Economics, Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0235-2443</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19299">
+    <dc:title xml:lang="en">EMBRYONIC AND POSTEMBRYONIC GROWTH AND PRESERVATION OF THE OFFSPRING OF BREEDING SOWS WHEN USING PROBIOTIC AND SORBENT PRE PROBIOTIC ADDITIVES IN THE DIET</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЭМБРИОНАЛЬНЫЙ И ПОСТЭМБРИОНАЛЬНЫЙ РОСТ И СОХРАННОСТЬ ПРИПЛОДА СВИНОМАТОК ПРИ ИСПОЛЬЗОВАНИИ В РАЦИОНЕ ПРОБИОТИЧЕСКИХ И СОРБИРУЮЩЕЙ ПРЕ- ПРОБИОТИЧЕСКОЙ ДОБАВОК</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Коrniyenko Аlexey V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pykhtina Lidiya А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Savina Еlеnа V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Sows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">piglets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">milk</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Probiotics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7271</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5872</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4826</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32692</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>4 tables, 5 ref. DOI: 10.18286/1816-4501-2016-2-131-135</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the experimental studies conducted on breeding sows it was proved that feeding during gestating and suckling periods by compound feedstuff enriched with probiotics Batsell and Provagen as well as the enriching it with sorbent pre- probiotic additive Biokoretron Forte determines the increase of fertility, offspring thickness, level of biological availability of carotene of diet and its transformation into vitamin A, that is confirmed by a significant increase (P &lt; 0,05) of its content in 1 gram of liver of newborns (by 21,1-25,3%) and piglets-weaners (by 19,6-21,7%), producing by them of more biologically useful colostral milk and milk, which significantly improves post-embryonic growth, development and preservation of piglets. Thus, when by the time of weaning (28 days) their safety in the control group of breeding sows was 91,76%, in the II, the III and the IV experimental groups it was respectively 96,00</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">96,1 and 98,04%. Herewith  the mass of one head of piglet at weaning in breeding sows of the II experimental group was higher by 0,794 kg, the III – by 0,714 kg, and the IV – by 0,794 kg, or by 19,17%, 17,24 and 19,17%. Quantity of survived piglets per one breeding sow in experimental groups was higher respectively by 23,08</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">28,21 and 28,21 %, than in the control group (P</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">В экспериментальных исследованиях, проведенных на свиноматках, доказано, что скармливание им в супоросный и подсосный периоды комбикорма, обогащенного пробиотиками Бацелл и Проваген также как и обогащение его пре- пробиотической сорбирующей добавкой Биокоретрон Форте обуславливает повышение плодовитости, крупноплодности, уровня биологической доступности каротина рациона и превращения его в витамин А, что подтверждается существенным повышением (Р &lt; 0,05) его содержания в 1 грамме печени у новорожденных (на 21,1-25,3%) и у поросят-отъемышей (на 19,6-21,7%), продуцированием ими более биологически полноценного молозива и молока, что существенно улучшает постэмбриональный рост, развитие и сохранность поросят. Так, если к моменту отъема (28 дней) их сохранность по контрольной группе свиноматок составила 91,76%, то по II, III и IV опытным группам соответственно 96,00</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">96,1 и 98,04%. При этом масса одной головы поросёнка при отъёме у свиноматок II опытной группы больше на 0,794 кг, III – на 0,714 кг, а IV – на 0,794 кг или на 19,17%, 17,24 и 19,17%. Количество сохранившихся поросят на одну свиноматку в опытных группах соответственно больше на 23,08</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">28,21 и 28,21 %, чем у контрольной группы (P</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Korniyenko.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

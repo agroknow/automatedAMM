@@ -1,0 +1,97 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19260">
+    <dc:title xml:lang="en">RETROSPECTIVE ANALYSIS AND MODELING OF CHROMOSOME VARIABILITY WHILE MONITORING</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>РЕТРОСПЕКТИВНЫЙ АНАЛИЗ И МОДЕЛИРОВАНИЕ ХРОМОСОМНОЙ ИЗМЕНЧИВОСТИ ПРИ МОНИТОРИНГЕ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Basonov Оrest А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Кrasavtsev Yury F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Коzminskaya Alisa S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Nizhny Novgorod State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">karyotypes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">models</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genomes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">monitoring</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Age</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Adaptability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Swine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32486</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3224</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4911</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_186</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35024</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7555</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18286/1816-4501-2016-2-113-116</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Chromosomal anomalies (chromosomal and genomic mutations) is a convenient «object» of monitoring, it this case both mass examinations and selective screening (e.g., risk groups) are possible. The proposed models are based on the assessment of age variability of karyotype. In the retrospective analysis (30 years) of chromosomal variability there was used private and literature data on different breeds of pedigreed pigs of different age and direction of productivity. Modeling was carried out on the basis of basic averaged characteristics of cytogenetic parameters. A combination of measurements was presented in the form of the function (Y1 – level of karyotype variability) of age (X). Single-factor regression model was used in forecasting. Allowable approximation error was 5-10%. Evaluation of trends stability shows that the forecasted function is chosensuccessfully. The possibility of extrapolation beyond the observed values confirms the compliance of functions with biological essence of the described function. For approximation conduction we found the parameters (coefficients) on the assumption of the least square method (LSM) which allowed to determine the optimal sampled evaluation of parameters estimates, to minimize the sum of squared deviations between the observed values Y and the model (Y1). Confidence intervals for the desired evaluation of variable were determined by the formula: Y1±2σ. Based on the developed models there were established the values of the extremum of the function and corresponding argument and determined the 95% confidence interval (±tmy1). The presented models and obtained results allow to draw some conclusions: 1) the selection of repair is advisable to be carried out from 	full-grown sows (but not more than 6 farrowings)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">2) in the formation of age-sex groups there should be considered various resistibility and adaptability of animals of different ages</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3) the developed model of forecasting the level of genomic mutations may be recommended for estimation of genetic burden in populations of agricultural animals and selection of animals with the lowest genetic burden.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Хромосомные аномалии (хромосомные и геномные мутации) – удобный «объект» мониторинга, при этом возможны как массовые обследования, так и селективный скрининг (например, групп риска). Предлагаемые модели основаны на оценке возрастной изменчивости кариотипа. При ретроспективном анализе (30 лет) хромосомной изменчивости использованы собственные и литературные данные по различным породам племенных свиней разного возраста и направления продуктивности. Моделирование проведено на основе базовых усредненных характеристик цитогенетических показателей. Совокупность измерений была представлена в виде функции (Y1 – уровень изменчивости кариотипа) возраста (X). Использована при прогнозировании однофакторная регрессионная модель. Допустимая ошибка аппроксимации составила 5-10%. Оценка стабильности тенденций показывает, что прогнозируемая функция выбрана удачно. Возможность экстраполяции за пределы наблюдаемых значений подтверждает соответствие функции биологической сути описываемой зависимости. Для проведения аппроксимации находили параметры (коэффициенты) исходя из метода наименьших квадратов (МНК), что позволило определить оптимальные выборочные оценки параметров, минимизировать сумму квадратов отклонений между наблюдаемыми значениями Y и моделью (Y1). Определялись и доверительные интервалы для искомых оценок переменной по формуле: Y1±2σ. На основе разработанных моделей установлены значения экстремума функции и соответствующего ему аргумента и определен 95% доверительный интервал (±tmy1). Представленные модели и полученные результаты позволяют сделать ряд выводов: 1) отбор на ремонт целесообразно проводить от полновозрастных маток (но не более 6 опоросов)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2) при формировании половозрастных групп следует учитывать различную резистентность и адаптивность у животных разного возраста</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">3) разработанная модель прогнозирования уровня геномных мутаций может быть рекомендована для оценки генетического груза в популяциях с.-х. животных и выделения животных с наименьшей генетической отягощенностью.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Basonov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

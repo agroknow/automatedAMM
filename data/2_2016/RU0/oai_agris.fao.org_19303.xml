@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019303">
+    <dc:title xml:lang="en">Carbohydrate and lipid metabolic indices in Hereford cattle of Canadian and Siberian breeding in adapting to the conditions of the Altai Region</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Показатели углеводного и липидного обмена у скота герефордской породы канадской селекции при адаптации к условиям Алтайского края</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Afanasyeva A.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bondyreva L.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sarychev V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">livestock</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Adaptation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Metabolism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Physiology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4397</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_117</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4769</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49881</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_959</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The research was performed in one of the breeding farms of the Altai Krai in 2012-2014 on Hereford heifers at the ages of 11-16 months havi8ng an average body weight of 423.0+-7.23 kg imported from Canada. Blood from animals to analyze was taken in 1, 4, 9, 10 and 13 months after importation to Russia. It is shown that maintaining the required level of energy balance in the process of was accompanied by the stress of functional systems and alteration of metabolism, particularly carbohydrate and lipid metabolism (LM). At the initial stage of adaptation of the Hereford heifers of Canadian breeding, the glucose concentration is maximum – 3.84 ± 0.21 mmol L, while the LM indices are minimal. This ratio of glucose and LM in the blood serum of imported animals is typical of stress reaction development. The fetal period of pregnancy was accompanied by the reduction of glucose 1.8 times and increased values  related to LM. The increased intensity of LM at this period may be determined by the body requirement for uninterrupted synthesis of sex steroids needed for the formation of fetal tissues and pregnancy sustentation. At the later fetal period of cow gestation, the LM indices were high with a minimum glucose concentration. This may be related to insufficient glucose supply, and that causes the body to compensate for the energy deficit by fat burning. The postpartum period and the beginning of lactation in the Canadian Hereford cows were characterized by decreased glucose (by 10%) and decreased lipid LM: cholesterol, triglycerides and total lipids – by 4%, 12% and 5% respectively. That is an indication of significant energy consumption at calving and incomplete body recovery. From the beginning of lactation, the LM decreases and carbohydrate metabolism intensity increases. This fact may be a sign of the recovery of carbohydrate metabolism and LM.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Исследование выполнено в одном из племенных хозяйств Алтайского края в 2012-2014 гг. на телках герефордской породы в возрасте 11-16 мес. со средней живой массой 423,0±7,23 кг, завезенных из Канады. Кровь для анализа у животных брали через 1, 4, 9, 10 и 13 мес. после ввоза в Россию. Показано, что поддержание необходимого уровня энергетического баланса в процессе адаптации сопровождалось напряжением функциональных систем и перестройкой обмена веществ, в частности углеводного и липидного (ЛО). На начальном этапе адаптации телок герефордской породы канадской селекции концентрация глюкозы максимальна – 3,84±0,21 ммоль/л, при этом показатели ЛО минимальны. Такое соотношение уровня глюкозы и показателей ЛО в сыворотке крови импортированных животных характерно для развития стресс-реакции. Плодный период беременности сопровождался снижением концентрации глюкозы в 1,8 раза и повышением показателей, характеризующих ЛО. Увеличение интенсивности ЛО в этот период исследований может быть связано с потребностью организма в бесперебойном синтезе половых стероидов, необходимых для формирования тканей плода и поддержания беременности. В поздний плодный период беременности коров показатели ЛО были высокими при минимальной концентрации глюкозы. Это, возможно, связано с недостаточным обеспечением глюкозой, что вынуждает организм компенсировать энергетический дефицит путём сжигания жиров. Послеродовой период и начало лактации у канадских герефордов характеризовались снижением уровня глюкозы на 10% и показателей ЛО: холестерина, триглицеридов, общих липидов – на 4, 12 и 5% соответственно. Это является показателем больших энергетических затрат животных во время отёла и неполного восстановления организма. С началом лактации наблюдаются снижение ЛО и повышение интенсивности обмена углеводов. Данный факт может являться признаком нормализации углеводного обмена и ЛО.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.asau.ru/vestnik/2016/3/111-115.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of Altai State Agricultural University</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1996-4277</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

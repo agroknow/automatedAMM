@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19265">
+    <dc:title xml:lang="en">ORGANOLEPTIC EVALUATION OF BEEF QUALITY OF MEAT HEIFERS OF DIFFERENT GENOTYPES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ОРГАНОЛЕПТИЧЕСКАЯ ОЦЕНКА КАЧЕСТВА ГОВЯДИНЫ МЯСНЫХ ТЕЛОК РАЗЛИЧНЫХ ГЕНОТИПОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zelenov Gennady N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genotypes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Beef</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hybrids</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Meat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">tryptophan</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">consistency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3225</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_861</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3707</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4669</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7990</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24152</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables, 8 ref. DOI: 10.18286/1816-4501-2016-2-123-126</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article presents the organoleptic evaluation of the quality of crossbred beef heifers obtained from cross breeding of Bestuzhev cows with producers of Aberdeen-Angus, Hereford and Charolais breeds. There are analyzed biological value, morphological features of muscle and connective tissue structure, distribution of subcutaneous fat on the carcass. Cooking and degustation of beef have been conducted. Meat of meat heifers had high technological parameters. The obtained results showed that crossbred heifers had a higher potential meat productivity in comparison with Bestuzhev counterparts under the same growing conditions. Carcass weight of three-bred heifers ¼B+¼AA+½Ch exceeded the carcass weight of Bestuzhev breed respectively by 21,6%,  ¼B+¼H+½Ch – by 20,0%, two-breed – by 12,5%. It was established that consistency of muscle tissue is relatively dense structure, in transverse section it has relatively coarse-grained pattern. Signs of meat «marbling» were discovered only in the longest muscle of back of Bestuzhev and two-breed heifers of the 1 fatness category. Adipose tissue of crossbred animals, obtained from Charolais manufacturers, is developed weaker than that of Bestuzhev breed and two-breed peers. The study of connective tissue of heifers carcasses after 48 hour cooling did not revealed breed characteristics. The carcasses are covered with dense connective tissue crust of gray-white color with a slightly bluish tinge, and when pressed by finger it is quite durable. Organoleptic parameters of boiled meat, roast beef and broth of three-bred heifers slightly outperformed the Bestuzhev breed meat. As a result the meat two-bred heifers received higher mark – 4,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">three-bred – 3,8</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Bestuzhev – 3,7 points.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">В статье приведена органолептическая оценка качества говядины помесных телок полученных от скрещивания бестужевских коров с производителями абердин-ангусской, герефордской и шаролезской пород. Анализируются биологическая ценность, морфологические особенности строения мышечной и соединительной ткани, распределение на туше подкожного жира. Проведена кулинарная обработка и дегустация говядины. Мясо мясных телок отличалось высокими технологическими показателями. Полученные данные показали, что помесные телки при одинаковом выращивании проявили более высокую потенциальную мясную продуктивность в сравнении с бестужевскими аналогами. Масса туши трехпородных телок ¼Б+¼АА+½Ш превосходила бестужевских, соответственно на 21,6%,  ¼Б+¼Г+½Ш – на 20,0%, двухпородные – на 12,5%. 	Установлено, что мышечная ткань по консистенции представляет относительно плотную структуру, на поперечном разрезе она имеет относительно крупно-зернистый рисунок. Признаки «мраморности» мяса выявлены только в длиннейшей мышце спины бестужевских и двухпородных телок 1 категории упитанности. Жировая ткань у помесных животных, полученных от шаролезских производителей, развита слабее, чем у бестужевских и двухпородных сверстниц. При исследовании соединительной ткани туш телок после 48 часового охлаждения не выявлено породных особенностей. Туши покрыты плотной соединительнотканной корочкой серо-белого цвета со слабосиневатым оттенком, при надавливании пальцем она довольно прочная. По органолептическим показателям отварное мясо, ростбиф и бульон трехпородных телок несколько превосходили мясо бестужевских. В  результате мясо двухпородных телок получило более высокую оценку – 4,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">трехпородного – 3,8</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">бестужевского – 3,7 балла.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Zelenov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

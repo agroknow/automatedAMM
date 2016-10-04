@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19310">
+    <dc:title xml:lang="en">TO THE QUESTION OF METHODOLOGY OF STUDYING THE ENERGY EFFICIENCY OF LIVESTOCK PRODUCTS PRODUCTION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>К ВОПРОСУ МЕТОДОЛОГИИ ИЗУЧЕНИЯ ЭНЕРГОЭФФЕКТИВНОСТИ ПРОИЗВОДСТВА ПРОДУКТОВ ЖИВОТНОВОДСТВА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Моkhоv Boris P.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Naumova Valentina V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vasina Svetlana B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal Husbandry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ethology</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">convergent improvement</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8532</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10679</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1847</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18286/1816-4501-2016-2-151-156</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Convergence of knowledge gained in the process of molecular, biophysical, biochemical and other experiments with the results of ecological and adaptive studies of animals, their behavior and productive abilities, allows to optimize conditions of life-support of organism in the direction of the natural needs and to increase energy efficiency of their productive use. The new methodology is based on the results of simultaneous study of consumption of exchange energy and dynamics of nutritive behaviour in cattle of differing ecogenesis and heredity, in conditions of various feeding and weather stress. Biophysical methods ensuring the determination of energy in parameter of heat production, can be used not only in scientific studies, but also in the development of construction and hygienic norms. The methodology may find application in the evaluation of breeding and productive qualities of animals, state of organism adaptation and adequacy of external environment, and also in the development of feeding norms and zootechnological standards.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Конвергенция знаний, полученных в процессе молекулярных, биофизических, биохимических и др. опытах с результатами экологических и адаптационных исследований животных, их поведения и продуктивных возможностей, позволяет оптимизировать условия жизнеобеспечения организма в направлении природных потребностей и повысить энергоэффективность их продуктивного использования. Новая методика базируется на результатах одновременного изучения расхода обменной энергии и динамики пищевого поведения у крупного рогатого скота неодинакового экогенеза и наследственности, в условиях разнообразного кормления и погодного напряжения. Биофизические методы, обеспечивающие определение энергии в показателях теплопродукции, могут быть использованы не только в научных исследованиях, а также при разработке строительных и зоогигиенических норм. Методика может найти применение при оценке племенных и продуктивных качеств животных, состояния адаптации организма и адекватности внешней среды, а также при разработке норм кормления и зоотехнологических нормативов.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Mokhov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

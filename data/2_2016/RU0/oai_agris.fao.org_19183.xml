@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019183">
+    <dc:title xml:lang="en">Comparative characteristics of root systems and root exudation of synthetic, landrace and modern wheat varieties</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Сравнительные характеристики корневых систем и корневой экссудации у синтетического</dcterms:alternative>
+    </dc:title>
+    <dc:title xml:lang="">
+      <dcterms:alternative>примитивного и современного сортов пшеницы</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Shaposhnikov A.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Morgounov A.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Akin B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Makarova N.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Belimov A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tikhonovich I.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticum aestivum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Roots</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">revegetation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">drought resistance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7951</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6651</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26815</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2392</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Finding ways to increase the wheat adaptation to drought is now considered as a major problem in breeding new varieties of this crop. This study was conducted to evaluate genotypic differences in fundamental root traits which may have effect on wheat adaptation to unfavorable environments, including drought. Three wheat genotypes representing various evolution levels of hexaploid bread wheat (Triticum aestivum L.) were used: synthetic wheat developed by crossing variety LEUCURUM 84693 of durum wheat (Triticum durum Desf., genome АВ, Ukraine) with wild Tausch's goat grass (Aegilops tauschii Coss., genome D, Turkey), landrace of bread wheat Albostan (genome ABD, Turkey, province Nevşehir), and a modern cultivar Karahan (genome ABD, Turkey). The varieties differed in root diameter, shoot biomass and shoot/root ratio. The removal of above ground biomass caused increase in the root length, number of tips, number of forks, number of crosses and shoot/root biomass ratio of synthetic wheat and Albostan, but decreased these parameters in Karahan. For the first time a comparative analysis of root exudation (amino acids, sugars and organic acids) by wheat genotypes having different levels of evolution was performed. The results suggested low ability of Karahan to control the flow rate of carbohydrates from roots to the environment. We propose that high root exudation of tryptophane (precursor in biosynthesis of auxins) and sugars may result in deficit of these compounds and involved in impaired shoot regeneration of Karahan. The results demonstrated differences in the functioning of the root system of primitive hexaploid wheat (synthetic) compared to landrace and modern cultivated variety.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Поиск способов повышения адаптации пшеницы к засухе в настоящее время считается важнейшей задачей в селекции новых сортов этой культуры. Проведена сравнительная оценка генотипических различий для основных характеристик корневой системы пшеницы, способных влиять на адаптацию растений к неблагоприятным условиям окружающей среды, в том числе к засухе. Использовали 3 генотипа пшеницы: синтетическую пшеницу, полученную скрещиванием сорта LEUCURUM 84693 твердой пшеницы (Triticum durum Desf., геном АВ, Украина) и дикого злака эгилопса Тауша (Aegilops tauschii Coss., геном D, Турция)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">традиционный местный турецкий сорт мягкой пшеницы Albostan (геном ABD, Турция, провинция Невшехир)</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">сорт современной селекции Karahan (геном ABD, Турция). Между сортами выявлены различия по диаметру корней растения, биомассе стеблей и соотношению биомассы побега и корня. Удаление побега вызывало увеличение длины корней, объема и ветвления корневой системы и соотношения биомассы "побег:корень" у синтетической пшеницы и в меньшей степени у сорта Albostan, но снижало величину этих показателей у сорта Karahan. Впервые проведен сравнительный анализ корневой экссудации аминокислот, сахаров и органических кислот у генотипов пшеницы различных уровней эволюции. Полученные данные отражают низкую способность сорта Karahan контролировать выделение фотосинтатов в окружающую среду через транспортные системы корней. Возможно, что высокая активность корневой экссудации аминокислот, особенно триптофана (предшественника в биосинтезе ауксинов) и сахаров может приводить к дефициту указанных веществ и замедлять регенерацию побегов у сорта Karahan. Эти результаты указывают на различия в функционировании корневой системы у изученных генотипов пшеницы, связанные с ревегетацией побега и корневой экссудацией. (Табл. 1. Ил. 5. Библ. 27)</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.agrobiology.ru/articles/1-2016shaposhnikov-rus.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agricultural Biology</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0131-6397</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

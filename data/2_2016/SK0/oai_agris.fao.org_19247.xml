@@ -1,0 +1,66 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016019247">
+    <dc:title xml:lang="en">Comparison of the andosols properties of forest and meadow ecosystems on the neovolcanic rocks of the Central Slovakia</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hudec, M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tulis, F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Feszterová, M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Hreško, J.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Constantine the Philosopher University in Nitra, Tr. A. Hlinku 1, 949 74 Nitra, Slovak Republic</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mountains</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Slovak Republic</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seasons</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">soil properties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_12676</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33096</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6911</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330883</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The aim of the paper was to describe the chemical and physical characteristics of the mixed forest soils and to compare their characteristics with meadow soils (mowed and xerothermic) situated at selected volcanic mountains of Central Slovakia. The andosols analysed were taken from the Kremnické and the Štiavnické mountains. The chemical and physical characteristics of andosols have been monitored. It was proved that in the mixed forests there is a constant input of fresh organic matter which affects the content of total organic carbon (TOC) and keeps it at a steady level. The highest value variability of TOC among seasons and the highest average value of TOC were proved to be in xerothermic meadows (8.93 ± 4.49%). The land use has a statistically significant impact on the differences between the values of active pH (F = 7.5001, p = 0.001) and exchangeable soil reaction (F = 18.8866, p = 0.000). Total nitrogen (NT) was affected by land use and was decreasing from xerothermic meadows to mixed forests (p &lt; 0.001) in linear dependence similar to the TOC content (F = 11.7573, p = 0.000). The value variabilities of cation exchange capacity (CEC) and basic cation (S) between soils of mixed forest and mowed and xerothermic meadows were statistically significant. The content of TOC negatively correlated with the sand fraction (soils of the mixed forest and xerothermic meadow) and the clay fraction (soils of monitored ecosystems).</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.42/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P19104">
+    <dc:title xml:lang="ru">ЭКОНОМИЧЕСКАЯ СУБЪЕКТНОСТЬ В СТРУКТУРЕ ПРЕДПРИНИМАТЕЛЬСКОЙ НАПРАВЛЕННОСТИ ЛИЧНОСТИ ВЫПУСКНИКОВ АГРАРНЫХ ВУЗОВ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>ECONOMIC SUBJECTNESS IN THE STRUCTURE ENTREPRENEURIAL ORIENTATION OF THE PERSONALITY OF THE GRADUATES OF AGRICULTURAL UNIVERSITIES</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Hashchenko  T.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Agricultural research</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8679</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: entrepreneurial orientation of the personality, economic subjectivity, professionalization of the individual</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье приводится теоретическое обоснование системообразующей роли экономической
+субъектности личности в структуре еѐ предпринимательской направленности, описываются результаты эмпирического исследования связи этой личностной характеристики с выбором выпускниками аграрных вузов предпринимательской карьеры в аграрном секторе.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article provides the theoretical foundation of backbone role of economic subjectness of the personality in the structure of its entrepreneurial orientation, the results of an empirical study of the relation of this personality trait with the choice of graduates of agricultural universities entrepreneurial career.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USNO_2016_7_4_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.4/n.№7 (part 4), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

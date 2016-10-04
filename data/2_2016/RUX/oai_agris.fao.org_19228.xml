@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19228">
+    <dc:title xml:lang="en">PHYTO-METRIC PARAMETERS OF WINTER TRITICALE DEPENDING ON VARIETY AND DOSES OF MINERAL FERTILIZERS IN CONDITIONS OF SOUTH-EAST OF VOLGA-VYATKA REGION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ФИТОМЕТРИЧЕСКИЕ ПОКАЗАТЕЛИ ПОСЕВОВ ОЗИМОЙ ТРИТИКАЛЕ В ЗАВИСИМОСТИ ОТ СОРТА И ДОЗ МИНЕРАЛЬНЫХ УДОБРЕНИИ В УСЛОВИЯХ ЮГО-ВОСТОКА ВОЛГО-ВЯТСКОГО РЕГИОНА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Serazhetdinov I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Теrеkhov Мikhail B.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Serazhetdinova Таtyana N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Nizhny Novgorod research Institute of agriculture</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Nizhny Novgorod State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F04</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Triticosecale</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">field experimentation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">fertilizers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Photosynthesis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">leaf area</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33914</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33990</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2867c82c5e5a</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5812</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_16110</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>4 tables, 8 ref. DOI: 10.18286/1816-4501-2016-2-43-48</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We studied the influence of varietal peculiarities and estimated norms of mineral fertilizers on photosynthesisactivity and yield formation of winter triticale in conditions of South-East of Volga-Vyatka region. Grain production is a strategic task in agriculture development. The peculiarity of current stage of Russian agriculture development is an enhancement of production in conditions of economy of energy consumption. The main way to solve these problems is to increase yielding ability through the introduction of field crops and varieties with high adaptive properties, resistance to biological and abiotic stresses, improvement of cultivation technologies. To the South-East of Volga-Vyatka region winter triticale has a particular importance in this respect, which forms high yields in different climatic years. Among agronomic techniques aimed to improve yielding ability and grain quality of this culture, optimization of plants mineral nutrition is of a great importance. Application of mineral fertilizers ensures obtaining of stable yielding ability of good quality grain and soil fertility preservation. The maximum value of photosynthetic potential in vegetation was observed in Niklap varieties in the variant 5,0 t/ha and equals 3151,9 thousand m2 day/ha. With the planned level of yielding ability at 5,0 t/ha, the increase of grain yield of winter triticale per 1 thousand units of PhP was 30,9-43,6% compared to the control variant. The increase of biomass accumulation leads to the increase of PhAR content accumulated by crops. Therefore, the maximum accumulation of PhAR was observed in Niklap variety 143,96 million kJ/ha, and the lowest – in Mikhas variety 123,2 million kJ/ha.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучали влияние сортовых особенностей и расчетных норм минеральных удобрений на фотосинтетическую деятельность и формирование урожая озимой тритикале в условиях Юго-востока Волго-Вятского региона. Производство зерна – стратегическая задача в развитии сельского хозяйства. Особенность нынешнего этапа развития сельского хозяйства России –наращивание производства продукции в условиях экономии потребления энергоресурсов. Основной путь решения данных проблем – повышение урожайности за счет внедрения полевых культур и сортов с высокими адаптивными свойствами, устойчивостью к биологическим и абиотическим стрессам, совершенствование технологий возделывания. Для Юго-востока Волго-Вятского региона особое значение в этом плане имеет озимая тритикале, которая формирует высокие урожаи в разные климатические годы. Среди агротехнических приемов, направленных на повышение урожайности и качества зерна этой культуры большое значение имеет оптимизация минерального питания растений. Внесение минеральных удобрений обеспечивает получение стабильной урожайности зерна хорошего качества и сохранность почвенного плодородия. Максимальное значение фотосинтетического потенциала за вегетацию отмечается у сорта Никлап в варианте 5,0 т/га и равен 3151,9 тыс. м2. сут./га. При уровне запланированной урожайности на 5,0 т/га увеличение выхода зерна озимой тритикале на 1 тысячу единиц ФП составляло по сравнению с контрольным вариантом 30,9-43,6 %. Увеличение накопления биомассы приводит к повышению содержания аккумулированной посевами ФАР. Следовательно, максимальное аккумулирование ФАР отмечено у сорта Никлап 143,96 млн. кДж/га, а минимальное – у сорта Михась 123,2 млн. кДж/га</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Serazhetdinov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

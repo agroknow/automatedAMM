@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019176">
+    <dc:title xml:lang="en">Genetic similarity of the autochthonous grapevine varieties from don region revealed by SSR-analysis and main leaf ampelographic traits</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Изучение генетического сходства донских аборигенных сортов винограда с применением SSR-анализа и по основным ампелографическим признакам листа</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ilnitskaya E.T.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Tokmakov S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Suprun I.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Naumova L.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ganich V.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Vitis vinifera</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic markers</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8283</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3214</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24030</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Native, ancient grape varieties of different cultivation regions are important part of grapevine genetic resources. We evaluated the relationship among the number of Don varieties by microsatellite genotyping. The aim was to study the genetic similarity of native Don varieties based on DNA analysis and compare the results with earlier made conclusions about relationship of varieties, and with data of the analysis of the main features of the leaves. The research was carried out on 16 varieties. Studied Don grapevine varieties were described ampelographically, and the main method we used in the work was the PCR. Six SSR-markers basicly recommended for V. vinifera fingerprinting were used. Chardonnay and Cabernet Sauvignon were used as the reference cultivars. In the studied Don varieties genotypes, six (for VVS2, VVMD5, VMD7, VrZAG62) and seven (for VVMD27, VrZAG79) alleles per locus were determined. Cluster analysis allowed to divide the varieties into two main groups: one included Sibir’kovyi, Puhlyakovskii belyi, Sivolistnyi, Puhlyakovskii chernyi, Kosorotovskii and Kukanovskii cultivar, being a group of natural seedlings of Puhlyakovskii belyi, the other contained Bezymyannyi Donskoi, Plechistik oboepolyi, Staryi Goryun, Tsimlyanskii belyi, Tsimlyanskii chernyi, Tsimladar, Plechistik, Sypun chernyi, Mahrovatchik and Bessergenevskii N 7 cultivars. Analysis of the main features of leaves showed no differentiation according to the presumed origin of the studied varieties. As the result of SSR-analysis, most of varieties were distributed in accordance with the earlier made conclusions about their origin. Thus, the study of collections, old varieties, breeding material and introduced samples based on the complex of ampelographic traits and SSR-markers can be considered as the most informative one.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Аборигенные, стародавние сорта, произрастающие в различных регионах возделывания винограда (Vitis vinifera L.), - важная часть мирового генофонда культуры. Проведена оценку родства ряда донских сортов по результатам микросателлитного генотипирования. Целью настоящей работы было изучение генетического сходства аборигенных донских сортов на основе ДНК-анализа и сопоставление полученных результатов с данными анализа основных признаков сформировавшегося листа, а также выводами других авторов. Исследования проводили на 16 сортах. Все они были описаны по основным ампелографическим признакам. В работе применяли полимеразную цепную реакцию с разделением ее продуктов посредством электрофореза. Использовали 6 SSR-маркеров, рекомендованных как основные для фингерпринтинга V. vinifera. Контролем служили сорта Шардоне и Каберне-Совиньон. В генотипах исследуемых донских сортов было определено шесть (по локусам VVS2, VVMD5, VVMD7, VrZAG62) и семь (по локусам VVMD27, VrZAG79) аллелей на локус. Кластерный анализ позволил разделить сорта на 2 основные ветви: в одну вошли Сибирьковый, Пухляковский белый, Сиволистный, Пухляковский черный, Косоротовский и Кукановский (все они относятся к группе естественных сеянцев Пухляковского белого), в другой оказались Безымянный донской, Плечистик обоеполый, Старый горюн, Цимлянский белый, Цимлянский черный, Цимладар, Плечистик, Сыпун черный, Махроватчик и Бессергеневский № 7. В пространстве главных координат не было обнаружено распределения сортов по основным признакам листьев в соответствии с их предполагаемым происхождением. По результатам SSR-анализа большинство сортов оказались распределены в соответствии с ранее сделанными выводами об их происхождении. Таким образом, наиболее информативной может считаться оценка коллекций, стародавних сортов, селекционного материала и интродуцируемых образцов по комплексу ампелографических признаков и SSR-маркерам. (Табл. 1. Ил. 2. Библ. 26)</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.agrobiology.ru/articles/1-2016ilnitskaya-rus.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agricultural Biology</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0131-6397</ags:citationIdentifier>
+      <ags:citationNumber>v./n.1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,41 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016319215">
+    <dc:title xml:lang=" ">The use of elasticities coefficient to estimate the synergy effect of using costs in sugar beet farming</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zyukin D.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Svyatova O.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Soloshienko R.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vydrina O.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dorogavtseva I.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E16</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang=" ">Beet sugar subcomplex of A.I.C. is a sophisticated system. It includes multilevel mechanism of interbranch connections and cooperation of various business-units. The formation of the strategy of its management development under conditions of natural and economic limitation takes advantage of the resource concentration in directions which can provide the level increase of returns getting from the factors of production and receiving competitive strengths. The goal of the re-search is finding such directions according to the synergy effect size, which is the rate of value added. It derives from effectiveness growth of using of the factors of production. The synergy effect has place only using all the factors together. Accurate quantitive evaluation can be given only in terms of resource using on the basis of correlation of the results and expired costs. So, the calculation of the synergy effect size will be based on the coefficients of elasticity of financial expenditure in capacity of general equivalent of all kinds of expired costs to produce sugar beet for sugar manufacturing. The coefficients of elasticity of financial expenditure can be presented as the parameters of non-linear regression power type models, where regressor is presented by the types of expenditures (on seeds, fertilizers, chemical protection, etc.). This increment of the cumulative value on addition of the new factor will be the evidence of the synergy effect from the combined using of various types of costs. The reverse situation will give testimony to inefficiency of input added factor into the model. It also will show the decrease of the potential result, which is presented by the growth of revenue or yielding capacity on a per hectare basis of sowing sugar beet for sugar manufacturing. This approach has given an opportunity to define that in small farms the synergy effect getting from the using of production expenditures to increase the economic efficiency in sugar beet growing is higher than in the other farms. The efficiency of sizeable enterprises is defined by economy of scale, which is expressed by effective and sustainable integration with sugar beet factories, but not by the increase of the level intensification. According to the research results, expenditures on seeds and planting stock have the highest synergy effect. It provides more effective using of the other factors and the development of selection and seed production becomes strategic.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>Экономика и предпринимательство</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1999-2300</ags:citationIdentifier>
+      <ags:citationNumber>v.10/n.9</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,63 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SK2016019242">
+    <dc:title xml:lang="en">Evaluation of the ecological niche of some abundant species of the subfamily Platyninae (Coleoptera, Carabidae) against the background of eight ecological factors</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Brygadyrenko. V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Oles&amp;#039</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Honchar Dnipropetrovsk National University, pr. Gagarina, 72, 49010 Dnipropetrovsk, Ukraine</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>e-mail: brigad@ua.fm</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F62</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Herbaceous plants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Density</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">moisture content</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Soil salinity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">canopy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27977</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2186</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4886</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35317</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1262</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Based on the results of 15 years of research in five regions in the steppe zone of Ukraine we have analysed the relationship between species of the subfamily Platyninae and the eight most significant ecological factors for litter macrofauna in forest ecosystems. In the forests of Ukraine Calathus ambiguus (Paykull, 1790) is a typical mesophile, with a slight preference for pine forests. C. erratus (C.R. Sahlberg, 1827) is at its most numerous in xeromesophilous moisture conditions with an average abundance of ants. C.fuscipes (Goeze, 1777) favours broadleaved forests with 40-80% tree crown density, a sparse herbaceous layer, and clay soil with high salinity. C. melanocephalus (Linnaeus, 1758) is at its most numerous in forests with a deep litter layer with average soil salinity. Dolichus halensis (Schaller, 1783) is often found in forests with of low crown density and favours areas with high salinity. Anchomenus dorsalis (Pontoppidan, 1763) favours plots with scattered trees, thick grass, mesophilous moisture conditions and low abundance of ants. Limodromus krynickii (Sperk, 1835) inhabits forests with a thin litter layer, hygrophilous moisture conditions and soils with low salinity. Oxypselaphus obscurus (Herbst, 1784) inhabits moist areas of forests with acid, sandy soil. The methods used in this research allow a quantitative multiple level assessment of the ecological niches of different species of litter invertebrate to be made.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.savzv.sk/editorial-activity/contents/</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <ags:citation>
+      <ags:citationTitle>FOLIA OECOLOGICA</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1336-5266</ags:citationIdentifier>
+      <ags:citationNumber>v.42/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

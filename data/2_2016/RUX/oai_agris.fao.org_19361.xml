@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19361">
+    <dc:title xml:lang="en">RESULTS OF STUDIES OF LOW TEMPERATURE PROPERTIES AND CETANE NUMBER OF BIODIESEL</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЙ НИЗКОТЕМПЕРАТУРНЫХ СВОЙСТВ И ЦЕТАНОВОГО ЧИСЛА БИОДИЗЕЛЬНОГО ТОПЛИВА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Varnakov Dmitry V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Varnakov Valery V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Varnakova Ekaterina A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State University</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Energy resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Biodiesel</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Turbidity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28006</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35013</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15043</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18286/1816-4501-2016-2-168-173</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Biodiesel is a form of biofuels based on vegetable or animal fats (oils) and products of their esterification. It is used for vehicles in pure form or as various mixtures with diesel fuel. As biodiesel for the central and southern regions of Russia, taking into account operational parameters and economic factors, fuel with rapeseed oil content of 30 % is suitable for low-temperature properties. Biodiesel with rapeseed oil content of up to 30% also meets the requirements of GOST Р52368-05 (EN 590:2009) for the cetane number. Biodiesel fuel, consisting of 30 % rapeseed oil and 70 % diesel fuel, meets the requirements of GOST Р52368-05 (EN 590:2009). The use of such a biodiesel fuel requires no alteration of the fuel equipment and the diesel engine itself.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Биодизельное топливо является разновидностью биотоплива на основе растительных или животных жиров (масел), а также продуктов их этерификации. Его применяют на автотранспорте как в чистом виде так и в качестве различных смесей с дизельным топливом. В качестве биодизельного топлива для центрального и южных регионов России, с учетом эксплуатационных параметров и экономических факторов, по низкотемпературным свойствам подходит топливо с содержанием рапсового масла 30 %. Требованиям ГОСТ Р52368-05 (ЕН 590:2009) по цетановому числу также удовлетворяет биодизельное топливо с содержанием рапсового масла до 30 %. Биодизельное топливо, состоящее из 30 % рапсового масла и 70 % дизельного топлива, соответствует требованиям ГОСТа Р52368-05 (ЕН 590:2009). Применение такого биодизельного топлива не требует переделки топливной аппаратуры и самого дизельного двигателя.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Varnakov.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,75 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19223">
+    <dc:title xml:lang="en">VARIABILITY OF QUANTITATIVE CHARACTERS OF LINEAR HEMP HYBRIDS F1–F3 OF MID-RUSSIAN AND SOUTHERN ECO-GEOGRAPHICAL TYPES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ИЗМЕНЧИВОСТЬ КОЛИЧЕСТВЕННЫХ ПРИЗНАКОВ ЛИНЕЙНЫХ ГИБРИДОВ КОНОПЛИ F1–F3 СРЕДНЕРУССКОГО И ЮЖНОГО ЭКОЛОГО-ГЕОГРАФИЧЕСКИХ ТИПОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Мishchenko Sergey V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Layko Irina М.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Experimental station of bast crops of the institute of agriculture of North-East</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cannabis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant breeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hybridization</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crop performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">genetic variation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1256</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5956</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3706</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35199</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15975</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2 tables, 3 graphs, 7 ref
+DOI: 10.18286/1816-4501-2016-2-30-36
+УДК 633.522:631.523</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Recently the requirements for hemp hybrid material in early stages of breeding has increased, because plants, in addition to high productivity, should contain not more than 0,08% of tetrahydrocannabinol (psychotropic substance), and in the reproductive structure there should not be a presence of male monoecious hemp (destablizer of monoecious sign). In this regard, it is practically impossible to include in hybridization dioecious forms, old breeding varieties and local ridges, leading to the narrowing of initial hemp breeding material. Hybridization of self-pollinated lines of mid-Russian and southern eco-geographical types with further breeding selection is an effective method of creating the initial material of non-narcotic hemp for oil, fiber and universal directions of usage. It was established that efficiency of breeding selection depends on the degree of individual variability of quantitative traits (plant height, technical length of stem, diameter of stem, weight of stem, weight of fiber, fiber content) of a particular family of hybrid. Linear hybrid Glesiya x Zolotonoshskie 15 is less productive, but it amenables easier to individual selection in hybrid generations. Hybrid Zolotonoshskie 15 x Glesiya is more productive, however, it is less amenable to selection, slightly reducing the performance of major selection traits of fibrillation, and is characterized by always negative kurtosis in F2, which indicates the splicing of quantitative traits. Traits of plant height (V=4,9–8,7%) and fiber content (V=7,4–8,7%) were characterized by low variability, traits of technical length (V=11,2–12,9) and stem diameter (V=15,7–19,8%) – by medium variability. High variability is natural for traits of mass of stem (V=30,5–38,0%) and fiber (V=30,1–39,4%). Low coefficients of variation of certain characteristics indicate their stability in F2, and high – considerable possibilities of selection and occurrence of stabilization of these traits in later generations.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В последнее время требования к гибридному материалу конопли на первых этапах селекции усилились, поскольку растения, кроме высокой продуктивности, должны содержать не выше 0,08% тетрагидроканнабинола (психотропное вещество), а в половой структуре должна отсутствовать посконь однодомной конопли (дестабилизатор признака однодомности). В связи с этим в гибридизацию практически невозможно включать двудомные формы, давние селекционные сорта и местные кряжи, что привело к сужению исходного селекционного материала конопли. Гибридизация самоопыленных линий среднерусского и южного эколого-географического типа с последующим селекционным отбором – эффективный метод создания исходного материала ненаркотической конопли масличного, волокнистого и универсального направления использования. Установлено, что от степени индивидуальной изменчивости количественных признаков (высоты растений, технической длины стебля, диаметра стебля, массы стебля, массы волокна, содержания волокна) конкретной семьи гибрида зависит результативность селекционных отборов. Линейный гибрид Глесия х Золотоношские 15 менее продуктивный, но лучше поддается индивидуальному отбору в гибридных поколениях. Гибрид Золотоношские 15 х Глесия более продуктивный, однако, менее поддается отбору, незначительно снижая показатели основных селекционных признаков волокнистости, и характеризуется в F2 всегда отрицательным эксцессом, что свидетельствует о расщеплении количественных признаков. Низкой изменчивостью характеризовались признаки высоты растений (V=4,9–8,7%) и содержания волокна (V=7,4–8,7%), средней изменчивостью – признак технической длины (V=11,2–12,9) и диаметра стебля (V=15,7–19,8%). Высокая изменчивость присуща признакам массы стебля (V=30,5–38,0%) и волокна (V=30,1–39,4%). Низкие коэффициенты вариации определенных признаков свидетельствуют об их стабильности в F2, а высокие – о значительных возможностях отбора и наступлении стабилизации данных признаков в более поздних генерациях.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Mishchenko.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>
