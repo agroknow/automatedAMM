@@ -1,0 +1,74 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="QC2016214773">
+    <dc:title xml:lang="en">A study on the effect of Arabidopsis P4H3 on glycoprotein expression and the fermentation pathway in response to anoxia and hypoxia [Thesis (M.Sc.)]</dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Botros Mina</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Mediterranean Agronomic Institute of Chania</ags:creatorCorporate>
+    </dc:creator>
+    <dc:publisher>
+      <ags:publisherPlace>Chania (Greece)</ags:publisherPlace>
+    </dc:publisher>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2013-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Arabidopsis thaliana</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mutants</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">DNA</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Proline</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">hydroxylation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">anoxia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Plant genetics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33292</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5013</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2347</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_27547</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8831</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49985</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Bibliography: p. 66-84 ; ill.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Prolyl 4-hydroxylases (P4H: E.C, 1.14.11.2) catalyze the hydroxylation of proline residues in hydroxyproline rich glycoproteins (HRGPs). HRGPs are broadly implicated in growth and developmental programs as well as responses to abiotic stress such as hypoxia and anoxia. In this study, the biological role of AtP4H3 in plants was explored, using a P4H3 T-DNA knock-out (Atp4h3-2) and over-expression (35S::P4H3) mutant lines. Moreover, the abundance of arabinogalactan and extensin proteins under conditions of oxygen deprivation was investigated using Western blot analysis. The use of ethanol and ß-Yariv reagent to precipitate Arabinogalactan Proteins (AGPs) was employed in order to further determine the abundance of arabinogalactan proteins as well. The activities of Alcohol Dehydrogenase (ADH) and Pyruvate Decarboxylase (PDC) were investigated in wild type, P4H3 knock-out mutant (Atp4h3-2) and over-expression mutant (35S::P4H3) lines in 7-day old seedlings treated with hypoxia for 1, 2, 4 and 6 hours. The results showed strong expression of arabinogalactan and extensin proteins in response to hypoxia in the wild type and P4H3 mutant lines indicating their involvement in the response under conditions of absence of oxygen, probably through their contribution to cell structural and/or functional integrity. In addition, no changes in the enzymes of the fermentation pathway were detected in the P4H3 knock-out mutant and over-expression mutant (35S::P4H3) lines. This study will help demonstrate the importance of proline hydroxylation in plant abiotic stress which could be used as a target mechanism for regulating stress responses in plants.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://docs.maich.gr/thesis/T000883</dc:identifier>
+    <dc:type>Other</dc:type>
+    <agls:availability>
+      <ags:availabilityLocation>T000883</ags:availabilityLocation>
+      <ags:availabilityNumber>883/HO/BO</ags:availabilityNumber>
+    </agls:availability>
+  </ags:resource>
+</ags:resources>

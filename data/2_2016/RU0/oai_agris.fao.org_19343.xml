@@ -1,0 +1,55 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019343">
+    <dc:title xml:lang="en">Arguments for methods of determining the level of foodstuff independence</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Аргументы к определению продовольственной независимости</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Botkin О.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sutygina А.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sutygin P.F.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Food supply</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">resources</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3029</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9001017</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The different calculation techniques for food self-sufficiency and food independence, as well as statistical data for 2013-2014. The organs of statistics evaluate the state of food security by the level of the self-sufficiency in basic kinds of agricultural products, which is determined as the ratio of produced goods to their internal consumption without accounting stocks. The Ministry of agriculture for those aims calculates the part of agricultural goods, raw materials and food of domestic production in the common volume of their resources with account for changing transient reserves. But such indices reflect the level of the self-sufficiency in products, but not in food. For food purposes there can be directed only a part of produced goods. That is stipulated by the fact that the reproduction in the agrarian sector is impossible without own consumption of the goods produced in the sector, which are also used in other branches of the economy. The losses are inevitable during storage, transporting and processing. As a result the resources of personal consumption will be less than the resources of total own consumption. That is why the level of food self-sufficiency characterizes the share of domestically produced foods in the total volume of consuming food products by the population. Herewith, the food independence is not identical to the foodstuff self-sufficiency, self-sufficiency threshold values of the Food Security Doctrine cannot serve as a criterion of its assessment. The level of food independence of the country is characterized by the share of domestically produced foods in the total volume of its need for in the conformity with rational consumption rates. The suggested methods provide the compatibility and objectiveness of indices, what is important during assessing the results achieved by the regions and determining the effectiveness of using the means of the state support for developing the agro-industrial sector of the economy.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проанализированы различные методики расчета самообеспеченности продовольствием и продовольственной независимости, а также статистические данные за 2013-2014 гг. Органы статистики оценивают состояние продовольственной безопасности по уровню самообеспечения основными видами с.-х. продукции, который определяется как отношение производства продукции к внутреннему ее потреблению без учета переходящих запасов. Минсельхоз России для этих целей рассчитывает долю с.-х. продукции, сырья и продовольствия отечественного производства в общем объеме их ресурсов с учетом изменения переходящих запасов. Однако такие показатели отражают уровень самообеспечения продукцией, но не продовольствием. На продовольственные цели можно направить только часть произведенной продукции. Это обусловлено тем, что воспроизводство в аграрном секторе невозможно без внутрихозяйственного использования произведенной в отрасли продукции, которая также применяется и в других отраслях экономики. Неизбежны потери при хранении, транспортировке и переработке. В результате ресурсы личного потребления будут меньше ресурсов общего внутреннего потребления. Поэтому уровень продовольственного самообеспечения характеризует долю пищевых продуктов отечественного производства в общем объеме потребления продуктов питания населением. При этом продовольственная независимость не идентична продовольственному самообеспечению, критерием ее оценки не могут служить пороговые значения самообеспечения Доктрины продовольственной безопасности. Уровень продовольственной независимости страны характеризует доля пищевых продуктов отечественного производства в общем объеме ее потребности в соответствии с рациональными нормами потребления. Предложенная методика обеспечивает сопоставимость и объективность показателей, что важно при оценке достигнутых регионами результатов и определении эффективности использования средств государственной поддержки на развитие агропродовольственного сектора экономики.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vniiesh.ru/documents/document_20738_Botkin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agribusiness Sector: Economics, Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0235-2443</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

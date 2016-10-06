@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016019352">
+    <dc:title xml:lang="id">Potensi isolat khamir H10 sebagai agensia biologis untuk pengendalian Mucor piriformis pada buah apel</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Potential yeast isolate H10 as biocontrol agent for Mucor piriformis in apple fruit</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>S. Widyastuti</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Universitas Mataram</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2008-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">mucor</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pathogens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Yeasts</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">biological control agents</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">postharvest control</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4966</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5630</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8480</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_920</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6130</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The potency of the yeast cell isolate H10 in suppressing post-harvest rot, Mucor piriformis, was studied in the wounds picking apple fruit. Spore inoculum at different concentrations were inoculated into the artificially-made wounds of fresh picking apple fruit. There were five replicates of single fruit with 4 wounds each. Fruits were incubated at 20 deg. C for 4 days. Increasing concentration of the pathogen spores applied in the wounds, produced higher percentage of rot and diameter of lesion. At the concentration of 10 at the seven power and 10 at the power eight cf u/ml, the yeast cells were able to suppress the percentage of infection and diameter of lesion caused by the pathogen up to 65 percent. The inhibition activity of the yeast cells was the most highest when the yeast applied coincidentally or 2 hours before inoculation of the pathogen inoculum. These evidences indicated that the yeast was potential to be developed as a protective bio control agent to suppress the development of post-harvest diseases of apple caused by M. piriformis.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agritech: Majalah Ilmu dan Teknologi Pertanian</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0216-0455</ags:citationIdentifier>
+      <ags:citationNumber>v.28/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

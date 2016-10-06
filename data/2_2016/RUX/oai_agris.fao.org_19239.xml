@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19239">
+    <dc:title xml:lang="en">BACTERIOPHAGES OF BACILLUS COAGULANS: METHOD OF ISOLATION AND PARAMETERS OF CULTIVATION</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>БАКТЕРИОФАГИ BACILLUS COAGULANS: СПОСОБ ВЫДЕЛЕНИЯ И ПАРАМЕТРЫ КУЛЬТИВИРОВАНИЯ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Belova Kseniya V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Feoktistova Natalya А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vasilyev Dmitry А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">T01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">BACTERIOPHAGES</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Application methods</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Phages</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">environment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_769</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4788</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_542</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_13274</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2593</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables, 13 ref. DOI: 10.18286/1816-4501-2016-2-80-86</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">There are the results of studies on the isolation of bacteriophages specific for Bacillus coagulans, and the selection of optimal parameters of their cultivation. Induction method showed negative results of the experiment – the prophage in bacteria B. coagulans 566, B. coagulans10473, B. coagulans 10468 was not identified.7 bacteriophages of Bacillus coagulans from environmental objects were isolated. The selection of bacteriophages was performed with tenfoldpassagingof isolated negative colonies on MPA with subinoculation on MPB (nutrient broth for cultivation of microorganisms dry (GRM-broth), Obolensk, Moscow region Serpukhov district). The optimal ratio of bacteriophage and indicator culture - 1:1, i.e. 0,2 ml of phage on 0,2 ml of the indicator culture. The passage time – 7 hours incubation at a temperature of 35±20С. For the purification of phages from bacterial cells, three methods were applied: treatment with chloroform (trichloromethane), heating and filtration with the use of membrane filters. It is established that the allocated and selected by the authors bacteriophages are resistant to temperature in the range of 57-900С for 30 minutes, so this method cannot be applied for purification of phages. B. сoagulans phages showed different sensitivity to the impact of chloroform: V. s. - 1 UGSKhA and V. s. - 2 UGSKhA are not resistant to its impact, the remaining phages are stable for 15 minutes.But the application of this purification method is not really advisable, as it is long and resource-demanding. Empirically established that the use of the Millipore filters with a diameter of 0.1 µm GVis most preferable. The obtained results show that the studied bacteriophages are strictly specific within the species B. coagulans and in the long term can be a part of a biological product for its indication and identification.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Представлены результаты исследований по выделению бактериофагов, специфичных Bacillus coagulans, и подбору оптимальных параметров их культивирования. Метод индукции показал отрицательные результаты эксперимента – профаг у бактерий B. coagulans 566, B. Coagulans 10473, B. Coagulans 10468 не был выявлен. Было выделено 7 бактериофагов Bacillus coagulans из объектов окружающей среды. Селекцию бактериофагов проводили десятикратным пассированием изолированных негативных колоний на МПА с перевиванием на МПБ (питательный бульон для культивирования микроорганизмов сухой (ГРМ-бульон), г. Оболенск Московская область Серпуховской район). Оптимальное соотношение бактериофага и индикаторной культуры - 1:1, т.е. 0,2 мл фага на 0,2 мл индикаторной культуры. Время пассажа – 7 часов инкубирования при температуре 35±2 С. Для очистки фагов от бактериальных клеток применяли три метода: обработка хлороформом (трихлорметаном), прогревание и фильтрация с применением мембранных фильтров. Установлено, выделенные и селекционированные авторами бактериофаги устойчивы к воздействию температуры в диапазоне 57-90 С в течение 30 минут, поэтому данный способ невозможно применять для очистки фагов. Фаги B. Сoagulans показали различную чувствительность к воздействию хлороформа: В.с. - 1 УГСХА и В.с. - 2 УГСХА не устойчивы к его воздействию, остальные фаги устойчивы в течение 15 минут. Но применять данный способ очистки не совсем целесообразно, так как он длителен и материалоемок. Эмпирическим путем установлено, что применение фильтров фирмы Millipore с диаметром 0,1 µm GV наиболее предпочтительно. Полученные результаты свидетельствуют, что изучаемые бактериофаги строго специфичны в пределах вида B. Coagulans и в перспективе могут входить в состав биопрепарата для его индикации и идентификации.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Belova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

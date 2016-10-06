@@ -1,0 +1,82 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19250">
+    <dc:title xml:lang="en">DYNAMICS OF BLOOD PARAMETERS OF STORE PIGS WHEN USING SUPPLEMENTARY FEEDING BASED ON ZEOLITE</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ДИНАМИКА ПОКАЗАТЕЛЕЙ КРОВИ МОЛОДНЯКА СВИНЕЙ ПРИ ИСПОЛЬЗОВАНИИ ПОДКОРМОК НА ОСНОВЕ ЦЕОЛИТА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Lyubin N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Аkhmetova V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dezhatkin M.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">piglets</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">erythrocytes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">leukocytes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">rations</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5872</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2659</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4298</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6461</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_959</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables, 15 ref. DOI: 10.18286/1816-4501-2016-2-92-95</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The goal of the study is aimed to examine the influence of natural zeolite and citrate-zeolite complex on dynamics of blood parameters of store pigs during postnatal period. Physiological experiments were conducted on pigs of large white breed formed into three groups. The first group was the control and obtained only basic diet (BD), the second - BD and zeolite additive 2% of dry matter ration, the third - BD and citrat-zeolitecomplex (zeolite + citric acid). The study of blood parameters was performed with use of hematological analyzer and Hitachi apparatus. Analysis of the results showed that in store pigs blood of experimental groups at the age of 105, 210 days on the background of supplementary feeding usage there was an increase of concentration of hemoglobin, red blood cells, reserve alkalinity, total protein and albumin in comparison with the control, that indicates the improvement of morpho-biochemical composition of their blood.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Цель исследования направлена на изучение влияния природного цеолита и цитратцеолитового комплекса на динамику показателей крови молодняка свиней в постнатальный период. Физиологические опыты поставлены на свиньях крупной белой породы сформированных в три группы. Первая группа являлась контролем и получала только основной рацион (ОР), вторая - ОР и добавку цеолита 2% от сухого вещества рациона, третья - ОР и цетратцеолитовый комплекс (цеолит + лимонная кислота). Исследование показателей крови проводили с использованием гематологического анализатора и аппарата Hitachi. Анализ результатов показал, что в крови молодняка свиней опытных групп в 105, 210 суточном возрасте на фоне применения подкормок повышалась концентрация гемоглобина, эритроцитов, резервной щелочности, общего белка и альбуминов по сравнению с контролем, что указывает на улучшение морфо-биохимического состава их крови.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Lyubin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

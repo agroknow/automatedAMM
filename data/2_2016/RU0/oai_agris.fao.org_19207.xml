@@ -1,0 +1,79 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019207">
+    <dc:title xml:lang="en">Agricultural producers and chain stores</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Сельскохозяйственные товаропроизводители и сетевые магазины</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Tchernyaev A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pavlenko I.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Belokopytova L.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agricultural products</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Shops</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">politics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cooperation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">import substitution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8678</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7044</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_49988</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1855</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26788</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the Saratov region the representatives of agricultural producers and trade organizations were interviewed regarding the market outlets (132 respondents were involved). It has been found that mist agricultural producers experience the difficulties at the stage of selling finished products, because the AIC products are perishable and seasonal. The agrarians must resort to services of mediators-purchasers, and that, in its turn, brings lowering the purchase price and the level of profitability in the agricultural production. An analysis of the advantages and shortages of various channels for selling agricultural products, raw materials and food, there has been revealed that each channel is designed for its producer and has its advantages and disadvantages. A small producer will be greater interested in trade at fairs, where expenses and expenditures are minimum and the larger one will be interested by constant sale market, possibility of involving new purchasers, increasing the assortment of proposed products. And more effective here is the sale via the own trade point or network shop. However the approach to organized markets and network shops is blocked up by administrative barriers. A successful example for overcoming them is given. Due to joint –efforts of the administration of the district and concerned producers - at the territory of the Engels municipal formation the Center of collective using high technology equipment “Pokrov vegetables” was created. Thanks to using high technology equipment, intended for cleaning, caliberating, packing, cooling and storage of vegetables and potatoes, it has become possible to fulfill the rules of trade in large network organizations. That has permitted concluding a contract with the retail network on selling foods Magnit and opening access of agricultural producers to the mass buyers, expanding the sale markets of products, raising the effectiveness of agricultural production.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В Саратовской обл. был проведен опрос представителей сельхозпроизводителей и торговых организаций относительно каналов реализации сельхозпродукции (всего участвовало 132 респондента). Выявлено, что большинство с.-х. товаропроизводителей испытывают трудности на этапе сбыта готовой продукции, поскольку продукция АПК скоропортящаяся и сезонная. Аграриям приходится прибегать к услугам посредников-перекупщиков, а это, в свою очередь, приводит к снижению закупочной цены и уровня рентабельности с.-х. производства. При анализе преимуществ и недостатков различных каналов реализации с.-х. продукции, сырья и продовольствия выявлено, что каждый канал рассчитан на своего производителя и имеет свои достоинства и недостатки. Мелкого товаропроизводителя больше заинтересует торговля на ярмарках, где издержки и затраты минимальны, а более крупного будут интересовать постоянный рынок сбыта, возможности привлечения новых покупателей, увеличения ассортимента предлагаемой продукции. И здесь более эффективна продажа через собственную торговую точку или сетевой магазин. Однако доступ на организованные рынки и сетевые магазины преграждают административные барьеры. Приведен успешный пример их преодоления. Благодаря совместным усилиям администрации района и заинтересованных товаропроизводителей на территории Энгельсского муниципального образования был создан Центр коллективного пользования высокотехнологичным оборудованием "Покровские овощи". Благодаря использованию высокотехнологичного оборудования, предназначенного для очистки, калибровки, фасовки, охлаждения и хранения овощей и картофеля, стало возможным выполнение правил торговли крупных сетевых организаций. Это позволило заключить контракт с розничной сетью по торговле продуктами питания "Магнит" и открыло доступ сельхозтоваропроизводителей к массовому покупателю, расширило рынки сбыта производимой продукции, повысило эффективность с.-х. производства.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vniiesh.ru/documents/document_20729_Tchernyaev.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agribusiness Sector: Economics, Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0235-2443</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

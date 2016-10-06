@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019309">
+    <dc:title xml:lang="en">Extrapolation method of ketone bodies determination in blood</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Экстраполяционный метод определения кетоновых тел в крови</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Trebukhov A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cattle</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">veterinary medicine</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Metabolism</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ketosis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Ketosis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Diagnosis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Neural networks</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">blood serum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1391</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8206</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4769</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4094</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4094</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2238</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_37467</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9323</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">One of the pathognomonic signs of ketosis in farm animals is an increased level of ketone bodies in blood (acetonemia). There are many methods to determine ketone bodies in the blood including those using sophisticate and expensive equipment the use of which is not always practical in a production environment. The research goal was to develop a new technique of instant diagnosis of ketone bodies level in the blood. The studies involved comparable cows through the winter-spring period. The blood biochemical study took into account ketone bodies and their fractions, beta-hydroxybutyric acid, acetone and acetoacetic acid, inorganic phosphorus, total calcium, total protein, glucose and alkaline reserve. The statistical analysis of the studied biochemical indices revealed that the blood glucose and serum alkaline reserve retained a high degree of correlation between each other and total ketone bodies both in clinically healthy cows and in the cows with subclinical ketosis. Based on the revealed regular patterns, a technique of calculating the level of ketone bodies in blood using the neural network analysis was proposed. As a result, a computer program has been developed</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">the program enables to calculate the  ketone bodies concentration in the blood of cows using the known values of blood glucose and blood serum alkaline reserve with an average error of ± 11.2% of the calculated value.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Одним из патогномоничных признаков кетоза сельскохозяйственных животных является увеличение уровня кетоновых тел в крови (ацетонемия). Существует большое количество методик определения кетоновых тел в крови, в т.ч. с использованием сложной и дорогостоящей аппаратуры, использование которой бывает не всегда возможным в производственных условиях. Цель работы – разработка нового метода экспресс-диагностики уровня кетоновых тел в крови. Исследования проводились на коровах-аналогах в зимне-весенний период. При биохимическом исследовании в крови учитывали кетоновые тела и их фракции, бетооксимасляную кислоту, ацетон и ацетоуксусную кислоту, неорганический фосфор, общий кальций, общий белок, глюкозу и щелочной резерв. В ходе статистического анализа было установлено, что глюкоза крови и щелочной резерв сыворотки крови сохраняют высокую степень взаимосвязи между собой и общими кетоновыми телами как у клинически здоровых, так и у больных субклиническим кетозом коров, относительно проанализированных биохимических показателей. На основании выявленных закономерностей был предложен метод вычисления уровня кетоновых тел в крови с использованием метода нейросетевого анализа. В результате была получена компьютерная программа, позволяющая рассчитывать концентрацию кетоновых тел в крови коров по заранее известным значениям глюкозы крови и щелочной резерв сыворотки крови со средней ошибкой ±11,2% от вычисленной величины.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.asau.ru/vestnik/2016/3/137-140.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of Altai State Agricultural University</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1996-4277</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 3</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

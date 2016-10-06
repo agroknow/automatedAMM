@@ -1,0 +1,56 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P19170">
+    <dc:title xml:lang="ru">ВЛИЯНИЕ ВНУТРИРЕГИОНАЛЬНОЙ ТРУДОВОЙ МИГРАЦИИ НА ЗАНЯТОСТЬ ЖИТЕЛЕЙ СЕЛЬСКОЙ МЕСТНОСТИ КИРОВСКОЙ ОБЛАСТИ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>INFLUENCE OF THE INTRA REGIONAL LABOR MIGRATION ON EMPLOYMENT OF INHABITANTS OF THE RURAL ZONE OF KIROV REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gagarinov  V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kuklin  A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E51</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Rural population</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6705</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: intraregional labor migration, employment of rural labor migrants, labor potential of the rural territories</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В статье анализируются результаты исследований о процессах трудовой миграции внутри региона на примере Кировской области. Были поставлены задачи: выявить направления потоков трудовых мигрантов</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">определить в составе муниципальных образований  основных доноров и реципиентов мигрирующей рабочей силы</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">установить причины трудовой миграции внутри региона и ее последствия для социально-экономического развития региона. Результаты исследования могут использоваться для совершенствования государственного регулирования рынка труда и занятости населения, при разработке
+мероприятий по обеспечению устойчивого развития сельских территорий.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">In article results of researches about processes of a labor migration in the region on the example of Kirov region are analyzed. It has been set tasks: to reveal the directions of flows of labor migrants</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">to determine the main donors and recipients of the migrating labor power</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">to establish the reasons of a labor migration in the region and its consequence for social and economic development of the region. Results of research can be used for enhancement of state regulation of the labor market and employment of the population, in case of development of actions for providing a sustainable development of the rural territories.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USN_2016_7_3_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.5/n.№7 (part 3), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

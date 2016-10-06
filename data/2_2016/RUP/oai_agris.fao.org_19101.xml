@@ -1,0 +1,47 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P19101">
+    <dc:title xml:lang="ru">ФИТОРЕМЕДИАЦИЯ НЕФТЕЗАГРЯЗНЕННЫХ ПОЧВ В УСЛОВИЯХ ВЯТСКО-КАМСКОГО ПРЕДУРАЛЬЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>PHYTOREMEDIATION OF THE OIL-POLLUTED SOILS IN THE CONDITION OF THE VYATSCO-KAMSKY REGION</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Krasnoperova  S.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">P30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">management techniques</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28011</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: phytoremediation, oil pollution, biosorbent, Dactylis glomerata, oil</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">С целью восстановления нарушенных земель нефтепродуктами предложен метод фиторемедиации с использованием широко распространенных и адаптированных видов растений в сочетании с
+биосорбентами в исследуемом регионе. В качестве доминирующего фитомелиоранта предлагается исполь-
+зовать ежу сборную – полиморфный злак, отличающийся широкой экологической амплитудой и изменчи-
+востью морфологических признаков.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">the main reasons and scales of the oil pollution of soils of the Udmurt Republic are revealed. For the
+purpose of renewal of the oil-polluted soils it has been offered a fitoremediation method with use of the widespread
+and adapted species of plants in combination with biosorbents in the studied region. It is offered to use the Dactylis
+glomerata L. as а dominating species for fitoremediation. It is the polymorphic grass which is characterized by its
+wide ecological amplitude and variability of morphological features.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USNO_2016_7_3_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№7 (part 3), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

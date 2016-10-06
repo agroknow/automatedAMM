@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019334">
+    <dc:title xml:lang="en">Evaluation of apple resistance to hyperthermia based on lipid peroxidation and antioxidant defence system</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Оценка устойчивости яблони к гипертермии на основе перекисного окисления липидов и антиоксидантной системы защиты</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Prudnikov P.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sedov E.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">H50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">MALUS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Superoxide dismutase</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Lipid peroxidation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Proline</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hyperthermia</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">sustainability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4553</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_24091</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34043</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3764</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33560</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The main goal of the studies was to evaluate Malus domestica L. genotypes for resistance to hyperthermia based on the activity of antiantioxidant system and lipid peroxidation rate. Four apple cultivars ‘Imrus’, ‘Veteran’, ‘Orlik’ and ‘Wealthy’ were studied. Hyperthermia conditions were modeled when annual shoots of the cultivars were put into thermostat for 1 hour under 50 deg C above zero. Plant shoots, which were not stress influenced, served as a control. It is shown that under the hyperthermia effect an increased accumulation of malonedialdehyde is noted in the leaves of ‘Wealthy’ and ‘Orlik’ in comparison with ‘Veteran’ and ‘Imrus’, which is indicative of the intensive development of lipid peroxidation and, therefore, great disorder of structural and functional integrity of cells. The processes of lipid peroxidation in ‘Imrus’ and ‘Veteran’ are less intensive on the background of a substantial (twice and thrice) increase of superoxide dismutase (SOD) activity and the least accumulation of proline (by 19.5% and 25.0%). On the contrary, the substantial increase of proline content (by 43% and 70%) with slight increase of SOD activity (by 1.3 and 1.4 times) is noted in ‘Orlik’ and ‘Wealthy’, respectively. On the basis of obtained data it is concluded that ‘Imrus’ and ‘Veteran’ have physiological and biochemical indications of resistance to hyperthermia effect. On the basis of the obtained data it has been concluded that ‘Imrus’ and ‘Veteran’ possess physiological and biochemical traits of resistance to hyperthermia. To sum up, ‘Imrus’ and ‘Veteran’ may be used as resistant donors in apple breeding for resistance to high temperatures.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Цель исследований состояла в проведении оценки генотипов Malusdomestica L. на устойчивость к гипертермии на основе активности антиоксидантной системы защиты и интенсивности процессов липопероксидации. Объектами изучения служили 4 сорта яблони: Имрус, Ветеран, Орлик, Уэлси. Условия гипертермии создавали, помещая однолетние побеги указанных сортов в термостат на 1 час при температуре +50 град. С. Контролем служили побеги растений без воздействия стресса. Показано, что в условиях действия гипертермии в листьях сортов яблони Уэлси и Орлик, по сравнению с генотипами Ветеран и Имрус отмечается повышенное накопление малоновогодиальдегида, что свидетельствует об интенсивном развитии перекисного окисления липидов, а, следовательно, и большем нарушении структурно-функциональной целостности клеток. Менее интенсивное развитие процессов липопероксидации у сортов Имрус и Ветеран происходит на фоне значительного (в 2 и 3 раза) увеличения активности супероксиддисмутазы (СОД) и наименьшего накопления аминокислоты пролин (на 19,5 и 25,0%). В сортах Орлик и Уэлси, напротив, отмечается существенное увеличение содержания пролина (на 43 и 70%) при незначительном увеличении активности СОД (в 1,3 и 1,4 раза соответственно). На основе полученных данных делается вывод о наличии физиолого-биохимических признаков устойчивости к гипертермии у генотипов Имрус и Ветеран, поэтому их можно использовать в качестве доноров устойчивости в селекции яблони на устойчивость к высоким температурам.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ej.orelsau.ru/vestnik/vestnik-2015-06.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik OrelGAU</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1990-3618</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 6</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

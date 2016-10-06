@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19308">
+    <dc:title xml:lang="en">LEVEL OF FEEDING OF PREGNANT DRY COWS AND ITS INFLUENCE ON THE PHYSIOLOGICAL CONDITION AND PRODUCTIVITY</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>УРОВЕНЬ КОРМЛЕНИЯ СТЕЛЬНЫХ СУХОСТОЙНЫХ КОРОВ И ЕГО ВЛИЯНИЕ НА ФИЗИОЛОГИЧЕСКОЕ СОСТОЯНИЕ И ПРОДУКТИВНОСТЬ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Loginova Lyudmila N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Мungin Vladimir V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gorbacheva Nina N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Agricultural institute of Mordovian state university named after N.P.Ogarev</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cows</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">body weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">lactation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">animal performance</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1939</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15846</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4140</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_429</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5698</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>5 tables, 6 ref. DOI: 10.18286/1816-4501-2016-2-141-144</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">In the course of the experiment there was revealed the effect of different (high, moderate and low concentrated) types of feeding of pregnant cows on subsequent productivity, digestibility of nutrients, duration of service period, calves weight at birth, clinical and hematological indicators of animals. As a result of studies of calorimetric, liquid and gas-liquid chromatography, atomic-absorption methods we determined the quality and chemical composition of feed, according to the data we  developed the rations for pregnant dry cows. Physico-biochemical indicators of blood were determined by refractometric method. The level of feeding of pregnant dry cows have shown that there was obtained 6100 kg of milk from highly concentrated type (40%) during the lactation, which is by 5,1% more in relation to moderately concentrated and by 9,3% more compared to the low concentrated level.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В ходе эксперимента было выявлено влияние различных (высоко-, умеренно – и низкоконцентрированных) типов кормления стельных коров на последующую продуктивность, переваримость питательных веществ, продолжительность сервис – периода, масса телят при рождении, клинические и гематологические показатели животных. В результате исследований калориметрического, жидкостного и газожидкостного хроматографического, атомно-адсорбционного методов определяли качество и химический состав кормов, согласно данным разработали рационы для стельных сухостойных коров. Рефрактометрическим методом выявляли физико-биохимические показатели крови. Уровень кормления стельных сухостойных коров показало, что от высококонцентрированного типа (40%) было получено 6100 кг молока за лактацию, что на 5,1 % по отношению к умеренноконцентрированному и на 9,3% больше к уровню низкоконцентрированному.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Loginova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

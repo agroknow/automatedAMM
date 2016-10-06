@@ -1,0 +1,103 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19350">
+    <dc:title xml:lang="en">ECOLOGICAL PURITY OF CARP MEAT WHEN USING PRE-PROBIOTIC ADDITIVE «BIOKORETRON FORTE»</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЭКОЛОГИЧЕСКАЯ ЧИСТОТА МЯСА КАРПА ПРИ ИСПОЛЬЗОВАНИИ ПРЕ-ПРОБИОТИЧЕСКОЙ ДОБАВКИ «БИОКОРЕТОРОН ФОРТЕ»</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ulyanova Mariya V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ulitko Vasily E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Desyatov Оlеg А.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">M11</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">carp</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Fish feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">compound feeds</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Feed additives</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">ashes</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Heavy metals</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1334</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2922</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1796</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2827</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_15728</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2223</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2 tables, 6 ref. DOI: 10.18286/1816-4501-2016-2-164-167</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The article describes the results of experiment on the influence of feeding carp by pelleted feedstuff enriched with «Biokoretron Forte» bioadditive on its chemical composition and ecological purity of muscle tissue. Scientific economic experiment was conducted in LLC «Rybhoz» in Ulyanovsk district of Ulyanovsk region. There were formed 4 similar groups of carp placed in different isolated ponds with 250 species in each. Carps of experimental groups were fed by pelleted feedstuff enriched in % to its mass: in II – 0,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">III – 1</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">IV – 2 by pre-probiotic additive «Biokoretron Forte». Carp of the control group consumed the same pelleted feedstuff, but without enriching it with  bioadditive. The obtained data allows to assert that the use of sorbing pre-probiotic bioadditive in feedstuff composition enhances the expression of evolutionary developed adaptation of carp for the transition to life-sustaining activity in winter period in ponds with reduced temperature and poor food supply, which is reflected by accumulation of fat reserves in muscle tissue as a source of energy for vital activity of  its organs and systems in such conditions. It was established that accumulation of toxic metals in muscle tissue of carp in experimental groups compared to the control group significantly reduces: plumbum by 1,20</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1,19 and 1,31 times, and cadmium by 1,75</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2,72 and 2,88 times.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Описываются результаты опыта о влиянии скармливания карпу гранулированного комбикорма обогащенного биодобавкой «Биокоретрон Форте» на его химический состав и  экологическую чистоту мышечной ткани. Научно-хозяйственный опыт проводили в ООО «Рыбхоз» Ульяновского района Ульяновской области. Было сформировано 4 аналогичные группы карпа размещенных в различных изолированных прудах по 250 особей в каждой. Карпу опытных групп скармливали  гранулированный комбикорм, обогащенный в % к его массе: во II – 0,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">III – 1</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">IV – 2 пре-пробиотической добавкой «Биокоретрон Форте». Карп контрольной группы потреблял такой же гранулированный комбикорм, но без обогащения его биодобавкой. Полученные данные позволяют утверждать, что использование в составе комбикорма, сорбирующей пре-пробиотической биодобавки усиливает у карпа проявление эволюционно выработанной адаптации  по переходу к жизнедеятельности в зимний период в прудах с пониженной температурой и скудной кормовой базой, что и проявляется в накоплением в его  мышечной ткани жировых запасов, как источника энергии для жизнедеятельности его органов и систем в таких условиях. Установлено, что аккумуляция токсических металлов в мышечной ткани карпа опытных групп по отношению к контрольной группе существенно уменьшается: свинца в 1,20</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">1,19 и 1,31 раза, а  кадмия в 1,75</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">2,72 и 2,88 раза.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Ulyanova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

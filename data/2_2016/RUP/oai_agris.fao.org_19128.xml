@@ -1,0 +1,47 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P19128">
+    <dc:title xml:lang="ru">ПРОДУКТИВНОСТЬ САДОВ ИНТЕНСИВНОГО ТИПА В УСЛОВИЯХ РСО-АЛАНИЯ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>THE PRODUCTIVITY OF GARDENS OF INTENSIVE TYPE IN THE CONDITIONS OF NORTH OSSETIA-ALANIA</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gagloeva  L.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Backuev  J.H.O.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Asaeva  T.D.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">cultivation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2018</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: garden trellis, trellis-gelled garden trellis, a tiny garden, productivity, weak seedlings vigorous seedlings</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Новые типы садов, особенно на слаборослых подвоях, благодаря высокой и сверхвысокой плотности посадки отличаются максимальной скороплодностью. При закладке хорошо развитыми саженцами такие насаждения обеспечивают урожай хотя и небольшой, но уже в год посадки. На третий год они дают от 100 до 150 и более ц/га высококачественных плодов, а при условии выполнения
+предусмотренного регламента работ они на пятый-шестой год выходят на плато максимальной продуктивности в 30 и более тонн с 1га.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">New types of gardens, especially on weakly tall suspensions, due to high and ultra-high-density planting offers the most early appearance of fruit. It is shown during the laying of well-developed seedlings such stands yield though small, but already in the year of planting. In the third year they give from 100 to 150 t/ha of high quality fruit, and subject to the fulfillment of prescribed work rules they for fifth-sixth out on the plateau of maximum productivity of 30 tons and more with 1га. All this provides a quick return on investment in their creation means that is in the market of paramount importance.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USN_2016_7_2_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Modern Science Success</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-6608</ags:citationIdentifier>
+      <ags:citationNumber>v.3/n.№7 (part 2), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

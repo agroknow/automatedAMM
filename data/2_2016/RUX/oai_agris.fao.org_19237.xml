@@ -1,0 +1,76 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19237">
+    <dc:title xml:lang="en">NEW PROMISING OAT VARIETIES OF SELECTION OF SIBERIAN SCIENTIFIC RESEARCH INSTITUTE OF AGRICULTURE</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>НОВЫЕ ПЕРСПЕКТИВНЫЕ СОРТА ОВСА СЕЛЕКЦИИ СИБИРСКОГО НИИСХ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Yusova O.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vаsyukevich S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>FSBSI «Siberian scientific research institute of agriculture»</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Avena</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">proteins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Starch</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Crude fat</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_728</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6259</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7369</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_32416</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>4 tables, 9 ref. DOI: 10.18286/1816-4501-2016-2-74-79</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">There is presented the characteristic of yielding ability and basic parameter of grain quality of new promising oat varieties of FSBSI «SibSRIA» selection Siberian hercules and Fakel on the basis of data of competitive variety trials in 2013-2015. Studies were conducted in the conditions of southern forest-steppe of Western Siberia. It was established that protein content in oat grain is a genetically determined trait (56,04%), with high share of environmental conditions contribution (28,02%).  The content of starch and crude fat in grain is basically affected by the year conditions (98,5% and 61,0%, respectively). New promising varieties Siberian hercules and Fakel have a consistently high level of oil content of grain (4-5%), even in the years with adverse weather conditions. Given the plasticity of the Siberian hercules variety on protein content in grain (bi = 1,64), we can assume that the improvement of its cultivation conditions will contribute to further increase of protein content. The excess of yielding ability contributed to the fact that this variety has a significant advantage over the standard of protein yield (+0,8 t/ha), starch (+0,22 t/ha) and crude fat (+0,05 t/ha). Plasticity of Fakel variety on yielding ability (bi = 1,79), given its values on the level of standard (4,4 t/ha on average), indicates the need for improvements of agrotechnics conditions of this variety.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Представлена характеристика урожайностии основных показателей качества зерна новых перспективных сортов овса селекции ФГБНУ «СибНИИСХ» Сибирский геркулес и Факел на основе данных конкурсного сортоиспытания 2013-2015 гг. Исследования проведены в условиях южной лесостепи Западной Сибири. Установлено, что содержание белка в зерне овса является генетически обусловленным признаком (56,04%), с высокой долей вклада условий окружающей среды (28,02%).  На содержание крахмала и сырого жира в зерне основное влияние оказывают условия года (98,5% и 61,0% соответственно). Новые перспективные сорта Сибирский геркулес и Факел, имеют стабильно высокие показатели масличности зерна (4-5%), даже в неблагоприятные по погодным условиям годы. Учитывая пластичность сорта Сибирский геркулес  по содержанию белка в зерне (bi = 1,64), можно предположить, что улучшение условий его возделывания будет способствовать дальнейшему повышению белковости.Превышение по урожайности способствовало тому, что данный сорт имеет достоверное преимущество перед стандартом по сбору белка (+0,8 т/га), крахмала (+0,22 т/га) и сырого жира (+0,05 т/га). Пластичность сорта Факел по урожайности (bi = 1,79), при ее значениях на уровне стандарта (4,4 т/га в среднем), свидетельствует о необходимости улучшений условий агротехники данного сорта.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Yusova.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

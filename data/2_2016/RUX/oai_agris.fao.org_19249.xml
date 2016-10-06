@@ -1,0 +1,88 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19249">
+    <dc:title xml:lang="en">SENSITIVITY OF POTENTIALLY PATHOGENIC ENTEROBACTERIA TO ANTIBIOTICS AND MASTER SEED STRAINS OF BACTERIOPHAGES</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>ЧУВСТВИТЕЛЬНОСТЬ УСЛОВНО-ПАТОГЕННЫХ ЭНТЕРОБАКТЕРИЙ К АНТИБИОТИКАМ И ПРОИЗВОДСТВЕННЫМ ШТАММАМ БАКТЕРИОФАГОВ</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Zolotukhin Sergey N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Меlеkhin Аndrey S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pimenov Nikolay V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>FSBEI HPE &amp;quot</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Moscow state Academy of veterinary medicine and biotechnology named after K. I. Skryabin&amp;quot</ags:creatorCorporate>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate />
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">diarrhoea</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Pathogenic bacteria</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">antibiotics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">BACTERIOPHAGES</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">animal diseases</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10363c60eea16</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_34317</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_492</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_769</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_426</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>2 tables, 14 ref. DOI: 10.18286/1816-4501-2016-2-87-91</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">We studied the sensitivity of 235 pathogenic strains of enterobacteria, allocated at different farms from pathological biomaterial from organs and tissues of cadavers and from prenursery piglets with diarrhoea in the period of mass gastro-intestinal diseases to antibiotics and master seed strains of bacteriophages that are used for the manufacture of polyvalent phage biopreparation. It was established that the most of enterobacteria isolates, allocated at the time of mass gastrointestinal diseases of prenursery piglets, had polyresistance to antibiotics penicillin, gentamycin, ampicillin, neomycin, tetracycline, streptomycin, chloramphenicol, erythromycin. The maximum activity was shown by the drugs of cephalosporinseries, antibiotics ceftriaxone and ciprofloxacin. 65,6-83,3% of the studied microorganisms were sensitive to them, 9,1-16,7% were resistant and 3-12% of cultures were moderately resistant. None of the tested drugs inhibited 100% of allocated enterobacteria isolates causing the infectious diarrhea in piglets. Strains of bacteriophages from the UGSKHA series had strict specificity and did not lyse the enterobacteria representatives of heterologous genus. Morganella bacteriophage Phagum M. morganii M-20 UGSKHA had the greatest spectrum of lytic activity against the homologous bacteria, it lysed 90,6% of the studied microorganisms, other strains of bacteriophages were active against homologous bacteria within 79,3-89,3%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Изучали чувствительность патогенных 235 штаммов энтеробактерий, выделенных в различных хозяйствах из патологического и биоматериала из органов и тканей трупов и от больных диареей поросят-сосунов в период массовых желудочно-кишечных заболеваний к антибиотикам и  производственным штаммам бактериофагов, используемым для изготовления поливалентного фагового биопрепарата. Установлено, что большинство изолятов энтеробактерий,  выделенных при массовых желудочно-кишечных заболеваниях поросят-сосунов, обладали полирезистентностью к антибиотикам пенициллину, гентамицину, ампициллину, неомицину, тетрациклину, стрептомицину, левомицетину, эритромицину. Наибольшую активность проявили препараты цефалоспоринового ряда,  антибиотики цефтриаксон и ципрофлоксацин. К ним были чувствительны 65,6-83,3% изученных микроорганизмов, устойчивы 9,1-16,7% и умеренно устойчивы 3-12% культур. Ни один из проверенных препаратов не ингибировал 100% выделенных изолятов энтеробактерий, вызывающих инфекционную диарею у поросят. Штаммы бактериофагов из серии УГСХА обладали  строгой специфичностью и не лизировали представителей энтеробактерий гетерологичных  родов. Наибольшим спектром литической активности по отношению к гомологичным  бактериям  обладал могрганеллезный бактериофаг Phagum M. morganii M-20 УГСХА, он лизировал 90,6% изученных микроорганизмов, остальные штаммы бактериофагов были активны по отношению к гомологичным бактериям в пределах 79,3-89,3%.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Zolotukhin.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

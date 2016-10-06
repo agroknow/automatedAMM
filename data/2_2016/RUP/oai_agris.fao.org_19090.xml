@@ -1,0 +1,43 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016P19090">
+    <dc:title xml:lang="ru">СОВМЕСТНОЕ СКАРМЛИВАНИЕ СОРБЕНТА И ПРОБИОТИКА ПОРОСЯТАМ-ОТЪЕМЫШАМ</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>JOINT FEEDING OF THE SORBENT AND PROBIOTIC OF PIGS-WEANED</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pskhatsiyeva  Z.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Bulatseva  S.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Animal feeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_429</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>Keywords: pigs-weaned, liver, heavy metals, histology</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Цель работы – снижение содержания тяжелых металлов в печени поросят-отъемышей при совместном включении в рацион сорбента и пробиотика. За время исследований установлено, что содержание тяжелых металлов, таких как свинец, кадмий и цинк, снизилось на 1,17-2,50 раза. Также изменилась и структура печени: в опытных группах печень была более плотной консистенции.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The purpose of this ork is to decrease in content of heavy metals in a liver of pigs-weaned at joint inclusion in a diet of a sorbent and a probiotic. During researches it is established that the content of heavy metals, such as lead, cadmium and zinc, has decreased on 1,17-2,50 times. Also the structure of a liver has changed: in skilled groups the liver has become more dense consistence.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://modernscienc-org.1gb.ru/release/USNO_2016_7_2_tom.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Success of Modern Science and Education</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">2412-9631</ags:citationIdentifier>
+      <ags:citationNumber>v.2/n.№7 (part 2), 2016</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

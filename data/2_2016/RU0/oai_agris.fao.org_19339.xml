@@ -1,0 +1,109 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019339">
+    <dc:title xml:lang="en">Apple breeding at All Russian Research Institute for Fruit Crop Breeding (VNIISPK) and import substitution of fruit production</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Селекция яблони во ВНИИСПК и импортозамещение плодовой продукции</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Sedov E.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Serova Z.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sedysheva G.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pikunova A.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">MALUS</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">varieties</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant breeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">immunity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">scabs</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">polyploidy</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">import substitution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_4553</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_8157</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5956</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3802</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6836</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6094</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26788</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Systematic apple breeding has been carried out at the All Russian Research Institute for Fruit Crop Breeding (VNIISPK) since 1955. For this time, over 70 apple cultivars (AC), 50 of which have been included in the State Register of breeding achievements admitted for use, have been developed. Many of AC developed at the VNIISPK by common methods are well known: AC of winter maturing – ‘Sinap Orlovsky’, ‘Veteran’, ‘Kulikovskoye’, ‘Orlik’, ‘Pamyat Voinu’</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">autumn AC – ‘Orlovskoye Polosatoye’, ‘Orlovsky Pioner’, ‘Pamyat Isaeva’</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">summer AC – ‘Orlinka’, ‘Orlovim’, ‘Radost Nadezhdy’ and ‘Ranneye Aloye’. Underrun of Russia in the field of  scab immune AC development is moved beyond. The first immune home apple cultivar ‘Imrus’ was developed in 1991. Twenty three scab immune AC (Vf) were developed and released: ‘Afrodita’, ‘Bolotovskoye’, Veniaminovskoye’, ‘Ivanovskoye’, ‘Imrus’, ‘Kandil Orlovsky’, ‘Svezhest’, ‘Solnyshko’, ‘Start,’ ‘Stroyevskoye’, etc. Sixteen triploid AC obtained from heteroploid crossings 2x x 4x have been created at the Institute. Ten of these AC have been included in the State Register. ‘Pamyat Semakinu’, ‘Rozhdestvenskoye’ and ‘Yubilar’ are the best triploid AC obtained from diploid parents. AC combining scab immunity and triploidy are of great interest for industry: ‘Aleksandr Boiko’, ‘Vavilovskoye’, ‘Yablochny Spas’, ‘Rozhdestvenskoye’ and ‘Yubilar’. Eight columnar AC have been developed at the VNIISPK. They are characterized by very early fruit-bearing and high productivity. Columnar AC ‘Priokskoye’ and ‘Poezia’ have been included in the State Register. ‘Vostorg’ and ‘Sozvezdie’ are passing state trials. ‘Girlianda’ has been referred to the state trial. AC developed at the VNIISPK are inferior to none of foreign AC in a number of traits and they significantly excel foreign AC in adaptability, fruit taste and vitamin content. Broad introduction of these AC into industry may contribute to import substitution of fruit production.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Планомерная селекция яблони во Всероссийском научно-исследовательском институте селекции плодовых культур (ВНИИСПК) ведется с 1955 г. За это время создано более 70 сортов яблони, из которых 50 сортов включено в Госреестр селекционных достижений, допущенных к использованию. Приоритетные направления селекции яблони - создание высокоустойчивых и иммунных к парше сортов</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">селекция на полиплоидном уровне</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">выведение колонновидных сортов. Широко известны сорта яблони, созданные в институте традиционными методами: зимние – Синап орловский, Ветеран, Куликовское, Орлик, Память воину</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">осенние – Орловское полосатое, Орловский пионер, Память Исаева</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">летние – Орлинка, Орловим, Радость Надежды и Раннее алое. Преодолено отставание России в создании иммунных к парше сортов. В 1991 г создан первый отечественный иммунный сорт Имрус, всего создано и районировано 23 иммунных к парше сорта (с геном Vf), в частности Афродита, Болотовское, Веньяминовское, Ивановское, Имрус, Кандиль орловский, Свежесть, Солнышко, Старт, Строевское. В институте создано 16 триплоидных сортов яблони, полученных от гетероплоидных скрещиваний типа 2х х 4х, из них 10 включено в Госреестр. Лучшими триплоидными сортами, полученными от  диплоидных родителей, являются Память Семакину, Рождественское и Юбиляр. Для производства большой интерес представляют сорта, сочетающие иммуннитет к парше и триплоидию: Александр Бойко, Вавиловское, Яблочный Спас, Рождественское и Юбиляр. Создано 8 колонновидных сортов, которые характеризуются высокой скороплодностью и урожайностью. Включены в Госреестр колонновидные сорта Приокское и Поэзия. Проходят государственное испытание сорта Восторг и Созвездие, готовится к этому сорт Гирлянда. Сорта яблони селекции ВНИИСПК не уступают, а по ряду показателей (адаптивность, вкус плодов и их витаминность) превосходят зарубежные сорта. Их широкое внедрение в производство способствует импортозамещению плодовой продукции.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ej.orelsau.ru/vestnik/vestnik-2015-06.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik OrelGAU</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1990-3618</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 6</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

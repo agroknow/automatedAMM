@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019276">
+    <dc:title xml:lang="en">The bee-bread grains mechanical purification from organic capsule working process research</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Исследование процесса механической очистки перговых гранул от органических оболочек</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Byshov D.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kashirin D.E.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Gobelev S.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Ermachenkov N.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pavlov V.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q70</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Apis</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Hive products</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Cleaning</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">granules</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_533</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3655</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1661</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3357</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The bee-bread produced today in the conditions of a beekeeping apiary often doesn't meet the requirements of state standard as it is taken from old discarded honey-combs and therefore it is strongly polluted. The main hard-to-separate pollutant for the bee-bread granules (BBG) are the organic cocoons remaining in cells of honeycombs after young bees rearing. Cocoons follow the cylindrical surface of granules tightly, thus limiting the possibility of a bee-bread using. The research objective was the definition of influence of cleaning process of BBG on the BBG percentage cleared of an organic cover. The ways of cleaning of bee-bread of covers as offered consist in mechanical agitating the granules taken from honeycombs until covers of BBG completely break. When carrying out pilot studies the crude BBG were affected by friction of the neighbouring granules and a sieve surface inside the working camera of a specially made laboratory installation, by involvement of bee-bread mass into the movement by action of the rotating pin on the working shaft. In each experiment the time of the working process was varied and the frequency of working shaft rotation and the distance from a sieve to the rotation plane of the bottom pin were fixed. The values of time in control points of the experiment were: 30, 60, 90, 150 and 180 s. Upon completion of working process the percentage of whole BBG cleared of organic covers in the bee-bread lump was defined. The mathematical model describing a percentage yield of the whole BBG cleared of organic covers was received. The percentage yield of the cleared granules of BBG increases in proportion to the time of the working process and can reach 68–75% by increasing the duration of the mechanical cleaning process which is defined by machine productivity, i.e. the conditions of production stream lining.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Получаемая в условиях пчеловодческой пасеки перга часто не соответствует требованиям государственного стандарта, так как извлекается из старых выбракованных сотов и поэтому сильно загрязнена. Основным трудноотделимым загрязнителем для перговых гранул (ПГ) являются органические коконы, остающиеся в ячейках сота после вывода молодых пчел. Коконы плотно облегают цилиндрическую поверхность гранул, ограничивая при этом возможность использования перги. Целью исследования являлось определение влияния продолжительности процесса очистки ПГ на процент ПГ, очищенных от органической оболочки. Предложенные способы очистки перги от оболочек заключаются в механическом перемешивании извлеченных из сота гранул до тех пор, пока оболочки на ПГ полностью не разрушатся. При проведении экспериментальных исследований неочищенные ПГ подвергались воздействию трения о соседние гранулы и о поверхность решета внутри рабочей камеры специально изготовленной лабораторной установки путем вовлечения перговой массы в движение действием вращающегося штифта на рабочем валу. В каждом опыте варьировали время рабочего процесса при фиксированной частоте вращения рабочего вала и фиксированном расстоянии от решета до плоскости вращения нижнего штифта. Значения времени в контрольных точках эксперимента соответствовали следующим величинам: 30, 60, 90, 120, 150, 180 с. По завершении рабочего процесса определяли процентное содержание целых ПГ, очищенных от органических оболочек, в общей массе перги. Получена математическая модель, описывающая процентный выход целых ПГ, очищенных от органических оболочек. Процентный выход очищенных ПГ увеличивается пропорционально времени рабочего процесса и может достигать 68–75% при увеличении продолжительности процесса механической очистки, что определяется производительностью машин, то есть условиями поточности производства.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.kgau.ru/vestnik/2016_2/content/13.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of KrasGAU</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1819-4036</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

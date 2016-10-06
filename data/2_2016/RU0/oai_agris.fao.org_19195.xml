@@ -1,0 +1,100 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019195">
+    <dc:title xml:lang="en">Resistance of sweet pepper genotypes to abiotic stresses in growing conditions of low-capacity hydroponics</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Устойчивость генотипов перца сладкого к абиотическим факторам среды в условиях малообъемной гидропоники</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Pyshnaya O.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mamedov M.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Belavkin E.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kozar E.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Dzhos E.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Matyukina A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">capsicum annuum</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Adaptability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Temperature</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">humidity</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">environmental factors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en" />
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">plant breeding</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_1288</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_35024</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7657</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3689</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2594</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5956</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Traditionally the pepper plants are cultivated in greenhouses on low-volume soil or artificial medium with drop irrigation. In the present paper, the response of different sweet pepper (Capsicum annuum L.) genotypes to various abiotic factors has been studied aiming at development of initial breeding material for new varieties and hybrids under the hydroponic system conditions. The investigation has been conducted in 2008-2014 in the All-Russian Research Institute for vegetable breeding and seed production (Moscow Province). The breeding and collection samples of sweet pepper as well as F1 hybrid Raisa (standard) were used in the present study. The most adverse factores were recorded in the beginning (February-May) and the end (September-October) of growing season regardless of year of investigation, that resulted in decreasing marketability of the yield. Long-term screening of pepper genotypes on responsiveness to unfavorable factors of environment allowed to divide the cultivars into the following groups: susceptible (cv. Agapovskii), low-susceptible (cv. Elisa), and tolerant (cv. Zheltiyi buket). It was shown that adaptability of sweet pepper varieties to the conditions of low-capacity hydroponics is defined by the norm of reaction to changes of environmental factors such as daily temperature, difference of night and day temperatures, humidity, and its combinations. Changes of the light intensity is not so crucial for cultivars productivity. The correlation between the rate of non-standard part of yield, the damage of fruits caused by blossom-end rot, and the microclimate parameters differed among the varieties. For development of new pepper varieties and hybrids suitable for low-capacity hydroponics, the initial breeding material with high norm of reaction to temperature and high resistance to low humidity must be selected.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">В защищенном грунте перец сладкий (Capsicum annuum L.) культивируют традиционным способом на тепличных грунтах и на малообъемных почвенных или искусственных субстратах с капельным поливом. Изучали реакцию различных генотипов перца сладкого на изменение основных абиотических факторов с целью создания исходного материала для получения конкурентоспособных сортов и гибридов в условиях малообъемной технологии. Исследования проводили в 2008-2014 гг. во Всероссийском НИИ селекции и семеноводства овощных культур (Московская обл.). В качестве материала использовали сорта, селекционные и коллекционные образцы перца сладкого. Стандартом служил гибрид F1 Раиса. Установлено, что самые неблагоприятные условия по сочетанию внешних факторов складывались в начале (февраль-май) и конце (сентябрь-ноябрь) вегетации, независимо от года исследований, что приводило к снижению товарности урожая. Образцы перца по реакции на неблагоприятные факторы среды были разделены на восприимчивые, слабовосприимчивые и устойчивые, наиболее типичными представителями, которых оказались, соответственно, образцы Агаповский, Элиза и Желтый букет. Наиболее важными факторами, определяющими получение стандартной продукции перца сладкого, оказались среднесуточная температура, разница (перепады) дневных и ночных температур, относительная влажность воздуха и их сочетание. Изменение интенсивности освещения оказывало менее значимое влияние на товарность. Зависимость между величиной нестандартной части урожая, поражением плодов вершинной гнилью и различными параметрами микроклимата была cортоспецифична. Таким образом, при создании сортов и гибридов перца сладкого в условиях малообъемной технологии в первую очередь необходимо отбирать исходный материал с широкой нормой реакции на температурный фактор и высокой устойчивостью к пониженной влажности воздуха. (Ил. 5. Библ. 26)</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.agrobiology.ru/articles/1-2016pyshnaya-rus.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agricultural Biology</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0131-6397</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

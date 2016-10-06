@@ -1,0 +1,85 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019292">
+    <dc:title xml:lang="en">The quality of the hull-less oats depending on a cultivation technology</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Качество голозёрного овса в зависимости от технологии возделывания</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Gladkikh M.S.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Rendov N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Nekrasova E.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Mozyleva S.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kaloshin A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Avena nuda</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">germinability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seed germinability</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">protein</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Seed weight</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26382</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_3246</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36511</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6259</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_36510</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Revealed was the influence of terms of sowing, seeding rates and chemicals onsowing and technological qualities of seeds of hull-less oats. The pilot seeding of oats of hull-less variety Sibirsky was performed in the Omsk region on the meadow black earth average power low humus medium loam soil in 2011–2014. Seeding rates (planting coefficient was 3.5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">4.5 and 5,5 mm of germinating grains per hectare according to the period of sowing was equal to 14–18.05, 25–28.05 and 4.06, respectively), and chemicals (herbicide agritox and ammonium saltpetre) did not have any considerable influence on the germination power. The change of this index depended on the term of sowing. The seeds of early sowing term had the germination energy 7.8–11.0% that is higher as compared to the late terms of sowing. The influence of term of sowing on the determination of the laboratory germination was also marked. The germination of seed from sowing of the second ten-day period of May varied from 96.3 to 97.3% depending on the background of chemization, and when sowing in the first ten-day period of June there was a decline by 3.0–4.9%. Between the variants of sowing rate study the indexes of laboratory germination did not have any considerable divergences. The most weight of 1000 seeds was formed at applying fertilizer and the treatment with herbicide and made up 31 g, at agritox treatment only the weight of seeds was less than 0.4 g, and in no treatment variant it was less by 0.8 g. The use of chemicals contributed to the increase of the grain nature from 444 g/l from the control plots to 467 g/l from crops, where the herbicide was applied, and up to 475 g/l, where the fertilizes were applied and the land was sprayed with a herbicide. The protein content in the grain of hull-less oats on the background without chemicals was 14.11–14.85% on the average for 4r years. Applying ammonium saltpetre in combination with the herbicide treatment increased the protein content by 0.51% as compared to the control. The quality of seeds depended on the time of planting, nitrogen fertilizing and herbicidal treatments.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Выявляли влияние сроков сева, норм высева и средств химизации на посевные и технологические качества семян голозерного овса. Опытный посев овса сорта Сибирский голозерный производили в Омской обл. на лугово-черноземной среднемощной малогумусовой среднесуглинистой почве в 2011–2014 гг. Нормы высева (коэффициент высева 3,5</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">4,5 и 5,5 млн всхожих зерен на гектар по срокам сева 14–18.05, 25–28.05 и 4.06 соответственно) и средства химизации (гербицид агритокс и аммиачная селитра) не оказывали значительного влияния на энергию прорастания. Изменение этого показателя зависело от срока сева. У семян раннего срока сева энергия прорастания на 7,8–11,0% выше по сравнению с поздними. При определении лабораторной всхожести также отмечается влияние срока сева. Всхожесть семян посевов второй декады мая варьировала от 96,3 до 97,3% в зависимости от фона химизации, при посеве в первой декаде июня происходило снижение на 3,0–4,9%. Между вариантами с изучением нормы высева показатели лабораторной всхожести не имели значительных расхождений. Наибольшая масса 1000 семян формировалась при внесении удобрений и обработке гербицидом и составляла 31 г, при обработке только агритоксом масса была меньше на 0,4 г, а в варианте без обработки – на 0,8 г. Применение средств химизации способствовало увеличению натуры зерна с 444 с контрольных делянок до 467 с посевов, где применяли гербицид, и до 475 г/л - где вносили удобрения и опрыскивали гербицидом. Содержание белка в зерне голозерного овса на фоне без применения средств химизации в среднем за 4 года составило 14,11–14,85%. Внесение аммиачной селитры в сочетании с обработкой гербицидом увеличивало содержание белка на 0,51% по сравнению с контролем. Качество семян зависело от времени посева, внесения азотного удобрения и гербицидной обработки.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.kgau.ru/vestnik/2016_2/content/27.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of KrasGAU</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1819-4036</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

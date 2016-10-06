@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019058">
+    <dc:title xml:lang="en">Scientific problems of import substitution and forming the export potential of products in agroindustrial complex of Russia</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Научные проблемы импортозамещения и формирования экспортного потенциала продукции агропромышленного комплекса России</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Ushachev I.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E21</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">import substitution</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Economic trends</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">evaluation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">factors</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Exports</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26788</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28676</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2736</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_331093</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2481</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2761</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Estimated were the trends in the field of import substitution (IS), analyzed were the factors, which determine the transition from import dependent economy to export oriented one, the role of agrarian economic science. There is marked a positive trend of growing the production of agrarian goods. So in 2014 the production of agricultural goods has increased by 3.5%, including plant industry - by 5% (mainly by growing the gross harvest of grain), animal husbandry - by 2.1% (by growing the production of pork - by 4.7% and poultry meat - by 6.7%). IS is a system of problems touching all the spheres of the agrarian industrial production, production of capital goods. For solving the tasks of IS, it is suggested stimulating not only agricultural commodity producers, but also agricultural mechanical engineering. The expenses for research and technological development amounted to 3% of all the investments top production. Only 2% of equipment for food industry is produced in the RF. The key factor, which determines reducing the dependence on import is the organizational-economic mechanism of the AIC, which needs to be considered in combination with macroeconomic situation in the country. It is suggested limiting the growth of prices for material resources, energy resources and tariffs, ensuring physical and economic accessibility of credits for agricultural commodity producers. The basic conditions of import substitution include the social developing the rural areas and forming the labor resource base of the AIC. Transferring the rural labor resources to the town is stipulated by unsatisfactory conditions in the living activity of agrarians, primarily low incomes. It is required assessing the prospects and elaborating the scenarios for developing the economy of the country and agrarian branch for average term and more advanced perspective. A federal intersector program for IS of agricultural products, foodstuffs, resource production providing the AIC development which must include its scientific support.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Оценивали тенденции в области импортозамещения (ИЗ) в РФ, проводили анализ факторов, определяющих переход от импортозависимой экономики к экспортно ориентированной, определяли роль аграрной экономической науки. Отмечена положительная тенденция наращивания производства аграрной продукции. Так, в 2014 г. производство продукции сельского хозяйства возросло на 3,5%, в т.ч. растениеводства - на 5 (главным образом за счет увеличения валового сбора зерна), животноводства - на 2,1% (за счет наращиванию производства свинины - на 4,7 и мяса птицы - на 6,7%). ИЗ – это система проблем, затрагивающая все сферы агропромышленного производства, в том числе производство средств производства. Для решения задач ИЗ предлагается стимулировать не только сельхозтоваропроизводителей, но и с.-х. машиностроение. Затраты на НИОКР российских заводов с.-х. техники составляют примерно 3% всех инвестиций в производство. Только 2% оборудования для пищевой промышленности производится в РФ. Ключевой фактор, определяющий снижение зависимости от импорта - организационно-экономический механизм АПК, который необходимо рассматривать в увязке с макроэкономической ситуацией в стране. Предлагается ограничить рост цен на материальные ресурсы, энергоресурсы и тарифы, обеспечить физическую и экономическую доступность кредитов для сельхозтоваропроизводителей. К базовым условиям импортозамещения относятся социальное развитие сельских территорий и формирование трудоресурсной базы АПК. Перелив сельских трудовых ресурсов в город обусловлен неудовлетворенностью условиями жизнедеятельности аграриев, в первую очередь - низкими доходами. Требуется оценить перспективы и выработать сценарии развития экономики страны и аграрной отрасли в среднесрочной и более отдаленной перспективе. Необходима федеральная межотраслевая программа ИЗ продукции сельского хозяйства, продовольствия, производства ресурсов, обеспечивающих развитие АПК, в которую должно быть включено ее научное обеспечение.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vniiesh.ru/documents/document_20723_Ushachev.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Agribusiness Sector: Economics, Management</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">0235-2443</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 1</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

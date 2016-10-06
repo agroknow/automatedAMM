@@ -1,0 +1,23 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="ID2016019375">
+    <dc:title xml:lang="id">Proses pembuatan serat selulosa berukuran nano dari sisal (Agave sisalana) dan bambu betung (Dendrocalamus asper)</dc:title>
+    <dc:title xml:lang="en">
+      <dcterms:alternative>Process development to produce cellulose nanofibers from sisal (Agave sisalana) and betung bamboo (Dendrocalamus asper)</dcterms:alternative>
+    </dc:title>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2009-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">Q60</ags:subjectClassification>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Lignocellulosic natural fibers originated from renewable resources such as wood and non wood (bamboo, sisal, kenaf, ramie, abaca, coconut coir, etc.) are abundantly available on the earth. These fibers can be processed further into nano size cellulose microfibrils which have diameter less than 100 nm. Nanofibers have unique characteristics such as very high strength, large surface to volume ratio and high porous mesh. So, nanofibers are very promising materials to be use in composites, automotive, pulp and paper, electronics, and other industries. Many methods have been developed to produce nanofibers from wood or non wood resources, basically how to fibrillate the fibers into nano size. Mostly they use mechanical treatments using refiner, grinder, high pressure homogenizer, or other methods, such as using ultrasonic or enzymatic. In this research, development process to produce cellulose nanofibers from sisal (Agave sisalana), betung bamboo (Dendrocalamus asper) was tried. Fibers were processed to produce pulps. The pulps were processed using a stone refiner for several times. The resulted fibers were further processed in a mixer (ultra turrax) for 2 hours at speed of 24000 rpm. Fibers were observed with a Scanning Electron Microscope (SEM) to make sure that the diameter size was reached to nano size. Other process were treated fibers with disc refiner and processed further in high pressure homogenizer was also done. Result shown that using the above processes, nano size fibers with diameter less than 100 nm could be produced. For the next research, other method to produce nano fibers such as using ultrasonic will be conducted. Research on the utilization of nano fibers as reinforcement of composites for automotive components is going on.</dcterms:abstract>
+    </dc:description>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">id</dc:language>
+    <dc:language scheme="ags:ISO639-1">en</dc:language>
+    <ags:citation>
+      <ags:citationNumber>v.44/n.2</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

@@ -1,0 +1,73 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019316">
+    <dc:title xml:lang="en">The productive qualities of meat chickens of parent flock when fed different protein percentage in their diets</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Продуктивные качества мясных кур родительского стада при разных уровнях протеина в рационе</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Khaustov V.N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Zhukov V.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Novikov N.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Sarychev N.G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">L02</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">broiler chickens</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">proteins</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Egg yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">oviposition</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9435</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6259</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26941</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_5462</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">Investigated is the effect of protein percentage in the diet on the productive qualities of meat chickens of the parent flock of the Hubbard F15 cross. The study was conducted in the parent flock department of one of the poultry farms of the Altai region. Two groups, one control and one trial group, of comparable 162 day-old laying hens were formed</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">each group included 9005 hens. The first (control) group received a basic diet with low (16.2%) crude protein content , The second (trial) group received the feed containing 17.2% of crude protein. The experiment was conducted up to 341 days of age. Both groups were under the same housing conditions. The gross egg yield over the experimental period in the trial group was greater by 1.6% (17434 eggs) than that in the control group. A similar pattern of egg production was revealed per average laying hen and per hen housed. The percent of settable eggs per hen housed in the trial group was higher by 3.3% (120.9 against 117.0 eggs) as compared to the control group. The livability in the control group fed low protein diet made up 95.2% while that in the trial group made up 97.1%. Throughout the experiment, the feed consumption per 10 eggs made up 2.0 kg in the trial group and 3.3 kg in the control group. The calculation of economic efficiency showed that a high net profit was gained in the trial group (3.199.102.2 rubles), which was higher than that in the control group by 3.3%.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">Изучали влияние уровня протеина в рационе на продуктивные качества мясных кур родительского стада кросса Hubbard F15. На одной из птицефабрик Алтайского края в цехе родительского стада методом аналогов сформировали 1-ю контрольную и 2-ю опытную группы кур-несушек в 162-дневном возрасте по 9005 гол. В первой (контрольной) группе птица получала основной рацион с низким (16,2%) содержанием сырого протеина, во второй (опытной) группе - корм с содержанием сырого протеина 17,2%. Опыт проводили до 341-дневного возраста птицы. Куры находились в одинаковых условиях содержания. За опытный период валовой выход яиц у кур опытной группы был выше на 1,6% (17434 шт.), чем в контрольной. Аналогичная закономерность наблюдается по яйценоскости на среднюю и начальную несушку. Выход инкубационных яиц на начальную несушку в опытной группе был также выше по сравнению с контрольной на 3,3% (120,9 шт. против 117,0 шт.). В контрольной группе, получавшей низкопротеиновый рацион, сохранность яиц составила 95,2%, а в опытной – 97,1%. За время эксперимента затраты корма на 10 шт. яиц в опыте составили 2,0 кг, тогда как в контроле – 3,3 кг. Расчет экономической эффективности показал, что более высокий чистый доход (3199102,2 руб.) отмечается в опытной группе, это выше, чем в контрольной, на 3,3%.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.asau.ru/vestnik/2016/4/116-119.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Bulletin of Altai State Agricultural University</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1996-4277</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 4</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

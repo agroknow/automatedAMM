@@ -1,0 +1,67 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19219">
+    <dc:title xml:lang="en">YIELD STRUCTURE AND CHICKPEA PRODUCTIVITY WHEN USING FERTILIZERS AND FERTIGREIN BIOSTIMULANTS</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>СТРУКТУРА УРОЖАЯ И ПРОДУКТИВНОСТЬ НУТА ПРИ ПРИМЕНЕНИИ УДОБРЕНИЙ И БИОСТИМУЛЯТОРОВ ФЕРТИГРЕЙН</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Vershinina Oksana V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Vasin Vasily G.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Lysak Оleg N.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Samara State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">F01</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">chickpeas</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seed treatment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">seed filling</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">crop yield</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_9785</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6940</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_26785</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_10176</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>3 tables, 8 ref.</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">There are presented the results of the research in 2013-2015 with an assessment of parameter of yield structure, yielding ability and feeding value of chickpea at two levels of mineral nutrition and with different techniques of presowing treatment of seeds and crops by growth biostimulants Noktin and Fertigrein. It was revealed that fertilizers do not affect the number of seeds per pod, but significantly increase number of beans per plant up to 17,3 units in comparison with 15,6 in the control, weight of 1000 seeds in such crops also increases. The studies have shown that all the treatment variants of seeds and crops improve the productivity of chickpea. The highest yield of chickpea2,54-2,56 t/ha is achieved on crops, treated by FertigreinFoliar preparation during the budding stage and with double treatment during the 4-6 leafs stage+budding on the background of treatment of seed by preparations Noktin+Fertigrein Start and Risotorphine+ Fertigrein Start when using fertilizers.These variant are also characterized by better forage qualities with the dry matter harvest 2,08-2,14 t/ha without fertilizers and 2,26-2,27 t/ha  with fertilizers application and the yield of metabolizable energy 28,66-29,42 66 GJ/ha and 31,07-31,20 GJ/ha respectively. The results of the conducted studies allow us to conclude about the effectiveness of using thepre-sowing seed inoculation and crops treatment in vegetation by preparations Noktin and Fertigrein.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Приводятся результаты исследований за 2013-2015 гг. с оценкой показателей структуры урожая, урожайности кормовой ценности нута на двух уровнях минерального питания и при разных приемах предпосевной обработки семян и посевов биостимуляторами роста Ноктин и Фертигрейн. Выявлено, что удобрения не влияют на количество семян в бобе, но существенно повышает до 17,3 шт по сравнению с контролем 15,6 шт бобов на растении, повышается в таких посевах и масса 1000 семян. Проведенные исследования показали, что все варианты обработок семян и посевов повышают продуктивность нута. Наибольшая урожайность нута 2,54-2,56 т/га достигается на посевах, обработанных препаратом Фертигрейн Фолиар в фазе бутонизации и при двукратной обработке в фазе 4-6 листьев+бутонизация на фоне обработки семян препаратами Ноктин+Фертигрейн Старт и Ризоторфин+Фертигрейн Старт при применении удобрений. Эти варианты отличаются и лучшими кормовыми достоинствами со сбором сухого вещества 2,08-2,14 т/га без удобрений и 2,26-2,27 т/га при внесении удобрений и выходом обменной энергии28,66-29,42 ГДж/га и 31,07-31,20 ГДж/га соответственно. Результаты проведенных исследований позволяют сделать вывод об эффективности применения предпосевной инокуляции семян и обработки посевов по вегетации препаратами Ноктин и Фертигрейн.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-Vershinina.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

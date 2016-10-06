@@ -1,0 +1,94 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016019321">
+    <dc:title xml:lang="en">Adaptation of state support mechanism of the agricultural sector to the modern social and economic conditions</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>Адаптация механизма государственной поддержки аграрного сектора к современным социально-экономическим условиям</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Proka N.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Kuznetsova T.M.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2015-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">Russian Federation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agricultural sector</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">economics</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">agroindustry</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">efficiency</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">indicators</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">subsidies</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">remuneration</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farms</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_33240</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2801</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2481</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_28831</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2491</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_330058</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_7484</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6499</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2809</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The problems of state support (SS) of the agricultural sector of economics are investigated in the context of the modern social and economic conditions. Data on SS volumes in the Oryol region in 2014 were analysed. The groupings by administrative regions and agricultural organizations have allowed to establish that at the present time the amount and structure of the SS of agricultural organizations has little effect on the level of production and social and economic indicators of their development. The principles system that should be considered in the process of practical implementation of the SS mechanism is suggested, and the proposals on its efficiency increase are substantiated. In particular the proposals on perfection of support actions in funding of beginning farmers are created. Results of implementation of the regional program of support of private farms in 2012-2015 were analysed. Many organizational and technological violations, low activity efficiency, frequent use of obsolete production technologies were found. As a condition of getting SS it was suggested for a farmer to have a core agricultural education and to be liable to create at least one permanent workplace, providing the worker with the average monthly salary not less than the industry or regional average level by the farmer. Employers should be interested in the social and labour relations development by means of SS distributive mechanism. Indicators system is suggested to determine the social and economic efficiency of the SS. The necessity of federal and regional social and economic standards is shown.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Рассмотрены вопросы государственной поддержки (ГП) аграрного сектора экономики применительно к современным социально-экономическим условиям. Проанализированы данные по объемам ГП в Орловской обл. за 2014 г. Проведенные группировки по административным районам и сельхозорганизациям позволили установить, что в настоящее время объем и структура ГП сельскохозяйственных организаций слабо влияет на уровень производственных и социально-экономических показателей их развития. Предложена система принципов, которая должна учитываться в процессе практической реализации механизма ГП, обоснованы предложения по повышению его эффективности. В частности, разработаны предложения по совершенствованию порядка финансирования мероприятий по поддержке начинающих фермеров. Проанализированы результаты реализации областной программы поддержки крестьянских (фермерских) хозяйств за 2012-2015 гг. Выявлено много организационно-технологических нарушений</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">низкая эффективность деятельности</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="">частое использование устаревших технологий производства. Предложено в качестве условия получения ГП фермером наличие у него профильного с.-х образования и обязательство создания не менее одного постоянного рабочего места, обеспечивающего работнику среднемесячную заработную плату не ниже среднеотраслевого или среднеобластного уровня. Работодатели должны быть заинтересованы в развитии социально-трудовых отношений посредством механизма распределения ГП. Предложена система показателей для определения социально-экономической эффективности ГП. Подчеркивается необходимость разработки федеральных и региональных социально-экономических стандартов.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://ej.orelsau.ru/vestnik/vestnik-2015-05.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik OrelGAU</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1990-3618</ags:citationIdentifier>
+      <ags:citationNumber>v./n.no. 5</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>

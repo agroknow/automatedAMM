@@ -1,0 +1,61 @@
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RU2016X19362">
+    <dc:title xml:lang="en">RESULTS OF ON-THE-FARM RESEARCH OF CONTACT TYPE DEVICE FOR THERMAL PROCESSING OF GRAIN</dc:title>
+    <dc:title xml:lang="ru">
+      <dcterms:alternative>РЕЗУЛЬТАТЫ ПРОИЗВОДСТВЕННЫХ ИССЛЕДОВАНИЙ УСТАНОВКИ КОНТАКТНОГО ТИПА ДЛЯ ТЕПЛОВОЙ ОБРАБОТКИ ЗЕРНА</dcterms:alternative>
+    </dc:title>
+    <dc:creator>
+      <ags:creatorPersonal>Kurdyumov V.I.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Pavlushin A.A.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorPersonal>Karpenko G.V.</ags:creatorPersonal>
+    </dc:creator>
+    <dc:creator>
+      <ags:creatorCorporate>Ulyanovsk State Agricultural Academy</ags:creatorCorporate>
+    </dc:creator>
+    <dc:date>
+      <dcterms:dateIssued scheme="dcterms:W3CDTF">2016-</dcterms:dateIssued>
+    </dc:date>
+    <dc:subject>
+      <ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">farm equipment</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">energy conservation</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC" xml:lang="en">postharvest control</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_25753</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_2567</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:subject>
+      <ags:subjectThesaurus scheme="ags:AGROVOC">http://aims.fao.org/aos/agrovoc/c_6130</ags:subjectThesaurus>
+    </dc:subject>
+    <dc:description>
+      <ags:descriptionNotes>DOI: 10.18286/1816-4501-2016-2-174-178</ags:descriptionNotes>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="en">The performed analysis of technologies and means of mechanization of thermal processing of grain showed that the designs of used devices are not perfect and have disadvantages (high heat cost and metal consumption, unevenness of grain heatup, etc.). When using the more common convective way of heat supply in devices for thermal processing of grain, only 50-70% of supplied energy is spent specifically on thermal exposure. The use of contact methods of heat supply to the thin layer of grain with good thermal insulation of the outer surface of devices allows to transfer up to 90% of supplied energy for heating and evaporation of moisture from grain. A promising direction of development of means of mechanization of grain thermal processing processes is the creation of compact electric-contact devices, allowing such types of thermal exposure as grain drying and its disinfection in compliance with the requirements applicable to its operation in conditions of small farms - energy efficiency, environmental friendliness, versatility, etc. We developed  the design of device for thermal processing of grain, the basis of which are a heat-exchange apparatus with an electrical sources of heat and transporting working body. The boundary conditions for the industrial research carrying out were justified. We found out the optimal values of regime parameters of the developed means of mechanization for drying and thermal disinfection of grain. This provides continuity of the process and even distribution of the processed grain on heating surface with its constant stirring. Production research of the designed device for thermal processing of grain has confirmed high efficiency and quality of its work when using in various technological lines of grain processing (drying and disinfection). The values deviation between the basic parameters of processes of thermal processing of grain, obtained theoretically, and the experimental results did not exceed 5 %.</dcterms:abstract>
+    </dc:description>
+    <dc:description>
+      <dcterms:abstract xml:lang="ru">Проведённый анализ технологий и средств механизации тепловой обработки зерна показал, что конструкции применяемых устройств не совершенны и имеют недостатки (повышенные затраты теплоты и металлоёмкость, неравномерность прогрева зерна и др.). При использовании наиболее распространённого конвективного способа подвода теплоты в установках для тепловой обработки зерна лишь 50-70 % подводимой энергии расходуется непосредственно на тепловое воздействие. Использование же контактного способа передачи теплоты тонкому слою зерна, при хорошей теплоизоляции внешней поверхности установок позволяет передать на нагрев и испарение влаги из зерна до 90 % подводимой энергии. Перспективным направлением развития средств механизации процессов тепловой обработки зерна является создание малогабаритных электроконтактных установок, позволяющих осуществлять такие виды теплового воздействия как сушка зерна и его обеззараживание при соблюдении требований предъявляемых к эксплуатации их в условиях небольших фермерских хозяйств - энергоэффективность, экологичность, универсальность и т.д. Разработана конструкция устройства для тепловой обработки зерна, основой которой служит теплообменный аппарат с электрическими источниками теплоты и транспортирующий рабочий орган. Обоснованы граничные условия проведения производственных исследований. Выявлены оптимальные значения режимных параметров разработанного средства механизации при сушке и термическом обеззараживании зерна. Это обеспечивает непрерывность процесса и равномерное распределение обрабатываемого зерна по греющей поверхности при постоянном его перемешивании. Производственные исследования разработанной установки для тепловой обработки зерна подтвердили высокую эффективность и качество её работы при использовании в различных технологических линиях обработки зерна (сушка и обеззараживание). Расхождение значений основных показателей процессов тепловой обработки зерна, полученных теоретически, с результатами экспериментальных исследований не превысило 5 %.</dcterms:abstract>
+    </dc:description>
+    <dc:identifier scheme="dcterms:URI">http://www.vestnik.ugsha.ru/contentse/2-16-KurdyumovV.pdf</dc:identifier>
+    <dc:type>Journal Article</dc:type>
+    <dc:language scheme="ags:ISO639-1">ru</dc:language>
+    <ags:citation>
+      <ags:citationTitle>Vestnik of Ulyanovsk State Agricultural Academy</ags:citationTitle>
+      <ags:citationIdentifier scheme="ags:ISSN">1816-4501</ags:citationIdentifier>
+      <ags:citationNumber>v./n.2(34)</ags:citationNumber>
+    </ags:citation>
+  </ags:resource>
+</ags:resources>
